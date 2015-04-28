@@ -8,7 +8,7 @@
         padding: 0;
         border-bottom: 1px solid @gray;
         a {
-          padding: 15px 25px;
+          padding: 15px 35px;
           display: block;
           color: @header-links-vertical;
           &:hover {
@@ -30,5 +30,33 @@
   }
   section:first-of-type {
     padding-top: @menu-mobile-height;
+  }
+  #opensuse-os {
+    .os-main {
+      margin-bottom: 0px;
+      .col-sm-6 {
+        padding: 30px;
+        &:first-of-type {
+          border-right: 0px solid transparent
+        }
+      }
+    }
+  }
+  #opensuse-tools {
+    h4 {
+      margin-bottom: 60px;
+    }
+    .tools-container {
+      margin-top: 10px;
+      .col-sm-4 {
+        padding: 0 20px;
+      }
+    }
+  }
+  h1 {
+    font-size: 38px;
+  }
+  h2 {
+    font-size: 28px;
   }
 }
