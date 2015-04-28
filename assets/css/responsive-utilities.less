@@ -1,6 +1,5 @@
 @media (max-width: @screen-tablet) {
   aside {
-    top: 45px;
     height: 100%;
     ul {
       padding: 0;
@@ -11,7 +10,7 @@
         a {
           padding: 15px 25px;
           display: block;
-          color: @gray-lighter;
+          color: @header-links-vertical;
           &:hover {
             background: @aside-hover;
           }
@@ -20,9 +19,16 @@
     }
   }
   header {
-    height: 45px;
+    height: @menu-mobile-height;
+    padding: 8px;
     [src*="opensuse-logo.png"] {
       height: 27px;
     }
+    .logo {
+      padding-left: 0;
+    }
+  }
+  section:first-of-type {
+    padding-top: @menu-mobile-height;
   }
 }

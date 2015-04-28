@@ -1,19 +1,38 @@
-.container {
-  position: relative;
-}
+
 header {
-  height: 60px;
   background: @header;
-  padding: 8px 0;
+  padding: 20px 0;
+  display: block;
+  position: fixed;
   #open_main_menu {
     cursor: pointer;
     padding: 8px 4px;
     color: @button-main-menu;
   }
+  ul {
+    padding: 0;
+    li {
+      padding: 5px 0 0 0;
+      display: inline-block;
+      a {
+        color: @header-links-horizontal;
+        font-family: 'Source Sans Pro', sans-serif;
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 18px;
+        margin-left: 18px;
+        &:hover {
+          color: @header-links-horizontal-hover;
+          text-decoration: none;
+          border-bottom: 3px solid @header-links-horizontal-hover;
+        }
+      }
+    }
+  }
 }
 aside {
-  position: absolute;
-  top: 60px;
+  position: fixed;
+  top: @menu-mobile-height;
   left: -250px;
   background: @aside;
   -webkit-transition: all 0.4s ease-in-out;
@@ -21,4 +40,7 @@ aside {
   -o-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
+}
+section:first-of-type {
+  padding-top: 80px;
 }
