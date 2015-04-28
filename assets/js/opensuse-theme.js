@@ -36,9 +36,8 @@ $(function() {
 
 function getScrolledData() {
   scrolled = $(window).scrollTop();
-  // detect if the user has scrolled more than the screensize (height)
-  /* Scroll event to trigger the function */
 
+  // detect if the user has scrolled more than the screensize (height) to reduce the size of the menu
   if (scrolled > screenheight) {
     headerChanges()
   }
