@@ -51,8 +51,13 @@ function headerChanges() {
     background: '#333',
     position: 'fixed',
     width: '100%',
+    top: '0px',
     height: '45px',
-    padding: '8px'
+    padding: '8px',
+    'z-index': '1000'
+  })
+  $('#opensuse-os').css({
+    'margin-top': '85px'
   })
   $('#opensuseLogo').css({
     height: '25px'
@@ -64,6 +69,7 @@ function headerChanges() {
 }
 function headerReset() {
   $('header').removeAttr('style')
+  $('#opensuse-os').removeAttr('style')
   $('#opensuseLogo').removeAttr('style')
   $('header ul li a').removeAttr('style')
 }
