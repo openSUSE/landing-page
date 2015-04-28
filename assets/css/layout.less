@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+}
+header {
+  height: 60px;
+  background: @header;
+  padding: 8px 0;
+  #open_main_menu {
+    cursor: pointer;
+    padding: 8px 4px;
+    color: @button-main-menu;
+  }
+}
+aside {
+  position: absolute;
+  top: 60px;
+  left: -250px;
+  background: @aside;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
