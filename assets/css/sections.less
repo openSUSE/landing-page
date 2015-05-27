@@ -38,7 +38,41 @@ section{
   .tools-container {
     margin-top: 70px;
     .media {
-      height: 100px;
+      height: 120px;
+      padding: 15px;
+      &:hover {
+        background: #ededed;
+      }
+    }
+  }
+  [src*="laptop.png"] {
+    height: 320px;
+    margin-top: 70px;
+  }
+  .tools-laptop {
+    padding-right: 0;
+  }
+
+}
+
+.triangular-division {
+  background: url('../images/light-gray-triangle-for-division.jpg') center no-repeat;
+  height: 44px;
+  width: 100%;
+  min-width: 140px;
+}
+
+#contribute-to-suse {
+  background: url('../images/bg-contribution.jpg') no-repeat;
+  background-size: cover;
+  h2, h4 {
+    color: #fff
+  }
+  .contribution-columns {
+    margin: 4em 0 2em;
+    .col-sm-6:first-of-type {
+      border-right: 1px solid @opensuse-blue;
     }
   }
 }
+

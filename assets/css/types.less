@@ -7,15 +7,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
 }
+
+.strong-title {
+  font-weight: 400;
+}
+
 h1 {
   font-size: 52px;
   font-weight: 400;
 }
-a:hover {
-  text-decoration: none;
-  h1, h2, h3, h4, h5, h6 {
-    font-weight: 400
-  }
+a:hover > h4 {
+  text-decoration: underline;
 }
 
 //color for fonts
@@ -24,4 +26,27 @@ a:hover {
 }
 .opensuse-blue {
   color: @opensuse-blue;
+}
+
+.title-line {
+  border-bottom: solid 1px @opensuse-green;
+  position: relative;
+  width: 100%;
+  margin-bottom: 28px;
+  .title-holder {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: -35px;
+    h2 {
+      background: #fff;
+      padding-left: 15px;
+      padding-right: 15px;
+      display: inline-block;
+    }
+  }
+}
+
+h4.media-heading {
+  display: inline-block;
 }

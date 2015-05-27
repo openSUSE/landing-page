@@ -74,3 +74,25 @@ function headerReset() {
   $('header ul li a').removeAttr('style')
 }
 
+// init WOW.js
+wow = new WOW(
+  {
+    offset: 80
+  }
+)
+wow.init();
+
+// init OWL slider
+
+$(document).ready(function() {
+  $("#owl-slide-news").owlCarousel({
+
+  navigation : true,
+  slideSpeed : 300,
+  paginationSpeed : 400,
+  singleItem : true,
+  navigationText : ["&#xf053;","&#xf054;"]
+  });
+});
+
+

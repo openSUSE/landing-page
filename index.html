@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>OpenSUSE Tumbleweed & Cornerstone</title>
+  <title>OpenSUSE Tumbleweed & 42</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author"   content="front-end and UI by Cynthia Sanchez, graphic design by Zvezdana Marjanovic">
+  <meta name="google-site-verification" content="nnaAosU6sAxE_OpCrYCMRumNNfBa-KCTfDNg6W-IpmM" />
   <!--bootstrap + opensuse theme -->
-  <link   href="assets/css/openSUSE.less"                   type="text/css" rel="stylesheet/less" />
-  <!--external libraries -->
-  <link   href="assets/css/animate.css"                     type="text/css" rel="stylesheet" />
+  <link   href="assets/css/openSUSE.less"                    type="text/css" rel="stylesheet/less" />
+  <!--external libraries CSS -->
+  <link   href="assets/css/animate/animate.css"              type="text/css" rel="stylesheet" />
+  <link   href="assets/css/owl.carousel.css"                 type="text/css" rel="stylesheet" />
   <link   href="assets/css/fontawesome/font-awesome.min.css" type="text/css" rel="stylesheet" />
-  <script src="assets/js/jquery.min.js"     type="text/javascript"></script>
-  <script src="assets/js/less.min.js"       type="text/javascript"></script>
-  <script src="assets/js/bootstrap.min.js"  type="text/javascript"></script>
-  <script src="assets/js/wow.js"            type="text/javascript"></script>
+  <!--external libraries JS -->
+  <script src="assets/js/jquery.min.js"       type="text/javascript"></script>
+  <script src="assets/js/less.min.js"         type="text/javascript"></script>
+  <script src="assets/js/bootstrap.min.js"    type="text/javascript"></script>
+  <script src="assets/js/wow.js"              type="text/javascript"></script>
+  <script src="assets/js/owl.carousel.min.js" type="text/javascript"></script>
   <!--opensuse custom js -->
   <script src="assets/js/opensuse-theme.js" type="text/javascript"></script>
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -22,18 +26,11 @@
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script type="text/javascript">
-  wow = new WOW(
-    {
-      offset: 80
-    }
-  )
-  wow.init();
-  </script>
+
 </head>
 <body>
   <header>
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-sm-2 logo">
           <a href="#">
@@ -67,10 +64,10 @@
     </div>
   </header>
   <aside>
-    <!--grabs content from #main-menu -->
+    <!--grabs content from #main-menu on mobile devices or small screens only -->
   </aside>
   <section id="opensuse-os">
-    <article class="container">
+    <article class="container-fluid">
       <h2 class="text-center wow fadeInUp">The makers choice for sysadmins, developers and desktop users.</h2>
       <div class="row os-main">
         <div class="col-sm-6 text-center wow zoomIn">
@@ -87,7 +84,7 @@
     </article>
   </section>
   <section id="opensuse-tools">
-    <article class="container">
+    <article class="container-fluid">
       <h1 class="text-center opensuse-blue">openSUSE TOOLS</h1>
       <h4 class="text-center">Discover the best open source tools developed by our community</h4>
       <div class="row tools-container">
@@ -100,7 +97,12 @@
             </div>
             <div class="media-body">
               <a href="https://build.opensuse.org/" target="_blank">
-                <h4 class="media-heading opensuse-blue">Open Build Service (OBS)</h4>
+                <h4 class="media-heading opensuse-blue strong-title">
+                  Open Build Service (OBS)
+                  <small>
+                    (Go to link <i class="fa fa-external-link"></i> )
+                  </small>
+                </h4>
               </a>
               <p>Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.</p>
             </div>
@@ -113,7 +115,12 @@
             </div>
             <div class="media-body">
               <a href="http://openqa.opensuse.org" target="_blank">
-                <h4 class="media-heading opensuse-blue">OpenQA</h4>
+                <h4 class="media-heading opensuse-blue strong-title">
+                  OpenQA
+                  <small>
+                    (Go to link <i class="fa fa-external-link"></i> )
+                  </small>
+                </h4>
               </a>
               <p>Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.</p>
             </div>
@@ -126,7 +133,12 @@
             </div>
             <div class="media-body">
               <a href="https://en.opensuse.org/Portal:YaST" target="_blank">
-                <h4 class="media-heading opensuse-blue">YaST</h4>
+                <h4 class="media-heading opensuse-blue strong-title">
+                  YaST
+                  <small>
+                    (Go to link <i class="fa fa-external-link"></i> )
+                  </small>
+                </h4>
               </a>
               <p>The best/only comprehensive Linux system configuration & installation tool.</p>
             </div>
@@ -139,20 +151,99 @@
             </div>
             <div class="media-body">
               <a href="https://en.opensuse.org/Portal:KIWI" target="_blank">
-                <h4 class="media-heading opensuse-blue">Kiwi</h4>
+                <h4 class="media-heading opensuse-blue strong-title">
+                  Kiwi
+                  <small>
+                    (Go to link <i class="fa fa-external-link"></i> )
+                  </small>
+                </h4>
               </a>
               <p>Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.</p>
             </div>
           </div>
         </div>
-        <div class="col-md-6 hidden-sm">
-          <div class="wow slideInUp">
-            <img src="assets/images/laptop.png"/>
+        <div class="col-md-6 tools-laptop">
+          <div class="wow slideInUp text-right hidden-sm">
+            <img src="assets/images/opensuse-laptop.png"/>
+          </div>
+          <div class="btn-check-tools">
+            <a class="wow fadeIn btn btn-primary btn-green">Check all openSUSE tools</a>
           </div>
         </div>
       </div>
-
     </article>
+  </section>
+
+  <div class="triangular-division"></div>
+
+  <section id="new-tools">
+    <article class="container-fluid">
+      <div class="row">
+        <div class="col-sm-5 text-right">
+          <img src="assets/images/new-tools-to-try-out.png" />
+        </div>
+        <div class="col-sm-5 col-sm-offset-2">
+          <h2 class="opensuse-blue strong-title">Machinery</h2>
+          <p class="opensuse-blue">Machinery supports configuration discovery, system validation, and service migration.<br>Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully. <br>Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.</p>
+          <a href="http://machinery-project.org/">
+            More information
+            <i class="fa fa-caret-right"></i>
+          </a>
+        </div>
+      </div>
+    </article>
+  </section>
+  <section id="news">
+    <article class="container-fluid">
+      <div class="title-line">
+        <div class="title-holder">
+          <h2 class="opensuse-blue strong-title">NEWS</h2>
+        </div>
+      </div>
+      <div class="text-center">
+        <img src="assets/images/news-icon.png" />
+      </div>
+      <div id="owl-slide-news" class="owl-carousel opensuse-news">
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <a href="https://news.opensuse.org/2015/05/27/indonesia-uses-linux-opensuse-for-pilot-project/">
+              <h3 class="opensuse-blue strong-title">Indonesia uses Linux, openSUSE for pilot project</h3>
+            </a>
+            <p class="opensuse-blue">An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using Linux and openSUSE that is expected to become a nationwide educational program...</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <a href="https://news.opensuse.org/2015/05/21/build-blockage-causing-delay-for-gcc-5-in-tumbleweed/">
+              <h3 class="opensuse-blue strong-title">Build blockage causing delay for GCC 5 in Tumbleweed</h3>
+            </a>
+            <p class="opensuse-blue">The GCC 5 compiler is gradually making its way to be the default compiler for Tumbleweed, but until then, GCC4 is it. There is a blockage in the build caused by what some believe to be an issue with the signing key and libzypp...</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <a href="https://news.opensuse.org/2015/05/16/tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications/">
+              <h3 class="opensuse-blue strong-title">Tumbleweed moves to Plasma 5.3 and a new release of KDE Applications</h3>
+            </a>
+            <p class="opensuse-blue">At the time of writing this, the openQA servers were busily running tests and, by the time we publish this article, they should be done. What was being tested? A massive...</p>
+          </div>
+        </div>
+      </div>
+    </article>
+  </section>
+  <section id="contribute-to-suse" class="text-center">
+    <h2 class="strong-title">CONTRIBUTE WITH</h2>
+    <h4 class="strong-title">Be part of our comunity contributing with any of the followings:</h4>
+    <div class="row contribution-columns">
+      <div class="col-sm-6">
+        <i class="fa fa-5x fa-code opensuse-blue"></i>
+        <h1 class="opensuse-blue">Code</h1>
+      </div>
+      <div class="col-sm-6">
+        <i class="fa fa-5x fa-server opensuse-blue"></i>
+        <h1 class="opensuse-blue">Hardware</h1>
+      </div>
+    </div>
   </section>
   <footer>
     <div class="container">
