@@ -45,3 +45,26 @@ aside {
   z-index: 1000
 }
 
+section{
+  padding: 50px 0;
+}
+
+footer {
+  border-bottom: 5px solid @opensuse-light-green;
+  .footer-links-area,
+  .footer-sponsors-area {
+    padding: 2em 0;
+  }
+  .footer-links-area {
+    .social-networks {
+      .text-right;
+      font-size: 2em;
+    }
+  }
+  a {
+    color: @opensuse-green;
+    &:hover {
+      color: @opensuse-light-green;
+    }
+  }
+}
