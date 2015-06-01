@@ -6,10 +6,17 @@ header {
   background: @header;
   padding: 20px 0;
   display: block;
+  position: fixed;
+  transition: all .5s ease;
+  width: 100%;
+  z-index: 100;
   #open_main_menu {
     cursor: pointer;
     padding: 8px 4px;
     color: @button-main-menu;
+  }
+  #opensuseLogo, ul li a {
+    transition: all .5s ease;
   }
   ul {
     padding: 0;

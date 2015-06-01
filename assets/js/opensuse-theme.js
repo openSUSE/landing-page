@@ -46,30 +46,27 @@ function getScrolledData() {
   }
 }
 
+var headerColour = '#35b9ab'
+
 function headerChanges() {
   $('header').css({
-    background: '#333',
-    position: 'fixed',
-    width: '100%',
+    background: headerColour,
     top: '0px',
     height: '45px',
     padding: '8px',
     'z-index': '1000'
   })
-  $('#opensuse-os').css({
-    'margin-top': '85px'
-  })
   $('#opensuseLogo').css({
     height: '25px'
   })
   $('header ul li a').css({
-    'font-size': '14px'
+    'font-size': '14px',
+    'color': '#fff'
   })
 
 }
 function headerReset() {
   $('header').removeAttr('style')
-  $('#opensuse-os').removeAttr('style')
   $('#opensuseLogo').removeAttr('style')
   $('header ul li a').removeAttr('style')
 }
@@ -77,7 +74,7 @@ function headerReset() {
 // init WOW.js
 wow = new WOW(
   {
-    offset: 80
+    offset: 30
   }
 )
 wow.init();
@@ -94,5 +91,98 @@ $(document).ready(function() {
   navigationText : ["&#xf053;","&#xf054;"]
   });
 });
+
+
+// tumbleweed opensuse more information
+
+$(function() {
+  $('#tumbleweed').on('click', function() {
+    osMoreInformation($(this))
+  })
+  $('#openSUSE').on('click', function() {
+    osMoreInformation($(this))
+  })
+})
+
+function osMoreInformation(os) {
+  //get the height of the main container
+  containerHeight = $('#opensuse-os').outerHeight()
+
+  //find the information of the selected distribution
+  $osSelected = os
+  title = $osSelected.find("h1").html()
+  text = $osSelected.find(".hidden-content").html()
+  icon = $osSelected.find(".distributions-icon").html()
+
+  headerColour = '#4bb67a'
+
+  // animation
+  $('#opensuse-os .container-fluid').addClass('animated bounceOut')
+  $('#opensuse-os').css({
+    background: '#4bb67a'
+  })
+  $('header').css({
+    background: headerColour
+  })
+  $('header ul li a').css({
+    color: "#fff"
+  })
+
+  setTimeout(hideLandingPageInfo, 800)
+  setTimeout(createMoreInformationArea, 1300)
+
+  function hideLandingPageInfo () {
+    $('#opensuse-os').css({
+      height: containerHeight + 'px'
+    })
+    $('#opensuse-os .container-fluid').hide()
+  }
+  function createMoreInformationArea () {
+    information = '<div class="text-center" id="more-information-os">'
+                  + '<div class="os-icon"></div>'
+                  + '<h1 class="wow fadeInUp">'
+                  + title
+                  + '</h1>'
+                  + '<div class="wow fadeInUp">'
+                  + text
+                  + '</div>'
+                  + '<br/>'
+                  + '<div class="btn btn-link back-to-main-page">'
+                  + '<i class="fa fa-long-arrow-left"></i> Back to main page'
+                  + '</div>'
+                  + '</div>'
+    $('#opensuse-os').append(information)
+    $('.os-icon').html(icon)
+
+    $('.back-to-main-page').on('click', function() {
+      backToMainPageOs()
+    })
+  }
+}
+
+function backToMainPageOs () {
+  $('#more-information-os').addClass('animated bounceOut')
+  $('header').removeAttr('style')
+  $('header ul li a').removeAttr('style')
+  $('#opensuse-os').removeAttr('style').css({
+      height: containerHeight + 'px'
+    })
+
+  setTimeout(hideMoreInformation, 800)
+  setTimeout(showMainInformation, 1300)
+
+  function hideMoreInformation () {
+    $('#more-information-os').hide()
+    $('#more-information-os').remove()
+
+  }
+
+  function showMainInformation () {
+    $('#opensuse-os .container-fluid').removeClass('animated bounceOut').show().addClass('animated bounceIn')
+  }
+
+
+}
+
 
 
