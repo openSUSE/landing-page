@@ -22,6 +22,9 @@ $(window).on('beforeunload', function() {
 // get the height of the browser screen
 $(window).on('resize', function() {
   screenheight = $(window).outerHeight();
+  //remove the height in the container of the main section 'home'
+  $('#opensuse-os').css('height', '')
+  containerHeight = $('#opensuse-os').outerHeight() + 30
 })
 
 $(window).bind('scroll',function(e){
