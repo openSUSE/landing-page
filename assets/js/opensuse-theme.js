@@ -41,7 +41,7 @@ function getScrolledData() {
   scrolled = $(window).scrollTop();
 
   // detect if the user has scrolled more than the screensize (height) to reduce the size of the menu
-  if (scrolled > (screenheight - 45) ) {
+  if (scrolled > screenheight) {
     headerChanges()
   }
   else {
@@ -117,12 +117,12 @@ function osMoreInformation(os) {
   text = $osSelected.find(".hidden-content").html()
   icon = $osSelected.find(".distributions-icon").html()
 
-  headerColour = '#73ba25'
+  headerColour = '#4bb67a'
 
   // animation
   $('#opensuse-os .container-fluid').addClass('animated bounceOut')
   $('#opensuse-os').css({
-    background: '#73ba25'
+    background: '#4bb67a'
   })
   $('header').css({
     background: headerColour
