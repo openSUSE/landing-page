@@ -47,7 +47,6 @@ function getScrolledData() {
 
   // detect if the user has scrolled more than the first section (height) to reduce the size of the menu
   if (scrolled > mainSectionHeight) {
-    console.log(mainSectionHeight)
     headerChanges()
     scrolledDown = true;
   }
@@ -142,7 +141,6 @@ function osMoreInformation(os) {
   $('header').css({
     background: moreInfoOpened ? '#4bb67a' : '#173f4f'
   })
-  console.log(moreInfoOpened ? '#4bb67a' : '#173f4f')
   $('header ul li a').css({
     color: "#fff"
   })
