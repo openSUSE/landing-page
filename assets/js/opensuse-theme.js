@@ -12,7 +12,8 @@ function open_mobile_menu () {
 }
 
 var scrolled;
-var screenheight;
+var mainSectionHeight;
+var headerHeight;
 
 // always initiate the scroll at the top
 $(window).on('beforeunload', function() {
@@ -21,7 +22,8 @@ $(window).on('beforeunload', function() {
 
 // get the height of the browser screen
 $(window).on('resize', function() {
-  screenheight = $(window).outerHeight();
+  headerHeight = $('header').outerHeight();
+  mainSectionHeight = $('#opensuse-os').outerHeight() - headerHeight;
   //remove the height in the container of the main section 'home'
   $('#opensuse-os').css('height', '')
   containerHeight = $('#opensuse-os').outerHeight() + 30
@@ -34,26 +36,30 @@ $(window).bind('scroll',function(e){
 $(function() {
   $mainMenu = $('#main-menu').html()
   $('aside').html($mainMenu)
-  screenheight = $(window).outerHeight();
+  headerHeight = $('header').outerHeight();
+  mainSectionHeight = $('#opensuse-os').outerHeight() - headerHeight;
 })
+
+var scrolledDown = false;
 
 function getScrolledData() {
   scrolled = $(window).scrollTop();
 
-  // detect if the user has scrolled more than the screensize (height) to reduce the size of the menu
-  if (scrolled > screenheight) {
+  // detect if the user has scrolled more than the first section (height) to reduce the size of the menu
+  if (scrolled > mainSectionHeight) {
+    console.log(mainSectionHeight)
     headerChanges()
+    scrolledDown = true;
   }
-  else {
+
+  if (scrolledDown && scrolled < mainSectionHeight) {
     headerReset()
   }
 }
 
-var headerColour = '#35b9ab'
-
 function headerChanges() {
   $('header').css({
-    background: headerColour,
+    background: moreInfoOpened ? '#4bb67a' : '#173f4f',
     top: '0px',
     height: '45px',
     padding: '8px',
@@ -70,8 +76,15 @@ function headerChanges() {
 }
 function headerReset() {
   $('header').removeAttr('style')
+  //but always keep the color applied from the scrolling
+  $('header').css({
+    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
+  })
   $('#opensuseLogo').removeAttr('style')
   $('header ul li a').removeAttr('style')
+  $('header ul li a').css({
+    'color': moreInfoOpened ? '#fff' : ''
+  })
 }
 
 // init WOW.js
@@ -98,6 +111,8 @@ $(document).ready(function() {
 
 // tumbleweed opensuse more information
 
+var moreInfoOpened = false;
+
 $(function() {
   $('#tumbleweed').on('click', function() {
     osMoreInformation($(this))
@@ -108,6 +123,7 @@ $(function() {
 })
 
 function osMoreInformation(os) {
+  moreInfoOpened = true
   //get the height of the main container
   containerHeight = $('#opensuse-os').outerHeight()
 
@@ -117,7 +133,6 @@ function osMoreInformation(os) {
   text = $osSelected.find(".hidden-content").html()
   icon = $osSelected.find(".distributions-icon").html()
 
-  headerColour = '#4bb67a'
 
   // animation
   $('#opensuse-os .container-fluid').addClass('animated bounceOut')
@@ -125,8 +140,9 @@ function osMoreInformation(os) {
     background: '#4bb67a'
   })
   $('header').css({
-    background: headerColour
+    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
   })
+  console.log(moreInfoOpened ? '#4bb67a' : '#173f4f')
   $('header ul li a').css({
     color: "#fff"
   })
@@ -164,6 +180,7 @@ function osMoreInformation(os) {
 }
 
 function backToMainPageOs () {
+  moreInfoOpened = false;
   $('#more-information-os').addClass('animated bounceOut')
   $('header').removeAttr('style')
   $('header ul li a').removeAttr('style')
