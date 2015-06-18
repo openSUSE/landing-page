@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>openSUSE News</title>
+	<atom:link href="https://news.opensuse.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://news.opensuse.org</link>
+	<description>The latest news from the openSUSE project</description>
+	<lastBuildDate>Tue, 16 Jun 2015 13:10:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.2</generator>
+	<item>
+		<title>Default compiler for Tumbleweed updating to GCC 5</title>
+		<link>https://news.opensuse.org/2015/06/16/default-compiler-for-tumbleweed-updates-to-gcc-5/</link>
+		<comments>https://news.opensuse.org/2015/06/16/default-compiler-for-tumbleweed-updates-to-gcc-5/#comments</comments>
+		<pubDate>Tue, 16 Jun 2015 11:33:53 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19301</guid>
+		<description><![CDATA[Developers waiting for a new compiler in Tumbleweed need to wait no more. The newest GNU Compiler Collection was checked in today to openSUSE Factory, which is the rolling development code base for Tumbleweed, as the default compiler, so all packages will be rebuilt against GCC 5 and the next Tumbleweed snapshot will include GCC [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Developers waiting for a new compiler in <a href="https://en.opensuse.org/Portal:Tumbleweed" target="_blank">Tumbleweed</a> need to wait no more. <a href="https://news.opensuse.org/wp-content/uploads/2015/06/A3_13-825x354.png"><img class="alignright size-medium wp-image-19304" src="https://news.opensuse.org/wp-content/uploads/2015/06/A3_13-825x354-300x129.png" alt="A3_13-825x354" width="300" height="129" /></a></p>
+<p>The newest <a href="https://gcc.gnu.org/" target="_blank">GNU Compiler Collection</a> was checked in today to openSUSE <a href="https://en.opensuse.org/Portal:Factory" target="_blank">Factory</a>, which is the rolling development code base for Tumbleweed, as the default compiler, so all packages will be rebuilt against GCC 5 and the next Tumbleweed snapshot will include GCC 5.1.1</p>
+<p>The snapshot is expected later in the week, making it one of the first rolling releases to have the compiler as a default within Linux, according to <a href="http://distrowatch.com/" target="_blank">DistroWatch&#8217;s</a> package tracker.</p>
+<p>“GCC 5 made great progress the last week,” said Dominique Leuenberger, the Factory master. “We will rebuild more than 8,000 source packages with GCC 5.&#8221;</p>
+<p>The expected build time has a rough estimate of about 48-hour in Open Build Services and about a 10-hour test time in openQA.</p>
+<p>All packages that are shipped on the DVD have been resolved and have been built without issues, Leuenberger said. Not all of them have been run-time tested.</p>
+<p>“Thank you to those who have invested their time and efforts to reach this achievement and want to thank the people who will continue to contribute to the follow-on efforts regarding coming none-ring packages, which will still need some work,” Leuenberger said.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/06/16/default-compiler-for-tumbleweed-updates-to-gcc-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Planned downtime 2015-06-09: Mailing Lists</title>
+		<link>https://news.opensuse.org/2015/06/05/planned-downtime-2015-06-09-mailing-lists/</link>
+		<comments>https://news.opensuse.org/2015/06/05/planned-downtime-2015-06-09-mailing-lists/#comments</comments>
+		<pubDate>Fri, 05 Jun 2015 03:21:03 +0000</pubDate>
+		<dc:creator><![CDATA[Kostas Koudaras]]></dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<category><![CDATA[Mailing Lists]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19289</guid>
+		<description><![CDATA[Update: The migration of the openSUSE Mailing Lists has been finished successfully. If you encounter any issues, please let us know by mail to admin@opensuse.org. On Tuesday 2015-06-09, from 09:00 to 11:00 UTC, the machine that hosts the openSUSE Mailing Lists will be offline. During that time, sending or receiving mails to the  openSUSE mailing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Update:</strong> The migration of the openSUSE Mailing Lists has been finished successfully. If you encounter any issues, please let us know by mail to <a href="mailto:admin@opensuse.org">admin@opensuse.org</a>.</p>
+<p>On Tuesday 2015-06-09, from 09:00 to 11:00 UTC, the machine that hosts the<br />
+<a href="http://lists.opensuse.org/">openSUSE Mailing Lists</a> will be offline. During that<br />
+time, sending or receiving mails to the  openSUSE mailing lists, or viewing<br />
+their archives will not be possible.  All the mails that will be sent during<br />
+the downtime will be  delayed.<br />
+<a href="https://news.opensuse.org/wp-content/uploads/2015/06/Failgeeko.png"><img class="aligncenter size-medium wp-image-19290" src="https://news.opensuse.org/wp-content/uploads/2015/06/Failgeeko-300x300.png" alt="Failgeeko" width="300" height="300" /></a><br />
+The  reason is that the old machine is on an old distribution, and running  out<br />
+of resources. We will migrate the service to a new virtual machine,  that will<br />
+integrate it to a new configuration management infrastructure.</p>
+<p>We&#8217;ll send a followup announcement with the final status as soon as we finish<br />
+the migration.</p>
+<p>On behalf of the openSUSE Administration team</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/06/05/planned-downtime-2015-06-09-mailing-lists/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Indonesia uses Linux, openSUSE for pilot project</title>
+		<link>https://news.opensuse.org/2015/05/27/indonesia-uses-linux-opensuse-for-pilot-project/</link>
+		<comments>https://news.opensuse.org/2015/05/27/indonesia-uses-linux-opensuse-for-pilot-project/#comments</comments>
+		<pubDate>Wed, 27 May 2015 07:44:33 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[People of openSUSE]]></category>
+		<category><![CDATA[SUSE]]></category>
+		<category><![CDATA[administrators]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[ICT]]></category>
+		<category><![CDATA[Indonesia]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[opensuse]]></category>
+		<category><![CDATA[opensuse education]]></category>
+		<category><![CDATA[student]]></category>
+		<category><![CDATA[teachers]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19276</guid>
+		<description><![CDATA[An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using Linux and openSUSE that is expected to become a nationwide educational program. From 2009 to 2014, the project called &#8220;Information and Communication Technology (ICT) Utilization for Educational Quality Enhancement in Yogyakarta Province&#8221; used openSUSE [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright" src="https://en.opensuse.org/images/6/65/Edu-suse_life-cd.png" alt="" width="311" height="408" />An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using <a href="http://www.linuxfoundation.org/" target="_blank">Linux</a> and <a href="https://www.opensuse.org/en/" target="_blank">openSUSE</a> that is expected to become a nationwide educational program.</p>
+<p>From 2009 to 2014, the project called &#8220;Information and Communication Technology (ICT) Utilization for Educational Quality Enhancement in Yogyakarta Province&#8221; used openSUSE and created material with Linux to enhance educational quality and equality in <a href="http://ict-eqep.com/locations/map_350.html" target="_blank">Yogyakarta Province schools</a>.</p>
+<p>“More and more education people and officials come to Yogyakarta to learn about how to implement information technology in basic education,” said Mr. Mohammad Edwin Zakaria, an IT and Linux consultant for the program.</p>
+<p>The program is expected to become a model of ICT utilization in the educational sector of Indonesia, Zakaria said. The pilot’s goal supports teaching and learning activities by providing ICT-based learning facilities, providing equipment, communication and network facilities, creating e-learning systems and developments, and by providing tools and support that are needed for schools activities to improve educational quality.</p>
+<p><span id="more-19276"></span><a href="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0429.CR2_.jpg"><img class=" size-medium wp-image-19281 alignleft" style="margin: 10px;" src="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0429.CR2_-300x200.jpg" alt="IMG_0429.CR2" width="300" height="200" /></a>“For the teachers, we conduct training of how to make learning material,” said Singgih Raharjo, the department head of Yogyakarta Province’s Education Communication and Technology Office.</p>
+<h4>Creating With Linux</h4>
+<p>Many new materials made by teachers are now available to students, Raharjo said.</p>
+<p>“It is what we think open-source software still lacks behind the proprietary software,” he said. “At the beginning we try to introduce <a href="http://exelearning.org/" target="_blank">eXe Learning</a>, but in 2010 it still difficult for them. Because of this problem, the project-owner finally decided to give them proprietary software to make learning material.”</p>
+<p>Many of the schools are remotely located. Yogyakarta Governor Sri Sultan Hamengku Buwono X proposed ICT as a program that would increase and equalize educational quality throughout the province.</p>
+<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg"><img class="alignright size-medium wp-image-19282" style="margin: 10px;" src="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0375.CR2_-300x200.jpg" alt="IMG_0375.CR2" width="300" height="200" /></a>“Many students and even teachers never had an experience with computers before,” Zakaria said. “Now they can interact with computer and Linux. We created special Math and Science learning materials for them. They can learn interactively with that material. Along with software packages on <a href="http://www.opensuse-education.org/" target="_blank">openSUSE Li-f-e</a> like <a href="http://gcompris.net/index-en.html" target="_blank">Gcompris</a>, <a href="http://tux4kids.alioth.debian.org/tuxmath/" target="_blank">Tuxmath</a>, <a href="https://edu.kde.org/kalgebra/" target="_blank">kalgebra</a> (and other <a href="https://edu.kde.org/" target="_blank">KDE Edu</a>), <a href="http://www.tuxpaint.org/" target="_blank">Tuxpaint</a>, and <a href="http://www.stellarium.org/en/" target="_blank">Stellarium</a>, they can learn many thing that they never imagined before.”</p>
+<p>Some of it can be accessed publicly at <a href="http://lms.jogjabelajar.jogjaprov.go.id/">http://lms.jogjabelajar.jogjaprov.go.id</a> .</p>
+<p>The pilot program consisted of several phases, was implemented in elementary and junior high schools, and was supported by several experts and professionals. Each school had a headmaster, math teachers, science teachers, and a PC lab technician involved with the project.</p>
+<h4>Making a Difference</h4>
+<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0434.CR2_.jpg"><img class=" size-medium wp-image-19283 alignleft" style="margin: 10px;" src="https://news.opensuse.org/wp-content/uploads/2015/05/IMG_0434.CR2_-300x200.jpg" alt="IMG_0434.CR2" width="300" height="200" /></a>Government officials, university professors, consultants facilitators, technical staff, learning material experts, examination experts, community development experts and curriculum experts all turned the pilot into a successful program.</p>
+<p>The children around Yogyakarta Province become smarter and more creative from this project, Raharjo said. Because the project was not only giving infrastructure, but was interesting and fun from the ICT-based learning materials, the results of national exams increased for the province.</p>
+<p>The results were shocking,  Raharjo said.</p>
+<p>“The winners of the competition are not only centralized by students from the city, but also from villages,” he said.</p>
+<p>One real success story was at SDN Jepitu Gunungkidul elementary school, which is located in the mountainous area about 60 km from the center of Yogyakarta. After the ICT project was implemented at this school, the school&#8217;s teachers developed their own ICT based-test for their student in the ICT laboratory.</p>
+<p>“This kind of test, not only make the student happier, smarter and more creative, but also decrease the budget of school in holding the test,”  Raharjo said.</p>
+<p>The Learning Management System (LMS) uses Moodle on the data center as well as on the replicate server on the schools.</p>
+<h4>Using openSUSE</h4>
+<p>“We use around 10 servers with SUSE Linux Enterprise Server 11 SP1 on a data center in province capital,” Zakaria said. “It is configured with high availability (HA). It serves mainly as Moodle LMS server with MySQL database and Apache web server. It also serves as DNS, internet proxy, file server, and we host an internal openSUSE repository for our schools.”</p>
+<p>Financially, the province and Indonesia can save money using openSUSE and Linux because of costs that are typically associated with proprietary desktop operating system licenses, but what is more important is the intangible benefits, Zakaria said.</p>
+<p>“We introduce the power of open-source, so now everyone knows that there are alternatives out there,” Zakaria said. “Many young people also have more knowledge about the open-source tools and life-cycle so they can help in the future.”</p>
+<p>Indonesia has many young, intelligent people, he said, and the population of the country is about 250 million people. He believes increases in computer, smart phone, tablet and internet usage will make the future generation of Indonesians more intelligent than his generation. With that growth in technical know-how and thanks to open-source education and Linux, Zakaria sees those qualities as making big differences for the country’s trade-balances and economy.</p>
+<p>“I hope in the future they will become innovators, producers or at least can attract big companies or investor to invest in Indonesia. Hopefully it can increase the country&#8217;s competitiveness and economic condition.”</p>
+<p>More than 500 schools took part in the program.</p>
+<h3>More Articles</h3>
+<h4>From the Office of Education Yogyakarta Province</h4>
+<p><span class="notranslate"><a href="http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&amp;id_sub=2777" target="_blank">Invite Dikpora School Supervisor and Consultant Supervision Program for ICT EQEP</a></span></p>
+<p><span class="notranslate"><a href="http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&amp;id_sub=2996" target="_blank">Dikpora DIY and Forms Community Schools ICT Consultant EQEP</a></span></p>
+<p><span class="notranslate"><a href="http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&amp;id_sub=2761" target="_blank">Test results Media Learning: Students interested in ICT-Based Learning</a></span></p>
+<h4>From the Office of Technology and Communication for Education Yogyakarta Province</h4>
+<p><a href="http://btkp-diy.or.id/info/eqep/559/" target="_blank">School Model Development Workshop for ICT EQEP Community</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/561" target="_blank">Implementation of ICT School Comunity</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/562" target="_blank">Office of Technology and Communication for Education Yogyakarta Province doing Media and Material Assesstment for Jogjabelajar</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/569" target="_blank">Utilization of Learning Material Training, 1st batch</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/592" target="_blank">Javanese Characters (Hanacaraka) Reading and Writing Application Launch</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/593" target="_blank">Yogyakarta become the best province in Indonesia for ICT implementation on Education</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/596" target="_blank">JICA Visiting 3 schools</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/607" target="_blank">SMPN 4 Banguntapan (Junior High Schools) doing self-training for &#8220;ICT utilization for education&#8221;</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/609" target="_blank">Operational handover of ICT EQEP</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/610" target="_blank">Utilization of Learning Material Workshop year 2015</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/611" target="_blank">Technical Assistance for Management of IDC (Internet Data Center) and BTS (Base Transceiver Station)</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/614" target="_blank">Follow-up from school reporting, official doing site visit to schools</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/617" target="_blank">Utilization of Learning Material Training 2015, 3rd batch</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/621" target="_blank">SDN Jepitu 1 (primary school) Girisubo, Gunungkidul, doing try out with the ICT based exam. They made the exam by themself</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/624" target="_blank">National exam try out with Smartphone</a></p>
+<p><a href="http://btkp-diy.or.id/info/eqep/626" target="_blank">Training: Utilization of Jogjabelajar for Learning Process</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/27/indonesia-uses-linux-opensuse-for-pilot-project/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Build blockage causing delay for GCC 5 in Tumbleweed</title>
+		<link>https://news.opensuse.org/2015/05/21/build-blockage-causing-delay-for-gcc-5-in-tumbleweed/</link>
+		<comments>https://news.opensuse.org/2015/05/21/build-blockage-causing-delay-for-gcc-5-in-tumbleweed/#comments</comments>
+		<pubDate>Thu, 21 May 2015 12:57:53 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19273</guid>
+		<description><![CDATA[The GCC 5 compiler is gradually making its way to be the default compiler for Tumbleweed, but until then, GCC4 is it. There is a blockage in the build caused by what some believe to be an issue with the signing key and libzypp. For GCC 5 to move forward, it needs to pass openQA [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/vector-chameleon.png"><img class="alignright size-full wp-image-19257" src="https://news.opensuse.org/wp-content/uploads/2015/05/vector-chameleon.png" alt="vector chameleon" width="118" height="166" /></a>The GCC 5 compiler is gradually making its way to be the default compiler for Tumbleweed, but until then, GCC4 is it. There is a blockage in the build caused by what some believe to be an issue with the signing key and libzypp.</p>
+<p>For GCC 5 to move forward, it needs to pass openQA to build. Anyone willing to take a look at the code is more than welcome.</p>
+<p>Many other items are being worked on in Tumbleweed and a new kernel is pending, but nothing is problematic and most of the items are easy fixes for the next snapshot, according to an update by Tumbleweed team.</p>
+<p>Most of the work taking place these past few days have been bug fixes for the latest release of Plasma 5.3 and GNOME 3.16.2.</p>
+<p>Other noteworthy items in the latest snapshot were updates to the libqt5 and LibreOffice. Python-keyring updated from 4.0 to 5.3 and there were some additional updates to YaST’s user experience and network.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/21/build-blockage-causing-delay-for-gcc-5-in-tumbleweed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tumbleweed moves to Plasma 5.3 and a new release of KDE Applications</title>
+		<link>https://news.opensuse.org/2015/05/16/tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications/</link>
+		<comments>https://news.opensuse.org/2015/05/16/tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications/#comments</comments>
+		<pubDate>Sat, 16 May 2015 19:21:28 +0000</pubDate>
+		<dc:creator><![CDATA[Jos Poortvliet]]></dc:creator>
+				<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Distribution]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<category><![CDATA[Software]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19233</guid>
+		<description><![CDATA[At the time of writing this, the openQA servers were busily running tests and, by the time we publish this article, they should be done. What was being tested? A massive amount of changes, bringing not only the latest Plasma 5.3 and Applications 15.04.1 to Tumbleweed, but also marking the switch to Plasma 5 as [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_19234" style="width: 310px" class="wp-caption alignright"><a href="https://dot.kde.org/2015/04/28/plasma-5.3"><img class="size-medium wp-image-19234" src="https://news.opensuse.org/wp-content/uploads/2015/04/plasma-5.3-300x169.png" alt="Plasma 5.3" width="300" height="169" /></a><p class="wp-caption-text">The latest and greatest desktop tech from the KDE community</p></div>
+<p>At the time of writing this, the openQA servers were busily running tests and, by the time we publish this article, they should be done. What was being tested? A massive amount of changes, bringing not only the latest Plasma 5.3 and Applications 15.04.1 to Tumbleweed, but also marking the switch to Plasma 5 as the default desktop!</p>
+<h2>What&#8217;s new</h2>
+<p>You can find an overview of major changes in the <a href="https://dot.kde.org/2015/04/28/plasma-5.3">announcement of KDE Plasma 5.3</a> and the <a href="https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing">announcement of KDE Applications 15.04</a> two weeks before that.</p>
+<p>Some of the biggest improvements in Plasma Desktop include much improved power management and widget handling. New are a touchpad configuration module, Comic widget and some system monitoring applets and improvements to plasma widgets like Clipboard, Recent Documents.</p>
+<p><span id="more-19233"></span>There were improvements in no less than 109 of the KDE Applications and its underlying libraries over the last 4 months:</p>
+<ul>
+<li>A highlight is KDE PIM, with almost 400 commits, mostly around stability, performance and preparation of a port to Qt 5.</li>
+<li>The Print manager was improved</li>
+<li>There have been the usual raft of changes to Marble</li>
+<li>Kdenlive and Telepathy Chat have been added to the KDE Applications, introducing KAccounts, a centralized account handling</li>
+<li>And there was a lot of porting activity of tools like Kompare, KCharselect and more.</li>
+</ul>
+<p>The massive list of improvements to existing KDE applications are detailed <a href="https://www.kde.org/announcements/fulllog_applications-15.04.0.php">on this page</a>.</p>
+<p>Of course, this is just a taste of the changes you will notice compared to Plasma 5.2 and the release of the KDE Applications from December last year. Those who have not had the pleasure of experimenting with Plasma 5 will be delighted with improvements all over this well-designed workspace. Ranging from smoother animations to smarter behavior permeating almost all aspects of handling day-to-day tasks, Plasma 5 offers a more modern and optimized experience.</p>
+<div id="attachment_19235" style="width: 310px" class="wp-caption alignright"><a href="https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing"><img class="size-medium wp-image-19235" src="https://news.opensuse.org/wp-content/uploads/2015/04/kdenlive-300x107.png" alt="Edit videos like a pro with Kdenlive!" width="300" height="107" /></a><p class="wp-caption-text">Edit videos like a pro with Kdenlive!</p></div>
+<h2>Default to Plasma 5.3</h2>
+<p>The packages being made available today include a switch to Plasma 5 as default desktop. The openSUSE KDE team deems this release stable for day-to-day usage and a considerable step up from the Plasma 4.x series. While the KDE community continues to maintain the 4.x series for a few more months, by the end of this year, all efforts will be directed toward the Plasma 5 series. Applications are porting in a swift manner with even the KDE PIM team eyeballing a Frameworks 5 release around August and half of the KDE Applications are now Frameworks 5 based.</p>
+<p>This move will have an impact on current Tumbleweed users! The patterns have changed, and if you have the <em>KDE Applications</em> pattern installed, it will begin to pull in the Frameworks 5 based applications. And of course, if you currently use the KDE workspace you will migrate from Plasma 4.11 to 5.3 &#8211; giving you the newest, latest and best of Desktop Linux!</p>
+<p>Note that the first time you log in or start new apps, many of them will go through migration steps to adapt the configuration to the new Frameworks 5 version.</p>
+<p>With the accelerated development in the KDE camp, delivering more incremental and better releases faster to its users, Tumbleweed is proving to be an excellent platform for users to benefit from the latest and greatest the Linux Desktop has to offer. If you&#8217;re interested in moving to Tumbleweed, check out the <a href="https://en.opensuse.org/Portal:Tumbleweed">Tumbleweed portal</a> and specifically the <a href="https://en.opensuse.org/openSUSE:Tumbleweed_installation">installation instructions</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/16/tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jangouts, Bare Metal, other projects make for Hackweek fun</title>
+		<link>https://news.opensuse.org/2015/05/12/jangout-bare-metal-other-projects-make-for-hackweek-fun/</link>
+		<comments>https://news.opensuse.org/2015/05/12/jangout-bare-metal-other-projects-make-for-hackweek-fun/#comments</comments>
+		<pubDate>Tue, 12 May 2015 10:08:53 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19256</guid>
+		<description><![CDATA[The spirit of last month’s Hackweek is still alive and well and it&#8217;s about time we review some of the projects from openSUSE’s Hackweek. The first project I want to highlight is the Google Hangouts killer &#8211; https://hackweek.suse.com/12/projects/832. This WebRTC-based video conferencing system is still in its early stages of development and there are tweaks [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://news.opensuse.org/wp-content/uploads/2015/03/t-shirt-motiv.png"><img class=" size-medium wp-image-19128 alignright" src="https://news.opensuse.org/wp-content/uploads/2015/03/t-shirt-motiv-300x300.png" alt="t-shirt-motiv" width="300" height="300" /></a>The spirit of last month’s Hackweek is still alive and well and it&#8217;s about time we review some of the projects from openSUSE’s Hackweek.</p>
+<p>The first project I want to highlight is the Google Hangouts killer &#8211;<a href="https://hackweek.suse.com/12/projects/832" target="_blank"> https://hackweek.suse.com/12/projects/832</a>. This WebRTC-based video conferencing system is still in its early stages of development and there are tweaks being made to move the project forward. Unlike Google Hangouts’ 10 person limitation, the project currently dubbed Jangouts exceeds that capacity limit. During the testing, 18 people attended the 25-person room limitation of 25. The latest test even worked on a mobile device. If anyone want to get involved with this project, join the #jangouts channel on <a href="http://webchat.freenode.net/?channels=web-5" target="_blank">Freenode</a>. Jangouts is hosted on Amazon<span class="st"> Elastic Compute Cloud (<em>EC2</em>), but </span>donations of servers to the openSUSE project are always welcomed. Just email me at <a href="mailto:ddemaio@suse.de" target="_blank">ddemaio@suse.de</a> if you are interest is donating a server with 100 gb or more of RAM to the openSUSE project.<span id="more-19256"></span></p>
+<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/jangouts1.png"><img class="alignright size-medium wp-image-19262" src="https://news.opensuse.org/wp-content/uploads/2015/05/jangouts1-300x263.png" alt="jangouts1" width="300" height="263" /></a>The next project to highlight is Group Refactoring of OSEM &#8211; <a href="https://hackweek.suse.com/12/projects/838" target="_blank">https://hackweek.suse.com/12/projects/838</a>. This project made a huge difference for the openSUSE Conference we had in The Hague last week. Not only did the community clean up the code, the new look and capabilities are making it easier to view and schedule tracks. Presentations and videos of the presentation can now be combined under the presenters proposal. The project can be found at <a href="https://github.com/openSUSE/osem" target="_blank">https://github.com/openSUSE/osem</a>.</p>
+<p>Another project that was interesting to follow was Bare Metal OpenQA &#8211; <a href="https://hackweek.suse.com/12/projects/934" target="_blank">https://hackweek.suse.com/12/projects/934</a> and More Bare Metal OpenQA &#8211; <a href="https://hackweek.suse.com/12/projects/896" target="_blank">https://hackweek.suse.com/12/projects/896</a>. Since OpenQA mostly runs on virtual machines, it can be difficult to find bugs triggered by real hardware. Interact with the HDMI, USB keyboard, CD-ROM and Remote Power Switching can be tough with automation, but where there is a will, there is a way. See the demo video and Code on a github branch.</p>
+<p>Hackerspace was available for anyone who wanted to hack at SUSE locations in Nuremberg, Germany; Prague, Czech Republic; Provo, Utah (USA); Taipei, Taiwan; and Beijing, China. Some people did come to one of the locations, but most hackers participated remotely.</p>
+<p>The “Black-on-Black” openSUSE Hackweek T-Shirt was a hit. We hope you got yours. Thank you to all who contributed.</p>
+<p>Have a lot of fun.</p>
+<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/vector-chameleon.png"><img class=" size-full wp-image-19257 alignnone" src="https://news.opensuse.org/wp-content/uploads/2015/05/vector-chameleon.png" alt="vector chameleon" width="118" height="166" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/12/jangout-bare-metal-other-projects-make-for-hackweek-fun/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>May Madness &#8211; The Screenshot Contest Continues!</title>
+		<link>https://news.opensuse.org/2015/05/07/may-madness-the-screenshot-contest-continues/</link>
+		<comments>https://news.opensuse.org/2015/05/07/may-madness-the-screenshot-contest-continues/#comments</comments>
+		<pubDate>Thu, 07 May 2015 10:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[Nenad Latinović]]></dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Marketing]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19249</guid>
+		<description><![CDATA[A warm and green hello to all of the geekosphere! Last month&#8217;s screenshot contest was a complete success! Our geeko friends submitted twice the usual amount of screenshots, sporting variying setups, environments and workflows. No two were alike! It was very refreshing to see how GNU/Linux desktops can be modified to suit everyone&#8217;s taste.After a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A warm and green hello to all of the geekosphere!</p>
+<p>Last month&#8217;s <a href="https://forums.opensuse.org/showthread.php/506426-April-2015-Screenshots!-Win-a-nice-reward!">screenshot contest</a> was a complete success! Our geeko friends submitted twice the usual amount of screenshots, sporting variying setups, environments and workflows. No two were alike! It was very refreshing to see how GNU/Linux desktops can be modified to suit everyone&#8217;s taste.<span id="more-19249"></span>After a week of polling, the results were as following:</p>
+<p><img class="alignnone" src="http://paste.opensuse.org/images/765c9d85.JPG" alt="" width="599" height="487" /></p>
+<p>Congratulations to our brother-in-green from Brazil, espigaum!</p>
+<p>But we&#8217;re not stopping there! We&#8217;re continuing what is to become a nice tradition, I hope, with the May Madness screenshot contest. You&#8217;re welcome to post away to the offical<a href="https://forums.opensuse.org/showthread.php/507214-May-Madness-%28The-sticker-fight-continues!%29"> forum thread of the contest</a>. While you&#8217;re there, you&#8217;re welcome to brew a cup of your favorite beverage for yourself, and join the community hangout. It&#8217;s promised to be a treat ;)</p>
+<p>Remember, there are two reward packs you can choose from, shoud you be voted to be the winner of the contest:</p>
+<p><a href="https://news.opensuse.org/wp-content/uploads/2015/03/DSC_5909.jpg"><img class="alignleft  wp-image-19165" src="https://news.opensuse.org/wp-content/uploads/2015/03/DSC_5909-300x181.jpg" alt="ScreenshotReward2" width="327" height="197" /></a> <a href="https://news.opensuse.org/wp-content/uploads/2015/03/DSC_5907.jpg"><img class="alignleft size-medium wp-image-19164" src="https://news.opensuse.org/wp-content/uploads/2015/03/DSC_5907-300x196.jpg" alt="ScreenshotReward1" width="300" height="196" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The stickers will magically appear in your home mailbox one day, making their way to your machine, so you can boast the geekoness all over the world!</p>
+<p>Do join us, so we&#8217;re all guaranteed to &#8230;</p>
+<h5>&#8230;have a lot of fun!</h5>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/07/may-madness-the-screenshot-contest-continues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Update at oSC15</title>
+		<link>https://news.opensuse.org/2015/05/02/update-at-osc15/</link>
+		<comments>https://news.opensuse.org/2015/05/02/update-at-osc15/#comments</comments>
+		<pubDate>Sat, 02 May 2015 10:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Conference]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19244</guid>
+		<description><![CDATA[The community kicked off the first day of the openSUSE Conference in The Hague, Netherlands, with tons of exciting news about project. Keynote speaker Markus Feilner gave a brief overview of trending topics for this year’s conference. One of topics was Richard Brown’s “The Future is Unwritten” presentation about building the perfect regular release using [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://news.opensuse.org/wp-content/uploads/2015/05/20150501_133621.jpg"><img class=" size-medium wp-image-19245 alignright" src="https://news.opensuse.org/wp-content/uploads/2015/05/20150501_133621-300x169.jpg" alt="20150501_133621" width="300" height="169" /></a>The community kicked off the first day of the <a href="https://events.opensuse.org/conference/osc15/schedule" target="_blank">openSUSE Conference</a> in The Hague, Netherlands, with tons of exciting news about project.</p>
+<p>Keynote speaker Markus Feilner gave a brief overview of trending topics for this year’s conference.</p>
+<p>One of topics was Richard Brown’s “<a href="http://bit.ly/1EBSoYC" target="_blank">The Future is Unwritten</a>” presentation about building the perfect regular release using new source code from SUSE Linux Enterprise submitted into the Open Build Service. Using this <a href="http://lists.opensuse.org/opensuse-project/2015-05/" target="_blank">source code</a>, Richard was advocating for a new, more stable and well maintained release with a life cycle of three years or more, which would provide engineering efforts to focus on common elements between SLE and openSUSE.</p>
+<p><span id="more-19244"></span>His presentation also focused on the fast-moving, rolling release Tumbleweed and its acceptance by the Linux community. Besides highlighting the 14,000 installations of Tumbleweed and the 130,000 plus users of 13.2, which was basically a snapshot of Tumbleweed more than six-months ago, Richard gave examples how a slow week for Tumbleweed could include 146 package updates, one new Kernel and three snapshots. In addition to 15 new packages on the DVD, Tumbleweed had removed 38 packages from the DVD during a slow week for Tumbleweed, so Tumbleweed is preserving the integrity of the release.</p>
+<p>The other keynote speaker, Aaron Seigo, did not disappoint; he’s a natural public speaker, well spoken and captured the crowd’s attention interest. To put it simply, Aaron is a speaker you not want to miss if you ever have the chance to hear him speak. Aaron spoke passionately about the reasons for using and developing Free Open Source Software. His whole point is that FOSS equates to freedom; freedom from closed-source software that is not transparent.</p>
+<p>Developing FOSS empowers users, he said.</p>
+<p><a href="http://bambuser.com/channel/opensusetv" target="_blank">View the live-stream of the conferences</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/05/02/update-at-osc15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Schedule Published for openSUSE Conference, Kolab Summit</title>
+		<link>https://news.opensuse.org/2015/04/27/schedule-published-for-opensuse-conference-kolab-summit/</link>
+		<comments>https://news.opensuse.org/2015/04/27/schedule-published-for-opensuse-conference-kolab-summit/#comments</comments>
+		<pubDate>Mon, 27 Apr 2015 12:59:21 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19229</guid>
+		<description><![CDATA[&#160; In just a few days, Geekos will kick off the openSUSE Conference in The Hague, Netherlands. There is much to be excited about for this year’s annual conference. Markus Feilner, a seasoned Linux expert, will open up the conference with a keynote speech in the morning on May 1. Richard Brown will follow that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/ON50p0jLn98?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>In just a few days, Geekos will kick off the <a href="http://bit.ly/OSCingit" target="_blank">openSUSE Conference</a> in The Hague, Netherlands.</p>
+<p>There is much to be excited about for this year’s annual conference. <a href="https://events.opensuse.org/conference/osc15/proposal/648" target="_blank">Markus Feilner</a>, a seasoned Linux expert, will open up the conference with a keynote speech in the morning on May 1.</p>
+<p><a href="https://events.opensuse.org/conference/osc15/proposal/610" target="_blank">Richard Brown</a> will follow that with a presentation titled “Super Secret SUSE Project”; that’s presentation you’re not going to want to miss.</p>
+<p>Later that afternoon, <a href="https://events.opensuse.org/conference/osc15/proposal/600" target="_blank">Aaron Seigo</a> will have his keynote speech, which is bound to be equally intriguing.</p>
+<p>‎There will be four rooms used during the event and system administrators will have a chance in one of those rooms try out a new systems management toolkit for Linux from <a href="http://bit.ly/1IeH3As" target="_blank">Project Machinery</a>.</p>
+<p><span id="more-19229"></span>The four-day event can be viewed at <a href="http://bit.ly/1FFdKaz" target="_blank">https://events.opensuse.org/conference/osc15/schedule</a>, but that is not the only schedule for oSC15.</p>
+<p>The Kolab Summit will coincide on Saturday and Sunday with oSC15 and Kolab’s Chief Executive Officer <a href="https://conference.kolab.org/kolab-summit/sessions/keynote-road-ahead-kolaboration" target="_blank">Georg Greve</a> will be providing the summit’s keynote speech on May 2.</p>
+<p>The schedule for the summit can be viewed at <a href="http://bit.ly/1DPGMxv" target="_blank">https://conference.kolab.org/kolab-summit/program/schedule</a>.</p>
+<p>Having oSC15 together with the Kolab Summit provides a great opportunity for attendees to collaborate and strengthen its existing developers relationship.</p>
+<p>There will be a social event on Saturday and Sunday and a good sources tells me there will be some openSUSE Beer at the event.</p>
+<p>For those who are unable to make it to the event, the presenations will be viewable at <a href="https://www.youtube.com/user/opensusetv" target="_blank">https://www.youtube.com/user/opensusetv</a>. Follow us on <a href="http://on.fb.me/1PLITL6" target="_blank">Facebook</a>, <a href="http://bit.ly/1QzT9Yp" target="_blank">Google +</a> and <a href="http://bit.ly/1sKeOgJ" target="_blank">Twitter</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/04/27/schedule-published-for-opensuse-conference-kolab-summit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OSEM in 10.1 simple steps</title>
+		<link>https://news.opensuse.org/2015/04/23/osem-in-10-simple-steps/</link>
+		<comments>https://news.opensuse.org/2015/04/23/osem-in-10-simple-steps/#comments</comments>
+		<pubDate>Thu, 23 Apr 2015 06:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas DeMaio]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://news.opensuse.org/?p=19221</guid>
+		<description><![CDATA[by Alex Vennos What is OSEM? OSEM is an event management web application, tailored to the needs of FOSS conferences. You can visit http://osem.io/ to find out more about it. You can contribute too! The guide is based &#38; tested on openSUSE 13.2 and it will help you get started with your development right away! [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h5><a href="https://news.opensuse.org/wp-content/uploads/2015/04/osemnews.png"><img class="aligncenter wp-image-19222" src="https://news.opensuse.org/wp-content/uploads/2015/04/osemnews-1024x555.png" alt="osemnews" width="448" height="243" /></a>by Alex Vennos</h5>
+<h3><b>What is OSEM?</b></h3>
+<p>OSEM is an event management web application, tailored to the needs of FOSS conferences. You can visit<a href="http://osem.io/"> http://osem.io/</a> to find out more about it.</p>
+<p>You can contribute too!</p>
+<p>The guide is based &amp; tested on openSUSE 13.2 and it will help you get started with your development right away!</p>
+<p><b>How to install OSEM</b></p>
+<p><b>Step 1.</b> Install Ruby &amp; Bundler (version &gt;= ruby 2.1.2)</p>
+<p>sudo zypper in ruby rubygem-bundler</p>
+<p><b>Step 2.</b> Install git to your system</p>
+<p>sudo zypper in git</p>
+<p><b>Step 3.</b> Clone the repository locally to your machine<span id="more-19221"></span></p>
+<p>git clone <a href="https://github.com/openSUSE/osem/" target="_blank">https://github.com/openSUSE/osem/</a></p>
+<p><b>Step 4.</b> Install the basic packages, you will need them for the next steps in order for <i>bundle install </i>to work.</p>
+<p>sudo zypper in make ruby-devel libxml2 libxml2-devel libxslt libxslt-devel libmysqlclient-devel libqt4-devel libQtWebKit-devel nodejs</p>
+<p><b>Step 5.</b> Move in the folder <i>osem</i> and install the necessary gems in your local project folder</p>
+<p>cd osem</p>
+<p>bundle install –standalone</p>
+<p><b>Step 5.1.</b> Optional: You may need to configure nokogiri, so that bundle install succeeds</p>
+<p>bundle config build.nokogiri &#8211;use-system-libraries</p>
+<p><b>Step 6.</b> You can also generate your secret keys for devise and the rails app with</p>
+<p>bundle exec rake secret</p>
+<p><b>Step 7.</b> Copy the sample configuration files</p>
+<p>cp config/config.yml.example config/config.yml</p>
+<p>cp config/database.yml.example config/database.yml</p>
+<p>cp config/secrets.yml.example config/secrets.yml</p>
+<p><b>Step 8.</b> Setup the database</p>
+<p>bundle exec rake db:setup</p>
+<p><b>Step 9.</b> Start your rails server and run OSEM</p>
+<p>bundle exec rails server</p>
+<p><b>Step 10.</b> And you are all set! Visit OSEM at <a href="http://localhost:3000">http://localhost:3000</a></p>
+<p>&#8230;and let the coding begin! The fun starts here!</p>
+<p>Finally I want to thank<a href="https://github.com/differentreality"> Stella Rouzi</a> for her help!</p>
+<h3><b>Contact us!!</b></h3>
+<p>Have questions? Contact us!</p>
+<p>By email: <a href="mailto:info@osem.io" target="_blank">info@osem.io</a></p>
+<p>By IRC: irc://<a href="http://freenode.net/osem">freenode.net/osem</a></p>
+<p>Found a bug? Please open a new issue directly in github.</p>
+<p><a href="https://github.com/openSUSE/osem/issues/new">https://github.com/openSUSE/osem/issues/new</a></p>
+<p>GitHub issue tracking is the best, and fastest, way to ensure your bug</p>
+<p>will be properly reported and fixed</p>
+<p>Have ideas? Develop them and send us a Pull Request with your new feature!</p>
+<p><a href="https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md">https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md</a></p>
+<p>Either way, JOIN US!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://news.opensuse.org/2015/04/23/osem-in-10-simple-steps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
