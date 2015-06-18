@@ -202,5 +202,8 @@ function backToMainPageOs () {
 
 }
 
+//init i18n
 
+var lang = new Lang('en');
+window.lang.dynamic('es', 'assets/js/langpack/es.json');
 

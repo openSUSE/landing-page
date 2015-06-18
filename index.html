@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <title>OpenSUSE Tumbleweed & 13.2</title>
   <meta charset="utf-8">
@@ -21,6 +21,8 @@
   <script src="assets/js/owl.carousel.min.js" type="text/javascript"></script>
   <script src="assets/js/smoothscroll.js"     type="text/javascript"></script>
   <script src="assets/js/xml-news-reader.js"  type="text/javascript"></script>
+  <script src="assets/js/jquery-cookie.js"    type="text/javascript" charset="utf-8"></script>
+  <script src="assets/js/jquery-lang.js"      type="text/javascript" charset="utf-8"></script>
   <!--opensuse custom js -->
   <script src="assets/js/opensuse-theme.js" type="text/javascript"></script>
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -43,22 +45,25 @@
         <nav class="hidden-xs col-sm-10 text-right wow fadeIn" id="main-menu">
           <ul>
             <li>
-              <a class='smoothScroll' data-linkto='opensuse-os' href="#">Home</a>
+              <a class='smoothScroll' data-linkto='opensuse-os' href="#"><span lang="en">Home</span></a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='opensuse-tools' href="#">Tools</a>
+              <a class='smoothScroll' data-linkto='opensuse-tools' href="#"><span lang="en">Tools</span></a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='new-tools' href="#">What's new</a>
+              <a class='smoothScroll' data-linkto='new-tools' href="#"><span lang="en">What's new</span></a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='news' href="#">News</a>
+              <a class='smoothScroll' data-linkto='news' href="#"><span lang="en">News</span></a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='contribute-to-opensuse' href="#">Contribute</a>
+              <a class='smoothScroll' data-linkto='contribute-to-opensuse' href="#"><span lang="en">Contribute</span></a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='opensuse-conferences' href="#">Conferences</a>
+              <a class='smoothScroll' data-linkto='opensuse-conferences' href="#"><span lang="en">Conferences</span></a>
+            </li>
+            <li>
+              <a href="#" onclick="window.lang.change('en'); return false;">En</a> <a  href="#" onclick="window.lang.change('es'); return false;">Es</a>
             </li>
           </ul>
         </nav>
@@ -70,7 +75,7 @@
   </aside>
   <section id="opensuse-os">
     <article class="container-fluid">
-      <h3 class="text-center wow fadeInUp">The makers' choice for sysadmins, developers and desktop users.</h3>
+      <h3 class="text-center wow fadeInUp" lang="en">The makers' choice for sysadmins, developers and desktop users.</h3>
       <div class="row os-main">
         <div class="col-sm-6 text-center wow fadeIn" data-wow-delay=".2s">
           <div id="tumbleweed">
@@ -78,11 +83,11 @@
               <img src="assets/images/tumbleweed-icon.png" class="wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Tumbleweed</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s">Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!</h4>
-            <p class="moreinfo btn btn-primary">More information</p>
+            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!</h4>
+            <p class="moreinfo btn btn-primary" lang="en">More information</p>
             <div class="hidden-content">
-              <p>Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors  If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.</p>
-              <a href="https://en.opensuse.org/openSUSE:Tumbleweed_installation" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Install Tumbleweed</a>
+              <p lang="en">Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.</p>
+              <a href="https://en.opensuse.org/openSUSE:Tumbleweed_installation" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> <span lang="en">Install Tumbleweed</span></a>
             </div>
           </div>
         </div>
@@ -92,11 +97,11 @@
               <img src="assets/images/opensuse-regular-release-icon.png" class="distributions-icon wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">13.2</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s">Get the most complete Linux distribution with openSUSE’s latest regular-release version!</h4>
-            <p class="moreinfo btn btn-primary">More information</p>
+            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Get the most complete Linux distribution with openSUSE’s latest regular-release version!</h4>
+            <p class="moreinfo btn btn-primary" lang="en">More information</p>
             <div class="hidden-content">
-              <p>New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.</p>
-              <a href="https://software.opensuse.org/132/en" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> Install openSUSE</a>
+              <p lang="en">New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.</p>
+              <a href="https://software.opensuse.org/132/en" target="_blank" class="btn btn-primary"><i class="fa fa-download"></i> <span lang="en">Install openSUSE</span></a>
             </div>
           </div>
         </div>
@@ -105,8 +110,8 @@
   </section>
   <section id="opensuse-tools">
     <article class="container-fluid">
-      <h1 class="text-center opensuse-blue wow fadeInUp">openSUSE TOOLS</h1>
-      <h4 class="text-center wow fadeInUp">Discover the best open-source tools developed by our community</h4>
+      <h1 class="text-center opensuse-blue wow fadeInUp" lang="en">openSUSE TOOLS</h1>
+      <h4 class="text-center wow fadeInUp" lang="en">Discover the best open-source tools developed by our community</h4>
       <div class="row tools-container">
         <div class="col-md-6">
           <div class="media wow slideInLeft">
@@ -120,11 +125,11 @@
                 <h4 class="media-heading opensuse-blue strong-title">
                   Open Build Service (OBS)
                   <small>
-                    (Go to link <i class="fa fa-external-link"></i> )
+                    (<span lang="en">Go to link</span> <i class="fa fa-external-link"></i> )
                   </small>
                 </h4>
               </a>
-              <p>Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.</p>
+              <p lang="en">Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.</p>
             </div>
           </div>
           <div class="media wow slideInLeft">
@@ -138,11 +143,11 @@
                 <h4 class="media-heading opensuse-blue strong-title">
                   OpenQA
                   <small>
-                    (Go to link <i class="fa fa-external-link"></i> )
+                    (<span lang="en">Go to link</span> <i class="fa fa-external-link"></i> )
                   </small>
                 </h4>
               </a>
-              <p>Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.</p>
+              <p lang="en">Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.</p>
             </div>
           </div>
           <div class="media wow slideInLeft">
@@ -156,11 +161,11 @@
                 <h4 class="media-heading opensuse-blue strong-title">
                   YaST
                   <small>
-                    (Go to link <i class="fa fa-external-link"></i> )
+                    (<span lang="en">Go to link</span> <i class="fa fa-external-link"></i> )
                   </small>
                 </h4>
               </a>
-              <p>The best/only comprehensive Linux system configuration & installation tool.</p>
+              <p lang="en">The best/only comprehensive Linux system configuration & installation tool.</p>
             </div>
           </div>
           <div class="media wow slideInLeft">
@@ -174,11 +179,11 @@
                 <h4 class="media-heading opensuse-blue strong-title">
                   Kiwi
                   <small>
-                    (Go to link <i class="fa fa-external-link"></i> )
+                    (<span lang="en">Go to link</span> <i class="fa fa-external-link"></i> )
                   </small>
                 </h4>
               </a>
-              <p>Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.</p>
+              <p lang="en">Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.</p>
             </div>
           </div>
         </div>
@@ -187,7 +192,7 @@
             <img src="assets/images/opensuse-laptop.png"/>
           </div>
           <div class="btn-check-tools">
-            <a class="wow fadeIn btn btn-primary">Check all openSUSE tools</a>
+            <a class="wow fadeIn btn btn-primary" lang="en">Check all openSUSE tools</a>
           </div>
         </div>
       </div>
@@ -204,9 +209,9 @@
         </div>
         <div class="col-sm-5 col-sm-offset-2 wow fadeInRight">
           <h2 class="opensuse-blue strong-title">Machinery</h2>
-          <p class="opensuse-blue">Machinery supports configuration discovery, system validation, and service migration.<br>Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully. <br>Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.</p>
+          <p class="opensuse-blue"><span lang="en">Machinery supports configuration discovery, system validation, and service migration.</span><br><span lang="en">Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully. </span><br><span lang="en">Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.</span></p>
           <a href="http://machinery-project.org/" target="_blank">
-            More information
+            <span lang="en">More information</span>
             <i class="fa fa-caret-right"></i>
           </a>
         </div>
@@ -228,24 +233,24 @@
     </article>
   </section>
   <section id="contribute-to-opensuse" class="text-center">
-    <h2 class="strong-title wow fadeInDown">CONTRIBUTE TO OPENSUSE</h2>
-    <h4 class="strong-title wow fadeInDown" data-wow-delay=".5s">Be part of our comunity contributing with any of the followings:</h4>
+    <h2 class="strong-title wow fadeInDown" lang="en">CONTRIBUTE TO OPENSUSE</h2>
+    <h4 class="strong-title wow fadeInDown" data-wow-delay=".5s" lang="en">Be part of our comunity contributing with any of the followings:</h4>
     <div class="row contribution-columns">
       <div class="col-xs-6 contribute-code">
         <i class="fa fa-5x fa-code opensuse-blue wow slideInLeft"></i>
-        <h1 class="opensuse-blue wow slideInLeft">Code</h1>
+        <h1 class="opensuse-blue wow slideInLeft" lang="en">Code</h1>
       </div>
       <div class="col-xs-6 contribute-hardware">
         <i class="fa fa-5x fa-server opensuse-blue wow slideInRight"></i>
-        <h1 class="opensuse-blue wow slideInRight">Hardware</h1>
+        <h1 class="opensuse-blue wow slideInRight" lang="en">Hardware</h1>
       </div>
     </div>
   </section>
   <section id="opensuse-conferences">
     <div class="section-background"></div>
     <article>
-      <h2 class="strong-title wow slideInDown">Meet up with openSUSE at conferences.</h2>
-      <a href="https://events.opensuse.org/" target="_blank" class="btn btn-primary wow zoomIn">View upcoming conferences</a>
+      <h2 class="strong-title wow slideInDown" lang="en">Meet up with openSUSE at conferences.</h2>
+      <a href="https://events.opensuse.org/" target="_blank" class="btn btn-primary wow zoomIn"><span lang="en">View upcoming conferences</span></a>
     </article>
   </section>
   <footer>
