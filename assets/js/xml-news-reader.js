@@ -2,7 +2,7 @@
 
 $(function () {
   $.ajax({
-    url: 'opensuse.xml',
+    url: 'opensuse.xml', //change to: https://news.opensuse.org/feed/ once the page is on the opensuse Server
     dataType: "xml",
     success: function(xmldata) {
       $(xmldata).find('item').each(function(){
