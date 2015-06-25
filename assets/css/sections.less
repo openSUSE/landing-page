@@ -1,9 +1,12 @@
 
 #opensuse-os {
   background: @opensuse-os-background;
-  padding-top: 145px;
   padding-bottom: 0;
   transition: all .5s ease;
+  position: relative;
+  height: 720px;
+  width: 100%;
+  overflow: hidden;
   h3 {
     color: @opensuse-green;
     font-weight: 300;
@@ -18,7 +21,7 @@
   h4 {
     color: #fff;
     line-height: 1.4em;
-    width: 430px;
+    max-width: 430px;
     margin-right: auto;
     margin-left: auto;
   }
@@ -57,23 +60,31 @@
       }
     }
   }
+  //fix for the particles
+  article, #more-information-os {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-top: 145px;
+    width: 100%;
+  }
+   #more-information-os {
+    padding-top: 165px;
+    padding-left: 20%;
+    padding-right: 20%;
+    h1, p {
+      color: #fff;
+    }
+    p {
+      font-size: 1.6em
+    }
+    .btn i {
+      font-size: 1em;
+    }
+  }
 }
 
-#more-information-os {
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 2em;
-  width: 60%;
-  h1, p {
-    color: #fff;
-  }
-  p {
-    font-size: 1.6em
-  }
-  .btn i {
-    font-size: 1em;
-  }
-}
+
 
 .hidden-content {
   display: none;

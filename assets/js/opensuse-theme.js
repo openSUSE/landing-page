@@ -207,3 +207,13 @@ function backToMainPageOs () {
 var lang = new Lang('en');
 window.lang.dynamic('es', 'assets/js/langpack/es.json');
 
+//init particles background
+
+$(document).ready(function() {
+  var colorParticles = 'rgba(255,255,255,0.07)'
+  $('#opensuse-os').particleground({
+    dotColor: colorParticles,
+    lineColor: colorParticles
+  });
+});
+
