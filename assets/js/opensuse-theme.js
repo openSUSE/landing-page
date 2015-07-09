@@ -165,7 +165,7 @@ function osMoreInformation(os) {
                   + '</div>'
                   + '<br/>'
                   + '<div class="btn btn-link back-to-main-page">'
-                  + '<i class="fa fa-long-arrow-left"></i> Back to main page'
+                  + '<i class="fa fa-long-arrow-left" lang="en"></i> Back to main page'
                   + '</div>'
                   + '</div>'
     $('#opensuse-os').append(information)
@@ -216,4 +216,79 @@ $(document).ready(function() {
     lineColor: colorParticles
   });
 });
+
+//Contribution interpolation
+
+$(document).ready(function () {
+
+  contributionInterpolation()
+
+});
+
+var contributionInterpolation = function () {
+  $(document).on("click", '.contribute-code', function () {
+    bounceBall($(this), 3, 250);
+  })
+  $(document).on("click", '.contribute-hardware', function () {
+    bounceBall($(this), 3, 250);
+  })
+
+  function bounceBall(element, times, speed) {
+
+    //add the class Active to the element
+    element.addClass('active');
+
+    //take the initial position of the element
+    var x = element.offset().left - $(window).scrollLeft();
+    var y = $(window).outerHeight() - (element.offset().top - $(window).scrollTop()) - element.outerHeight();
+
+    //make the element a position absolute element of the body removing it first from the original container
+    var parent = element.parent();
+    element.detach();
+    $('#contribute-details').prepend(element).css({display: 'block'});
+    //element.
+
+    element.css({
+      position: 'absolute',
+      left: x + 'px',
+      bottom: y + 'px'
+    })
+
+    for(var i = 0; i < times; i++) {
+      distance =  y / (i+2) ;
+
+      element.animate({bottom: 0}, speed, 'easeInQuad')
+        .animate({bottom: '+='+distance}, speed, 'easeOutQuad');
+      if (i === 2) {
+        element.animate({bottom: 0}, 400, 'easeInQuad', function() {
+          openContributionDetails()
+        });
+      }
+    }
+
+    var openContributionDetails = function () {
+      var $closeDetails = '<button type="button" class="close-details btn btn-default" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>'
+      var $detailsContent = parent.find('.hidden-content').html();
+      var $details = "<div class='contribution-extended-details animated fadeInUp'>" + $detailsContent + "</div>"
+
+      $("#contribute-details").css({background: 'rgba(54, 184, 120, 0.9)'})
+        .append($details).append($closeDetails);
+
+      //close the details
+      $('.close-details').on("click", function() {
+        $('#contribute-details').fadeOut(function() {
+          $(this).empty().removeAttr('style');
+          element.removeAttr('style').removeClass('active');
+          parent.prepend(element).addClass('animated fadeInUp');
+
+        })
+      });
+
+    }
+  }
+
+}
+
+
+
 

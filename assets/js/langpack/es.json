@@ -1,45 +1,145 @@
 {
   "token": {
-    "The makers' choice for sysadmins, developers and desktop users.":"La mejor eleccion para administradores de systema, desarrolladores y usuarios de escritorio",
-    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":"Consigue los mas nuevos paquetes de Linux con nuestro lanzamiento continuo. Rapido! Integrado! Estable! Testeado!",
-    "More information":"Mas informacion",
-    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":"Cualquier usuario que desee tener los mas nuevos paquetes que incluyen, pero no estan limitados, el Kernel de Linux, SAMBA, git, escritorios, aplicaciones office y muchos otros paquetes, querran Tumbleweed. Tumbleweed atrae a Poderosos Usuarios, Desarrolladores de Software y Contribuyentes de openSUSE. Si tu requieres los ultimos pilares de software y un ambiente de desarrollo independiente o necesitas una plataforma estable mas cercana a bleeding edge Linux, Tumbleweed es la mejor opcion para ti",
-    "Install Tumbleweed":"Instalar Tumbleweed",
-    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!":"Obten la mas completa distribucion de Linux con la ultima version OpenSUSE de lanzamiento regular!",
-    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":"Nuevos y experimentados usuarios Linux obtienen la mas usable distribucion de linux y estabilizados systemas con la version regular de openSUSE. Recibe actualizaciones y fortalece tu OS con la ultima y mayor distribucion de openSUSE. Selecciona tu escritorio, configura tu sistema y disfruta la plataforma por eleccion para desarrolladores Linux, administradores y vendedores de software.",
-    "Install openSUSE":"Instala openSUSE",
-    "Home":"Inicio",
-    "Tools":"Herramientas",
-    "What's new":"Lo nuevo",
-    "News":"Noticias",
-    "Contribute":"Contribuye",
-    "Conferences":"Conferencias",
-    "openSUSE TOOLS":"Herramientas openSUSE",
-    "Discover the best open-source tools developed by our community":"Descubre las mejores herramientas open-source desarrolladas por nuestra comunidad",
-    "Go to link":"Ir al link",
-    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":"Pruebas automatizadas por *Cualquier* sistema operativo, que pueden leer la pantalla y controlar el huesped de prueba de la misma manera que un usuario lo hace.",
-    "The best/only comprehensive Linux system configuration & installation tool.":"La mejor/unica configuracion de sistema Linux comprensiva y herramienta de instalacion",
-    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":"Crea imagenes de Linux para despliegue en hardware real, virtualizacion, y ahora tambien en contenedores de sistema como Docker. Kiwi es el motor que have funcionar a SUSE Studio.",
-    "Check all openSUSE tools":"Revisa todas las herramientas openSUSE",
-    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":"Nuestra herramienta de construccion, contruyendo todos nuestros paquetes como asi tambien los de SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and mas.",
-    "Machinery supports configuration discovery, system validation, and service migration.": "Machinery soporta descubrimiento de configuracion, validacion de sistema, y migracion de servicio.",
-    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.": "Machinery esta basado en la idea de una description de sistema universal. Es transparente, extensivo, y hecho a mano bellamente.",
-    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":"Machinery esta hecho para el administrador de sistema del centro de datos. Lee mas acerca de la filosofia detras.",
-    "CONTRIBUTE TO OPENSUSE":"CONTRIBUYA CON OPENSUSE",
-    "Be part of our comunity contributing with any of the followings:":"Se parte de nuestra comunidad contribuyendo con cualquiera de los siguientes:",
-    "Code":"Codigo",
-    "Hardware":"Hardware",
-    "Meet up with openSUSE at conferences.":"Encuentrate con openSUSE en conferencias.",
-    "View upcoming conferences":"Mira las proximas conferencias",
-    "Get software":"Encuentra Software",
-    "Wiki":"Wiki",
-    "Build Service":"Servicio de construccion",
-    "Social Network":"Redes sociales",
-    "Forums":"Foros",
-    "Shop":"Tienda",
-    "Blogs":"Blogs",
-    "Press":"Prensa",
-    "Sponsored by":"Sponsoreado por",
-    "All Rights Reserved.":"Todos los derechos reservados."
+
+    "The makers' choice for sysadmins, developers and desktop users.":
+    "La mejor eleccion para administradores de systema, desarrolladores y usuarios de escritorio",
+
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
+    "Consigue los mas nuevos paquetes de Linux con nuestro lanzamiento continuo. Rapido! Integrado! Estable! Testeado!",
+
+    "More information":
+    "Más información",
+
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
+    "Cualquier usuario que desee tener los mas nuevos paquetes que incluyen, pero no estan limitados, el Kernel de Linux, SAMBA, git, escritorios, aplicaciones office y muchos otros paquetes, querran Tumbleweed. Tumbleweed atrae a Poderosos Usuarios, Desarrolladores de Software y Contribuyentes de openSUSE. Si tu requieres los ultimos pilares de software y un ambiente de desarrollo independiente o necesitas una plataforma estable mas cercana a bleeding edge Linux, Tumbleweed es la mejor opcion para ti",
+
+    "Install Tumbleweed":
+    "Instalar Tumbleweed",
+
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!":
+    "Obten la mas completa distribucion de Linux con la ultima version OpenSUSE de lanzamiento regular!",
+
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
+    "Nuevos y experimentados usuarios Linux obtienen la mas usable distribucion de linux y estabilizados systemas con la version regular de openSUSE. Recibe actualizaciones y fortalece tu OS con la ultima y mayor distribucion de openSUSE. Selecciona tu escritorio, configura tu sistema y disfruta la plataforma por eleccion para desarrolladores Linux, administradores y vendedores de software.",
+
+    "Install openSUSE":
+    "Instala openSUSE",
+
+    "Home":
+    "Inicio",
+
+    "Tools":
+    "Herramientas",
+
+    "What's new":
+    "Lo nuevo",
+
+    "News":
+    "Noticias",
+
+    "Contribute":
+    "Contribuye",
+
+    "Conferences":
+    "Conferencias",
+
+    "openSUSE TOOLS":
+    "Herramientas openSUSE",
+
+    "Discover the best open-source tools developed by our community":
+    "Descubre las mejores herramientas open-source desarrolladas por nuestra comunidad",
+
+    "Go to link":
+    "Ir al link",
+
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
+    "Pruebas automatizadas por *Cualquier* sistema operativo, que pueden leer la pantalla y controlar el huesped de prueba de la misma manera que un usuario lo hace.",
+
+    "The best/only comprehensive Linux system configuration & installation tool.":
+    "La mejor/unica configuracion de sistema Linux comprensiva y herramienta de instalacion",
+
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
+    "Crea imagenes de Linux para despliegue en hardware real, virtualizacion, y ahora tambien en contenedores de sistema como Docker. Kiwi es el motor que have funcionar a SUSE Studio.",
+
+    "Check all openSUSE tools":
+    "Revisa todas las herramientas openSUSE",
+
+    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
+    "Nuestra herramienta de construccion, contruyendo todos nuestros paquetes como asi tambien los de SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and mas.",
+
+    "Machinery supports configuration discovery, system validation, and service migration.":
+    "Machinery soporta descubrimiento de configuracion, validacion de sistema, y migracion de servicio.",
+
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
+    "Machinery esta basado en la idea de una description de sistema universal. Es transparente, extensivo, y hecho a mano bellamente.",
+
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
+    "Machinery esta hecho para el administrador de sistema del centro de datos. Lee mas acerca de la filosofia detras.",
+
+    "CONTRIBUTE TO OPENSUSE":
+    "CONTRIBUYE CON OPENSUSE",
+
+    "Be part of our comunity contributing with any of the followings:":
+    "Se parte de nuestra comunidad contribuyendo con cualquiera de los siguientes:",
+
+    "Contribute Code":
+    "Contribuye Código",
+
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador. Find out more about how to participate.":
+    "openSUSE cree que los mejores resultados provienen de gente colaborando y divirtiéndose. Ser diferentes a otras comunidades open-source es lo que hace a openSUSE deseable. No somos la comunidad convencional y los esfuerzos de nuestra comunidad determinan el camino del proyecto. Los esfuerzos de la comunidad han creado varias grandes herramientas para Linux y una distribución increíble. Con openSUSE, tienes voz y puedes fácilmente contribuir al proyecto. Así seas un desarrollador Linux de experiencia o un usuario final involucrado en el proyecto openSUSE. Unete al foro, mantiene nuestra wiki al día, encuentra y reporta bugs, revisa la documentación, envía tu lista de deseos para nuevos paquetes y características, crea y envía parches, o convertirse en un defensor de openSUSE atendiendo eventos y convirtiéndote en un embajador. Encuentra mas sobre como participar",
+
+    "Contribute Hardware":
+    "Contribuye Hardware",
+
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
+    "Las donaciones para apoyar el proyecto openSUSE son siempre bienvenidas. De hecho, Open Build Service, el cual es utilizado por varios proyectos open-source, se hizo disponible a la comunidad del proyecto gracias a una generosa donación de servidores AMD. Este tipo de donaciones permiten a gente y proyectos prosperar, desarrollarse, innovar y progresar. El proyecto no pide dinero, pero donaciones de hardware para utilizar la experiencia de la comunidad open-source para potenciar el desarrollo Linux, prove a openSUSE de herramientas para el gratis, ecosistema de codigo abierto y devuelve a desarrolladores, administradores de sistema y paquetadores. Hardware ayuda a la comunidad de openSUSE! Hardware ayuda a la comunidad open-source! And Hardware ayuda al desarrollo de Linux. Para aprender mas acerca de como puede donar al proyecto openSUSE, escríbemos a",
+
+    "Code":
+    "Codigo",
+
+    "Hardware":
+    "Hardware",
+
+    "Meet up with openSUSE at conferences.":
+    "Encuentrate con openSUSE en conferencias.",
+
+    "View upcoming conferences":
+    "Mira las proximas conferencias",
+
+    "Get software":
+    "Software",
+
+    "Wiki":
+    "Wiki",
+
+    "Build Service":
+    "Servicio de construccion",
+
+    "Social Network":
+    "Redes sociales",
+
+    "Forums":
+    "Foros",
+
+    "Shop":
+    "Tienda",
+
+    "Blogs":
+    "Blogs",
+
+    "Press":
+    "Prensa",
+
+    "Sponsored by:":
+    "Sponsoreado por:",
+
+    "All Rights Reserved.":
+    "Todos los derechos reservados.",
+
+    "Find out more":
+    "Más información",
+
+    "Back to main page":
+    "Volver a la página principal"
   }
 }
