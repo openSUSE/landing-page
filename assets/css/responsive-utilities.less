@@ -56,6 +56,9 @@
         padding: 0 20px;
       }
     }
+    [src*="laptop.png"] {
+      width: 90%;
+    }
   }
   h1 {
     font-size: 38px;
@@ -76,7 +79,7 @@
       display: none;
     }
   }
-  #contribute-to-opensuse .contribution-columns {
+  #contribute-to-opensuse {
     .contribute-code,
     .contribute-hardware {
       height: 160px;
@@ -88,7 +91,21 @@
         left: -10px;
       }
       i.fa-5x {
-        font-size: 3em
+        font-size: 3em;
+      }
+    }
+    #contribute-details {
+      .close-details {
+        font-size: 1.2em;
+      }
+      .contribution-extended-details {
+        padding: 10px 20px;
+        p {
+          font-size: .9em;
+        }
+        h1 {
+          font-size: 22px;
+        }
       }
     }
   }
