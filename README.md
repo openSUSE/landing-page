@@ -1,10 +1,10 @@
 # The new openSUSE landing page
 
 In this new page we will feature Tumbleweed and Regular Releases.
-## Why?
-Because after years working without a defined target audience and rather trying to aim at any software, internet, computer user, the openSUSE Board as invested time and knowledge understanding the real personas behind our beloved openSUSE, and while working around it they identified two "different" users: the Tumbleweed user and the openSUSE regular release user.
+## Why did we need a new one?
+Because after years working without a defined target audience and rather trying to aim at any software, internet, computer user, the openSUSE Board as invested time and knowledge understanding the real personas behind our beloved openSUSE, and while working around it they identified two "different" users: the Tumbleweed user and the openSUSE regular release user (Leap).
 
-## But why to create a new landing page? I liked the old one.
+## But why to create a new UI for it? I liked the old one.
 Well, the answer is simple: just like the saying says "The shoemaker's son always goes barefoot" we were leaving our main door to new commers get old and rusty.
 We implemented a new UI highlighting the most important information for our new commers and of course, we wont forget any of the rest in the community like us, always contributing and working together to make openSUSE better every day.
 
@@ -19,7 +19,7 @@ The new colour pallete is publicly available at: http://opensuse.github.io/brand
 At this point we need to say Thank you! to the Board and Douglas Demaio for helping us providing the text in the website.
 **How we organized the Information and why**
 
-* Tumbleweed vs 13.2: The way we see it, Tumbleweed and 13.2 (regular release) users have the same passion but sightly different approaches with openSUSE. The First one goes for an up-to-date system taking the risks if a new version of an application breakes the software he/she is developing; while the second one goes for stability taking into consideration that his software can get old in time if he/she doesnt move forward to the next release.
+* Tumbleweed vs Leap: The way we see it, Tumbleweed and Leap (regular release) users have the same passion but sightly different approaches with openSUSE. The First one goes for an up-to-date system taking the risks if a new version of an application breakes the software he/she is developing; while the second one goes for stability taking into consideration that his software can get old in time if he/she doesnt move forward to the next release.
 This made us understand that new users need to understand this differenciation in the main section of the landing page, to then decide for one or the other, and for our regular visitors the next sections will become more relevant.
 
 * Tools: With help of the Board we filtered out 4 of the most popular openSUSE tools: OBS, OpenQA, YaST and Kiwi. The reason for a second important position in the site is simple: our tools are in many cases, the choice maker for many openSUSE users. So we decided to give them a brief explanation (extracted from Richard Brown's blog) and present some screenshots as well as a link to see All openSUSE tools.
@@ -74,11 +74,11 @@ All you have to do to contribute is:
 ** Now its time to add the new language to the dropdown. For this follow the next steps: **
 
 1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
-2. Add a new option to the list by simply adding a like such <code><li><a href="#" class="change-language" data-language-value="es">Spanish</a></li></code>. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added. This code has to match with the name of the file you created.
-3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to go to the line 208 and under it add the new language in the following format <code>window.lang.dynamic('es', 'assets/js/langpack/es.json');</code>. **Note:** We are configuring the optional languages and giving them the value with which our html will be calling them, in this case "es", and in the secong value we are declaring the rute to the file. Please verify you are giving the right values here.
+2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added. This code has to match with the name of the file you created.
+3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to go to the line 208 and under it add the new language in the following format ```window.lang.dynamic('es', 'assets/js/langpack/es.json');```. **Note:** We are configuring the optional languages and giving them the value with which our html will be calling them, in this case "es", and in the secong value we are declaring the rute to the file. Please verify you are giving the right values here.
 
 ** Test it **
-If you want to run the website in a simple local server, you can try using <code>Python -m SimpleHTTPServer</code> which will run under the port 8000 locally. So simply go to http://localhost:8000/ and try changing the language of the website to the new one you just created. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is any message in the console, if not, you have done an Excellent job!
+If you want to run the website in a simple local server, you can try using ```Python -m SimpleHTTPServer``` which will run under the port 8000 locally. So simply go to http://localhost:8000/ and try changing the language of the website to the new one you just created. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is any message in the console, if not, you have done an Excellent job!
 
 ---
 
