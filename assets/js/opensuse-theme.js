@@ -165,7 +165,8 @@ function osMoreInformation(os) {
                   + '</div>'
                   + '<br/>'
                   + '<div class="btn btn-link back-to-main-page">'
-                  + '<i class="fa fa-long-arrow-left" lang="en"></i> Back to main page'
+                  + '<i class="fa fa-long-arrow-left"></i>'
+                  + '<span lang="en">Back to main page</span>'
                   + '</div>'
                   + '</div>'
     $('#opensuse-os').append(information)
