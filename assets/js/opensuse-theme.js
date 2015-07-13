@@ -200,7 +200,6 @@ function backToMainPageOs () {
     $('#opensuse-os .container-fluid').removeClass('animated bounceOut').show().addClass('animated bounceIn')
   }
 
-
 }
 
 //*****************init i18n
@@ -212,7 +211,13 @@ window.lang.dynamic('es', 'assets/js/langpack/es.json');
 //change language on click
 $(document).on("click", ".change-language", function() {
   var languageSelected = $(this).data('language-value');
-  window.lang.change(languageSelected);
+  var languageString = $(this).html();
+  $("body").fadeOut(300, function() {
+    window.lang.change(languageSelected);
+    $(".selected-language").html(languageString);
+    $(this).fadeIn(300);
+  });
+
   return false;
 })
 //*****************
@@ -299,7 +304,4 @@ var contributionInterpolation = function () {
   }
 
 }
-
-
-
 
