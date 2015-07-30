@@ -58,7 +58,7 @@ function getScrolledData() {
 
 function headerChanges() {
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f',
+    background: moreInfoOpened ? '#6da741' : '#173f4f',
     top: '0px',
     height: '45px',
     padding: '8px',
@@ -77,7 +77,7 @@ function headerReset() {
   $('header').removeAttr('style')
   //but always keep the color applied from the scrolling
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
+    background: moreInfoOpened ? '#6da741' : '#173f4f'
   })
   $('#opensuseLogo').removeAttr('style')
   $('header ul li a').removeAttr('style')
@@ -136,10 +136,10 @@ function osMoreInformation(os) {
   // animation
   $('#opensuse-os .container-fluid').addClass('animated bounceOut')
   $('#opensuse-os').css({
-    background: '#4bb67a'
+    background: '#6da741'
   })
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
+    background: moreInfoOpened ? '#6da741' : '#173f4f'
   })
   $('header ul li a').css({
     color: "#fff"
@@ -287,7 +287,7 @@ var contributionInterpolation = function () {
       var $detailsContent = parent.find('.hidden-content').html();
       var $details = "<div class='contribution-extended-details animated fadeInUp'>" + $detailsContent + "</div>"
 
-      $("#contribute-details").css({background: 'rgba(54, 184, 120, 0.9)'})
+      $("#contribute-details").css({background: 'rgba(109, 167, 65, 0.9)'})
         .append($details).append($closeDetails);
 
       //close the details
