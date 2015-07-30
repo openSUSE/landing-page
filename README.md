@@ -67,7 +67,7 @@ All you have to do to contribute is:
 
 1. Fork the repository
 2. Create a new branch following this structure for the name: "New: **languagename** language package"
-3. Duplicate the file **assets/js/langpack/es.json** and name the new file with the **International code of language representation** of the language you will translate. If you dont know the interntional code of your language you can find at https://www.loc.gov/standards/iso639-2/php/code_list.php under **ISO 639-1 Code**
+3. Duplicate the file **assets/js/langpack/translation-template.json** and name the new file with the **International code of language representation** of the language you will translate. If you dont know the interntional code of your language you can find at https://www.loc.gov/standards/iso639-2/php/code_list.php under **ISO 639-1 Code**
 4. In the new json file you have created you will see the translation first in English and its value in the new language (in this case, spanish). Proceed to remove the spanish values and apply the new translation for your language.
 5. Please make sure the file keeps the json format after you finish the translation.
 
