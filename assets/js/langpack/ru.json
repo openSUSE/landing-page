@@ -2,26 +2,45 @@
   "token": {
 
     "The makers' choice for sysadmins, developers and desktop users.":
+<<<<<<< HEAD
     "Лучший выбор для системных администраторов, разработчиков и простых пользователей",
 
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
     "Загрузите новейшие пакеты ПО Linux с нашим rolling релизом! Быстро! Стабильно! Проверено!",
+=======
+    "The makers' choice for sysadmins, developers and desktop users.",
+
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!",
+>>>>>>> Add Russian language
 
     "More information":
     "Больше информации",
 
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
+<<<<<<< HEAD
     "Любой пользователь, желающий получить новейшие пакеты, включающие, но неограничивающиеся, ядром Linux, SAMBA, git, приложениями для рабочего стола, офисными приложениями и многими другими пакетами, захочет загрузить Tumbleweed. Tumbleweed предназначен для опытных пользователей, разработчиков ПО, а так же участников проекта openSUSE. Если вам необходимы последние версии пакетов ПО и Интегрированные Среды Разработки (IDE), или же, если вам необходима стабильная, но в тоже время ближайщая к разрабатываемой версии ядра Linux операционная система, то Tumbleweed это ваш выбор.",
+=======
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.",
+>>>>>>> Add Russian language
 
     "Install Tumbleweed":
     "Установить Tumbleweed",
 
     "Get the most complete Linux distribution with openSUSE’s latest regular-release version!":
+<<<<<<< HEAD
     "Загрузите наиболее полный дистрибутив Linux вместе с последней версией регулярно обновляемого релиза openSUSE",
 
     "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
     "Новички и опытные пользователи могут загрузить наиболее полный и стабильный дистрибутив Linux с регулярно обновляемой версией openSUSE. Получайте регулярные обновления для своей операцинной системы openSUSE. Выбирайте свой рабочий стол, настраивайте свою систему и наслаждайтесь лучшим дистрибутивом для разработчиков Linux, администраторов и поставщиков программного обеспечения.",
     
+=======
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!",
+
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.",
+
+>>>>>>> Add Russian language
     "Install openSUSE":
     "Установить openSUSE",
 
@@ -35,7 +54,11 @@
     "Что нового",
 
     "News":
+<<<<<<< HEAD
     "Новости",
+=======
+    "Новость",
+>>>>>>> Add Russian language
 
     "Contribute":
     "Участвовать",
@@ -47,12 +70,17 @@
     "Инструменты openSUSE",
 
     "Discover the best open-source tools developed by our community":
+<<<<<<< HEAD
     "Откройте для себя лучшие инструменты с открытым исходным кодом, разработанные нашим сообществом",
+=======
+    "Discover the best open-source tools developed by our community",
+>>>>>>> Add Russian language
 
     "Go to link":
     "Перейти по ссылке",
 
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
+<<<<<<< HEAD
     "Средство автоматизированного тестирования для *любой* операционной системы, которое может считывать события на экране и управлять операционной системой имитируя работу пользователя ",
 
     "The best/only comprehensive Linux system configuration & installation tool.":
@@ -60,11 +88,21 @@
 
     "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
     "Создавайте образы Linux, предназначенные для установки на реальном аппаратном обеспечении, в средах виртуализации и даже в системах управления контейнерами, такими как Docker. Kiwi это инструмент, лежащий в основе SUSE Studio.",
+=======
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.",
+
+    "The best/only comprehensive Linux system configuration & installation tool.":
+    "The best/only comprehensive Linux system configuration & installation tool.",
+
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.",
+>>>>>>> Add Russian language
 
     "Check all openSUSE tools":
     "Все инструменты openSUSE",
 
     "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
+<<<<<<< HEAD
     "Наш инструмент для сборки ПО собирает все пакеты для openSUSE, а так же для SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu и многих других.",
 
     "Machinery supports configuration discovery, system validation, and service migration.":
@@ -75,11 +113,24 @@
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
     "Machinery создана для администраторов датацентров. Узнайте больше о философии лежащей в ее основе.",
+=======
+    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.",
+
+    "Machinery supports configuration discovery, system validation, and service migration.":
+    "Machinery supports configuration discovery, system validation, and service migration.",
+
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.",
+
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.",
+>>>>>>> Add Russian language
 
     "CONTRIBUTE TO OPENSUSE":
     "УЧАСТВОВАТЬ В ПРОЕКТЕ OPENSUSE",
 
     "Be part of our comunity contributing with any of the followings:":
+<<<<<<< HEAD
     "Станьте частью нашего сообщества, помогая нам любым из следующих способов:",
 
     "Contribute Code":
@@ -96,6 +147,24 @@
 
     "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
     "Пожертвования в поддержку проекта openSUSE всегда приветствуются. На самом деле, Open Build Service, которым пользуются несколько open-source проектов, стал доступен благодаря щедрому пожертвованию серверов от AMD. Именно этот тип пожертвований позволяет людям и проектам процветать, развиваться, внедрять инновации и совершенствоваться. Проект openSUSE не просит денег, но пожертвования аппаратного обеспечения могут использоваться open-source сообществом для совершенствования возможностей разработки Linux, обеспечения openSUSE инструментами для создания свободной и открытой системы, которая в последствии будет использоваться разработчиками, администраторами, а так же сборщиками ПО. Аппаратное обеспечение помогает сообществу openSUSE, аппаратное обеспечение помогает разработкe Linux! Чтобы узнать о том, как вы можете пожертвовать аппаратное обеспечение проекту openSUSE, напишите по этому адресу",
+=======
+    "Be part of our comunity contributing with any of the followings:",
+
+    "Contribute Code":
+    "Contribute Code",
+
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.",
+
+    "Find out more about how to participate.":
+    "Find out more about how to participate.",
+
+    "Contribute Hardware":
+    "Contribute Hardware",
+
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email",
+>>>>>>> Add Russian language
 
     "Code":
     "Код",
@@ -104,10 +173,17 @@
     "Аппаратное обеспечение",
 
     "Meet up with openSUSE at conferences.":
+<<<<<<< HEAD
     "Встретьтесь с представителями сообщества openSUSE на конференциях.",
 
     "View upcoming conferences":
     "Будущие конференции",
+=======
+    "Meet up with openSUSE at conferences.",
+
+    "View upcoming conferences":
+    "View upcoming conferences",
+>>>>>>> Add Russian language
 
     "Get software":
     "Получить программное обеспечение",
@@ -134,7 +210,11 @@
     "Пресса",
 
     "Sponsored by:":
+<<<<<<< HEAD
     "При поддержке:",
+=======
+    "При поддержки:",
+>>>>>>> Add Russian language
 
     "All Rights Reserved.":
     "Все права защищены.",
@@ -143,7 +223,11 @@
     "Узнать больше",
 
     "Back to main page":
+<<<<<<< HEAD
     "Вернуться на главную страницу",
+=======
+    "Назад на главную страницу",
+>>>>>>> Add Russian language
 
     "Change language":
     "Изменить язык"
