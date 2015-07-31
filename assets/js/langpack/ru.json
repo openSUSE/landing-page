@@ -62,7 +62,11 @@
     "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.",
 
     "Check all openSUSE tools":
+<<<<<<< HEAD
     "Check all openSUSE tools",
+=======
+    "Все инструменты openSUSE",
+>>>>>>> Add Russian language
 
     "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
     "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.",
@@ -77,7 +81,11 @@
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.",
 
     "CONTRIBUTE TO OPENSUSE":
+<<<<<<< HEAD
     "CONTRIBUTE TO OPENSUSE",
+=======
+    "ПОМОЧЬ OPENSUSE",
+>>>>>>> Add Russian language
 
     "Be part of our comunity contributing with any of the followings:":
     "Be part of our comunity contributing with any of the followings:",
