@@ -1,0 +1,159 @@
+{
+  "token": {
+
+    "The makers' choice for sysadmins, developers and desktop users.":
+    "The makers' choice for sysadmins, developers and desktop users.",
+
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!",
+
+    "More information":
+    "Больше информации",
+
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.",
+
+    "Install Tumbleweed":
+    "Установить Tumbleweed",
+
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!":
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!",
+
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.",
+
+    "Install openSUSE":
+    "Установить openSUSE",
+
+    "Home":
+    "Домой",
+
+    "Tools":
+    "Инструменты",
+
+    "What's new":
+    "Что нового",
+
+    "News":
+    "Новости",
+
+    "Contribute":
+    "Участвовать",
+
+    "Conferences":
+    "Конференции",
+
+    "openSUSE TOOLS":
+    "Инструменты openSUSE",
+
+    "Discover the best open-source tools developed by our community":
+    "Откройте для себя лучшие инструменты с открытм иходным кодом, разработанные нашим сообществом",
+
+    "Go to link":
+    "Перейти по ссылке",
+
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.",
+
+    "The best/only comprehensive Linux system configuration & installation tool.":
+    "Лучший/единственный всесторонний инструмент установки и настройки Linux",
+    
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.",
+
+    "Check all openSUSE tools":
+<<<<<<< HEAD
+    "Check all openSUSE tools",
+=======
+    "Все инструменты openSUSE",
+>>>>>>> Add Russian language
+
+    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
+    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.",
+
+    "Machinery supports configuration discovery, system validation, and service migration.":
+    "Machinery supports configuration discovery, system validation, and service migration.",
+
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.",
+
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.",
+
+    "CONTRIBUTE TO OPENSUSE":
+<<<<<<< HEAD
+    "CONTRIBUTE TO OPENSUSE",
+=======
+    "ПОМОЧЬ OPENSUSE",
+>>>>>>> Add Russian language
+
+    "Be part of our comunity contributing with any of the followings:":
+    "Be part of our comunity contributing with any of the followings:",
+
+    "Contribute Code":
+    "Contribute Code",
+
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.",
+
+    "Find out more about how to participate.":
+    "Find out more about how to participate.",
+
+    "Contribute Hardware":
+    "Contribute Hardware",
+
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email",
+
+    "Code":
+    "Код",
+
+    "Hardware":
+    "Аппаратное обеспечение",
+
+    "Meet up with openSUSE at conferences.":
+    "Meet up with openSUSE at conferences.",
+
+    "View upcoming conferences":
+    "View upcoming conferences",
+
+    "Get software":
+    "Получить программное обеспечение",
+
+    "Wiki":
+    "Вики",
+
+    "Build Service":
+    "Build Service",
+
+    "Social Network":
+    "Социальная сеть",
+
+    "Forums":
+    "Форумы",
+
+    "Shop":
+    "Магазин",
+
+    "Blogs":
+    "Блоги",
+
+    "Press":
+    "Пресса",
+
+    "Sponsored by:":
+    "При поддержке:",
+
+    "All Rights Reserved.":
+    "Все права защищены.",
+
+    "Find out more":
+    "Узнать больше",
+
+    "Back to main page":
+    "Назад на главную страницу",
+
+    "Change language":
+    "Изменить язык"
+  }
+}
