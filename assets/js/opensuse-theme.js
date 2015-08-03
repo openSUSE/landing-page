@@ -316,3 +316,8 @@ var contributionInterpolation = function () {
 
 }
 
+// Add "openSUSE Linux OS" to the document Title
+$(document).on("ready", function() {
+  $("title").prepend('openSUSE - Linux OS. ')
+})
+
