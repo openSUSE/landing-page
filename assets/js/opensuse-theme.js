@@ -218,6 +218,7 @@ window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
 window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
 window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
 window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
+window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
 
 //change language on click
 $(document).on("click", ".change-language", function() {
