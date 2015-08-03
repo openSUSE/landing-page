@@ -1,5 +1,7 @@
 # The new openSUSE landing page
 
+View the preview at: http://cyntss.github.io/opensuse-landing-page/
+
 In this new page we will feature Tumbleweed and Leap.
 ## Why did we need a new one?
 Because after years working without a defined target audience and rather trying to aim at any software, internet, computer user, the openSUSE Board as invested time and knowledge understanding the real personas behind our beloved openSUSE, and while working around it they identified two "different" users: the Tumbleweed user and the openSUSE regular release user (Leap).
@@ -22,15 +24,23 @@ At this point we need to say Thank you! to the Board and Douglas DeMaio for help
 * Tumbleweed vs Leap: The way we see it, Tumbleweed and Leap (regular release) users have the same passion but sightly different approaches with openSUSE. The first one (Tumbleweed) goes for an up-to-date tested and stable system with new rolling release versions of applications and software he/she is developing; while the second one (Leap) goes for a long-term type release and provides stability.
 This made us understand that new users needed to understand this differentciation in the main section of the landing page, to then decide for one or the other, and for our regular visitors the next sections will become more relevant.
 
+![Home](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/01.png "Home")
+
 * Tools: With help of the Board we filtered out 4 of the most popular openSUSE tools: OBS, OpenQA, YaST and Kiwi. The reason for a second important position in the site is simple: our tools are in many cases, the choice maker for many openSUSE users. So we decided to give them a brief explanation (extracted from Richard Brown's blog) and present some screenshots as well as a link to see All openSUSE tools.
+
+![Tools](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/02.png "Tools")
 
 * What's new: In the old landing page, unless there were a blog post about it, it was hard to find out new openSUSE tools available for everyone to try. We don't know exactly how regularly openSUSE will be launching new tools, but as soon as there is something new and exiting this will be the right place to find out more about it. Oh, and to answer the question "why in the 3rd position?" the reason is simple, it is a tool, but a new one which is still building popularity, that makes it fair enough to be following the "Tools" section.
 
 * New: Nothing but a Re-make of the blog's news from the old landing page. Since above it we have the section already describing something new from openSUSE, in this place, even with the same background colour in the section, we merged the general news from openSUSE.
 
+![News](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/03.png "News")
+
 * Contribute: After giving information about our main distributions, our most popular tools, our new tools and news around openSUSE, our visitors will feel somewhat excited about our open source environment and this is the right time to ask and invite them to contribute with us!. So here we present them the opportunity and the information of the How to contribute.
 
 * Conferences: Last but not least, and if we did create some excitement in our users, we also invite you to come to meet the openSUSE community in action at one of our conferences, summits or mini-summits that we host and/or attend around the world. And why not, try the openSUSE beer :)
+
+![Contribute and Conferences](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/04.png "Contribute and Conferences")
 
 ### The technical side of the new landing page:
 
@@ -51,6 +61,8 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 * Particleground: An interesting effect used for the initial screen of the site creating partibles with a parallax effect. Reasons? It looks good and you can interact(play) with the dots with your mouse. More info at: https://github.com/jnicol/particleground
 
 * jquery-lang: This is the library (created by Irrelon Software Limited and used by many web apps, one of them, easyJet) that allows us to have a simple i81n implemented in the front-end asigning the different languages in simple Json files. More info at: https://github.com/Irrelon/jquery-lang-js
+
+![Translations](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/05.png "Translations")
 
 * OWL carousel: A well written JS library that allowes us to easily create a carousel in the News section which also features Touch interactions (for tablets and phones). It has multiple uses and it is one of my favourite carousels for the wide range of ways one can implement this carousel in a website. More info at: http://owlgraphic.com/owlcarousel/
 
