@@ -29,7 +29,7 @@
         "Home": "首頁", 
         "Install Tumbleweed": "安裝 Tumbleweed", 
         "Install openSUSE": "安裝 openSUSE", 
-        "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.": "Machinery 基於全域性的系統描述檔概念來設計。它是透通、可擴充的，並展現精美的工藝。", 
+        "Machinery is based on the idea of an universal system description. It is transparent, extensible, and crafted beautifully.": "Machinery 基於全域性的系統描述檔概念來設計。它是透通、可擴充的，並展現精美的工藝。", 
         "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.": "Machinery 是特別為資料中心的系統管理者所設計的。閱讀更多以了解其背後的哲學。", 
         "Machinery supports configuration discovery, system validation, and service migration.": "Machinery 支援系統設定探查、系統驗證，以及服務移轉。", 
         "Meet up with openSUSE at conferences.": "在研討會上與 openSUSE 相見歡", 
@@ -48,6 +48,6 @@
         "What's new": "新功能", 
         "Wiki": "維基", 
         "openSUSE TOOLS": "openSUSE 工具", 
-        "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE 相信，最好的成果來自於人們相互合作並樂在其中。和其他開源社群與眾不同，使得 openSUSE 令人嚮往。我們不是傳統的社群，社群的努力決定了專案的走向。這些成果創造了好幾個非常棒的 Linux 工具和令人驚嘆的發行版本。在 openSUSE，您可以發揮影響力，並且可以很簡單地對專案做出貢獻。不論您是有經驗的 Linux 開發者，或是一般使用者，請參與 openSUSE 專案。加入論壇、維護並持續更新我們的維基頁面、尋找並回報問題、檢視文件、發送您想要的新套件和新功能的願望清單、產生並提交修補程式，或是參與各個活動替 openSUSE 發聲並成為 openSUSE 大使。"
+        "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE 相信，最好的成果來自於人們相互合作並樂在其中。和其他開源社群與眾不同，使得 openSUSE 令人嚮往。我們不是傳統的社群，社群的努力決定了專案的走向。這些成果創造了好幾個非常棒的 Linux 工具和令人驚嘆的發行版本。在 openSUSE，您可以發揮影響力，並且可以很簡單地對專案做出貢獻。不論您是有經驗的 Linux 開發者，或是一般使用者，請參與 openSUSE 專案。加入論壇、維護並持續更新我們的維基頁面、尋找並回報問題、檢視文件、發送您想要的新套件和新功能的願望清單、產生並提交修補程式，或是參與各個活動替 openSUSE 發聲並成為 openSUSE 大使。"
     }
 }
