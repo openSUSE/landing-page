@@ -59,7 +59,7 @@
     "优秀且唯一的 Linux 系统配置&安装工具。",
 
     "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
-    "Linux 映像创建工具。可以为实体机、虚拟机、Docker 创建部署用映像。Kiwi 是 SUSE Studio 的支柱。",
+    "Linux 映像创建工具。可以为实体机、虚拟机、Docker 创建部署用映像。Kiwi 是 SUSE Studio 的引擎。",
 
     "Check all openSUSE tools":
     "了解所有的 openSUSE tools",
@@ -68,10 +68,10 @@
     "我们的 build 工具。我们所有的包皆是用它建制。OBS 亦良好支持多种其它发布，像 SUSE Linux Enterprise、Arch、Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu 等。",
 
     "Machinery supports configuration discovery, system validation, and service migration.":
-    "Machinery 用于 configuration discovery、system validation 和 service migration。",
+    "Machinery 用于配置搜集、系统验测和服务迁移。",
 
     "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
-    "Machinery 的运作基于一个通用、简明、可扩展、精巧的 system description。",
+    "Machinery 的运作基于一个通用、简明、可扩展、精巧的系统描述档。",
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
     "Machinery 是为数据中心的运维工程师设计的。查阅资料，了解它的设计哲学。",
@@ -137,7 +137,7 @@
     "向赞助方致以谢意︰",
 
     "All Rights Reserved.":
-    "All Rights Reserved.",
+    "保留所有权利",
 
     "Find out more":
     "详细了解",
@@ -146,6 +146,6 @@
     "返回首页",
 
     "Change language":
-    "Change language"
+    "选择语种"
   }
 }
