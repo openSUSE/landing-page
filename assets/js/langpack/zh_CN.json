@@ -2,7 +2,7 @@
   "token": {
 
     "The makers' choice for sysadmins, developers and desktop users.":
-    "给运维、开发、桌面之使用带来极致体验。",
+    "给运维师、开发者、桌面用户带来极致体验。",
 
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
     "荟萃着最新 Linux 软体的常新发布。我们迅捷且无遗的收集、测试最新的 Linux 技术实作，并使之稳固运行。",
@@ -10,8 +10,8 @@
     "More information":
     "了解更多",
 
-    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
-    "如果您需要一个最新的 Linux 。希望各软体，诸如︰Linux kernel、SAMBA、git、desktops、office 等，总能保持在最新。Tumbleweed 适合您。 Tumbleweed 的目标族群是协力用户、软体开发人员、openSUSE 贡献者。其能提供最新的各类软体及整合开发环境，荟萃着各类已可稳定运作的 Linux 新技术。",
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
+    "如果您需要一个最新的 Linux，希望系统中各软体，诸如︰Linux 內核、SAMBA、git、桌面环境、办公套件等，时刻都是最新版本。Tumbleweed 适合您。 Tumbleweed 的目标族群是协力用户、软体开发人员、openSUSE 贡献者。其能提供最新的各类软体及其相关整合开发环境，荟萃着各类已经能够稳定运作的 Linux 新技术。",
 
     "Install Tumbleweed":
     "安装 Tumbleweed",
@@ -53,10 +53,10 @@
     "造访项目页",
 
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
-    "自动测试工具。支持各种系统测试环境。可读屏，可在测试主机上模拟实际用户操作。",
+    "自动测试工具。支持各种系统测试环境。可读取萤幕內容，可在测试主机上模拟实际用户操作。",
 
     "The best/only comprehensive Linux system configuration & installation tool.":
-    "优秀且唯一的 Linux 系统配置&安装工具。",
+    "优秀且唯一的 Linux 系统配置＆安装工具。",
 
     "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
     "Linux 映像创建工具。可以为实体机、虚拟机、Docker 创建部署用映像。Kiwi 是 SUSE Studio 的引擎。",
@@ -70,23 +70,23 @@
     "Machinery supports configuration discovery, system validation, and service migration.":
     "Machinery 用于配置搜集、系统验测和服务迁移。",
 
-    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
+    "Machinery is based on the idea of an universal system description. It is transparent, extensible, and crafted beautifully.":
     "Machinery 的运作基于一个通用、简明、可扩展、精巧的系统描述档。",
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
-    "Machinery 是为数据中心的运维工程师设计的。查阅资料，了解它的设计哲学。",
+    "Machinery 会便利数据中心的运维工作。阅览介绍资料，了解它的设计哲学。",
 
     "CONTRIBUTE TO OPENSUSE":
     "贡献您的力量",
 
     "Be part of our comunity contributing with any of the followings:":
-    "加入我们。社区需要大家的力量。您可以为社区贡献︰",
+    "社区需要大家的力量。加入我们，把您的力量贡献到社区︰",
 
     "Contribute Code":
     "贡献程式码",
 
-    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
-    "openSUSE 追求卓越，相信卓越是源自大家的兴趣与协作。此独一无二的想法成就了迷人的 openSUSE，使 openSUSE 秀立于众开源社区之上。没有官僚主义，一切取决于大家。大家想做的，就是社区要做的。数个了不起的 Linux 工具和我们令人惊叹的社区发布皆是缘自大家的意愿与努力。openSUSE 会因您的想法和贡献而改变。不论是有经验的开发者还是普通用户，您都可以贡献自己的力量，这里没有门槛。参与论坛讨论、撰写 wiki、回报 bugs、校勘文档、把对新软体和新功能的愿景告之于社区、提交 patchs、参与活动为 openSUSE 发声、宣传和推广 openSUSE。",
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
+    "openSUSE 追求卓越。我们相信卓越的基石是大家的兴趣与协作。此独一无二的想法造就了充满魅力的 openSUSE，使之秀立于众开源社区之上。这里没有官僚主义，一切皆取决于大家。大家想做的，就是社区要做的。数个了不起的 Linux 工具和我们令人惊叹的社区发布皆是缘自大家的意愿与努力。openSUSE 会因您的想法和贡献而改变。不论是有经验的开发者还是普通用户，都可以贡献自己的力量。这里没有门槛，您可以：参与论坛讨论、撰写 wiki、回报 bugs、校勘文档、把对新软体和新功能的愿景告之于社区、提交修补程式、参与活动为 openSUSE 发声、宣传和推广 openSUSE。",
 
     "Find out more about how to participate.":
     "了解参与的方法",
@@ -146,6 +146,6 @@
     "返回首页",
 
     "Change language":
-    "选择语种"
+    "选择语言"
   }
 }
