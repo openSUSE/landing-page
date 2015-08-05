@@ -1,0 +1,151 @@
+﻿{
+  "token": {
+
+    "The makers' choice for sysadmins, developers and desktop users.":
+    "给运维、开发、桌面之使用带来极致体验。",
+
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
+    "荟萃着最新 Linux 软体的常新发布。我们迅捷且无遗的收集、测试最新的 Linux 技术实作，并使之稳固运行。",
+
+    "More information":
+    "了解更多",
+
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Independent Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
+    "如果您需要一个最新的 Linux 。希望各软体，诸如︰Linux kernel、SAMBA、git、desktops、office 等，总能保持在最新。Tumbleweed 适合您。 Tumbleweed 的目标族群是协力用户、软体开发人员、openSUSE 贡献者。其能提供最新的各类软体及整合开发环境，荟萃着各类已可稳定运作的 Linux 新技术。",
+
+    "Install Tumbleweed":
+    "安装 Tumbleweed",
+
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!":
+    "拥有完善生态的 Linux 阶升发布。更多的软体、更广泛的硬体支持。由我们并力众多伙伴共同构建、维护。",
+
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
+    "Leap 是 openSUSE 发布的主干，是一个高可用性、高稳定性的 Linux 作业系统。不论您有没有使用过 Linux，不论您是桌面用户、开发人员、运维师还是软体商，其都能给您一个愉悦的体验。安装、配置简单易懂，提供了各类桌面供您选择。如果您想有一个更稳固的作业系统，升级到 Leap 是绝佳之选。",
+
+    "Install openSUSE":
+    "安装 Leap",
+
+    "Home":
+    "主页",
+
+    "Tools":
+    "工具",
+
+    "What's new":
+    "新变化",
+
+    "News":
+    "新闻",
+
+    "Contribute":
+    "贡献",
+
+    "Conferences":
+    "会议",
+
+    "openSUSE TOOLS":
+    "openSUSE TOOLS",
+
+    "Discover the best open-source tools developed by our community":
+    "探索由我们社区开发的超赞开发工具",
+
+    "Go to link":
+    "造访项目页",
+
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
+    "自动测试工具。支持各种系统测试环境。可读屏，可在测试主机上模拟实际用户操作。",
+
+    "The best/only comprehensive Linux system configuration & installation tool.":
+    "优秀且唯一的 Linux 系统配置&安装工具。",
+
+    "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
+    "Linux 映像创建工具。可以为实体机、虚拟机、Docker 创建部署用映像。Kiwi 是 SUSE Studio 的引擎。",
+
+    "Check all openSUSE tools":
+    "了解所有的 openSUSE tools",
+
+    "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
+    "我们的 build 工具。我们所有的包皆是用它建制。OBS 亦良好支持多种其它发布，像 SUSE Linux Enterprise、Arch、Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu 等。",
+
+    "Machinery supports configuration discovery, system validation, and service migration.":
+    "Machinery 用于配置搜集、系统验测和服务迁移。",
+
+    "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully.":
+    "Machinery 的运作基于一个通用、简明、可扩展、精巧的系统描述档。",
+
+    "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
+    "Machinery 是为数据中心的运维工程师设计的。查阅资料，了解它的设计哲学。",
+
+    "CONTRIBUTE TO OPENSUSE":
+    "贡献您的力量",
+
+    "Be part of our comunity contributing with any of the followings:":
+    "加入我们。社区需要大家的力量。您可以为社区贡献︰",
+
+    "Contribute Code":
+    "贡献程式码",
+
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awsome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date,, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
+    "openSUSE 追求卓越，相信卓越是源自大家的兴趣与协作。此独一无二的想法成就了迷人的 openSUSE，使 openSUSE 秀立于众开源社区之上。没有官僚主义，一切取决于大家。大家想做的，就是社区要做的。数个了不起的 Linux 工具和我们令人惊叹的社区发布皆是缘自大家的意愿与努力。openSUSE 会因您的想法和贡献而改变。不论是有经验的开发者还是普通用户，您都可以贡献自己的力量，这里没有门槛。参与论坛讨论、撰写 wiki、回报 bugs、校勘文档、把对新软体和新功能的愿景告之于社区、提交 patchs、参与活动为 openSUSE 发声、宣传和推广 openSUSE。",
+
+    "Find out more about how to participate.":
+    "了解参与的方法",
+
+    "Contribute Hardware":
+    "贡献硬体",
+
+    "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
+    "非常欢迎大家为 openSUSE 项目提供捐助。藉捐助之力，开源可得以成长、发展、创新与进步。正如一个捐助惠泽开源的典型案例︰缘于 AMD 慷慨捐助的伺服器，Open Build Service 得以为数个开源项目提供助力。我们所募非钱，而是硬体。 我们希望募得硬体，以提供免费、开放的 openSUSE tools 服务给开发者、运维师和 软体打包人员。把源自开源的技术服务，回馈给开源，促进 Linux 开发。捐助硬体，帮助 openSUSE 社区！帮助开源社区！帮助 Linux 开发！若有意捐助硬体，发 email 到以下地址联系 openSUSE 项目组。",
+
+    "Code":
+    "程式码",
+
+    "Hardware":
+    "硬体",
+
+    "Meet up with openSUSE at conferences.":
+    "参与openSUSE的相关会议",
+
+    "View upcoming conferences":
+    "查看近日议程",
+
+    "Get software":
+    "获取软体",
+
+    "Wiki":
+    "维基",
+
+    "Build Service":
+    "建制软体包",
+
+    "Social Network":
+    "社交网络",
+
+    "Forums":
+    "论坛",
+
+    "Shop":
+    "商店",
+
+    "Blogs":
+    "部落格",
+
+    "Press":
+    "回页首",
+
+    "Sponsored by:":
+    "向赞助方致以谢意︰",
+
+    "All Rights Reserved.":
+    "保留所有权利",
+
+    "Find out more":
+    "详细了解",
+
+    "Back to main page":
+    "返回首页",
+
+    "Change language":
+    "选择语种"
+  }
+}
