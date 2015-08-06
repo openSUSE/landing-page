@@ -2,7 +2,7 @@
   "token": {
 
     "The makers' choice for sysadmins, developers and desktop users.":
-    "给运维师、开发者、桌面用户带来极致体验。",
+    "给运维、开发、桌面使用带来极致体验。",
 
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
     "荟萃着最新 Linux 软体的常新发布。我们迅捷且无遗的收集、测试最新的 Linux 技术实作，并使之稳固运行。",
@@ -11,7 +11,7 @@
     "了解更多",
 
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
-    "如果您需要一个最新的 Linux，希望系统中各软体，诸如︰Linux 內核、SAMBA、git、桌面环境、办公套件等，时刻都是最新版本。Tumbleweed 适合您。 Tumbleweed 的目标族群是协力用户、软体开发人员、openSUSE 贡献者。其能提供最新的各类软体及其相关整合开发环境，荟萃着各类已经能够稳定运作的 Linux 新技术。",
+    "如果您需要一个最新的 Linux，希望系统中各软体，诸如︰Linux 內核、SAMBA、git、桌面环境、办公套件等，时刻保持最新。Tumbleweed 适合您。 Tumbleweed 的目标族群是协力用户、软体开发人员、openSUSE 贡献者。其能提供各类最新软体及其相关整合开发环境，荟萃着各种已经能够稳定运作的 Linux 新技术。",
 
     "Install Tumbleweed":
     "安装 Tumbleweed",
@@ -74,7 +74,7 @@
     "Machinery 的运作基于一个通用、简明、可扩展、精巧的系统描述档。",
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
-    "Machinery 会便利数据中心的运维工作。阅览介绍资料，了解它的设计哲学。",
+    "Machinery 能便利数据中心的运维工作。阅览介绍资料，了解它的设计哲学。",
 
     "CONTRIBUTE TO OPENSUSE":
     "贡献您的力量",
