@@ -214,6 +214,7 @@ window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
+window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
 window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
 window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
 window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
@@ -323,4 +324,3 @@ var contributionInterpolation = function () {
 $(document).on("ready", function() {
   $("title").prepend('openSUSE - Linux OS. ')
 })
-
