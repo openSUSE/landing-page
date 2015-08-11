@@ -2,16 +2,16 @@
   "token": {
 
     "The makers' choice for sysadmins, developers and desktop users.":
-    "Лучший выбор для системных администраторов, разработчиков и простых пользователей",
+    "Лучший выбор для системных администраторов, разработчиков и обычных пользователей",
 
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
-    "Загрузите новейшие пакеты ПО Linux с нашим rolling релизом! Быстро! Стабильно! Проверено!",
+    "Загрузите новейшие пакеты ПО Linux с нашим rolling релизом! Быстро! Стабильно! Протестировано!",
 
     "More information":
     "Больше информации",
 
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.":
-    "Любой пользователь, желающий получить новейшие пакеты, включающие, но неограничивающиеся, ядром Linux, SAMBA, git, приложениями для рабочего стола, офисными приложениями и многими другими пакетами, захочет загрузить Tumbleweed. Tumbleweed предназначен для опытных пользователей, разработчиков ПО, а так же участников проекта openSUSE. Если вам необходимы последние версии пакетов ПО и Интегрированные Среды Разработки (IDE), или же, если вам необходима стабильная, но в тоже время ближайщая к разрабатываемой версии ядра Linux операционная система, то Tumbleweed это ваш выбор.",
+    "Любой пользователь, желающий получить новейшие пакеты, включающие, но неограничивающиеся, ядром Linux, SAMBA, git, приложениями для рабочего стола, офисными приложениями и многими другими пакетами, захочет загрузить Tumbleweed. Tumbleweed предназначен для опытных пользователей, разработчиков ПО, а так же участников проекта openSUSE. Если вам необходимы последние версии ПО и Интегрированные Среды Разработки (IDE), или вам необходима стабильная, но в тоже время ближайщая к разрабатываемой версии ядра Linux операционная система, то Tumbleweed это ваш выбор.",
 
     "Install Tumbleweed":
     "Установить Tumbleweed",
@@ -20,7 +20,7 @@
     "Загрузите наиболее полный дистрибутив Linux вместе с последней версией регулярно обновляемого релиза openSUSE",
 
     "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.":
-    "Новички и опытные пользователи могут загрузить наиболее полный и стабильный дистрибутив Linux с регулярно обновляемой версией openSUSE. Получайте регулярные обновления для своей операцинной системы openSUSE. Выбирайте свой рабочий стол, настраивайте свою систему и наслаждайтесь лучшим дистрибутивом для разработчиков Linux, администраторов и поставщиков программного обеспечения.",
+    "Начинающие и опытные пользователи Linux могут загрузить наиболее полный и стабильный дистрибутив Linux с регулярно обновляемой версией openSUSE. Получайте регулярные обновления для своей операцинной системы openSUSE. Выбирайте рабочий стол, настраивайте систему и наслаждайтесь лучшим дистрибутивом для разработчиков, администраторов и поставщиков программного обеспечения.",
     
     "Install openSUSE":
     "Установить openSUSE",
@@ -53,25 +53,25 @@
     "Перейти по ссылке",
 
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
-    "Средство автоматизированного тестирования для *любой* операционной системы, которое может считывать события на экране и управлять операционной системой имитируя работу пользователя ",
+    "Средство автоматизированного тестирования для *любой* операционной системы, которое позволяет считывать события на экране и управлять операционной системой имитируя работу пользователя",
 
     "The best/only comprehensive Linux system configuration & installation tool.":
     "Лучший/единственный универсальный инструмент конфигурирования и установки Linux.",
 
     "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio.":
-    "Создавайте образы Linux, предназначенные для установки на реальном аппаратном обеспечении, в средах виртуализации и даже в системах управления контейнерами, такими как Docker. Kiwi это инструмент, лежащий в основе SUSE Studio.",
+    "Создавайте образы Linux, предназначенные для установки на реальном аппаратном обеспечении, в средах виртуализации, а так же в системах управления контейнерами, такими как Docker. Kiwi это инструмент, лежащий в основе SUSE Studio.",
 
     "Check all openSUSE tools":
     "Все инструменты openSUSE",
 
     "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
-    "Наш инструмент для сборки ПО собирает все пакеты для openSUSE, а так же для SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu и многих других.",
+    "Наш инструмент для сборки ПО собирает все пакеты для openSUSE, а так же для таких ОС, как SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu и многих других.",
 
     "Machinery supports configuration discovery, system validation, and service migration.":
     "Machinery поддерживает поиск конфигураций операционных систем, проверку системы, а так же миграцию сервисов.",
 
     "Machinery is based on the idea of an universal system description. It is transparent, extensible, and crafted beautifully.":
-    "Machinery основана на идее универсального описания системы. Это позволяет сделать процесс настройки прозрачным, расширяемым и прекрасно описанным.",
+    "Machinery основана на идее универсального описания системы. Это позволяет сделать процесс настройки прозрачным, расширяемым, а так же понятным даже для обычного пользователя",
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
     "Machinery создана для администраторов датацентров. Узнайте больше о философии лежащей в ее основе.",
@@ -86,7 +86,7 @@
     "Вносите изменения в код",
 
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
-    "Мы в openSUSE верим, что лучшие результаты получаются у людей, сотрудничающих друг с другом и получающих от этого удовольствие. 'Быть другим' это то, что отличает наше сообщество от других open-source сообществ, это то, что делает openSUSE желанным. Мы не обычное сообщество, наши общие усилия определяют путь развития проекта. Этими усилиями уже создано несколько великолепных инструментов для Linux, а также прекрасный дистрибутив. В openSUSE у вас есть голос, и вы можете легко внести свой вклад в проект. Являетесь вы опытным Linux-разработчиком или обычным пользователем - принимайте участие в проекте openSUSE! Регистрируйтесь на форуме, поддерживайте и обновляйте наши wiki-страницы, находите ошибки и сообщайте нам о них, проверяйте документацию, присылайте нам свои списки пожеланий, касаемые новых пакетов и усовершенствований. Создавайте и присылайте нам патчи или же становитесь защитником openSUSE, принимайте участие во встречах и конференциях, рассказывая об openSUSE.",
+    "Мы в openSUSE верим, что лучшие результаты получаются тогда, когда люди работают сообща и получают от этого удовольствие. 'Быть другим' это то, что отличает наше сообщество от других open-source сообществ, это то, что делает openSUSE особенным. Мы не обычное сообщество, наши общие усилия определяют путь развития проекта. Этими усилиями уже создано несколько великолепных инструментов для Linux, а также прекрасный дистрибутив операционной системы. В openSUSE у вас есть право голоса, и вы легко можете внести свой собственный вклад в проект. Являетесь вы опытным Linux-разработчиком или обычным пользователем - принимайте участие в проекте openSUSE! Регистрируйтесь на форуме, поддерживайте и обновляйте наши wiki-страницы, находите ошибки и сообщайте нам о них, проверяйте документацию, присылайте нам свои списки пожеланий, касаемые новых пакетов и усовершенствований. Создавайте и присылайте патчи или же становитесь евангелистом openSUSE, принимайте участие во встречах и конференциях, рассказывая об openSUSE.",
 
     "Find out more about how to participate.":
     "Узнать больше о том, как принять участие в проекте.",
@@ -95,7 +95,7 @@
     "Предложить аппаратное обеспечение",
 
     "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email":
-    "Пожертвования в поддержку проекта openSUSE всегда приветствуются. На самом деле, Open Build Service, которым пользуются несколько open-source проектов, стал доступен благодаря щедрому пожертвованию серверов от AMD. Именно этот тип пожертвований позволяет людям и проектам процветать, развиваться, внедрять инновации и совершенствоваться. Проект openSUSE не просит денег, но пожертвования аппаратного обеспечения могут использоваться open-source сообществом для совершенствования возможностей разработки Linux, обеспечения openSUSE инструментами для создания свободной и открытой системы, которая в последствии будет использоваться разработчиками, администраторами, а так же сборщиками ПО. Аппаратное обеспечение помогает сообществу openSUSE, аппаратное обеспечение помогает разработкe Linux! Чтобы узнать о том, как вы можете пожертвовать аппаратное обеспечение проекту openSUSE, напишите по этому адресу",
+    "Пожертвования в поддержку проекта openSUSE всегда приветствуются. На самом деле, Open Build Service, которым пользуются несколько open-source проектов, стал доступен благодаря щедрому пожертвованию серверов от компании AMD. Именно этот тип пожертвований позволяет людям и проектам процветать, развиваться, внедрять инновации и совершенствоваться. Проект openSUSE не просит денег, но пожертвования аппаратного обеспечения могут использоваться всем open-source сообществом для совершенствования возможностей разработки Linux, обеспечения openSUSE инструментами для создания свободной и открытой системы, которая в последствии будет использована разработчиками, администраторами, а так же сборщиками пакетов ПО. Аппаратное обеспечение помогает сообществу openSUSE, аппаратное обеспечение помогает разработкe Linux! Чтобы узнать о том, как вы можете пожертвовать аппаратное обеспечение проекту openSUSE, напишите по этому адресу",
 
     "Code":
     "Код",
@@ -113,7 +113,7 @@
     "Получить программное обеспечение",
 
     "Wiki":
-    "Wiki",
+    "Вики",
 
     "Build Service":
     "Build Service",
