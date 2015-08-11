@@ -235,6 +235,15 @@ $(document).on("click", ".change-language", function() {
 
   return false;
 })
+
+//check if there is a langCookie in the browser
+$(document).on("ready", function(){
+  if(cookieLanguage != "") {
+    var selectedLanguageName = $(".languages").find("[data-language-value='"+ cookieLanguage+"']").html()
+    $(".selected-language").html(selectedLanguageName);
+  }
+
+});
 //*****************
 
 
