@@ -248,7 +248,7 @@ $(document).on("ready", function(){
 
 
 //init particles background
-
+/* Disabled for excessive CPU consumption
 $(document).ready(function() {
   var colorParticles = 'rgba(255,255,255,0.07)'
   $('#opensuse-os').particleground({
@@ -256,6 +256,7 @@ $(document).ready(function() {
     lineColor: colorParticles
   });
 });
+*/
 
 //Contribution interpolation
 
