@@ -46,7 +46,6 @@ function getScrolledData() {
   scrolled = $(window).scrollTop();
 
   // Go to Top
-  console.log($(window).outerHeight())
   if ($(window).outerHeight()/2 < scrolled) {
     $(".go-to-top").fadeIn();
   }
