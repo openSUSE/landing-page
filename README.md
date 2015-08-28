@@ -58,8 +58,6 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 
 ** And some open source js libraries **
 
-* Particleground: An interesting effect used for the initial screen of the site creating partibles with a parallax effect. Reasons? It looks good and you can interact(play) with the dots with your mouse. More info at: https://github.com/jnicol/particleground
-
 * jquery-lang: This is the library (created by Irrelon Software Limited and used by many web apps, one of them, easyJet) that allows us to have a simple i81n implemented in the front-end asigning the different languages in simple Json files. More info at: https://github.com/Irrelon/jquery-lang-js
 
 ![Translations](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/05.png "Translations")
