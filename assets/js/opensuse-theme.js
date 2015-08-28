@@ -343,3 +343,16 @@ $(document).on("ready", function() {
   $("title").prepend('openSUSE - Linux OS. ')
 })
 
+// check if SVG is supported by the user's browser
+$(document).on("ready", function(){
+  if (!Modernizr.svg) {
+    //replace all the svg images for png
+    $("img").each(function() {
+      var currentValue = $(this).attr("src");
+      var newValue = currentValue.replace(".svg", ".png");
+      $(this).attr("src", newValue)
+    });
+    //add a class to the background of Contribute so the background is a .jpg
+    $("#contribute-to-opensuse").addClass('no-svg')
+  }
+})
