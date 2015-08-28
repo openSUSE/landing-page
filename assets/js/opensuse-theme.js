@@ -45,6 +45,15 @@ var scrolledDown = false;
 function getScrolledData() {
   scrolled = $(window).scrollTop();
 
+  // Go to Top
+  console.log($(window).outerHeight())
+  if ($(window).outerHeight()/2 < scrolled) {
+    $(".go-to-top").fadeIn();
+  }
+  else {
+    $(".go-to-top").fadeOut();
+  }
+
   // detect if the user has scrolled more than the first section (height) to reduce the size of the menu
   if (scrolled > mainSectionHeight) {
     headerChanges()
@@ -334,3 +343,4 @@ var contributionInterpolation = function () {
 $(document).on("ready", function() {
   $("title").prepend('openSUSE - Linux OS. ')
 })
+
