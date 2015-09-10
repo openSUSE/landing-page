@@ -7091,24 +7091,6 @@ a:hover > h4 {
 .opensuse-blue {
   color: #173f4f;
 }
-.title-line {
-  border-bottom: solid 1px #35b9ab;
-  margin-bottom: 28px;
-  position: relative;
-  width: 100%;
-}
-.title-line .title-holder {
-  position: absolute;
-  text-align: center;
-  top: -35px;
-  width: 100%;
-}
-.title-line .title-holder h2 {
-  background: #fff;
-  display: inline-block;
-  padding-left: 15px;
-  padding-right: 15px;
-}
 h4.media-heading {
   display: inline-block;
 }
