@@ -1,8 +1,23 @@
 # The new openSUSE landing page
 
 View the preview at: http://cyntss.github.io/opensuse-landing-page/
-
 In this new page we will feature Tumbleweed and Leap.
+
+
+#### Update 10/09/2015
+We added a Gulp task that:
+- Preprocesses CSS (compiles Less into CSS).
+- Preprocesses and minifies the Vendor's CSS into one file.
+- Minifies all .JS files into one file.
+- Watches all changes on CSS and JS files and compiles them on the go, so you dont need to compile manually as you work on the UI.
+
+Just clone the repo and run gulp:
+
+```
+~/Opensuse-landing-page> gulp
+```
+
+
 ## Why did we need a new one?
 Because after years working without a defined target audience and rather trying to aim at any software, internet, computer user, the openSUSE Board as invested time and knowledge understanding the real personas behind our beloved openSUSE, and while working around it they identified two "different" users: the Tumbleweed user and the openSUSE regular release user (Leap).
 
