@@ -6553,10 +6553,28 @@ button.close {
   margin-right: 110px;
   margin-top: 50px;
 }
-.btn-primary {
+.btn-default {
   border: 1px solid #35b9ab;
   background: transparent;
   color: #35b9ab;
+}
+.btn-default:hover {
+  background: #6da741;
+  border: 1px solid #6da741;
+  color: #fff;
+}
+#more-information-os .btn-default {
+  border-color: #fff;
+  color: #fff;
+}
+#more-information-os .btn-default:hover {
+  background: #173f4f;
+  border-color: #173f4f;
+}
+.btn-primary {
+  border: 1px solid #35b9ab;
+  background: #35b9ab;
+  color: #173f4f;
 }
 .btn-primary:hover {
   background: #6da741;
@@ -6565,11 +6583,23 @@ button.close {
 }
 #more-information-os .btn-primary {
   border-color: #fff;
-  color: #fff;
+  background: #fff;
+  color: #555555;
 }
 #more-information-os .btn-primary:hover {
   background: #173f4f;
   border-color: #173f4f;
+  color: #fff;
+}
+#more-information-os .btn-primary:hover i.fa {
+  color: #ffffff;
+}
+#more-information-os .btn i {
+  font-size: 1em;
+  margin-right: .6em;
+}
+#more-information-os .btn.btn-primary i {
+  color: #555555;
 }
 #more-information-os .btn-link {
   color: #fff;
@@ -6578,6 +6608,13 @@ button.close {
 #more-information-os .btn-link:hover,
 #more-information-os .btn-link:hover i {
   color: #173f4f;
+}
+.btn.btn-default.dropdown-toggle {
+  border-color: #777777;
+  color: #777777;
+}
+.btn.btn-default.dropdown-toggle:hover {
+  background: #eeeeee;
 }
 .go-to-top {
   background: rgba(255, 255, 255, 0.5);
@@ -6770,9 +6807,6 @@ ul li {
 }
 #opensuse-os #more-information-os p {
   font-size: 1.3em;
-}
-#opensuse-os #more-information-os .btn i {
-  font-size: 1em;
 }
 .hidden-content {
   display: none;
