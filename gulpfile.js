@@ -44,7 +44,7 @@ gulp.task('less', function () {
 gulp.task('vendorCSS', ['less'], function() {
   return gulp.src([assets + 'css/vendor/animate/animate.css',
                    assets + 'css/vendor/owl-carousel/owl.carousel.css',
-                   assets + 'css/vendor/fontawesome/font-awesome.min.css'])
+                   assets + 'css/vendor/fontawesome/font-awesome.css'])
          .pipe(concat('vendor.css'))
          .pipe(rename({suffix: '.min'}))
          .pipe(gulp.dest(destination + 'css'))
