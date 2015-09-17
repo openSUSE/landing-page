@@ -7187,8 +7187,9 @@ h4.media-heading {
   #opensuse-tools .tools-container .col-sm-4 {
     padding: 0 20px;
   }
-  #opensuse-tools [src*="laptop.png"] {
-    width: 90%;
+  #opensuse-tools [src*="laptop.jpg"] {
+    width: 80%;
+    margin-top: 3em;
   }
   h1 {
     font-size: 38px;
@@ -7235,5 +7236,9 @@ h4.media-heading {
   }
   #contribute-to-opensuse #contribute-details .contribution-extended-details h1 {
     font-size: 22px;
+  }
+  .language-selector {
+    text-align: center !important;
+    padding-top: 2em;
   }
 }
