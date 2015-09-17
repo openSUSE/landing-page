@@ -6563,11 +6563,13 @@ button.close {
   border: 1px solid #6da741;
   color: #fff;
 }
-#more-information-os .btn-default {
+#more-information-os .btn-default,
+#contribute-to-opensuse .btn-default {
   border-color: #fff;
   color: #fff;
 }
-#more-information-os .btn-default:hover {
+#more-information-os .btn-default:hover,
+#contribute-to-opensuse .btn-default:hover {
   background: #173f4f;
   border-color: #173f4f;
 }
