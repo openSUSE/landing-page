@@ -246,10 +246,24 @@ $(document).on("click", ".change-language", function() {
 
 //check if there is a langCookie in the browser
 $(document).on("ready", function(){
-  if(cookieLanguage != "") {
-    var selectedLanguageName = $(".languages").find("[data-language-value='"+ cookieLanguage+"']").html()
-    $(".selected-language").html(selectedLanguageName);
+
+  var selectedLanguageName;
+
+  if (cookieLanguage === undefined) {
+    try {
+      window.lang.change(navigator.language);
+      selectedLanguageName = $(".languages").find("[data-language-value='" + navigator.language + "']").html();
+    }
+    catch(err) {
+      // navigator.language not available, falling back to default
+      selectedLanguageName = "English";
+    }
   }
+  else {
+    selectedLanguageName = $(".languages").find("[data-language-value='" + cookieLanguage + "']").html();
+  }
+
+  $(".selected-language").html(selectedLanguageName);
 
 });
 //*****************
