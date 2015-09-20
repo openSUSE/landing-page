@@ -215,6 +215,7 @@ function backToMainPageOs () {
 var lang = new Lang('en');
 //languages setup - please list here all new language packs
 window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('ar', 'assets/js/langpack/ar.json');
 window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
 window.lang.dynamic('de', 'assets/js/langpack/de.json');
 window.lang.dynamic('el', 'assets/js/langpack/el.json');
