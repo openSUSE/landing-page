@@ -2,7 +2,7 @@
   "token": {
 
     "The makers' choice for sysadmins, developers and desktop users.":
-    "Лучший выбор для системных администраторов, разработчиков и обычных пользователей",
+    "Лучший выбор для системных администраторов, разработчиков и простых пользователей",
 
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!":
     "Загрузите новейшие пакеты ПО Linux с нашим rolling релизом! Быстро! Стабильно! Протестировано!",
@@ -47,13 +47,13 @@
     "Инструменты openSUSE",
 
     "Discover the best open-source tools developed by our community":
-    "Откройте для себя лучшие инструменты с открытым исходным кодом, разработанные нашим сообществом",
+    "Откройте для себя лучшие инструменты с открытым исходным кодом, созданные нашим сообществом",
 
     "Go to link":
     "Перейти по ссылке",
 
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.":
-    "Средство автоматизированного тестирования для *любой* операционной системы, которое позволяет считывать события на экране и управлять операционной системой имитируя работу пользователя",
+    "Инструмент автоматизированного тестирования для *любой* операционной системы, который позволяет считывать события на экране и управлять операционной системой имитируя работу пользователя",
 
     "The best/only comprehensive Linux system configuration & installation tool.":
     "Лучший/единственный универсальный инструмент конфигурирования и установки Linux.",
@@ -65,13 +65,13 @@
     "Все инструменты openSUSE",
 
     "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more.":
-    "Наш инструмент для сборки ПО собирает все пакеты для openSUSE, а так же для таких ОС, как SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu и многих других.",
+    "С помощью OBS разработчики собирают все пакеты для openSUSE, а так же для SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu и многих других дистрибутивов Linux.",
 
     "Machinery supports configuration discovery, system validation, and service migration.":
     "Machinery поддерживает поиск конфигураций операционных систем, проверку системы, а так же миграцию сервисов.",
 
     "Machinery is based on the idea of an universal system description. It is transparent, extensible, and crafted beautifully.":
-    "Machinery основана на идее универсального описания системы. Это позволяет сделать процесс настройки прозрачным, расширяемым, а так же понятным даже для обычного пользователя",
+    "Machinery основана на идее универсального описания системы. Это позволяет сделать процесс настройки прозрачным и понятным даже для простого пользователя",
 
     "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.":
     "Machinery создана для администраторов датацентров. Узнайте больше о философии лежащей в ее основе.",
@@ -80,13 +80,13 @@
     "УЧАСТВОВАТЬ В ПРОЕКТЕ OPENSUSE",
 
     "Be part of our comunity contributing with any of the followings:":
-    "Станьте частью нашего сообщества, помогая нам любым из следующих способов:",
+    "Станьте частью сообщества openSUSE, помогая нам любым из следующих способов:",
 
     "Contribute Code":
     "Вносите изменения в код",
 
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.":
-    "Мы в openSUSE верим, что лучшие результаты получаются тогда, когда люди работают сообща и получают от этого удовольствие. 'Быть другим' это то, что отличает наше сообщество от других open-source сообществ, это то, что делает openSUSE особенным. Мы не обычное сообщество, наши общие усилия определяют путь развития проекта. Этими усилиями уже создано несколько великолепных инструментов для Linux, а также прекрасный дистрибутив операционной системы. В openSUSE у вас есть право голоса, и вы легко можете внести свой собственный вклад в проект. Являетесь вы опытным Linux-разработчиком или обычным пользователем - принимайте участие в проекте openSUSE! Регистрируйтесь на форуме, поддерживайте и обновляйте наши wiki-страницы, находите ошибки и сообщайте нам о них, проверяйте документацию, присылайте нам свои списки пожеланий, касаемые новых пакетов и усовершенствований. Создавайте и присылайте патчи или же становитесь евангелистом openSUSE, принимайте участие во встречах и конференциях, рассказывая об openSUSE.",
+    "Мы верим, что лучшие результаты получаются тогда, когда люди работают сообща и получают от этого удовольствие. 'Быть другим' это то, что отличает наше сообщество от других open-source сообществ, это то, что делает проект openSUSE особенным. Мы не обычное сообщество, наши общие усилия определяют путь развития проекта. Этими усилиями уже создано несколько великолепных инструментов Linux, а также прекрасный дистрибутив операционной системы. В openSUSE у вас есть право голоса и вы легко можете внести свой собственный вклад в проект. Являетесь вы опытным Linux-разработчиком или простым пользователем - принимайте участие в проекте openSUSE! Регистрируйтесь на форуме, поддерживайте и обновляйте наши wiki-страницы, находите ошибки и сообщайте нам о них, проверяйте документацию, присылайте нам свои списки пожеланий, касаемые новых пакетов и усовершенствований. Создавайте и присылайте патчи или же становитесь евангелистом openSUSE, принимайте участие во встречах и конференциях, рассказывая об openSUSE.",
 
     "Find out more about how to participate.":
     "Узнать больше о том, как принять участие в проекте.",
