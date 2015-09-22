@@ -9,6 +9,7 @@ var destination = 'build/';
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
+var stripDebug = require('gulp-strip-debug');
 
 gulp.task('scripts', function() {
   return gulp.src([assets + 'js/vendor/jquery.min.js',
@@ -24,6 +25,7 @@ gulp.task('scripts', function() {
                    assets + 'js/opensuse-theme.js'])
     .pipe(concat('main.js'))
     .pipe(rename({suffix: '.min'}))
+    .pipe(stripDebug())
     .pipe(uglify())
     .pipe(gulp.dest(destination + 'js'));
 });
