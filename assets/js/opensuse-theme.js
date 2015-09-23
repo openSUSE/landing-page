@@ -253,6 +253,19 @@ $(document).on("ready", function(){
   }
 
 });
+
+//change page direction when changing lang into/from ar
+$(window.lang).on("afterUpdate", function (event, currentLang, newLang, pack1, pack2) {
+  if( newLang == "ar" ) {
+    $("body").css("direction", "rtl");
+    //this change is needed so that there is a padding between the text and images in the tools section
+	  $(".tools-container .media .media-left").removeClass("media-left").addClass("media-right");
+  } else if ( currentLang == "ar" ) {
+    $("body").css("direction", "ltr");
+	  $(".tools-container .media .media-right").removeClass("media-right").addClass("media-left");
+  }
+});
+
 //*****************
 
 
