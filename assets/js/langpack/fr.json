@@ -28,7 +28,7 @@
         "Hardware": "Matériel",
         "Home": "Accueil",
         "Install Tumbleweed": "Installer Tumbleweed",
-        "Install openSUSE": "Installer openSUSE",
+        "Install Leap": "Installer Leap",
         "Machinery is based on the idea of an universal system description. It is transparent, extensible, and crafted beautifully.": "Machinery est basé sur l'idée d'une description universelle des systèmes. Il est transparent, extensible et conçu avec soin.",
         "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it.": "Machinery est fait pour l'administrateur système d'un centre de données. Découvrez sa philosophie.",
         "Machinery supports configuration discovery, system validation, and service migration.": "Machinery permet la découverte de configuration, la validation de système, et la migration de service.",
