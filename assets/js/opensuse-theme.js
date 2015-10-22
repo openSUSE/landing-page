@@ -220,6 +220,7 @@ window.lang.dynamic('de', 'assets/js/langpack/de.json');
 window.lang.dynamic('el', 'assets/js/langpack/el.json');
 window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
+window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
 window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
