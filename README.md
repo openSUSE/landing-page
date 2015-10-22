@@ -10,6 +10,7 @@ We added a Gulp task that:
 - Preprocesses and minifies the Vendor's CSS into one file.
 - Minifies all .JS files into one file.
 - Watches all changes on CSS and JS files and compiles them on the go, so you dont need to compile manually as you work on the UI.
+- And runs a local instance in your localhost:8000
 
 Just clone the repo and run gulp:
 
@@ -96,14 +97,26 @@ All you have to do to contribute is:
 4. In the new json file you have created you will see the translation first in English and its value in the new language (in this case, spanish). Proceed to remove the spanish values and apply the new translation for your language.
 5. Please make sure the file keeps the json format after you finish the translation.
 
-** Now its time to add the new language to the dropdown. For this follow the next steps: **
+#### Now its time to add the new language to the dropdown. For this follow the next steps:
 
 1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
 2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added. This code has to match with the name of the file you created.
 3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to go to the line 208 and under it add the new language in the following format ```window.lang.dynamic('es', 'assets/js/langpack/es.json');```. **Note:** We are configuring the optional languages and giving them the value with which our html will be calling them, in this case "es", and in the secong value we are declaring the rute to the file. Please verify you are giving the right values here.
 
-** Test it **
-If you want to run the website in a simple local server, you can try using ```Python -m SimpleHTTPServer``` which will run under the port 8000 locally. So simply go to http://localhost:8000/ and try changing the language of the website to the new one you just created. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is any message in the console, if not, you have done an Excellent job!
+#### Last steps: build and test
+
+We use GULP to run automatic tasks to preprocess CSS (from less), compress images, and optimize and compress JS.
+The last step you need to do is, open the terminal and go to the directory where you have the project cloned.
+Once you are there and considering you have Gulp installed, just run:
+<pre>
+c:/doc/opensuse-landing-page> gulp
+</pre>
+<small>More info about <a href="http://gulpjs.com/" target="_blank">gulp here</a></small>
+
+Gulp will give the final touch in the code so then you only need to open the project in your browser
+http://localhost:8000
+Test your language works well. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is error message in the console, if not, you have done an Excellent job!
+So, open a new Pull Request in github, we will double check everything is fine, and then Merge your contribution!
 
 ---
 
