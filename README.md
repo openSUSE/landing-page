@@ -91,7 +91,11 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 If yes is your answer, then you will making thousands of users happy to have the openSUSE landing page in their language.
 
 The openSUSE translations are hosted in subversion on http://svn.opensuse.org - the template for it is opensuse-landing-page.pot. You need to update
-the $LANG/po/opensuse-landing-page.$LANG.po within subversion.
+the $LANG/po/opensuse-landing-page.$LANG.po within subversion. 
+
+You can test your local changes by setting $MY\_LCN\_CHECKOUT environment variable to your subversion checkout and run ruby assets/js/langpack/update\_lcn.rb from within
+the landing-page checkout. The changes from translation subversion to landing-page are done by a cronjob, so no need to do a pull request for updates. For introducing a
+new language, you need to continue reading.
 
 #### Now its time to add the new language to the dropdown. For this follow the next steps:
 
