@@ -40,23 +40,23 @@ At this point we need to say Thank you! to the Board and Douglas DeMaio for help
 * Tumbleweed vs Leap: The way we see it, Tumbleweed and Leap (regular release) users have the same passion but sightly different approaches with openSUSE. The first one (Tumbleweed) goes for an up-to-date tested and stable system with new rolling release versions of applications and software he/she is developing; while the second one (Leap) goes for a long-term type release and provides stability.
 This made us understand that new users needed to understand this differentciation in the main section of the landing page, to then decide for one or the other, and for our regular visitors the next sections will become more relevant.
 
-![Home](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/01.png "Home")
+![Home](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/01.png "Home")
 
 * Tools: With help of the Board we filtered out 4 of the most popular openSUSE tools: OBS, OpenQA, YaST and Kiwi. The reason for a second important position in the site is simple: our tools are in many cases, the choice maker for many openSUSE users. So we decided to give them a brief explanation (extracted from Richard Brown's blog) and present some screenshots as well as a link to see All openSUSE tools.
 
-![Tools](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/02.png "Tools")
+![Tools](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/02.png "Tools")
 
 * What's new: In the old landing page, unless there were a blog post about it, it was hard to find out new openSUSE tools available for everyone to try. We don't know exactly how regularly openSUSE will be launching new tools, but as soon as there is something new and exiting this will be the right place to find out more about it. Oh, and to answer the question "why in the 3rd position?" the reason is simple, it is a tool, but a new one which is still building popularity, that makes it fair enough to be following the "Tools" section.
 
 * New: Nothing but a Re-make of the blog's news from the old landing page. Since above it we have the section already describing something new from openSUSE, in this place, even with the same background colour in the section, we merged the general news from openSUSE.
 
-![News](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/03.png "News")
+![News](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/03.png "News")
 
 * Contribute: After giving information about our main distributions, our most popular tools, our new tools and news around openSUSE, our visitors will feel somewhat excited about our open source environment and this is the right time to ask and invite them to contribute with us!. So here we present them the opportunity and the information of the How to contribute.
 
 * Conferences: Last but not least, and if we did create some excitement in our users, we also invite you to come to meet the openSUSE community in action at one of our conferences, summits or mini-summits that we host and/or attend around the world. And why not, try the openSUSE beer :)
 
-![Contribute and Conferences](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/04.png "Contribute and Conferences")
+![Contribute and Conferences](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/04.png "Contribute and Conferences")
 
 ### The technical side of the new landing page:
 
@@ -76,7 +76,7 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 
 * jquery-lang: This is the library (created by Irrelon Software Limited and used by many web apps, one of them, easyJet) that allows us to have a simple i81n implemented in the front-end asigning the different languages in simple Json files. More info at: https://github.com/Irrelon/jquery-lang-js
 
-![Translations](https://raw.githubusercontent.com/cyntss/opensuse-landing-page/screenshots-for-readme/05.png "Translations")
+![Translations](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/05.png "Translations")
 
 * OWL carousel: A well written JS library that allowes us to easily create a carousel in the News section which also features Touch interactions (for tablets and phones). It has multiple uses and it is one of my favourite carousels for the wide range of ways one can implement this carousel in a website. More info at: http://owlgraphic.com/owlcarousel/
 
@@ -89,13 +89,13 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 #CONTRIBUTE
 ## Do you wanna contribute providing translation for the new openSUSE website?
 If yes is your answer, then you will making thousands of users happy to have the openSUSE landing page in their language.
-All you have to do to contribute is:
 
-1. Fork the repository
-2. Create a new branch following this structure for the name: "New: **languagename** language package"
-3. Duplicate the file **assets/js/langpack/translation-template.json** and name the new file with the **International code of language representation** of the language you will translate. If you dont know the interntional code of your language you can find at https://www.loc.gov/standards/iso639-2/php/code_list.php under **ISO 639-1 Code**
-4. In the new json file you have created you will see the translation first in English and its value in the new language (in this case, spanish). Proceed to remove the spanish values and apply the new translation for your language.
-5. Please make sure the file keeps the json format after you finish the translation.
+The openSUSE translations are hosted in subversion on http://svn.opensuse.org - the template for it is opensuse-landing-page.pot. You need to update
+the $LANG/po/opensuse-landing-page.$LANG.po within subversion. 
+
+You can test your local changes by setting $MY\_LCN\_CHECKOUT environment variable to your subversion checkout and run ruby assets/js/langpack/update\_lcn.rb from within
+the landing-page checkout. The changes from translation subversion to landing-page are done by a cronjob, so no need to do a pull request for updates. For introducing a
+new language, you need to continue reading.
 
 #### Now its time to add the new language to the dropdown. For this follow the next steps:
 
