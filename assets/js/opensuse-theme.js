@@ -215,6 +215,7 @@ function backToMainPageOs () {
 var lang = new Lang('en');
 //languages setup - please list here all new language packs
 window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('ar', 'assets/js/langpack/ar.json');
 window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
 window.lang.dynamic('de', 'assets/js/langpack/de.json');
 window.lang.dynamic('el', 'assets/js/langpack/el.json');
@@ -282,6 +283,19 @@ $(document).on("ready", function(){
   $(".selected-language").html(selectedLanguageName);
 
 });
+
+//change page direction when changing lang into/from ar
+$(window.lang).on("afterUpdate", function (event, currentLang, newLang, pack1, pack2) {
+  if( newLang == "ar" ) {
+    $("body").css("direction", "rtl");
+    //this change is needed so that there is a padding between the text and images in the tools section
+    $(".tools-container .media .media-left").removeClass("media-left").addClass("media-right");
+  } else if ( currentLang == "ar" ) {
+    $("body").css("direction", "ltr");
+    $(".tools-container .media .media-right").removeClass("media-right").addClass("media-left");
+  }
+});
+
 //*****************
 
 
