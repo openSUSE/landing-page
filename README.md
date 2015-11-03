@@ -87,7 +87,7 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 ---
 
 #CONTRIBUTE
-## Do you wanna contribute providing translation for the new openSUSE website?
+## Do you want to help to translate the new openSUSE website?
 If yes is your answer, then you will making thousands of users happy to have the openSUSE landing page in their language.
 
 The openSUSE translations are hosted in subversion on http://svn.opensuse.org - the template for it is opensuse-landing-page.pot. You need to update
@@ -120,6 +120,7 @@ So, open a new Pull Request in github, we will double check everything is fine, 
 
 ---
 
-Thanks to:
-* <img src="http://trivialine.herokuapp.com/assets/cynt-aa3571490f7e5e51d6a4e000dfc8f55d.jpg" /> Cynthia Sanchez for developing it. Find her at: <a href="https://www.linkedin.com/in/csanchezfrontend">LinkedIn</a> | <a href="twitter">Twitter</a>
+# Thanks to
+
+* <img src="http://trivialine.herokuapp.com/assets/cynt-aa3571490f7e5e51d6a4e000dfc8f55d.jpg" /> Cynthia Sanchez for developing it. Find her at: <a href="https://www.linkedin.com/in/csanchezfrontend">LinkedIn</a> 
 * <img src="http://trivialine.herokuapp.com/assets/zvez-3c414d000429b6e8434209c41976fdc7.jpg" /> Zvezdana Marjanovic for designing it. Find her at: <a href="https://www.linkedin.com/pub/zvezdana-marjanovic/51/5b2/537">LinkedIn</a>
