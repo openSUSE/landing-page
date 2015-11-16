@@ -121,5 +121,5 @@ So, open a new Pull Request in github, we will double check everything is fine, 
 ---
 
 Thanks to:
-* <img src="http://trivialine.herokuapp.com/assets/cynt-aa3571490f7e5e51d6a4e000dfc8f55d.jpg" /> Cynthia Sanchez for developing it. Find her at: <a href="https://www.linkedin.com/in/csanchezfrontend">LinkedIn</a> | <a href="twitter">Twitter</a>
+* <img src="http://trivialine.herokuapp.com/assets/cynt-aa3571490f7e5e51d6a4e000dfc8f55d.jpg" /> Cynthia Sanchez for developing it. Find her at: <a href="https://www.linkedin.com/in/csanchezfrontend">LinkedIn</a> | <a href="https://twitter.com/cyntss">Twitter</a>
 * <img src="http://trivialine.herokuapp.com/assets/zvez-3c414d000429b6e8434209c41976fdc7.jpg" /> Zvezdana Marjanovic for designing it. Find her at: <a href="https://www.linkedin.com/pub/zvezdana-marjanovic/51/5b2/537">LinkedIn</a>
