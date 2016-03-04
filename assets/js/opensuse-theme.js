@@ -236,6 +236,7 @@ window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
 $(document).on("click", ".change-language", function() {
   var languageSelected = $(this).data('language-value');
   var languageString = $(this).html();
+  $('.dropup_language-menu').removeClass('open');
   $("body").fadeOut(300, function() {
     window.lang.change(languageSelected);
     $(".selected-language").html(languageString);
