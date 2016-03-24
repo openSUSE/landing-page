@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2005-08-24 17:37+0200\n"
 "Last-Translator: Janez Krek <janez.krek@euroteh.si>\n"
 "Language-Team: Slovenščina <sl@li.org>\n"
@@ -19,10 +19,6 @@ msgstr ""
 "X-Generator: KBabel 1.3.1\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr ""
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -259,4 +255,8 @@ msgstr "Izbira jezika."
 
 #: index.html:380
 msgid "All Rights Reserved."
+msgstr ""
+
+#: index.html:403
+msgid "Back to main page"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-26 16:45:21 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2015-11-05 03:11+0800\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -18,10 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr "回到主頁面"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -49,8 +45,12 @@ msgid "Conferences"
 msgstr "研討會"
 
 #: index.html:85
-msgid "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!"
-msgstr "藉由我們的滾動式發行取得最新的 Linux 套件。快速且整合良好，穩定並經過完整測試。"
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"藉由我們的滾動式發行取得最新的 Linux 套件。快速且整合良好，穩定並經過完整測"
+"試。"
 
 #: index.html:86 index.html:108
 msgid "More information"
@@ -61,15 +61,28 @@ msgid "Install Tumbleweed"
 msgstr "安裝 Tumbleweed"
 
 #: index.html:91
-msgid "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you."
-msgstr "任何希望擁有最新套件 (包含但不限於 Linux 核心、SAMBA、git、桌面環境、辦公室套件等等) 的使用者，Tumbleweed 就是他們想要的。Tumbleweed 是面向玩家、軟體開發者和 openSUSE 貢獻者的發行版本。若您需要最新的軟體堆疊和 IDE 環境，或是想要擁有最尖端的 Linux 技術，但相對穩定的平台，Tumbleweed 是您的最佳選擇。"
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"任何希望擁有最新套件 (包含但不限於 Linux 核心、SAMBA、git、桌面環境、辦公室套"
+"件等等) 的使用者，Tumbleweed 就是他們想要的。Tumbleweed 是面向玩家、軟體開發"
+"者和 openSUSE 貢獻者的發行版本。若您需要最新的軟體堆疊和 IDE 環境，或是想要擁"
+"有最尖端的 Linux 技術，但相對穩定的平台，Tumbleweed 是您的最佳選擇。"
 
 #: index.html:93
 msgid "Learn more"
 msgstr "了解更多"
 
 #: index.html:107
-msgid "Get the most complete Linux distribution with openSUSE’s latest regular-release version!"
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
 msgstr "經由 openSUSE 最新的定期釋出，取得最完整的 Linux 發行版。"
 
 #: index.html:110 index.html:115
@@ -77,8 +90,17 @@ msgid "Install Leap"
 msgstr "安裝 Leap"
 
 #: index.html:113
-msgid "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors."
-msgstr "不管是新手或是老鳥，都可藉由 openSUSE 的定期釋出，取得最好用、且穩定的作業系統。經由 openSUSE 最新的主要發行版本，接收更新並強化您的作業系統。選一個您喜愛的桌面、設定您的系統，享受這個 Linux 開發者、系統管理者及軟體開發商心目中的理想平台。"
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"不管是新手或是老鳥，都可藉由 openSUSE 的定期釋出，取得最好用、且穩定的作業系"
+"統。經由 openSUSE 最新的主要發行版本，接收更新並強化您的作業系統。選一個您喜"
+"愛的桌面、設定您的系統，享受這個 Linux 開發者、系統管理者及軟體開發商心目中的"
+"理想平台。"
 
 #: index.html:125
 msgid "openSUSE TOOLS"
@@ -93,20 +115,36 @@ msgid "Go to link"
 msgstr "造訪連結"
 
 #: index.html:144
-msgid "Our build tool, building all of our packages as well as ones for SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, and more."
-msgstr "我們的軟體建構工具。我們用它建構所有的套件，以及供 SUSE Linux Enterprise、Arch、Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu，和其他發行版本使用的套件。"
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"我們的軟體建構工具。我們用它建構所有的套件，以及供 SUSE Linux Enterprise、"
+"Arch、Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu，和其他發行版本"
+"使用的套件。"
 
 #: index.html:162
-msgid "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does."
-msgstr "用來測試 *任何* 作業系統的自動化測試工具，能夠擷圖並且模擬一般使用者來操作待測機器。"
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"用來測試 *任何* 作業系統的自動化測試工具，能夠擷圖並且模擬一般使用者來操作待"
+"測機器。"
 
 #: index.html:180
-msgid "The best/only comprehensive Linux system configuration & installation tool."
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
 msgstr "最好且唯一的 Linux 綜合系統設定及安裝工具。"
 
 #: index.html:198
-msgid "Create Linux images for deployment on real hardware, virtualisation, and now even container systems like Docker. Kiwi is the engine that powers SUSE Studio."
-msgstr "用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象檔。Kiwi 是驅動 SUSE Studio 的引擎。"
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象"
+"檔。Kiwi 是驅動 SUSE Studio 的引擎。"
 
 #: index.html:225
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -130,8 +168,27 @@ msgid "Contribute Code"
 msgstr "貢獻程式碼"
 
 #: index.html:236
-msgid "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador."
-msgstr "openSUSE 相信，最好的成果來自於人們相互合作並樂在其中。和其他開源社群與眾不同，使得 openSUSE 令人嚮往。我們不是傳統的社群，社群的努力決定了專案的走向。這些成果創造了好幾個非常棒的 Linux 工具和令人驚嘆的發行版本。在 openSUSE，您可以發揮影響力，並且可以很簡單地對專案做出貢獻。不論您是有經驗的 Linux 開發者，或是一般使用者，請參與 openSUSE 專案。加入論壇、維護並持續更新我們的維基頁面、尋找並回報問題、檢視文件、發送您想要的新套件和新功能的願望清單、產生並提交修補程式，或是參與各個活動替 openSUSE 發聲並成為 openSUSE 大使。"
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE 相信，最好的成果來自於人們相互合作並樂在其中。和其他開源社群與眾不"
+"同，使得 openSUSE 令人嚮往。我們不是傳統的社群，社群的努力決定了專案的走向。"
+"這些成果創造了好幾個非常棒的 Linux 工具和令人驚嘆的發行版本。在 openSUSE，您"
+"可以發揮影響力，並且可以很簡單地對專案做出貢獻。不論您是有經驗的 Linux 開發"
+"者，或是一般使用者，請參與 openSUSE 專案。加入論壇、維護並持續更新我們的維基"
+"頁面、尋找並回報問題、檢視文件、發送您想要的新套件和新功能的願望清單、產生並"
+"提交修補程式，或是參與各個活動替 openSUSE 發聲並成為 openSUSE 大使。"
 
 #: index.html:237
 msgid "Find out more about how to participate."
@@ -146,8 +203,26 @@ msgid "Contribute Hardware"
 msgstr "貢獻硬體"
 
 #: index.html:248
-msgid "Donations to support the openSUSE project are always welcomed. In fact, Open Build Service, which is used by several other open-source projects, was made available to the project’s community through a generous donation of servers by AMD. It is this type of donations that allows people and projects to thrive, develop, innovate and progress. The project is not asking for money, but donations of hardware to use the open-source community’s expertise to empower Linux development, provide openSUSE tools to the free, open source ecosystem and give back to developers, sysadmins and packagers. Hardware helps the openSUSE community! Hardware helps the open-source community! And Hardware helps Linux development. To learn how you can donate hardware to the openSUSE project, email"
-msgstr "我們向來歡迎透過捐贈來支持 openSUSE 專案。事實上，許多開源專案使用的 Open Build Service，正是來自於 AMD 慷慨捐贈伺服器，才得以服務專案社群。也是這類的捐贈使得專案得以茁壯、發展、創新並向前邁進。專案並不要求資金挹注，但希望捐贈硬體，以結合開源社群的技術來加速 Linux 的開發，提供 openSUSE 工具給自由及開放原始碼生態圈，並回饋給開發者、系統管理者與套件維護者。硬體可以幫助 openSUSE 社群、可以幫助開源社群，更可以幫助 Linux 開發。想了解您可以如何捐贈硬體給 openSUSE 專案，請寄信到"
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"我們向來歡迎透過捐贈來支持 openSUSE 專案。事實上，許多開源專案使用的 Open "
+"Build Service，正是來自於 AMD 慷慨捐贈伺服器，才得以服務專案社群。也是這類的"
+"捐贈使得專案得以茁壯、發展、創新並向前邁進。專案並不要求資金挹注，但希望捐贈"
+"硬體，以結合開源社群的技術來加速 Linux 的開發，提供 openSUSE 工具給自由及開放"
+"原始碼生態圈，並回饋給開發者、系統管理者與套件維護者。硬體可以幫助 openSUSE "
+"社群、可以幫助開源社群，更可以幫助 Linux 開發。想了解您可以如何捐贈硬體給 "
+"openSUSE 專案，請寄信到"
 
 #: index.html:258
 msgid "Meet up with openSUSE at conferences."
@@ -201,17 +276,31 @@ msgstr "變更語系"
 msgid "All Rights Reserved."
 msgstr "保留所有權利。"
 
+#: index.html:403
+msgid "Back to main page"
+msgstr "回到主頁面"
+
 #~ msgid "What's new"
 #~ msgstr "新功能"
 
-#~ msgid "Machinery supports configuration discovery, system validation, and service migration."
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
 #~ msgstr "Machinery 支援系統設定探查、系統驗證，以及服務移轉。"
 
 #~ msgid "Check all openSUSE tools"
 #~ msgstr "查看全部的 openSUSE 工具"
 
-#~ msgid "Machinery is based on the idea of an universal system description.It is transparent,extensible, and crafted beautifully."
-#~ msgstr "Machinery 基於全域性的系統描述檔概念來設計。它是透通、可擴充的，並展現精美的工藝。"
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "Machinery 基於全域性的系統描述檔概念來設計。它是透通、可擴充的，並展現精美"
+#~ "的工藝。"
 
-#~ msgid "Machinery is made for the system administrator of the data center. Read more about the philosophy behind it."
-#~ msgstr "Machinery 是特別為資料中心的系統管理者所設計的。閱讀更多以了解其背後的哲學。"
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "Machinery 是特別為資料中心的系統管理者所設計的。閱讀更多以了解其背後的哲"
+#~ "學。"

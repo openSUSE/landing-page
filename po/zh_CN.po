@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2015-12-23 14:16+0800\n"
 "Last-Translator: marguerite <marguerite@opensuse.org>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -13,10 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr "返回首页"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -269,6 +265,10 @@ msgstr "修改语言"
 #: index.html:380
 msgid "All Rights Reserved."
 msgstr "保留所有权利。"
+
+#: index.html:403
+msgid "Back to main page"
+msgstr "返回首页"
 
 #~ msgid "What's new"
 #~ msgstr "最新消息"

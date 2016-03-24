@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:13:55 +0100\n"
 "PO-Revision-Date: 2015-10-29 18:36+0100\n"
 "Last-Translator: Stefan Schlesinger <translate75@web.de>\n"
 "Language-Team: German <opensuse-translation-de@opensuse.org >\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 1.5\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr "Zurück zur Hauptseite"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -311,6 +307,10 @@ msgstr "Sprache wechseln"
 #: index.html:380
 msgid "All Rights Reserved."
 msgstr "Alle Rechte vorbehalten."
+
+#: index.html:403
+msgid "Back to main page"
+msgstr "Zurück zur Hauptseite"
 
 # Maybe shorten it to "Neues"?
 #~ msgid "What's new"

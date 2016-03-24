@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: autoinst.fi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2003-09-22 13:26+0200\n"
 "Last-Translator: Ain Vagula <avagula@gmail.com>\n"
 "Language-Team: Estonian <et@li.org>\n"
@@ -11,10 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr ""
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -251,4 +247,8 @@ msgstr "Munda keeled"
 
 #: index.html:380
 msgid "All Rights Reserved."
+msgstr ""
+
+#: index.html:403
+msgid "Back to main page"
 msgstr ""

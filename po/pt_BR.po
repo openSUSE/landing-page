@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2015-10-31 10:00UTC-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -18,10 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-
-#: index.html:0
-msgid "Back to main page"
-msgstr "Voltar à página inicial"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -303,6 +299,10 @@ msgstr "Alterar idioma"
 #: index.html:380
 msgid "All Rights Reserved."
 msgstr "Todos os direitos reservados"
+
+#: index.html:403
+msgid "Back to main page"
+msgstr "Voltar à página inicial"
 
 #~ msgid "What's new"
 #~ msgstr "Novidades"

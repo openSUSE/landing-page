@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
 "PO-Revision-Date: 2015-10-02 23:52+0200\n"
 "Last-Translator: Harri Miettinen <harmie@opensuse.fi>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: index.html:0
-#, fuzzy
-msgid "Back to main page"
-msgstr "Takaisin etusivulle"
 
 #: index.html:4 index.html:77
 #, fuzzy
@@ -323,6 +318,11 @@ msgstr "Vaihda kieli"
 #: index.html:380
 msgid "All Rights Reserved."
 msgstr "Kaikki oikeudet pidätetään."
+
+#: index.html:403
+#, fuzzy
+msgid "Back to main page"
+msgstr "Takaisin etusivulle"
 
 #~ msgid "What's new"
 #~ msgstr "Uutuudet"
