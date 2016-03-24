@@ -1,0 +1,313 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Jonas Svensson <jks@ekhorva.se>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"PO-Revision-Date: 2016-02-03 11:01+0100\n"
+"Last-Translator: Jonas Svensson <jks@ekhorva.se>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.html:0
+msgid "Back to main page"
+msgstr "Tillbaka till huvudsida"
+
+#: index.html:4 index.html:77
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"The makers' choice för systemadministratörer, utvecklare och datoranvändare."
+
+#: index.html:47
+msgid "Home"
+msgstr "Hem"
+
+#: index.html:50
+msgid "Tools"
+msgstr "Verktyg"
+
+#: index.html:53 index.html:295
+msgid "News"
+msgstr "Nyheter"
+
+# continue button label
+#: index.html:56
+msgid "Contribute"
+msgstr "Bidra"
+
+#: index.html:59
+msgid "Conferences"
+msgstr "Konferenser"
+
+#: index.html:85
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Med vår rullade utgåva av Linux har du alltid de nyaste programpaketen."
+" Snabbt! Integrerat! "
+"Stabiliserat! Testat!"
+
+#: index.html:86 index.html:108
+msgid "More information"
+msgstr "Mer information"
+
+#: index.html:88 index.html:96
+msgid "Install Tumbleweed"
+msgstr "Installera Tumbleweed"
+
+#: index.html:91
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Användare som vill köra senaste versioner av bl.a. Linuxkärnan, SAMBA, "
+"git, skrivbordsmiljöer, officepaket mm. skall överväga Tumbleweed. "
+"Tumbleweed är det rätta valet för erfarna användare, programutvecklare "
+"och openSUSE utvecklare. Om du behöver den senaste mjukvarustacken "
+"eller vill köra Linux så nära bleeding edge som möjligt, är Tumbleweed det "
+"bästa valet för dig."
+
+#: index.html:93
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: index.html:107
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Få den mest kompletta Linuxdistributionen med openSUSE:s senaste "
+"standardutgåva!"
+
+#: index.html:110 index.html:115
+msgid "Install Leap"
+msgstr "Installera Leap"
+
+#: index.html:113
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Nya och erfarna Linuxanvändare får den mest användbara Linuxdistributionen "
+"och det stabilaste operativsystemet med openSUSE:s standardutgåva. Få "
+"uppdateringar och härda ditt OS med openSUSE:s senaste utgåva. Välj "
+"skrivbordsmiljö, konfigurera ditt system och ha kul med plattformen som är"
+" valet "
+"för Linuxutvecklare, administratörer och programleverantörer."
+
+#: index.html:125
+msgid "openSUSE TOOLS"
+msgstr "openSUSE TOOLS"
+
+#: index.html:126
+msgid "Discover the best open-source tools developed by our community"
+msgstr "Upptäck de bästa open-sourceverktygen utvecklade av vår community"
+
+#: index.html:140 index.html:158 index.html:176 index.html:194
+msgid "Go to link"
+msgstr "Gå till länk"
+
+#: index.html:144
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Med vårt byggverktyg bygger vi förutom egna paket även till SUSE Linux "
+"Enterprise,  Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu "
+"med flera."
+
+#: index.html:162
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Automatiserad test av *alla* operativsystem som kant läsa av skärmen och "
+"kontrollera testobjektet på samma sätt som en användare gör."
+
+#: index.html:180
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Det bästa och mest kompletta konfiguration- och installationsverktyget för"
+" Linux."
+
+#: index.html:198
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Skapa Linuxavbilder för spridning på reell hårdvara, virtuella maskiner och"
+" nu "
+"även på systemcontainers såsom Docker. Kiwi är motor som driver SUSE "
+"Studio."
+
+#: index.html:225
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "BIDRA TILL OPENSUSE"
+
+#: index.html:226
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Bli en del av vår community genom att bidra med något av följande:"
+
+#: index.html:231
+msgid "Code"
+msgstr "Kod"
+
+#: index.html:232 index.html:244
+msgid "Find out more"
+msgstr "Läs mer"
+
+# continue button label
+#: index.html:235
+msgid "Contribute Code"
+msgstr "Bidra med kod"
+
+#: index.html:236
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE tror att bäst resultat uppnås av människor som samarbetar och "
+"har kul. Vi skiljer oss från andra open-source communities vilket gör"
+" openSUSE "
+"unikt. Vi är inte en vanlig community och medlemmarnas insatser stakar ut "
+"vägen för projektets framtid. Vår communitys arbete har skapat en massa "
+"fantastiska verktyg och en grym distribution. I openSUSE-projektet är det"
+" enkelt "
+"att bidra och påverka utvecklingen. Oavsett om du är en erfaren"
+" Linuxutvecklare "
+"eller slutanvändare, engagera dig i projektet! Gå med i forumet, hjälp till"
+" att "
+"hålla wiki:n uppdaterad, hitta och rapportera buggar, se över"
+" dokumentationen, "
+"sänd in önskningar om nya paket och funktioner, bidra med patchar och inte "
+"minst, hjälp till att sprida openSUSE!"
+
+#: index.html:237
+msgid "Find out more about how to participate."
+msgstr "Läs mer om hur du kan deltaga."
+
+#: index.html:243
+msgid "Hardware"
+msgstr "Maskinvara"
+
+#: index.html:247
+msgid "Contribute Hardware"
+msgstr "Bidra med hårdvara"
+
+#: index.html:248
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Donationer för att stödja openSUSE-projektet är alltid välkomna. T.ex."
+" gjordes Open "
+"Build Service, som nu används av andra open-source projekt, tillgänglig genom "
+"en generös donation av servrar från AMD. Det är denna typ av donationer som"
+" får "
+"projekt och människor att vilja utveckla och skapa nya lösningar. Vi ber inte"
+" om pengar "
+"för projektet, men donationer av hårdvara till open-source communityns"
+" experter gör "
+"det möjligt att föra fram utvecklingen av Linux, tillhandahålla fria openSUSE"
+" verktyg "
+"för open-source världen och på så sätt ge tillbaka till utvecklare,"
+" systemadministratörer "
+"och distributörer. Hårdvara hjälper openSUSE communityn och därmed"
+" utvecklingen "
+"av Linux. För att se hur du kan donera hårdvara till openSUSE-projektet,"
+" eposta "
+
+#: index.html:258
+msgid "Meet up with openSUSE at conferences."
+msgstr "Träffas på openSUSE konferenser."
+
+#: index.html:259
+msgid "View upcoming conferences"
+msgstr "Se kommande konferenser"
+
+#: index.html:271
+msgid "Get software"
+msgstr "Få programvara"
+
+#: index.html:276
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:281
+msgid "Build Service"
+msgstr "Byggtjänst"
+
+#: index.html:290
+msgid "Social Network"
+msgstr "Sociala nätverk"
+
+#: index.html:300
+msgid "Forums"
+msgstr "Forum"
+
+#: index.html:309
+msgid "Shop"
+msgstr "Shop"
+
+#: index.html:314
+msgid "Blogs"
+msgstr "Bloggar"
+
+#: index.html:319
+msgid "Press"
+msgstr "Press"
+
+#: index.html:344
+msgid "Sponsored by:"
+msgstr "Sponsorerat av:"
+
+#: index.html:350
+msgid "Change language"
+msgstr "Ändra språk"
+
+#: index.html:380
+msgid "All Rights Reserved."
+msgstr "Alla rättigheter reserverade."
+
+

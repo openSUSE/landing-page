@@ -1,0 +1,256 @@
+# Marathi message file for YaST2 (@memory@).
+# Copyright (C) 2006 SUSE Linux Products GmbH.
+# "( अमेय पाळंदे ) Ameya Palande" <2ameya@gmail.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YaST (@memory@)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-28 16:13:17 +0100\n"
+"PO-Revision-Date: 2005-07-29 15:37+0530\n"
+"Last-Translator: \"( अमेय पाळंदे ) Ameya Palande\" <2ameya@gmail.com>\n"
+"Language-Team: Marathi <i18n@suse.de>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: index.html:0
+msgid "Back to main page"
+msgstr ""
+
+#: index.html:4 index.html:77
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+
+#: index.html:47
+msgid "Home"
+msgstr " होम"
+
+#: index.html:50
+msgid "Tools"
+msgstr "टूल्स"
+
+#: index.html:53 index.html:295
+msgid "News"
+msgstr ""
+
+#: index.html:56
+#, fuzzy
+msgid "Contribute"
+msgstr "पुढे चालू ठेवा"
+
+#: index.html:59
+msgid "Conferences"
+msgstr ""
+
+#: index.html:85
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+
+#: index.html:86 index.html:108
+#, fuzzy
+msgid "More information"
+msgstr "मेमरी माहिती"
+
+#: index.html:88 index.html:96
+#, fuzzy
+msgid "Install Tumbleweed"
+msgstr "प्रतिष्ठापित करा"
+
+#: index.html:91
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+
+#: index.html:93
+msgid "Learn more"
+msgstr ""
+
+#: index.html:107
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+
+#: index.html:110 index.html:115
+#, fuzzy
+msgid "Install Leap"
+msgstr "स्थापना (इन्स्टॉलेशन)"
+
+#: index.html:113
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+
+#: index.html:125
+msgid "openSUSE TOOLS"
+msgstr ""
+
+#: index.html:126
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+
+#: index.html:140 index.html:158 index.html:176 index.html:194
+msgid "Go to link"
+msgstr ""
+
+#: index.html:144
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+
+#: index.html:162
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+
+#: index.html:180
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+
+#: index.html:198
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+
+#: index.html:225
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr ""
+
+#: index.html:226
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+
+#: index.html:231
+#, fuzzy
+msgid "Code"
+msgstr "कोड नाही"
+
+#: index.html:232 index.html:244
+msgid "Find out more"
+msgstr ""
+
+#: index.html:235
+#, fuzzy
+msgid "Contribute Code"
+msgstr "पुढे चालू ठेवा"
+
+#: index.html:236
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+
+#: index.html:237
+msgid "Find out more about how to participate."
+msgstr ""
+
+#: index.html:243
+msgid "Hardware"
+msgstr "हार्डवेअर"
+
+#: index.html:247
+msgid "Contribute Hardware"
+msgstr ""
+
+#: index.html:248
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+
+#: index.html:258
+msgid "Meet up with openSUSE at conferences."
+msgstr ""
+
+#: index.html:259
+msgid "View upcoming conferences"
+msgstr ""
+
+#: index.html:271
+#, fuzzy
+msgid "Get software"
+msgstr "सॉफ्टवेअर स्थापित करा"
+
+#: index.html:276
+msgid "Wiki"
+msgstr ""
+
+#: index.html:281
+#, fuzzy
+msgid "Build Service"
+msgstr "inetd सेवा"
+
+#: index.html:290
+#, fuzzy
+msgid "Social Network"
+msgstr "नेटवर्क"
+
+#: index.html:300
+msgid "Forums"
+msgstr ""
+
+#: index.html:309
+msgid "Shop"
+msgstr ""
+
+#: index.html:314
+msgid "Blogs"
+msgstr ""
+
+#: index.html:319
+#, fuzzy
+msgid "Press"
+msgstr "प्रगती"
+
+#: index.html:344
+msgid "Sponsored by:"
+msgstr ""
+
+#: index.html:350
+#, fuzzy
+msgid "Change language"
+msgstr "चॅमिक भाषा"
+
+#: index.html:380
+msgid "All Rights Reserved."
+msgstr ""
