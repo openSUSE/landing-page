@@ -1,6 +1,7 @@
 # The new openSUSE landing page
 
-View the preview at: http://cyntss.github.io/opensuse-landing-page/
+Visit the website at: https://www.opensuse.org/
+
 In this new page we will feature Tumbleweed and Leap.
 
 
