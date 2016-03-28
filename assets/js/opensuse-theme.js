@@ -315,6 +315,9 @@ var contributionInterpolation = function () {
 
   function bounceBall(element, times, speed) {
 
+    //dont let the user click on the ball while the description is open
+    element.addClass('not-clickable');
+
     //add the class Active to the element
     element.addClass('active');
 
@@ -360,7 +363,7 @@ var contributionInterpolation = function () {
           $(this).empty().removeAttr('style');
           element.removeAttr('style').removeClass('active');
           parent.prepend(element).addClass('animated fadeInUp');
-
+          element.removeClass('not-clickable');
         })
       });
 
