@@ -181,17 +181,22 @@
       -webkit-transform: perspective(1000px) rotate3d(0,1,0,0deg);
       transform: perspective(1000px) rotate3d(0,1,0,0deg);
     }
-    &:hover {
-      cursor: pointer;
-      i, h1 {
-        color: #fff
-      }
-    }
+
     h1, h4 {
       display: block;
       position: absolute;
       text-align: center;
       width: 100%;
+    }
+    h4 {
+      bottom: 20px;
+      font-weight: 400;
+      font-style: italic;
+      opacity: 0;
+      -webkit-transform: translate3d(0px,-10px,0);
+      transform: translate3d(0px,-10px,0);
+      -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+      transition: transform 0.5s, opacity 0.5s;
     }
     &::before {
       background: @opensuse-blue;
@@ -216,34 +221,11 @@
       -webkit-transform: scale(1,1);
       transform: scale(1,1);
     }
-    &.active {
+    &:hover, &.active {
       cursor: pointer;
       i, h1 {
         color: #fff
       }
-    }
-    &.active {
-      i {
-        -webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
-        transform: perspective(1000px) rotate3d(0,1,0,360deg);
-      }
-      h4 {
-        opacity: 1;
-        -webkit-transform: translate3d(0,0,0);
-        transform: translate3d(0,0,0);
-      }
-    }
-    h4 {
-      bottom: 20px;
-      font-weight: 400;
-      font-style: italic;
-      opacity: 0;
-      -webkit-transform: translate3d(0px,-10px,0);
-      transform: translate3d(0px,-10px,0);
-      -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
-      transition: transform 0.5s, opacity 0.5s;
-    }
-    &:hover {
       i {
         -webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
         transform: perspective(1000px) rotate3d(0,1,0,360deg);
