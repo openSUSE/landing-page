@@ -7221,17 +7221,14 @@ h4.media-heading {
   .opensuse-news .owl-next {
     display: none;
   }
-  #contribute-to-opensuse .contribute-code,
-  #contribute-to-opensuse .contribute-hardware {
-    height: 160px;
-    width: 160px;
-  }
-  #contribute-to-opensuse .contribute-code::before,
-  #contribute-to-opensuse .contribute-hardware::before {
+  #contribute-to-opensuse .contribute-code .bubble,
+  #contribute-to-opensuse .contribute-hardware .bubble {
     height: 180px;
-    left: -10px;
-    top: -10px;
     width: 180px;
+  }
+  #contribute-to-opensuse .contribute-code h2,
+  #contribute-to-opensuse .contribute-hardware h2 {
+    font-size: 1.4em;
   }
   #contribute-to-opensuse .contribute-code i.fa-5x,
   #contribute-to-opensuse .contribute-hardware i.fa-5x {
