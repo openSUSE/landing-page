@@ -25,7 +25,7 @@ gulp.task('scripts', function() {
                    assets + 'js/opensuse-theme.js'])
     .pipe(concat('main.js'))
     .pipe(rename({suffix: '.min'}))
-    .pipe(stripDebug())
+  //  .pipe(stripDebug())
     .pipe(uglify())
     .pipe(gulp.dest(destination + 'js'));
 });
