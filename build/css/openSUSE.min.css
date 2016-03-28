@@ -6629,6 +6629,10 @@ button.close {
   right: 15px;
   z-index: 9999;
 }
+.not-clickable {
+  pointer-events: none;
+  cursor: default;
+}
 img[src*="new-tools-to-try-out.png"] {
   margin-top: 20px;
 }
