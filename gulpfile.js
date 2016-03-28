@@ -55,8 +55,8 @@ gulp.task('vendorCSS', ['less'], function() {
 // Watch for changes in our custom assets
 gulp.task('watch', function() {
   // Watch .js files
-  gulp.watch(assets + 'js/*.js', ['customeScripts']);
-  gulp.watch(assets + 'js/vendor/*.js', ['customeScripts']);
+  gulp.watch(assets + 'js/*.js', ['scripts']);
+  gulp.watch(assets + 'js/vendor/*.js', ['scripts']);
   // Watch .scss files
   gulp.watch(assets + 'css/*.less', ['less']);
  });
