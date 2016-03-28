@@ -324,6 +324,7 @@ var contributionInterpolation = function () {
     //take the initial position of the element
     var x = element.offset().left - $(window).scrollLeft();
     var y = $(window).outerHeight() - (element.offset().top - $(window).scrollTop()) - element.outerHeight();
+    var elementWidth = element.outerWidth();
 
     //make the element a position absolute element of the body removing it first from the original container
     var parent = element.parent();
@@ -334,7 +335,8 @@ var contributionInterpolation = function () {
     element.css({
       position: 'absolute',
       left: x + 'px',
-      bottom: y + 'px'
+      bottom: y + 'px',
+      width: elementWidth + 'px'
     })
 
     for(var i = 0; i < times; i++) {
@@ -359,6 +361,9 @@ var contributionInterpolation = function () {
 
       //close the details
       $('.close-details').on("click", function() {
+        //remove the Animated class first, to restart the effect in case the user
+        //clicks more than once on the element
+        parent.prepend(element).removeClass('animated fadeInUp');
         $('#contribute-details').fadeOut(function() {
           $(this).empty().removeAttr('style');
           element.removeAttr('style').removeClass('active');

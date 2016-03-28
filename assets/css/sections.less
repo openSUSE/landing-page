@@ -171,84 +171,82 @@
     margin-left: auto;
     height: 200px;
     position: relative;
-    width: 200px;
-    i, h1, h4 {
-      -webkit-transition: -webkit-transform 0.5s, color 0.5s;
-      transition: transform 0.5s, color .5s ease;
+    width: 100%;
+    i, h1, h2 {
+      -webkit-transition: -webkit-transform 0.5s;
+      transition: transform 0.5s;
       z-index: 200;
     }
     i {
       -webkit-transform: perspective(1000px) rotate3d(0,1,0,0deg);
       transform: perspective(1000px) rotate3d(0,1,0,0deg);
     }
-    &:hover {
-      cursor: pointer;
-      i, h1 {
-        color: #fff
-      }
-    }
-    h1, h4 {
+    h1 {
       display: block;
+      opacity: 1;
       position: absolute;
       text-align: center;
+      -webkit-transform: translate3d(0px,0px,0);
+      transform: translate3d(0px,0px,0);
+      -webkit-transition: -webkit-transform 0.2s, opacity 0.5s;
+      transition: transform 0.2s, opacity 0.5s;
       width: 100%;
     }
-    &::before {
+    h2 {
+      bottom: 20px;
+      font-weight: 400;
+      font-style: italic;
+      margin-right: auto;
+      margin-left: auto;
+      opacity: 0;
+      -webkit-transform: translate3d(0px,10px,0);
+      transform: translate3d(0px,10px,0);
+      -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+      transition: transform 0.5s, opacity 0.5s;
+      width: 230px;
+    }
+    .text-holder {
+      position: absolute;
+      top: 25px;
+      width: 100%;
+    }
+    .bubble {
       background: @opensuse-blue;
       border-radius: 100%;
       content: '';
       height: 250px;
-      left: -25px;
-      position: absolute;
+      margin-right: auto;
+      margin-left: auto;
       -webkit-transform: scale(0,0);
       transform: scale(0,0);
       -webkit-transition: -webkit-transform 0.5s;
       transition: transform 0.5s;
-      top: -25px;
       width: 250px;
       z-index: 0;
     }
-    &:hover::before {
+    &:hover .bubble {
       -webkit-transform: scale(1,1);
       transform: scale(1,1);
     }
-    &.active::before {
+    &.active .bubble {
       -webkit-transform: scale(1,1);
       transform: scale(1,1);
     }
-    &.active {
+    &:hover, &.active {
       cursor: pointer;
       i, h1 {
         color: #fff
       }
-    }
-    &.active {
       i {
         -webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
         transform: perspective(1000px) rotate3d(0,1,0,360deg);
       }
-      h4 {
-        opacity: 1;
-        -webkit-transform: translate3d(0,0,0);
-        transform: translate3d(0,0,0);
+      h1 {
+        opacity: 0;
+        -webkit-transform: translate3d(0,20px,0);
+        transform: translate3d(0,20px,0);
       }
-    }
-    h4 {
-      bottom: 20px;
-      font-weight: 400;
-      font-style: italic;
-      opacity: 0;
-      -webkit-transform: translate3d(0px,-10px,0);
-      transform: translate3d(0px,-10px,0);
-      -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
-      transition: transform 0.5s, opacity 0.5s;
-    }
-    &:hover {
-      i {
-        -webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
-        transform: perspective(1000px) rotate3d(0,1,0,360deg);
-      }
-      h4 {
+      h2 {
         opacity: 1;
         -webkit-transform: translate3d(0,0,0);
         transform: translate3d(0,0,0);

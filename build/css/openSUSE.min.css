@@ -6897,16 +6897,16 @@ ul li {
   margin-left: auto;
   height: 200px;
   position: relative;
-  width: 200px;
+  width: 100%;
 }
 #contribute-to-opensuse .contribute-code i,
 #contribute-to-opensuse .contribute-hardware i,
 #contribute-to-opensuse .contribute-code h1,
 #contribute-to-opensuse .contribute-hardware h1,
-#contribute-to-opensuse .contribute-code h4,
-#contribute-to-opensuse .contribute-hardware h4 {
-  -webkit-transition: -webkit-transform 0.5s, color 0.5s;
-  transition: transform 0.5s, color .5s ease;
+#contribute-to-opensuse .contribute-code h2,
+#contribute-to-opensuse .contribute-hardware h2 {
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
   z-index: 200;
 }
 #contribute-to-opensuse .contribute-code i,
@@ -6914,90 +6914,98 @@ ul li {
   -webkit-transform: perspective(1000px) rotate3d(0, 1, 0, 0deg);
   transform: perspective(1000px) rotate3d(0, 1, 0, 0deg);
 }
-#contribute-to-opensuse .contribute-code:hover,
-#contribute-to-opensuse .contribute-hardware:hover {
-  cursor: pointer;
-}
-#contribute-to-opensuse .contribute-code:hover i,
-#contribute-to-opensuse .contribute-hardware:hover i,
-#contribute-to-opensuse .contribute-code:hover h1,
-#contribute-to-opensuse .contribute-hardware:hover h1 {
-  color: #ffffff;
-}
 #contribute-to-opensuse .contribute-code h1,
-#contribute-to-opensuse .contribute-hardware h1,
-#contribute-to-opensuse .contribute-code h4,
-#contribute-to-opensuse .contribute-hardware h4 {
+#contribute-to-opensuse .contribute-hardware h1 {
   display: block;
+  opacity: 1;
   position: absolute;
   text-align: center;
+  -webkit-transform: translate3d(0px, 0px, 0);
+  transform: translate3d(0px, 0px, 0);
+  -webkit-transition: -webkit-transform 0.2s, opacity 0.5s;
+  transition: transform 0.2s, opacity 0.5s;
   width: 100%;
 }
-#contribute-to-opensuse .contribute-code::before,
-#contribute-to-opensuse .contribute-hardware::before {
+#contribute-to-opensuse .contribute-code h2,
+#contribute-to-opensuse .contribute-hardware h2 {
+  bottom: 20px;
+  font-weight: 400;
+  font-style: italic;
+  margin-right: auto;
+  margin-left: auto;
+  opacity: 0;
+  -webkit-transform: translate3d(0px, 10px, 0);
+  transform: translate3d(0px, 10px, 0);
+  -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+  transition: transform 0.5s, opacity 0.5s;
+  width: 230px;
+}
+#contribute-to-opensuse .contribute-code .text-holder,
+#contribute-to-opensuse .contribute-hardware .text-holder {
+  position: absolute;
+  top: 25px;
+  width: 100%;
+}
+#contribute-to-opensuse .contribute-code .bubble,
+#contribute-to-opensuse .contribute-hardware .bubble {
   background: #173f4f;
   border-radius: 100%;
   content: '';
   height: 250px;
-  left: -25px;
-  position: absolute;
+  margin-right: auto;
+  margin-left: auto;
   -webkit-transform: scale(0, 0);
   transform: scale(0, 0);
   -webkit-transition: -webkit-transform 0.5s;
   transition: transform 0.5s;
-  top: -25px;
   width: 250px;
   z-index: 0;
 }
-#contribute-to-opensuse .contribute-code:hover::before,
-#contribute-to-opensuse .contribute-hardware:hover::before {
+#contribute-to-opensuse .contribute-code:hover .bubble,
+#contribute-to-opensuse .contribute-hardware:hover .bubble {
   -webkit-transform: scale(1, 1);
   transform: scale(1, 1);
 }
-#contribute-to-opensuse .contribute-code.active::before,
-#contribute-to-opensuse .contribute-hardware.active::before {
+#contribute-to-opensuse .contribute-code.active .bubble,
+#contribute-to-opensuse .contribute-hardware.active .bubble {
   -webkit-transform: scale(1, 1);
   transform: scale(1, 1);
 }
+#contribute-to-opensuse .contribute-code:hover,
+#contribute-to-opensuse .contribute-hardware:hover,
 #contribute-to-opensuse .contribute-code.active,
 #contribute-to-opensuse .contribute-hardware.active {
   cursor: pointer;
 }
+#contribute-to-opensuse .contribute-code:hover i,
+#contribute-to-opensuse .contribute-hardware:hover i,
 #contribute-to-opensuse .contribute-code.active i,
 #contribute-to-opensuse .contribute-hardware.active i,
+#contribute-to-opensuse .contribute-code:hover h1,
+#contribute-to-opensuse .contribute-hardware:hover h1,
 #contribute-to-opensuse .contribute-code.active h1,
 #contribute-to-opensuse .contribute-hardware.active h1 {
   color: #ffffff;
 }
+#contribute-to-opensuse .contribute-code:hover i,
+#contribute-to-opensuse .contribute-hardware:hover i,
 #contribute-to-opensuse .contribute-code.active i,
 #contribute-to-opensuse .contribute-hardware.active i {
   -webkit-transform: perspective(1000px) rotate3d(0, 1, 0, 360deg);
   transform: perspective(1000px) rotate3d(0, 1, 0, 360deg);
 }
-#contribute-to-opensuse .contribute-code.active h4,
-#contribute-to-opensuse .contribute-hardware.active h4 {
-  opacity: 1;
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-}
-#contribute-to-opensuse .contribute-code h4,
-#contribute-to-opensuse .contribute-hardware h4 {
-  bottom: 20px;
-  font-weight: 400;
-  font-style: italic;
+#contribute-to-opensuse .contribute-code:hover h1,
+#contribute-to-opensuse .contribute-hardware:hover h1,
+#contribute-to-opensuse .contribute-code.active h1,
+#contribute-to-opensuse .contribute-hardware.active h1 {
   opacity: 0;
-  -webkit-transform: translate3d(0px, -10px, 0);
-  transform: translate3d(0px, -10px, 0);
-  -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
-  transition: transform 0.5s, opacity 0.5s;
+  -webkit-transform: translate3d(0, 20px, 0);
+  transform: translate3d(0, 20px, 0);
 }
-#contribute-to-opensuse .contribute-code:hover i,
-#contribute-to-opensuse .contribute-hardware:hover i {
-  -webkit-transform: perspective(1000px) rotate3d(0, 1, 0, 360deg);
-  transform: perspective(1000px) rotate3d(0, 1, 0, 360deg);
-}
-#contribute-to-opensuse .contribute-code:hover h4,
-#contribute-to-opensuse .contribute-hardware:hover h4 {
+#contribute-to-opensuse .contribute-code:hover h2,
+#contribute-to-opensuse .contribute-hardware:hover h2,
+#contribute-to-opensuse .contribute-code.active h2,
+#contribute-to-opensuse .contribute-hardware.active h2 {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
@@ -7213,17 +7221,14 @@ h4.media-heading {
   .opensuse-news .owl-next {
     display: none;
   }
-  #contribute-to-opensuse .contribute-code,
-  #contribute-to-opensuse .contribute-hardware {
-    height: 160px;
-    width: 160px;
-  }
-  #contribute-to-opensuse .contribute-code::before,
-  #contribute-to-opensuse .contribute-hardware::before {
+  #contribute-to-opensuse .contribute-code .bubble,
+  #contribute-to-opensuse .contribute-hardware .bubble {
     height: 180px;
-    left: -10px;
-    top: -10px;
     width: 180px;
+  }
+  #contribute-to-opensuse .contribute-code h2,
+  #contribute-to-opensuse .contribute-hardware h2 {
+    font-size: 1.4em;
   }
   #contribute-to-opensuse .contribute-code i.fa-5x,
   #contribute-to-opensuse .contribute-hardware i.fa-5x {
