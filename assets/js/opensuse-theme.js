@@ -130,6 +130,7 @@ $(function() {
 })
 
 function osMoreInformation(os) {
+
   moreInfoOpened = true
   //get the height of the main container
   containerHeight = $('#opensuse-os').outerHeight()
@@ -140,6 +141,8 @@ function osMoreInformation(os) {
   text = $osSelected.find(".hidden-content").html()
   icon = $osSelected.find(".distributions-icon").html()
 
+  //dont let users click more than once
+  $osSelected.addClass('not-clickable')
 
   // animation
   $('#opensuse-os .container-fluid').addClass('animated bounceOut')
@@ -181,12 +184,12 @@ function osMoreInformation(os) {
     $('.os-icon').html(icon)
 
     $('.back-to-main-page').on('click', function() {
-      backToMainPageOs()
+      backToMainPageOs($osSelected)
     })
   }
 }
 
-function backToMainPageOs () {
+function backToMainPageOs (os) {
   moreInfoOpened = false;
   $('#more-information-os').addClass('animated bounceOut')
   $('header').removeAttr('style')
@@ -207,6 +210,10 @@ function backToMainPageOs () {
   function showMainInformation () {
     $('#opensuse-os .container-fluid').removeClass('animated bounceOut').show().addClass('animated bounceIn')
   }
+
+  //make the area clickable again
+  $osSelected = os
+  $osSelected.removeClass('not-clickable')
 
 }
 
