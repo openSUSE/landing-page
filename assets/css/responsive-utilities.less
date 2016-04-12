@@ -81,8 +81,12 @@
     }
   }
   #contribute-to-opensuse {
+    h4 {
+      padding: 0 15px;
+    }
     .contribute-code,
     .contribute-hardware {
+      height: 180px;
       .bubble {
         height: 180px;
         width: 180px;
@@ -111,9 +115,38 @@
   }
   .language-selector {
     text-align: center !important;
-    padding-top: 2em;
+    padding-top: 1.7em;
   }
 
 }
-
+@media (max-width: @screen-phone) {
+  #contribute-to-opensuse {
+    .contribute-code,
+    .contribute-hardware {
+      height: 140px;
+      .bubble {
+        height: 140px;
+        width: 140px;
+      }
+      h1 {
+        font-size: 1.7em;
+      }
+      h2 {
+        width: 140px;
+        font-size: 1.2em
+      }
+    }
+    #contribute-details {
+      .contribution-extended-details {
+        padding: 50px 20px;
+      }
+    }
+  }
+  #opensuse-tools .tools-container .media {
+    height: 165px;
+  }
+  .tools-container .col-md-6 {
+    padding: 0px;
+  }
+}
 

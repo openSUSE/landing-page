@@ -7221,6 +7221,13 @@ h4.media-heading {
   .opensuse-news .owl-next {
     display: none;
   }
+  #contribute-to-opensuse h4 {
+    padding: 0 15px;
+  }
+  #contribute-to-opensuse .contribute-code,
+  #contribute-to-opensuse .contribute-hardware {
+    height: 180px;
+  }
   #contribute-to-opensuse .contribute-code .bubble,
   #contribute-to-opensuse .contribute-hardware .bubble {
     height: 180px;
@@ -7248,6 +7255,35 @@ h4.media-heading {
   }
   .language-selector {
     text-align: center !important;
-    padding-top: 2em;
+    padding-top: 1.7em;
+  }
+}
+@media (max-width: 480px) {
+  #contribute-to-opensuse .contribute-code,
+  #contribute-to-opensuse .contribute-hardware {
+    height: 140px;
+  }
+  #contribute-to-opensuse .contribute-code .bubble,
+  #contribute-to-opensuse .contribute-hardware .bubble {
+    height: 140px;
+    width: 140px;
+  }
+  #contribute-to-opensuse .contribute-code h1,
+  #contribute-to-opensuse .contribute-hardware h1 {
+    font-size: 1.7em;
+  }
+  #contribute-to-opensuse .contribute-code h2,
+  #contribute-to-opensuse .contribute-hardware h2 {
+    width: 140px;
+    font-size: 1.2em;
+  }
+  #contribute-to-opensuse #contribute-details .contribution-extended-details {
+    padding: 50px 20px;
+  }
+  #opensuse-tools .tools-container .media {
+    height: 165px;
+  }
+  .tools-container .col-md-6 {
+    padding: 0px;
   }
 }
