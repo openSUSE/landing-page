@@ -6766,7 +6766,6 @@ ul li {
 }
 #opensuse-os .os-main .col-sm-6 {
   height: 350px;
-  padding: 50px;
 }
 #opensuse-os .os-main .col-sm-6:first-of-type {
   border-right: 1px solid #0e262f;
@@ -6777,6 +6776,8 @@ ul li {
 #opensuse-os .os-main #openSUSE,
 #opensuse-os .os-main #tumbleweed {
   cursor: pointer;
+  height: 350px;
+  padding: 50px;
   transition: all ease .5s;
 }
 #opensuse-os .os-main #openSUSE .moreinfo,
