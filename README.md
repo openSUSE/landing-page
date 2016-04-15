@@ -88,20 +88,18 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 ---
 
 #CONTRIBUTE
-## Do you wanna contribute providing translation for the new openSUSE website?
+## Do you want to contribute by providing translations for the new openSUSE website?
 If yes is your answer, then you will make thousands of users happy to have the openSUSE landing page in their language.
 
-The openSUSE translations are hosted in subversion on http://svn.opensuse.org - the template for it is opensuse-landing-page.pot. You need to update
-the $LANG/po/opensuse-landing-page.$LANG.po within subversion. 
+The openSUSE translations are provided by https://l10n.opensuse.org/. You can log in with your openSUSE account there.
 
-You can test your local changes by setting $MY\_LCN\_CHECKOUT environment variable to your subversion checkout and run ruby assets/js/langpack/update\_lcn.rb from within
-the landing-page checkout. The changes from translation subversion to landing-page are done by a cronjob, so no need to do a pull request for updates. For introducing a new language, you need to continue reading.
+ For introducing a new language, you need to continue reading.
 
 #### Now its time to add the new language to the dropdown. For this follow the next steps:
 
 1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
-2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added. This code has to match with the name of the file you created.
-3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to go to the line 208 and under it add the new language in the following format ```window.lang.dynamic('es', 'assets/js/langpack/es.json');```. **Note:** We are configuring the optional languages and giving them the value with which our html will be calling them, in this case "es", and in the secong value we are declaring the rute to the file. Please verify you are giving the right values here.
+2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added.
+3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to search for "i18n" and add your language following the pattern there.
 
 #### Last steps: build and test
 
@@ -109,7 +107,8 @@ We use GULP to run automatic tasks to preprocess CSS (from less), compress image
 The last step you need to do is, open the terminal and go to the directory where you have the project cloned.
 Once you are there and considering you have Gulp installed, just run:
 <pre>
-c:/doc/opensuse-landing-page> gulp
+$ po/update_po.rb
+$ gulp
 </pre>
 <small>More info about <a href="http://gulpjs.com/" target="_blank">gulp here</a></small>
 
