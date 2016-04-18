@@ -5,20 +5,22 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:13:55 +0100\n"
-"PO-Revision-Date: 2015-11-05 14:29+0100\n"
-"Last-Translator: Vojtěch Zeisek <vojtech.zeisek@opensuse.org>\n"
-"Language-Team: Czech <opensuse-cz@opensuse.org>\n"
+"PO-Revision-Date: 2016-04-18 08:30+0000\n"
+"Last-Translator: Vojtech Zeisek <Vojtech.Zeisek@opensuse.org>\n"
+"Language-Team: Czech <http://l10n.opensuse.org/projects/landing-"
+"page/master/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
-"Volba tvůrců pro systémové správce, vývojáře i uživatele pracovní plochy."
+"Tvůrčí volba pro systémové správce, vývojáře i uživatele stolních počítačů a "
+"notebooků."
 
 #: index.html:47
 msgid "Home"
@@ -71,9 +73,9 @@ msgstr ""
 "Linux, SAMBU, git, pracovní plochy, kancelářské aplikace a mnoho dalších "
 "balíčků, bude chtít používat Tumbleweed. Pokročilí uživatelé, vývojáři "
 "softwaru či přispěvatelé do openSUSE, ti všichni jsou Tumbleweedem "
-"přitahováni. Pokud vyžadujete nejnovější haldu softwaru a nezávidle vývojové "
-"prostředí, či potřebujete stabilní platformu co nejbližší krajní verzi "
-"Linuxu, Tumbleweed pro vás tou správnou volbou."
+"přitahováni. Pokud vyžadujete nejnovější haldu softwaru a integrované "
+"vývojové prostředí, či potřebujete stabilní platformu co nejbližší "
+"nejnovější verzi Linuxu, Tumbleweed pro vás tou správnou volbou."
 
 #: index.html:93
 msgid "Learn more"
@@ -243,7 +245,7 @@ msgstr "Setkejte se s openSUSE na konferencích."
 
 #: index.html:259
 msgid "View upcoming conferences"
-msgstr "Zobrazit blízké konference"
+msgstr "Zobrazit nadcházející konference"
 
 #: index.html:271
 msgid "Get software"
