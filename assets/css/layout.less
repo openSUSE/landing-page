@@ -50,6 +50,7 @@ header {
           right: 50%;
           bottom: 0;
           background: @header-links-horizontal-hover;
+          opacity: 0;
           height: 3px;
           .prefixed(transition-property, "left, right");
           .prefixed(transition-duration, .3s);
@@ -63,6 +64,7 @@ header {
           &:before {
             left: 0;
             right: 0;
+            opacity: 1;
           }
         }
       }
