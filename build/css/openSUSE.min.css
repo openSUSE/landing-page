@@ -6681,16 +6681,52 @@ header ul li {
 }
 header ul li a {
   color: #35b9ab;
+  display: block;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   font-size: 18px;
   margin-left: 18px;
   text-transform: uppercase;
+  padding-bottom: 0.3em;
+  position: relative;
+  overflow: hidden;
 }
-header ul li a:hover {
-  border-bottom: 3px solid #ffffff;
-  color: #ffffff;
+header ul li a:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  background: #ffffff;
+  height: 3px;
+  -webkit-transition-property: "left, right";
+  -moz-transition-property: "left, right";
+  -ms-transition-property: "left, right";
+  -o-transition-property: "left, right";
+  transition-property: "left, right";
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -ms-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  -moz-transition-timing-function: ease-out;
+  -ms-transition-timing-function: ease-out;
+  -o-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+header ul li a:hover,
+header ul li a:focus,
+header ul li a:active {
   text-decoration: none;
+  color: #ffffff;
+}
+header ul li a:hover:before,
+header ul li a:focus:before,
+header ul li a:active:before {
+  left: 0;
+  right: 0;
 }
 aside {
   background: #333333;
