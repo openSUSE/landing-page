@@ -6699,6 +6699,7 @@ header ul li a:before {
   right: 50%;
   bottom: 0;
   background: #ffffff;
+  opacity: 0;
   height: 3px;
   -webkit-transition-property: "left, right";
   -moz-transition-property: "left, right";
@@ -6727,6 +6728,7 @@ header ul li a:focus:before,
 header ul li a:active:before {
   left: 0;
   right: 0;
+  opacity: 1;
 }
 aside {
   background: #333333;
