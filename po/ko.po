@@ -3,22 +3,24 @@ msgstr ""
 "Project-Id-Version: entries\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2006-06-12 16:56+0100\n"
-"Last-Translator: \n"
-"Language-Team:  <en@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-04-25 09:07+0000\n"
+"Last-Translator: YunSeok Choi <xein@naver.com>\n"
+"Language-Team: Korean <http://l10n.opensuse.org/projects/landing-"
+"page/master/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
+msgstr "시스템 관리자, 개발자 그리고 데스크탑 사용자들의 선택."
 
 #: index.html:47
 msgid "Home"
-msgstr "집"
+msgstr "홈"
 
 #: index.html:50
 msgid "Tools"
@@ -26,34 +28,30 @@ msgstr "도구"
 
 #: index.html:53 index.html:295
 msgid "News"
-msgstr ""
+msgstr "뉴스"
 
 # continue button label
 #: index.html:56
-#, fuzzy
 msgid "Contribute"
-msgstr "계속"
+msgstr "기여하기"
 
 #: index.html:59
-#, fuzzy
 msgid "Conferences"
-msgstr "속성(_P)"
+msgstr "컨퍼런스"
 
 #: index.html:85
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
-msgstr ""
+msgstr "빠르고! 통합적이며! 안정적이고! 실험적인! 최신의 리눅스 프로그램들과 함께 제공되는 롤링 버전입니다!"
 
 #: index.html:86 index.html:108
-#, fuzzy
 msgid "More information"
-msgstr "메모리 정보"
+msgstr "더 보기"
 
 #: index.html:88 index.html:96
-#, fuzzy
 msgid "Install Tumbleweed"
-msgstr "설치 됨"
+msgstr "Tumbleweed 설치"
 
 #: index.html:91
 msgid ""
@@ -65,21 +63,24 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Tumbleweed 에는 일부 사용자들이 필요로하는 최신 프로그램이 포함 되어 있습니다. 여기에는 제한없는 리눅스 커널부터, 삼바, "
+"Git,  데스크탑 환경, 오피스 응용프로그램 등이 있습니다. Tumbleweed 는 고급 사용자, 소프트웨어 개발자, 오픈수세 기여자를 "
+"위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합적인 개발환경 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 "
+"필요하다면, Tumbleweed 는 최고의 선택이 될것입니다."
 
 #: index.html:93
 msgid "Learn more"
-msgstr ""
+msgstr "더 보기"
 
 #: index.html:107
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
-msgstr ""
+msgstr "오픈수세 사용자를 위한 기본 배포버전! 세상에서 가장 완벽한 리눅스를 경험하세요!"
 
 #: index.html:110 index.html:115
-#, fuzzy
 msgid "Install Leap"
-msgstr "설치 됨"
+msgstr "Leap 설치"
 
 #: index.html:113
 msgid ""
@@ -89,11 +90,13 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
+"많은 사용자 경험을 가진 리눅스 배포판을 찾거나 안정적인 운영체체가 필요한 처음 사용자나 경험이 풍부한 리눅스 사용자들이 많이 찾는 "
+"배포판입니다. 검증된 업데이트와 오픈수세의 중요 업데이트를 받을 수 있습니다. 리눅스 개발자와 관리자, 소프트웨어 회사의 선택을 받은 "
+"최고의 리눅스를 경험해보세요."
 
 #: index.html:125
-#, fuzzy
 msgid "openSUSE TOOLS"
-msgstr "오픈수세 11"
+msgstr "오픈수세 도구"
 
 #: index.html:126
 msgid "Discover the best open-source tools developed by our community"
@@ -138,9 +141,8 @@ msgstr ""
 
 #  TextEntry label for phone network Areacode (german Vorwahl)
 #: index.html:231
-#, fuzzy
 msgid "Code"
-msgstr "코드 없음"
+msgstr "코드"
 
 #: index.html:232 index.html:244
 msgid "Find out more"
@@ -217,9 +219,8 @@ msgid "Build Service"
 msgstr "빌드 서비스"
 
 #: index.html:290
-#, fuzzy
 msgid "Social Network"
-msgstr "로컬 네트워크"
+msgstr "소셜 네트워크"
 
 #: index.html:300
 msgid "Forums"
@@ -243,15 +244,13 @@ msgid "Sponsored by:"
 msgstr ""
 
 #: index.html:350
-#, fuzzy
 msgid "Change language"
-msgstr "참어군"
+msgstr "언어 변경"
 
 #: index.html:380
 msgid "All Rights Reserved."
 msgstr ""
 
 #: index.html:403
-#, fuzzy
 msgid "Back to main page"
-msgstr "개요로 되돌아감"
+msgstr "메인 페이지로 돌아감"
