@@ -6741,6 +6741,12 @@ aside {
   transition: all 0.4s ease-in-out;
   top: 45px;
   z-index: 1000;
+  width: 250px;
+  text-transform: uppercase;
+}
+aside ul li a {
+  font-size: 14px;
+  font-weight: 400;
 }
 section {
   padding: 50px 0;
@@ -7206,7 +7212,7 @@ h4.media-heading {
     padding: 8px;
   }
   header [src*="opensuse-logo.png"] {
-    height: 27px;
+    height: 27px!important;
   }
   header .logo {
     padding-left: 0;
