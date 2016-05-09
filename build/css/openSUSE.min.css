@@ -6666,7 +6666,7 @@ header {
 header #open_main_menu {
   color: #ffffff;
   cursor: pointer;
-  padding: 8px 4px;
+  padding: 8px;
 }
 header #opensuseLogo,
 header ul li a {
@@ -7212,7 +7212,7 @@ h4.media-heading {
     padding: 8px;
   }
   header [src*="opensuse-logo.png"] {
-    height: 27px!important;
+    height: 25px;
   }
   header .logo {
     padding-left: 0;
