@@ -186,6 +186,17 @@ function osMoreInformation(os) {
     $('.back-to-main-page').on('click', function() {
       backToMainPageOs($osSelected)
     })
+    
+    $('#home, #opensuseLogo').on('click', function() {
+        scrolled = $(window).scrollTop();
+        if (scrolled > mainSectionHeight) {
+            setTimeout('backToMainPageOs($osSelected)', 900);
+        } else
+        {
+            backToMainPageOs($osSelected)
+        }
+    })    
+    
   }
 }
 
