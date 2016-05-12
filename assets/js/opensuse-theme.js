@@ -133,8 +133,9 @@ function osMoreInformation(os) {
 
   moreInfoOpened = true
   //get the height of the main container
-  containerHeight = $('#opensuse-os').outerHeight()
-
+  containerHeight = $('#opensuse-os').outerHeight();
+  window.location.hash = '0';
+  
   //find the information of the selected distribution
   $osSelected = os
   title = $osSelected.find("h1").html()
@@ -191,6 +192,7 @@ function osMoreInformation(os) {
         scrolled = $(window).scrollTop();
         if (scrolled > mainSectionHeight) {
             setTimeout('backToMainPageOs($osSelected)', 900);
+
         } else
         {
             backToMainPageOs($osSelected)
@@ -430,4 +432,15 @@ window.fbAsyncInit = function() {
    js.src = "//connect.facebook.net/en_US/sdk.js";
    fjs.parentNode.insertBefore(js, fjs);
  }(document, 'script', 'facebook-jssdk'));
+
+
+
+window.onkeyup = function(e) {
+   var key = e.keyCode ? e.keyCode : e.which;
+
+   if (key == 8) {
+       backToMainPageOs($osSelected);
+   }
+}
+
 
