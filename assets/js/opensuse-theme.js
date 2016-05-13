@@ -11,7 +11,7 @@ function detectMobileScreen() {
   screenWidth = $(window).outerWidth();
   if (screenWidth < 768) {
     if (!menuOpen) {
-      $('#open_main_menu').on('swiperight', openMobileMenu);
+      $('.finger-detection-open-menu').on('swiperight', openMobileMenu);
     }
   }
 }
