@@ -1,6 +1,6 @@
 // Functions for the mobile version
-$(document).on("click", '#open_main_menu', open_mobile_menu);
-var menu_open = false
+$(document).on("click", '#open_main_menu, aside ul li a', open_mobile_menu);
+var menu_open = false;
 function open_mobile_menu () {
   if (menu_open) {
     $('aside').css({'left': '-250px'});

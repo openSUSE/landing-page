@@ -21,7 +21,7 @@ header {
   #open_main_menu {
     color: @button-main-menu;
     cursor: pointer;
-    padding: 8px 4px;
+    padding: 8px;
   }
   #opensuseLogo, ul li a {
     transition: all .5s ease;
@@ -88,7 +88,18 @@ aside {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   top: @menu-mobile-height;
-  z-index: 1000
+  z-index: 1000;
+  width: 250px;
+  text-transform: uppercase;
+  
+  ul{
+    li{
+        a{
+            font-size: 14px;
+            font-weight: 400;
+        }
+      }
+    }
 }
 
 section{
