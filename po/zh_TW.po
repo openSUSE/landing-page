@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2015-11-05 03:11+0800\n"
-"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
-"Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2016-05-13 18:30+0000\n"
+"Last-Translator: Ray chen <swyear@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) <http://l10n.opensuse.org/projects/landing-"
+"page/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -48,9 +49,7 @@ msgstr "研討會"
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
-msgstr ""
-"藉由我們的滾動式發行取得最新的 Linux 套件。快速且整合良好，穩定並經過完整測"
-"試。"
+msgstr "藉由我們的滾動式發行取得最新的 Linux 套件。快速！整合！穩定！經過測試！"
 
 #: index.html:86 index.html:108
 msgid "More information"
@@ -83,7 +82,7 @@ msgstr "了解更多"
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
-msgstr "經由 openSUSE 最新的定期釋出，取得最完整的 Linux 發行版。"
+msgstr "經由 openSUSE 最新的定期釋出，取得最完整的 Linux 發行版！"
 
 #: index.html:110 index.html:115
 msgid "Install Leap"
@@ -192,7 +191,7 @@ msgstr ""
 
 #: index.html:237
 msgid "Find out more about how to participate."
-msgstr "了解更多關於如何貢獻"
+msgstr "了解更多關於如何貢獻。"
 
 #: index.html:243
 msgid "Hardware"
@@ -226,7 +225,7 @@ msgstr ""
 
 #: index.html:258
 msgid "Meet up with openSUSE at conferences."
-msgstr "在研討會上與 openSUSE 相見歡"
+msgstr "在研討會上與 openSUSE 相見歡。"
 
 #: index.html:259
 msgid "View upcoming conferences"
