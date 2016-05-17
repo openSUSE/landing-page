@@ -21,6 +21,7 @@ gulp.task('scripts', function() {
                    assets + 'js/vendor/Modernizr.custom.js',
                    assets + 'js/vendor/jquery-cookie.js',
                    assets + 'js/vendor/jquery-lang.js',
+                   assets + 'js/vendor/jquery.mobile.custom.js',
                    assets + 'js/opensuse-news.js',
                    assets + 'js/opensuse-theme.js'])
     .pipe(concat('main.js'))
