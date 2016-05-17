@@ -62,7 +62,7 @@ var cache = require('gulp-cache');
 gulp.task('imagesCompression', function() {
   return gulp.src(assets + 'images/**/*')
          .pipe(cache(imagemin({ optimizationLevel: 7, progressive: true, interlaced: true })))
-         .pipe(gulp.dest(destination + 'img'));
+         .pipe(gulp.dest(destination + 'images'));
 });
 
 // Watch for changes in our custom assets
