@@ -135,7 +135,7 @@ function osMoreInformation(os) {
   moreInfoOpened = true
   //get the height of the main container
   containerHeight = $('#opensuse-os').outerHeight();
-  window.location.hash = '0';
+  
 
   //find the information of the selected distribution
   $osSelected = os
@@ -143,6 +143,8 @@ function osMoreInformation(os) {
   osSelectedText = $osSelected.find(".hidden-content").html()
   osSelectedIcon = $osSelected.find(".distributions-icon").html()
 
+  window.location.hash = osSelectedTitle;
+  
   //dont let users click more than once
   $osSelected.addClass('not-clickable')
 
@@ -439,7 +441,7 @@ window.fbAsyncInit = function() {
 window.onkeyup = function(e) {
    var key = e.keyCode ? e.keyCode : e.which;
 
-   if (key == 8) {
+   if (key == 8 || key == 27) {
        backToMainPageOs($osSelected);
    }
 }
