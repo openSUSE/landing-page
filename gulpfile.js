@@ -21,6 +21,7 @@ gulp.task('scripts', function() {
                    assets + 'js/vendor/Modernizr.custom.js',
                    assets + 'js/vendor/jquery-cookie.js',
                    assets + 'js/vendor/jquery-lang.js',
+                   assets + 'js/vendor/jquery.mobile.custom.js',
                    assets + 'js/opensuse-news.js',
                    assets + 'js/opensuse-theme.js'])
     .pipe(concat('main.js'))
@@ -33,6 +34,7 @@ gulp.task('scripts', function() {
 // Preprocess CSS
 var less = require('gulp-less');
 var path = require('path');
+var minifyCss = require('gulp-minify-css');
 
 gulp.task('less', function () {
   return gulp.src(assets + 'css/openSUSE.less')
@@ -40,6 +42,7 @@ gulp.task('less', function () {
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))
     .pipe(rename({suffix: '.min'}))
+    .pipe(minifyCss())
     .pipe(gulp.dest(destination + 'css'));
 });
 
@@ -49,7 +52,18 @@ gulp.task('vendorCSS', ['less'], function() {
                    assets + 'css/vendor/fontawesome/font-awesome.css'])
          .pipe(concat('vendor.css'))
          .pipe(rename({suffix: '.min'}))
+         .pipe(minifyCss())
          .pipe(gulp.dest(destination + 'css'))
+});
+
+// Images optimization
+var imagemin = require('gulp-imagemin');
+var cache = require('gulp-cache');
+
+gulp.task('imagesCompression', function() {
+  return gulp.src(assets + 'images/**/*')
+         .pipe(cache(imagemin({ optimizationLevel: 7, progressive: true, interlaced: true })))
+         .pipe(gulp.dest(destination + 'images'));
 });
 
 // Watch for changes in our custom assets
@@ -57,8 +71,10 @@ gulp.task('watch', function() {
   // Watch .js files
   gulp.watch(assets + 'js/*.js', ['scripts']);
   gulp.watch(assets + 'js/vendor/*.js', ['scripts']);
-  // Watch .scss files
+  // Watch .less files
   gulp.watch(assets + 'css/*.less', ['less']);
+  // Watch image files
+  gulp.watch(assets + 'images/**/*', ['images']);
  });
 
 // Run python server on localhost:8000
@@ -70,4 +86,4 @@ gulp.task('runServer', shell.task([
 ]))
 
 // Default Task
-gulp.task('default', ['scripts', 'less', 'vendorCSS', 'watch', 'runServer']);
+gulp.task('default', ['scripts', 'less', 'vendorCSS', 'imagesCompression', 'watch', 'runServer']);

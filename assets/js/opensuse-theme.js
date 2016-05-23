@@ -1,13 +1,29 @@
 // Functions for the mobile version
-$(document).on("click", '#open_main_menu, aside ul li a', open_mobile_menu);
-var menu_open = false;
-function open_mobile_menu () {
-  if (menu_open) {
+$(document).on('click', '#open_main_menu', openMobileMenu);
+
+// Add swipe detection
+$(document).on('ready', detectMobileScreen);
+
+var screenWidth;
+var menuOpen = false;
+
+function detectMobileScreen() {
+  screenWidth = $(window).outerWidth();
+  if (screenWidth < 768) {
+    if (!menuOpen) {
+      $('.finger-detection-open-menu').on('swiperight', openMobileMenu);
+    }
+  }
+}
+
+function openMobileMenu () {
+  if (menuOpen) {
     $('aside').css({'left': '-250px'});
-    menu_open = false;
+    menuOpen = false;
   } else {
     $('aside').css({'left': '0px'});
-    menu_open = true
+    menuOpen = true;
+    $('aside').on('swipeleft', openMobileMenu);
   }
 }
 
@@ -422,19 +438,19 @@ $(document).on("ready", function(){
 // Facebook token
 window.fbAsyncInit = function() {
   FB.init({
-    appId      : '831347386978737',
-    xfbml      : true,
-    version    : 'v2.4'
+    appId : '831347386978737',
+    xfbml : true,
+    version : 'v2.4'
   });
 };
 
 (function(d, s, id){
-   var js, fjs = d.getElementsByTagName(s)[0];
-   if (d.getElementById(id)) {return;}
-   js = d.createElement(s); js.id = id;
-   js.src = "//connect.facebook.net/en_US/sdk.js";
-   fjs.parentNode.insertBefore(js, fjs);
- }(document, 'script', 'facebook-jssdk'));
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
 
 
 
