@@ -208,14 +208,15 @@ function osMoreInformation(os) {
     })
 
     $('#home, #opensuseLogo').on('click', function() {
-        scrolled = $(window).scrollTop();
-        if (scrolled > mainSectionHeight) {
-            setTimeout('backToMainPageOs($osSelected)', 900);
+      history.pushState('', document.title, window.location.pathname);  
+      scrolled = $(window).scrollTop();
+      if (scrolled > mainSectionHeight) {
+        setTimeout('backToMainPageOs($osSelected)', 900);
 
-        } else
-        {
-            backToMainPageOs($osSelected)
-        }
+      } else
+      {
+        backToMainPageOs($osSelected)
+      }
     })
 
   }
@@ -455,11 +456,12 @@ window.fbAsyncInit = function() {
 
 
 window.onkeyup = function(e) {
-   var key = e.keyCode ? e.keyCode : e.which;
+  var key = e.keyCode ? e.keyCode : e.which;
 
-   if (key == 8 || key == 27) {
-       backToMainPageOs($osSelected);
-   }
+  if (key == 8 || key == 27) {
+    history.pushState('', document.title, window.location.pathname);
+    backToMainPageOs($osSelected);
+  }
 }
 
 
