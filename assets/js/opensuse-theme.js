@@ -204,6 +204,7 @@ function osMoreInformation(os) {
     $('.os-icon').html(osSelectedIcon)
 
     $('.back-to-main-page').on('click', function() {
+      history.pushState('', document.title, window.location.pathname);  
       backToMainPageOs($osSelected)
     })
 
