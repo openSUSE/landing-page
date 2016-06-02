@@ -27,9 +27,7 @@ function openMobileMenu () {
   }
 }
 
-var scrolled;
-var mainSectionHeight;
-var headerHeight;
+var scrolled, mainSectionHeight, headerHeight, containerHeight;
 
 // always initiate the scroll at the top
 $(window).on('beforeunload', function() {
@@ -48,6 +46,8 @@ $(window).on('resize', function() {
 $(window).bind('scroll',function(e){
   getScrolledData();
 });
+
+var $mainMenu;
 
 $(function() {
   $mainMenu = $('#main-menu').html()
@@ -135,6 +135,7 @@ $(document).ready(function() {
 // tumbleweed opensuse more information
 
 var moreInfoOpened = false;
+var $osSelected, title, text, icon;
 
 $(function() {
   $('#tumbleweed').on('click', function() {
@@ -149,14 +150,17 @@ function osMoreInformation(os) {
 
   moreInfoOpened = true
   //get the height of the main container
-  containerHeight = $('#opensuse-os').outerHeight()
+  containerHeight = $('#opensuse-os').outerHeight();
+  
 
   //find the information of the selected distribution
   $osSelected = os
-  title = $osSelected.find("h1").html()
-  text = $osSelected.find(".hidden-content").html()
-  icon = $osSelected.find(".distributions-icon").html()
+  osSelectedTitle = $osSelected.find("h1").html()
+  osSelectedText = $osSelected.find(".hidden-content").html()
+  osSelectedIcon = $osSelected.find(".distributions-icon").html()
 
+  window.location.hash = osSelectedTitle;
+  
   //dont let users click more than once
   $osSelected.addClass('not-clickable')
 
@@ -185,10 +189,10 @@ function osMoreInformation(os) {
     information = '<div class="text-center" id="more-information-os">'
                   + '<div class="os-icon"></div>'
                   + '<h1 class="wow fadeInUp">'
-                  + title
+                  + osSelectedTitle
                   + '</h1>'
                   + '<div class="wow fadeInUp">'
-                  + text
+                  + osSelectedText
                   + '</div>'
                   + '<br/>'
                   + '<div class="btn btn-link back-to-main-page">'
@@ -197,11 +201,25 @@ function osMoreInformation(os) {
                   + '</div>'
                   + '</div>'
     $('#opensuse-os').append(information)
-    $('.os-icon').html(icon)
+    $('.os-icon').html(osSelectedIcon)
 
     $('.back-to-main-page').on('click', function() {
+      history.pushState('', document.title, window.location.pathname);  
       backToMainPageOs($osSelected)
     })
+
+    $('#home, #opensuseLogo').on('click', function() {
+      history.pushState('', document.title, window.location.pathname);  
+      scrolled = $(window).scrollTop();
+      if (scrolled > mainSectionHeight) {
+        setTimeout('backToMainPageOs($osSelected)', 900);
+
+      } else
+      {
+        backToMainPageOs($osSelected)
+      }
+    })
+
   }
 }
 
@@ -435,4 +453,16 @@ window.fbAsyncInit = function() {
   js.src = "//connect.facebook.net/en_US/sdk.js";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
+
+
+
+window.onkeyup = function(e) {
+  var key = e.keyCode ? e.keyCode : e.which;
+
+  if (key == 8 || key == 27) {
+    history.pushState('', document.title, window.location.pathname);
+    backToMainPageOs($osSelected);
+  }
+}
+
 
