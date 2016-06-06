@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2015-12-23 14:16+0800\n"
-"Last-Translator: marguerite <marguerite@opensuse.org>\n"
-"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2016-06-06 08:57+0000\n"
+"Last-Translator: Marguerite Su <i@marguerite.su>\n"
+"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
+"page/master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -64,10 +65,9 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以"
-"及许多其它软件包，都会想要使用 Tumbleweed。Tumbleweed 迎合了高级用户、软件开"
-"发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最"
-"接近最新 Linux 的稳定平台，Tumbleweed 是您的不二选择。 "
+"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以及许多其它软件包，都会想要使用 Tumbleweed。"
+"Tumbleweed 迎合了高级用户、软件开发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最接近最新 Linux "
+"的稳定平台，Tumbleweed 是您的不二选择。"
 
 #: index.html:93
 msgid "Learn more"
@@ -77,7 +77,7 @@ msgstr "了解更多"
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
-msgstr "安装 openSUSE 最新的常规发布版本，获取最完整的 Linux 发行版体验！ "
+msgstr "安装 openSUSE 最新的常规发布版本，获取最完整的 Linux 发行版体验！"
 
 #: index.html:110 index.html:115
 msgid "Install Leap"
@@ -127,7 +127,7 @@ msgstr "自动测试任何操作系统，可以像用户那样阅读屏幕和控
 #: index.html:180
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。 "
+msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
 
 #: index.html:198
 msgid ""
@@ -135,8 +135,7 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
-"Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。 "
+"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
 
 #: index.html:225
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -183,7 +182,7 @@ msgstr ""
 
 #: index.html:237
 msgid "Find out more about how to participate."
-msgstr "了解如何参与"
+msgstr "了解如何参与。"
 
 #: index.html:243
 msgid "Hardware"
@@ -216,7 +215,7 @@ msgstr ""
 
 #: index.html:258
 msgid "Meet up with openSUSE at conferences."
-msgstr "来集会邂逅 openSUSE"
+msgstr "来集会邂逅 openSUSE。"
 
 #: index.html:259
 msgid "View upcoming conferences"
@@ -232,7 +231,7 @@ msgstr "维基"
 
 #: index.html:281
 msgid "Build Service"
-msgstr "Build Service"
+msgstr "包构建服务"
 
 #: index.html:290
 msgid "Social Network"
