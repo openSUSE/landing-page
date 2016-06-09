@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2016-02-03 11:01+0100\n"
-"Last-Translator: Jonas Svensson <jks@ekhorva.se>\n"
-"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2016-06-09 21:18+0000\n"
+"Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-"
+"page/master/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -109,7 +110,7 @@ msgstr ""
 
 #: index.html:125
 msgid "openSUSE TOOLS"
-msgstr "openSUSE TOOLS"
+msgstr "openSUSE VERKTYG"
 
 #: index.html:126
 msgid "Discover the best open-source tools developed by our community"
@@ -199,7 +200,7 @@ msgstr ""
 "Linuxutvecklare eller slutanvändare, engagera dig i projektet! Gå med i "
 "forumet, hjälp till att hålla wiki:n uppdaterad, hitta och rapportera "
 "buggar, se över dokumentationen, sänd in önskningar om nya paket och "
-"funktioner, bidra med patchar och inte minst, hjälp till att sprida openSUSE!"
+"funktioner, bidra med patchar och inte minst, hjälp till att sprida openSUSE."
 
 #: index.html:237
 msgid "Find out more about how to participate."
@@ -237,7 +238,7 @@ msgstr ""
 "världen och på så sätt ge tillbaka till utvecklare, systemadministratörer "
 "och distributörer. Hårdvara hjälper openSUSE communityn och därmed "
 "utvecklingen av Linux. För att se hur du kan donera hårdvara till openSUSE-"
-"projektet, eposta "
+"projektet, e-posta"
 
 #: index.html:258
 msgid "Meet up with openSUSE at conferences."
@@ -269,7 +270,7 @@ msgstr "Forum"
 
 #: index.html:309
 msgid "Shop"
-msgstr "Shop"
+msgstr "Butik"
 
 #: index.html:314
 msgid "Blogs"
