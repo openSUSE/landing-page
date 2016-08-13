@@ -11,16 +11,17 @@ msgstr ""
 "Project-Id-Version: LCN (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2015-10-28 13:51+0200\n"
+"PO-Revision-Date: 2016-08-13 06:25+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
-"Language-Team: Lithuanian <opensuse-translation@opensuse.org>\n"
+"Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-"
+"page/master/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n"
-"%10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -170,7 +171,7 @@ msgstr "PRISIDĖKITE PRIE openSUSE"
 
 #: index.html:226
 msgid "Be part of our community contributing with any of the following:"
-msgstr "Tapkite mūsų bendruomenės dalimi, rūpinkitės, kad būti geresnis mūsų"
+msgstr "Tapkite mūsų bendruomenės dalimi, rūpinkitės, kad tobulėtų mūsų:"
 
 #: index.html:231
 msgid "Code"
