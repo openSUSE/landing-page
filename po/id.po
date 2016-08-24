@@ -3,18 +3,20 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: 2002-10-08 13:38+0200\n"
-"Last-Translator: I Made Wiryana <made@nakula.rvs.uni-bielefeld.de>\n"
-"Language-Team: Indonesian <i18n@suse.de>\n"
+"PO-Revision-Date: 2016-08-24 16:51+0000\n"
+"Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
+"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-"
+"page/master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
+msgstr "Pilihan bagi sysadmin, pengembang dan pengguna desktop"
 
 #: index.html:47
 msgid "Home"
@@ -22,36 +24,36 @@ msgstr "Rumah"
 
 #: index.html:50
 msgid "Tools"
-msgstr ""
+msgstr "Alat Bantu"
 
 #: index.html:53 index.html:295
 msgid "News"
-msgstr ""
+msgstr "Berita"
 
 # continue button label
 #: index.html:56
-#, fuzzy
 msgid "Contribute"
-msgstr "Lanjutkan"
+msgstr "Kontribusi"
 
 #: index.html:59
 msgid "Conferences"
-msgstr ""
+msgstr "Konferensi"
 
 #: index.html:85
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Dapatkan paket-paket Linux terbaru dengan rilis bergulir kami. Cepat! "
+"Terintegrasi! Stabil! Teruji!"
 
 #: index.html:86 index.html:108
-#, fuzzy
 msgid "More information"
-msgstr "Informasi Memori"
+msgstr "Informasi Lebih Banyak"
 
 #: index.html:88 index.html:96
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "Instalasi Tumbleweed"
 
 #: index.html:91
 msgid ""
