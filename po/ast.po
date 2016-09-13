@@ -3,51 +3,58 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-09-13 22:29+0000\n"
+"Last-Translator: Enol P <enolp@softastur.org>\n"
+"Language-Team: Asturian <https://l10n.opensuse.org/projects/landing-"
+"page/master/ast/>\n"
 "Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:77
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
+"La escoyeta p'alministradores de sistemes, desendolcadores y usuarios "
+"d'escritoriu."
 
 #: index.html:47
 msgid "Home"
-msgstr ""
+msgstr "Aniciu"
 
 #: index.html:50
 msgid "Tools"
-msgstr ""
+msgstr "Ferramientes"
 
 #: index.html:53 index.html:295
 msgid "News"
-msgstr ""
+msgstr "Anuncies"
 
 #: index.html:56
 msgid "Contribute"
-msgstr ""
+msgstr "Collaborar"
 
 #: index.html:59
 msgid "Conferences"
-msgstr ""
+msgstr "Conferencies"
 
 #: index.html:85
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Consigui los paquetes más nuevos de Linux col nuesu llanzamientu continuu. ¡"
+"Rápidu, integráu, estabilizáu y probáu!"
 
 #: index.html:86 index.html:108
 msgid "More information"
-msgstr ""
+msgstr "Más información"
 
 #: index.html:88 index.html:96
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "Instala Tumbleweed"
 
 #: index.html:91
 msgid ""
@@ -59,10 +66,16 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Cualesquier usuariu que desee tener los paquetes más nuevos qu'incluyan, "
+"pero nun tean llimitaos a, el kernel Linux, SAMBA, git, escritorios, "
+"ofimática y más, quedrán Tumbleweed. Tumbleweed atrái a usuarios avanzaos, "
+"desendocadores de software y collaboradores d'openSUSE. Si riques el caberu "
+"software y entronu de desendolcu integráu o precises d'una plataforma "
+"estable colo lo cabero en Linux, Tumbleweed ye la to meyor escoyeta."
 
 #: index.html:93
 msgid "Learn more"
-msgstr ""
+msgstr "Depriendi más"
 
 #: index.html:107
 msgid ""
@@ -72,7 +85,7 @@ msgstr ""
 
 #: index.html:110 index.html:115
 msgid "Install Leap"
-msgstr ""
+msgstr "Instala Leap"
 
 #: index.html:113
 msgid ""
@@ -85,7 +98,7 @@ msgstr ""
 
 #: index.html:125
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "FERRAMIENTES D'openSUISE"
 
 #: index.html:126
 msgid "Discover the best open-source tools developed by our community"
@@ -93,7 +106,7 @@ msgstr ""
 
 #: index.html:140 index.html:158 index.html:176 index.html:194
 msgid "Go to link"
-msgstr ""
+msgstr "Dir al enllaz"
 
 #: index.html:144
 msgid ""
@@ -122,7 +135,7 @@ msgstr ""
 
 #: index.html:225
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "COLLABORA N'OPENSUSE"
 
 #: index.html:226
 msgid "Be part of our community contributing with any of the following:"
@@ -162,7 +175,7 @@ msgstr ""
 
 #: index.html:243
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 #: index.html:247
 msgid "Contribute Hardware"
@@ -197,7 +210,7 @@ msgstr ""
 
 #: index.html:276
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:281
 msgid "Build Service"
@@ -205,19 +218,19 @@ msgstr ""
 
 #: index.html:290
 msgid "Social Network"
-msgstr ""
+msgstr "Redes sociales"
 
 #: index.html:300
 msgid "Forums"
-msgstr ""
+msgstr "Foros"
 
 #: index.html:309
 msgid "Shop"
-msgstr ""
+msgstr "Tienda"
 
 #: index.html:314
 msgid "Blogs"
-msgstr ""
+msgstr "Blogues"
 
 #: index.html:319
 msgid "Press"
@@ -233,7 +246,7 @@ msgstr ""
 
 #: index.html:380
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Tolos drechos reservaos."
 
 #: index.html:403
 msgid "Back to main page"
