@@ -78,7 +78,7 @@ gulp.task('watch', function() {
   // Watch .less files
   gulp.watch(assets + 'css/*.less', ['less']);
   // Watch image files
-  gulp.watch(assets + 'images/**/*', ['images']);
+  gulp.watch(assets + 'images/**/*', ['imagesCompression']);
  });
 
 // Run python server on localhost:8000
