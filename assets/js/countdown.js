@@ -2,8 +2,7 @@ $(function () {
 
   'use strict'
 
-  //var leapReleaseDate = moment.tz("2016-11-16 12:00", "Europe/Berlin");
-  var leapReleaseDate = moment.tz("2016-09-21 19:33", "Europe/Berlin");
+  var leapReleaseDate = moment.tz("2016-11-16 12:00", "Europe/Berlin");
 
   $('.opensuse-countdown-leap-42-2__number').countdown(leapReleaseDate.toDate(), function(event) {
 
