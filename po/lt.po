@@ -10,46 +10,46 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LCN (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
+"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
 "PO-Revision-Date: 2016-08-13 06:25+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
-"Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-"
-"page/master/lt/>\n"
+"Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-page/"
+"master/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"(n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.6\n"
 
-#: index.html:4 index.html:77
+#: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "Puikiai tiks sistemų administratoriams, programuotojams ir paprastiems "
 "naudotojams."
 
-#: index.html:47
+#: index.html:48
 msgid "Home"
 msgstr "Pradžia"
 
-#: index.html:50
+#: index.html:51
 msgid "Tools"
 msgstr "Įrankiai"
 
-#: index.html:53 index.html:295
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Naujienos"
 
-#: index.html:56
+#: index.html:57
 msgid "Contribute"
 msgstr "Prisidėti"
 
-#: index.html:59
+#: index.html:60
 msgid "Conferences"
 msgstr "Susitikimai"
 
-#: index.html:85
+#: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -57,15 +57,15 @@ msgstr ""
 "Įdiegdami mūsų nuolatinio atnaujinimo sistemą, gaukite naujausius Linukso "
 "paketus. Greita! Integruota! Stabili! Patikrinta!"
 
-#: index.html:86 index.html:108
+#: index.html:87 index.html:109
 msgid "More information"
 msgstr "Daugiau informacijos"
 
-#: index.html:88 index.html:96
+#: index.html:89 index.html:97
 msgid "Install Tumbleweed"
 msgstr "Diegti nuolat atnaujinamą sistemą"
 
-#: index.html:91
+#: index.html:92
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -83,11 +83,11 @@ msgstr ""
 "turėtų būti tiems, kuriems reikia naujausios Linukso stabilios programinės "
 "įrangos ir/arba nepriklausomos programavimo aplinkos."
 
-#: index.html:93
+#: index.html:94
 msgid "Learn more"
 msgstr "Sužinokite daugiau"
 
-#: index.html:107
+#: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
@@ -95,11 +95,11 @@ msgstr ""
 "Parsisiųskite kartą per metus išleidžiamą openSUSE versiją – geriausiai "
 "paruoštą Linukso platinamąjį paketą!"
 
-#: index.html:110 index.html:115
+#: index.html:111 index.html:116
 msgid "Install Leap"
 msgstr "Diegti kartą per metus išleidžiamą sistemą"
 
-#: index.html:113
+#: index.html:114
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -116,21 +116,45 @@ msgstr ""
 "renkasi Linukso programuotojai, administratoriai ir programinės įrangos "
 "platintojai."
 
-#: index.html:125
+#: index.html:130
+msgid "days"
+msgstr ""
+
+#: index.html:131
+msgid "day"
+msgstr ""
+
+#: index.html:132
+msgid "hours"
+msgstr ""
+
+#: index.html:133
+msgid "hour"
+msgstr ""
+
+#: index.html:136
+msgid "for openSUSE Leap 42.2"
+msgstr ""
+
+#: index.html:144
+msgid "is available now"
+msgstr ""
+
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "openSUSE ĮRANKIAI"
 
-#: index.html:126
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "Susipažinkite su geriausiais mūsų bendruomenės sukurtais atviro kodo "
 "įrankiais"
 
-#: index.html:140 index.html:158 index.html:176 index.html:194
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "Eiti"
 
-#: index.html:144
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -140,7 +164,7 @@ msgstr ""
 "galite kurti paketus SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific "
 "Linux, RHEL, CentOS, Ubuntu ir kitoms sistemoms."
 
-#: index.html:162
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -148,14 +172,14 @@ msgstr ""
 "Automatiškas *bet kurios* operacinės sistemos bandymas, galintis nuskaityti "
 "ekraną ir simuliuoti naudotojų veiksmus."
 
-#: index.html:180
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "Geriausias ir vienintelis visapusiškas Linukso sistemos konfigūravimo ir "
 "diegimo įrankis."
 
-#: index.html:198
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -165,27 +189,27 @@ msgstr ""
 "mašinose ir netgi tokiose sudėtinėse sistemose kaip Docker. Kiwi variklis "
 "įgalina taip pat ir SUSE Studio paslaugas."
 
-#: index.html:225
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "PRISIDĖKITE PRIE openSUSE"
 
-#: index.html:226
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr "Tapkite mūsų bendruomenės dalimi, rūpinkitės, kad tobulėtų mūsų:"
 
-#: index.html:231
+#: index.html:263
 msgid "Code"
 msgstr "Kodas"
 
-#: index.html:232 index.html:244
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "Daugiau informacijos"
 
-#: index.html:235
+#: index.html:268
 msgid "Contribute Code"
 msgstr "Prisidėkite programuodami"
 
-#: index.html:236
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -214,19 +238,19 @@ msgstr ""
 "arba funkcijas, kurkite ir siųskite pataisas esamiems paketams arba "
 "skleiskite žinią apie openSUSE renginiuose."
 
-#: index.html:237
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "Sužinokite, kaip dar galite prisidėti."
 
-#: index.html:243
+#: index.html:278
 msgid "Hardware"
 msgstr "Aparatinė įranga"
 
-#: index.html:247
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "Dovanokite įrangą"
 
-#: index.html:248
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -253,59 +277,59 @@ msgstr ""
 "padovanoti aparatinės įrangos openSUSE projektui, parašykite elektroninį "
 "laišką"
 
-#: index.html:258
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "Susitikime openSUSE konferencijose."
 
-#: index.html:259
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "Artimiausios konferencijos"
 
-#: index.html:271
+#: index.html:307
 msgid "Get software"
 msgstr "Parsisiųsti programinę įrangą"
 
-#: index.html:276
+#: index.html:312
 msgid "Wiki"
 msgstr "Vikis"
 
-#: index.html:281
+#: index.html:317
 msgid "Build Service"
 msgstr "Kūrimo paslauga"
 
-#: index.html:290
+#: index.html:326
 msgid "Social Network"
 msgstr "Socialinis tinklas"
 
-#: index.html:300
+#: index.html:336
 msgid "Forums"
 msgstr "Diskusijos"
 
-#: index.html:309
+#: index.html:345
 msgid "Shop"
 msgstr "Parduotuvė"
 
-#: index.html:314
+#: index.html:350
 msgid "Blogs"
 msgstr "Tinklaraščiai"
 
-#: index.html:319
+#: index.html:355
 msgid "Press"
 msgstr "Spaudai"
 
-#: index.html:344
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Rėmėjai:"
 
-#: index.html:350
+#: index.html:386
 msgid "Change language"
 msgstr "Pakeisti kalbą"
 
-#: index.html:380
+#: index.html:416
 msgid "All Rights Reserved."
 msgstr "Visos teisės saugomos."
 
-#: index.html:403
+#: index.html:439
 msgid "Back to main page"
 msgstr "Grįžti į pradinį puslapį"
 

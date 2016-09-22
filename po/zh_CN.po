@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
+"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
 "PO-Revision-Date: 2016-06-06 08:57+0000\n"
 "Last-Translator: Marguerite Su <i@marguerite.su>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
@@ -15,31 +15,31 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.6\n"
 
-#: index.html:4 index.html:77
+#: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr "系统管理员、开发者和桌面用户的上上之选。"
 
-#: index.html:47
+#: index.html:48
 msgid "Home"
 msgstr "首页"
 
-#: index.html:50
+#: index.html:51
 msgid "Tools"
 msgstr "工具"
 
-#: index.html:53 index.html:295
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "新闻"
 
-#: index.html:56
+#: index.html:57
 msgid "Contribute"
 msgstr "贡献"
 
-#: index.html:59
+#: index.html:60
 msgid "Conferences"
 msgstr "集会"
 
-#: index.html:85
+#: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -47,15 +47,15 @@ msgstr ""
 "安装我们的滚动版本，获取最新 Linux 软件包。日新月异！整合如一！坚如磐石！久经"
 "检验！"
 
-#: index.html:86 index.html:108
+#: index.html:87 index.html:109
 msgid "More information"
 msgstr "更多信息"
 
-#: index.html:88 index.html:96
+#: index.html:89 index.html:97
 msgid "Install Tumbleweed"
 msgstr "安装 Tumbleweed"
 
-#: index.html:91
+#: index.html:92
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -65,25 +65,26 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以及许多其它软件包，都会想要使用 Tumbleweed。"
-"Tumbleweed 迎合了高级用户、软件开发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最接近最新 Linux "
-"的稳定平台，Tumbleweed 是您的不二选择。"
+"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以"
+"及许多其它软件包，都会想要使用 Tumbleweed。Tumbleweed 迎合了高级用户、软件开"
+"发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最"
+"接近最新 Linux 的稳定平台，Tumbleweed 是您的不二选择。"
 
-#: index.html:93
+#: index.html:94
 msgid "Learn more"
 msgstr "了解更多"
 
-#: index.html:107
+#: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr "安装 openSUSE 最新的常规发布版本，获取最完整的 Linux 发行版体验！"
 
-#: index.html:110 index.html:115
+#: index.html:111 index.html:116
 msgid "Install Leap"
 msgstr "安装 Leap"
 
-#: index.html:113
+#: index.html:114
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -96,19 +97,43 @@ msgstr ""
 "更新和加固您的操作系统。选择桌面环境、简单配置下系统，您就可以享有 Linux 开发"
 "者、管理员以及软件制造商所钟情的平台。"
 
-#: index.html:125
+#: index.html:130
+msgid "days"
+msgstr ""
+
+#: index.html:131
+msgid "day"
+msgstr ""
+
+#: index.html:132
+msgid "hours"
+msgstr ""
+
+#: index.html:133
+msgid "hour"
+msgstr ""
+
+#: index.html:136
+msgid "for openSUSE Leap 42.2"
+msgstr ""
+
+#: index.html:144
+msgid "is available now"
+msgstr ""
+
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "openSUSE 工具"
 
-#: index.html:126
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr "探索我们社区开发的、最好的开源工具"
 
-#: index.html:140 index.html:158 index.html:176 index.html:194
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "前往链接"
 
-#: index.html:144
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -118,46 +143,47 @@ msgstr ""
 "Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu 甚至更多发行版的部分软"
 "件包。"
 
-#: index.html:162
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr "自动测试任何操作系统，可以像用户那样阅读屏幕和控制测试用主机。"
 
-#: index.html:180
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
 
-#: index.html:198
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
+"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
+"Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
 
-#: index.html:225
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "群策群力"
 
-#: index.html:226
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr "为以下事务出力，成为我们社区的一份子："
 
-#: index.html:231
+#: index.html:263
 msgid "Code"
 msgstr "代码"
 
-#: index.html:232 index.html:244
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "详细了解"
 
-#: index.html:235
+#: index.html:268
 msgid "Contribute Code"
 msgstr "贡献代码"
 
-#: index.html:236
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -180,19 +206,19 @@ msgstr ""
 "找并报告臭虫，校对文档，请愿新软件包及功能，创建并提交补丁，参加开源活动倡导 "
 "openSUSE，或者成为一名大使。"
 
-#: index.html:237
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "了解如何参与。"
 
-#: index.html:243
+#: index.html:278
 msgid "Hardware"
 msgstr "硬件"
 
-#: index.html:247
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "贡献硬件"
 
-#: index.html:248
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -213,59 +239,59 @@ msgstr ""
 "并回馈给开发者、系统管理员和打包者。硬件有助 openSUSE 社区！硬件有助开源社"
 "区！并且硬件有助 Linux 开发。要了解如何捐赠硬件给 openSUSE 项目，请邮件"
 
-#: index.html:258
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "来集会邂逅 openSUSE。"
 
-#: index.html:259
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "查看临近的集会"
 
-#: index.html:271
+#: index.html:307
 msgid "Get software"
 msgstr "撷取软件"
 
-#: index.html:276
+#: index.html:312
 msgid "Wiki"
 msgstr "维基"
 
-#: index.html:281
+#: index.html:317
 msgid "Build Service"
 msgstr "包构建服务"
 
-#: index.html:290
+#: index.html:326
 msgid "Social Network"
 msgstr "社交网络"
 
-#: index.html:300
+#: index.html:336
 msgid "Forums"
 msgstr "论坛"
 
-#: index.html:309
+#: index.html:345
 msgid "Shop"
 msgstr "商店"
 
-#: index.html:314
+#: index.html:350
 msgid "Blogs"
 msgstr "博客"
 
-#: index.html:319
+#: index.html:355
 msgid "Press"
 msgstr "媒体"
 
-#: index.html:344
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "赞助："
 
-#: index.html:350
+#: index.html:386
 msgid "Change language"
 msgstr "修改语言"
 
-#: index.html:380
+#: index.html:416
 msgid "All Rights Reserved."
 msgstr "保留所有权利。"
 
-#: index.html:403
+#: index.html:439
 msgid "Back to main page"
 msgstr "返回首页"
 

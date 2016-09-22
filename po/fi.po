@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
+"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
 "PO-Revision-Date: 2015-10-02 23:52+0200\n"
 "Last-Translator: Harri Miettinen <harmie@opensuse.fi>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -14,37 +14,37 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: index.html:4 index.html:77
+#: index.html:4 index.html:78
 #, fuzzy
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "Päätöksentekijöiden valinta ylläpitäjille, kehittäjille ja työpöydän "
 "käyttäjille."
 
-#: index.html:47
+#: index.html:48
 msgid "Home"
 msgstr "Etusivu"
 
-#: index.html:50
+#: index.html:51
 msgid "Tools"
 msgstr "Työkalut"
 
-#: index.html:53 index.html:295
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Uutiset"
 
 # continue button label
-#: index.html:56
+#: index.html:57
 #, fuzzy
 msgid "Contribute"
 msgstr "Lahjoita"
 
-#: index.html:59
+#: index.html:60
 #, fuzzy
 msgid "Conferences"
 msgstr "Kokoukset"
 
-#: index.html:85
+#: index.html:86
 #, fuzzy
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
@@ -53,15 +53,15 @@ msgstr ""
 "Hanki uusimmat Linux-paketit meidän jatkuvalla jakelulla. Nopea!, "
 "Integroitu!, Vakaa!, Testattu!"
 
-#: index.html:86 index.html:108
+#: index.html:87 index.html:109
 msgid "More information"
 msgstr "Lisätietoja"
 
-#: index.html:88 index.html:96
+#: index.html:89 index.html:97
 msgid "Install Tumbleweed"
 msgstr "Asenna Tumbleweed"
 
-#: index.html:91
+#: index.html:92
 #, fuzzy
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
@@ -80,11 +80,11 @@ msgstr ""
 "alustan, joka on lähimpänä uusinta uutta, tällöin Tumbleweed on paras "
 "valinta sinulle."
 
-#: index.html:93
+#: index.html:94
 msgid "Learn more"
 msgstr ""
 
-#: index.html:107
+#: index.html:108
 #, fuzzy
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
@@ -92,12 +92,12 @@ msgid ""
 msgstr ""
 "Hanki täydellisin Linux-jakelu, openSUSEn viimeisin säännöllinen julkaisu!"
 
-#: index.html:110 index.html:115
+#: index.html:111 index.html:116
 #, fuzzy
 msgid "Install Leap"
 msgstr "Asenna openSUSE"
 
-#: index.html:113
+#: index.html:114
 #, fuzzy
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
@@ -113,22 +113,46 @@ msgstr ""
 "kehittäjien, ylläpitäjien ja ohjelmistotoimittajien valitsemasta "
 "käyttöjärjestelmästä."
 
-#: index.html:125
+#: index.html:130
+msgid "days"
+msgstr ""
+
+#: index.html:131
+msgid "day"
+msgstr ""
+
+#: index.html:132
+msgid "hours"
+msgstr ""
+
+#: index.html:133
+msgid "hour"
+msgstr ""
+
+#: index.html:136
+msgid "for openSUSE Leap 42.2"
+msgstr ""
+
+#: index.html:144
+msgid "is available now"
+msgstr ""
+
+#: index.html:155
 #, fuzzy
 msgid "openSUSE TOOLS"
 msgstr "openSUSE Työkalut"
 
-#: index.html:126
+#: index.html:156
 #, fuzzy
 msgid "Discover the best open-source tools developed by our community"
 msgstr "Löydä parhaat yhteisömme kehittämät avoimenlähdekoodin työkalut"
 
-#: index.html:140 index.html:158 index.html:176 index.html:194
+#: index.html:170 index.html:188 index.html:206 index.html:224
 #, fuzzy
 msgid "Go to link"
 msgstr "Siirry linkki"
 
-#: index.html:144
+#: index.html:174
 #, fuzzy
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
@@ -139,7 +163,7 @@ msgstr ""
 "tehdä paketteja SUSE Linux Enterprise, Arch, Debian, Fedore, Scientific "
 "Linux, RHEL, CentOS, Ubuntu ja muille jakeluille."
 
-#: index.html:162
+#: index.html:192
 #, fuzzy
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
@@ -148,13 +172,13 @@ msgstr ""
 "Automaattinen testaus *mille tahansa* käyttöjärjestelmälle, joka pystyy "
 "lukemaan näyttöä ja hallinnoimaan konetta samoin kun käyttäjä."
 
-#: index.html:180
+#: index.html:210
 #, fuzzy
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "Paras/ainoa kattava Linux-järjestelmän kokoonpano ja asennus työkalu."
 
-#: index.html:198
+#: index.html:228
 #, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
@@ -165,33 +189,33 @@ msgstr ""
 "virtuaaliympäristössä tai nykyisin myös sovellusympäristöissä kuten Docker. "
 "Kiwi on moottori SUSE Studion takana."
 
-#: index.html:225
+#: index.html:255
 #, fuzzy
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "LAHJOITA OPENSUSEEN"
 
-#: index.html:226
+#: index.html:256
 #, fuzzy
 msgid "Be part of our community contributing with any of the following:"
 msgstr "Ole osa yhteisöä lahjoittamalla jotain seuraavista:"
 
-#: index.html:231
+#: index.html:263
 #, fuzzy
 msgid "Code"
 msgstr "Koodaus"
 
-#: index.html:232 index.html:244
+#: index.html:264 index.html:279
 #, fuzzy
 msgid "Find out more"
 msgstr "Lisätietoja"
 
 # continue button label
-#: index.html:235
+#: index.html:268
 #, fuzzy
 msgid "Contribute Code"
 msgstr "Lahjoita koodia"
 
-#: index.html:236
+#: index.html:269
 #, fuzzy
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
@@ -218,21 +242,21 @@ msgstr ""
 "toivelistasi uusista paketeista ja ominaisuuksista, luo ja toimita "
 "korjauksia tai rupea openSUSEn puolestapuhujaksi osallistumalla tapahtumiin."
 
-#: index.html:237
+#: index.html:270
 #, fuzzy
 msgid "Find out more about how to participate."
 msgstr "Lue lisää miten osallistua."
 
-#: index.html:243
+#: index.html:278
 msgid "Hardware"
 msgstr "Laitteisto"
 
-#: index.html:247
+#: index.html:283
 #, fuzzy
 msgid "Contribute Hardware"
 msgstr "Lahjoita laitteistoja"
 
-#: index.html:248
+#: index.html:284
 #, fuzzy
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
@@ -260,66 +284,66 @@ msgstr ""
 "lisätietoa kuinka voit lahjoittaa laittesitoja openSUSE projektille lähetä "
 "sähköpostia"
 
-#: index.html:258
+#: index.html:294
 #, fuzzy
 msgid "Meet up with openSUSE at conferences."
 msgstr "Tapaa openSUSE konferensseissa."
 
-#: index.html:259
+#: index.html:295
 #, fuzzy
 msgid "View upcoming conferences"
 msgstr "Katso tulevat konferenssit"
 
-#: index.html:271
+#: index.html:307
 #, fuzzy
 msgid "Get software"
 msgstr "Hanki ohjelmisto"
 
-#: index.html:276
+#: index.html:312
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:281
+#: index.html:317
 #, fuzzy
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:290
+#: index.html:326
 #, fuzzy
 msgid "Social Network"
 msgstr "Sosiaalinen verkosto"
 
-#: index.html:300
+#: index.html:336
 msgid "Forums"
 msgstr "Foorumi"
 
-#: index.html:309
+#: index.html:345
 #, fuzzy
 msgid "Shop"
 msgstr "Kauppa"
 
-#: index.html:314
+#: index.html:350
 msgid "Blogs"
 msgstr "Blogit"
 
-#: index.html:319
+#: index.html:355
 #, fuzzy
 msgid "Press"
 msgstr "Lehdistö"
 
-#: index.html:344
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Sponsoroinut:"
 
-#: index.html:350
+#: index.html:386
 msgid "Change language"
 msgstr "Vaihda kieli"
 
-#: index.html:380
+#: index.html:416
 msgid "All Rights Reserved."
 msgstr "Kaikki oikeudet pidätetään."
 
-#: index.html:403
+#: index.html:439
 #, fuzzy
 msgid "Back to main page"
 msgstr "Takaisin etusivulle"

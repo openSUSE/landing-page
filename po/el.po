@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 17:13:55 +0100\n"
+"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
 "PO-Revision-Date: 2015-10-02 17:06+0300\n"
 "Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
 "Language-Team: Ελληνικά <opensuse-translation-el@opensuse.org>\n"
@@ -17,35 +17,35 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.7\n"
 
-#: index.html:4 index.html:77
+#: index.html:4 index.html:78
 #, fuzzy
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "Η επιλογή των δημιουργών για διαχειριστές συστημάτων, προγραμματιστές και "
 "χρήστες."
 
-#: index.html:47
+#: index.html:48
 msgid "Home"
 msgstr "Αρχική"
 
-#: index.html:50
+#: index.html:51
 msgid "Tools"
 msgstr "Εργαλεία"
 
-#: index.html:53 index.html:295
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Νέα"
 
 # continue button label
-#: index.html:56
+#: index.html:57
 msgid "Contribute"
 msgstr "Συνεισφορά"
 
-#: index.html:59
+#: index.html:60
 msgid "Conferences"
 msgstr "Συνέδρια"
 
-#: index.html:85
+#: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -53,15 +53,15 @@ msgstr ""
 "Αποκτήστε τα νεότερα πακέτα Linux με την έκδοση rolling. Γρήγορα! "
 "Ολοκληρωμένα! Σταθεροποιημένα! Δοκιμασμένα!"
 
-#: index.html:86 index.html:108
+#: index.html:87 index.html:109
 msgid "More information"
 msgstr "Περισσότερες πληροφορίες"
 
-#: index.html:88 index.html:96
+#: index.html:89 index.html:97
 msgid "Install Tumbleweed"
 msgstr "Εγκατάσταση Tumbleweed"
 
-#: index.html:91
+#: index.html:92
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -80,11 +80,11 @@ msgstr ""
 "βρίσκεται μέσα στις τελευταίες εξελίξεις στο χώρο του Linux, τότε το "
 "Tumblweed είναι η καλύτερη επιλογή για εσάς."
 
-#: index.html:93
+#: index.html:94
 msgid "Learn more"
 msgstr ""
 
-#: index.html:107
+#: index.html:108
 #, fuzzy
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
@@ -93,12 +93,12 @@ msgstr ""
 "Αποκτήστε την πιο ολοκληρωμένη διανομή Linux με την τελευταία σταθερή έκδοση "
 "του openSUSE!"
 
-#: index.html:110 index.html:115
+#: index.html:111 index.html:116
 #, fuzzy
 msgid "Install Leap"
 msgstr "Εγκατάσταση openSUSE"
 
-#: index.html:113
+#: index.html:114
 #, fuzzy
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
@@ -115,21 +115,45 @@ msgstr ""
 "της επιλογής για προγραμματιστές Linux, διαχειριστές και προμηθευτές "
 "λογισμικού."
 
-#: index.html:125
+#: index.html:130
+msgid "days"
+msgstr ""
+
+#: index.html:131
+msgid "day"
+msgstr ""
+
+#: index.html:132
+msgid "hours"
+msgstr ""
+
+#: index.html:133
+msgid "hour"
+msgstr ""
+
+#: index.html:136
+msgid "for openSUSE Leap 42.2"
+msgstr ""
+
+#: index.html:144
+msgid "is available now"
+msgstr ""
+
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "ΕΡΓΑΛΕΙΑ openSUSE"
 
-#: index.html:126
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "Ανακαλύψτε τα καλύτερα εργαλεία ανοιχτού κώδικα που έχουν αναπτυχθεί από την "
 "κοινότητά μας"
 
-#: index.html:140 index.html:158 index.html:176 index.html:194
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "Μετάβαση σε σύνδεσμο"
 
-#: index.html:144
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -139,7 +163,7 @@ msgstr ""
 "μας, ακόμα και πακέτα για SUSE Linux Enterprise, Arch, Debian, Fedora, "
 "Scientific Linux, RHEL, CentOS, Ubuntu, και πολλά."
 
-#: index.html:162
+#: index.html:192
 #, fuzzy
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
@@ -149,7 +173,7 @@ msgstr ""
 "και έλεγχο του προς δοκιμή συστήματος με τον ίδιο τρόπο που το κάνει ένας "
 "χρήστης."
 
-#: index.html:180
+#: index.html:210
 #, fuzzy
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
@@ -157,7 +181,7 @@ msgstr ""
 "Το καλύτερο/μοναδικό ολοκληρωμένο σε σύστημα Linux εργαλείο παραμετροποίησης "
 "και εγκατάστασης."
 
-#: index.html:198
+#: index.html:228
 #, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
@@ -168,30 +192,30 @@ msgstr ""
 "εικονικοποίηση και τώρα ακόμα και συστήματα 'container' όπως το Docker. Το "
 "Kiwi είναι η μηχανή που υποστηρίζει το SUSE Studio."
 
-#: index.html:225
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "ΣΥΝΕΙΣΦΟΡΑ ΣΤΟ OPENSUSE"
 
-#: index.html:226
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
 "Γίνετε μέρος της κοινότητας συνεισφέροντας με οποιονδήποτε από τους παρακάτω "
 "τρόπους:"
 
-#: index.html:231
+#: index.html:263
 msgid "Code"
 msgstr "Κώδικας"
 
-#: index.html:232 index.html:244
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "Μάθετε περισσότερα"
 
 # continue button label
-#: index.html:235
+#: index.html:268
 msgid "Contribute Code"
 msgstr "Συνεισφορά κώδικα"
 
-#: index.html:236
+#: index.html:269
 #, fuzzy
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
@@ -221,19 +245,19 @@ msgstr ""
 "δημιούργησε και υπόβαλε πακέτα, ή γίνε εκπρόσωπος του openSUSE "
 "παρακολουθώντας εκδηλώσεις και γίνε πρεσβευτής."
 
-#: index.html:237
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "Περισσότερες πληροφορίες σχετικά με το πως μπορείτε να συμμετέχετε."
 
-#: index.html:243
+#: index.html:278
 msgid "Hardware"
 msgstr "Υλικό"
 
-#: index.html:247
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "Συνεισφορά σε υλικό"
 
-#: index.html:248
+#: index.html:284
 #, fuzzy
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
@@ -262,59 +286,59 @@ msgstr ""
 "το υλικό βοηθά στην ανάπτυξη του Linux. Για να μάθετε πως μπορείτε να "
 "δωρίσετε υλικό στο project του openSUSE, στείλτε email"
 
-#: index.html:258
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "Συναντήσεις στα συνέδρια openSUSE."
 
-#: index.html:259
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "Προβολή επερχόμενων συνεδρίων"
 
-#: index.html:271
+#: index.html:307
 msgid "Get software"
 msgstr "Λήψη λογισμικού"
 
-#: index.html:276
+#: index.html:312
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:281
+#: index.html:317
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:290
+#: index.html:326
 msgid "Social Network"
 msgstr "Κοινωνικά Δίκτυα"
 
-#: index.html:300
+#: index.html:336
 msgid "Forums"
 msgstr "Forums"
 
-#: index.html:309
+#: index.html:345
 msgid "Shop"
 msgstr "Κατάστημα"
 
-#: index.html:314
+#: index.html:350
 msgid "Blogs"
 msgstr "Blogs"
 
-#: index.html:319
+#: index.html:355
 msgid "Press"
 msgstr "Τύπος"
 
-#: index.html:344
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Χορηγοί:"
 
-#: index.html:350
+#: index.html:386
 msgid "Change language"
 msgstr "Επιλογή γλώσσας"
 
-#: index.html:380
+#: index.html:416
 msgid "All Rights Reserved."
 msgstr "Με επιφύλαξη παντός νομίμου δικαιώματος."
 
-#: index.html:403
+#: index.html:439
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
 
