@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 17:24:02 +0100\n"
+"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
 "PO-Revision-Date: 2015-10-28 17:00+0100\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: NorwegianNynorsk <i18n-nn@lister.ping.uio.no>\n"
@@ -19,31 +19,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 2.0\n"
 
-#: index.html:4 index.html:77
+#: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr "Valet for systemadministratorar, utviklarar og vanlege brukarar."
 
-#: index.html:47
+#: index.html:48
 msgid "Home"
 msgstr "Heim"
 
-#: index.html:50
+#: index.html:51
 msgid "Tools"
 msgstr "Verktøy"
 
-#: index.html:53 index.html:295
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Nyheiter"
 
-#: index.html:56
+#: index.html:57
 msgid "Contribute"
 msgstr "Bidra"
 
-#: index.html:59
+#: index.html:60
 msgid "Conferences"
 msgstr "Konferansar"
 
-#: index.html:85
+#: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -51,15 +51,15 @@ msgstr ""
 "Få dei nyaste Linux-pakkane med vår rullerande distro. Rask! Integrert! "
 "Stabil! Testa!"
 
-#: index.html:86 index.html:108
+#: index.html:87 index.html:109
 msgid "More information"
 msgstr "Meir informasjon"
 
-#: index.html:88 index.html:96
+#: index.html:89 index.html:97
 msgid "Install Tumbleweed"
 msgstr "Installer Tumbleweed"
 
-#: index.html:91
+#: index.html:92
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -76,22 +76,22 @@ msgstr ""
 "eller treng ei stabil plattform med dei siste oppdateringane, er Tumbleweed "
 "det beste valet."
 
-#: index.html:93
+#: index.html:94
 msgid "Learn more"
 msgstr "Lær meir"
 
-#: index.html:107
+#: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
 "Få den mest komplette Linux-distribusjonen med regelmessige utgjevingar!"
 
-#: index.html:110 index.html:115
+#: index.html:111 index.html:116
 msgid "Install Leap"
 msgstr "Installer Leap"
 
-#: index.html:113
+#: index.html:114
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -104,19 +104,43 @@ msgstr ""
 "set opp systemet og kos deg med plattforma som er svært populær blant Linux-"
 "utviklarar, systemadministratorar og programleverandørar."
 
-#: index.html:125
+#: index.html:130
+msgid "days"
+msgstr ""
+
+#: index.html:131
+msgid "day"
+msgstr ""
+
+#: index.html:132
+msgid "hours"
+msgstr ""
+
+#: index.html:133
+msgid "hour"
+msgstr ""
+
+#: index.html:136
+msgid "for openSUSE Leap 42.2"
+msgstr ""
+
+#: index.html:144
+msgid "is available now"
+msgstr ""
+
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "openSUSE-verktøy"
 
-#: index.html:126
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr "Oppdag dei beste friprog-verktøya utvikla i openSUSE-miljøet"
 
-#: index.html:140 index.html:158 index.html:176 index.html:194
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "Gå til lenkja"
 
-#: index.html:144
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -126,7 +150,7 @@ msgstr ""
 "Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS og "
 "Ubuntu."
 
-#: index.html:162
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -134,14 +158,14 @@ msgstr ""
 "Automatiserte testar for *alle* operativsystem, og som kan lesa skjermen og "
 "styra testsystemet på same måte som vanlege brukarar."
 
-#: index.html:180
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "Det beste og einaste omfattande programmet for oppsett og installering av "
 "Linux."
 
-#: index.html:198
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -150,27 +174,27 @@ msgstr ""
 "Lag Linux-diskbilete for bruk på fysiske eller virtualiserte maskiner, og no "
 "også på behaldarsystem som Docker. Kiwi er motoren bak SUSE Studio."
 
-#: index.html:225
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "BIDRA TIL OPENSUSE"
 
-#: index.html:226
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr "Vert ein del av fellesskapet ved å bidra:"
 
-#: index.html:231
+#: index.html:263
 msgid "Code"
 msgstr "Kode"
 
-#: index.html:232 index.html:244
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "Lær meir"
 
-#: index.html:235
+#: index.html:268
 msgid "Contribute Code"
 msgstr "Med programmering"
 
-#: index.html:236
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -196,19 +220,19 @@ msgstr ""
 "om nye pakkar og funksjonar, lag feilrettingar eller reklamer for openSUSE "
 "på konferansar og møter."
 
-#: index.html:237
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "Finn ut meir om korleis du kan delta."
 
-#: index.html:243
+#: index.html:278
 msgid "Hardware"
 msgstr "Maskinvare"
 
-#: index.html:247
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "Med maskinvare"
 
-#: index.html:248
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -233,59 +257,59 @@ msgstr ""
 "maskinvare hjelper utviklinga av Linux. Viss du lurer på korleis du kan "
 "donera maskinvare til openSUSE-prosjektet, send ein e-post til"
 
-#: index.html:258
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "Møt openSUSE-brukarar på konferansar."
 
-#: index.html:259
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "Vis kommande konferansar"
 
-#: index.html:271
+#: index.html:307
 msgid "Get software"
 msgstr "Last ned"
 
-#: index.html:276
+#: index.html:312
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:281
+#: index.html:317
 msgid "Build Service"
 msgstr "Byggjeteneste"
 
-#: index.html:290
+#: index.html:326
 msgid "Social Network"
 msgstr "Sosiale nettverk"
 
-#: index.html:300
+#: index.html:336
 msgid "Forums"
 msgstr "Forum"
 
-#: index.html:309
+#: index.html:345
 msgid "Shop"
 msgstr "Butikk"
 
-#: index.html:314
+#: index.html:350
 msgid "Blogs"
 msgstr "Bloggar"
 
-#: index.html:319
+#: index.html:355
 msgid "Press"
 msgstr "Presse"
 
-#: index.html:344
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Vert støtta av:"
 
-#: index.html:350
+#: index.html:386
 msgid "Change language"
 msgstr "Byt språk"
 
-#: index.html:380
+#: index.html:416
 msgid "All Rights Reserved."
 msgstr "Med einerett."
 
-#: index.html:403
+#: index.html:439
 msgid "Back to main page"
 msgstr "Tilbake til hovudsida"
 
