@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2016-05-25 18:24+0000\n"
-"Last-Translator: Ronan Chagas <ronisbr@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <http://l10n.opensuse.org/projects/"
-"landing-page/master/pt_BR/>\n"
+"PO-Revision-Date: 2016-09-22 16:19+0000\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects"
+"/landing-page/master/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -115,27 +115,27 @@ msgstr ""
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "dias"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "dia"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "horas"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "hora"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "para o openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "já está disponível"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
