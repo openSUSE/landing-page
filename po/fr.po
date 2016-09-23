@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2015-10-29 16:26+0100\n"
-"Last-Translator: Antoine Belvire <antoine.belvire@laposte.net>\n"
-"Language-Team: français <opensuse-fr@opensuse.org>\n"
+"PO-Revision-Date: 2016-09-23 18:18+0000\n"
+"Last-Translator: Benoît Monin <benoit.monin@gmx.fr>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/landing-"
+"page/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -116,27 +117,27 @@ msgstr ""
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "jours"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "jour"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "heures"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "heure"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "pour openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "est disponible maintenant"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
