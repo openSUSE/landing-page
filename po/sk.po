@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2015-11-03 18:33+0100\n"
+"PO-Revision-Date: 2016-09-23 07:05+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <opensuse-translation-sk@opensuse.org>\n"
+"Language-Team: Slovak <https://l10n.opensuse.org/projects/landing-"
+"page/master/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -114,27 +115,27 @@ msgstr ""
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "dní"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "deň"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "hodín"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "hodina"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "pre openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "je dostupné teraz"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
