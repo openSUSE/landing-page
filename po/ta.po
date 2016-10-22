@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2003-08-14 10:47+0200\n"
-"Last-Translator: xxx <yyy@example.org>\n"
-"Language-Team: Tamil <i18n@suse.de>\n"
+"PO-Revision-Date: 2016-10-22 16:00+0000\n"
+"Last-Translator: Hari Krishna V <nus.harikv@gmail.com>\n"
+"Language-Team: Tamil <https://l10n.opensuse.org/projects/landing-"
+"page/master/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -31,8 +33,9 @@ msgid "Tools"
 msgstr "கருவிகள்"
 
 #: index.html:54 index.html:331
+#, fuzzy
 msgid "News"
-msgstr ""
+msgstr "செய்தி"
 
 #: index.html:57
 #, fuzzy
