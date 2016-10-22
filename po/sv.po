@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2016-06-09 21:18+0000\n"
+"PO-Revision-Date: 2016-10-22 17:11+0000\n"
 "Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-page/"
-"master/sv/>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-"
+"page/master/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -110,27 +110,27 @@ msgstr ""
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "dagar"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "dag"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "timmar"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "timme"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "för openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "är tillgänglig nu"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
