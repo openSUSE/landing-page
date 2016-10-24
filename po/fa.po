@@ -1,53 +1,58 @@
+# hayyan <joghdeshab@live.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2015-11-26 16:45:21 +0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-10-24 10:00+0330\n"
+"Last-Translator: hayyan <joghdeshab@live.com>\n"
+"Language-Team: Persian <i18n@suse.de>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
+msgstr "گزینه ی ایده آل برای مدیران سیستم، توسعه دهندگان و کاربران دسک تاپ."
 
 #: index.html:48
 msgid "Home"
-msgstr ""
+msgstr "خانه"
 
 #: index.html:51
 msgid "Tools"
-msgstr ""
+msgstr "ابزارها"
 
 #: index.html:54 index.html:331
 msgid "News"
-msgstr ""
+msgstr "اخبار"
 
 #: index.html:57
 msgid "Contribute"
-msgstr ""
+msgstr "مشارکت"
 
 #: index.html:60
 msgid "Conferences"
-msgstr ""
+msgstr "سخنرانی ها"
 
 #: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"آخرین بسته های لینوکس را با توزیع غلطان ما دریافت کنید. سریع! یکپارچه! "
+"پایدار! تست شده!"
 
 #: index.html:87 index.html:109
 msgid "More information"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #: index.html:89 index.html:97
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "نصب Tumbleweed"
 
 #: index.html:92
 msgid ""
@@ -59,20 +64,28 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"هر کاربری که علاقه به دریافت آخرین نسخه های بسته های مختلف، شامل  هسته ی "
+"لینوکس، سامبا، گیت، میزکارها، نرم افزارهای آفیس و بسیاری بسته های دیگر  دارد،"
+" به Tumbleweed علاقه مند خواهد شد.Tumbleweed کاربران قدرتمند،  توسعه دهندگان "
+"نرم افزارها و مشارکت کنندگان در openSUSE را جذب خواهد کرد. اگر شما به آخرین "
+"نسخه ی نرم افزارها و محیط توسعه ی یکپارچه و یا یک پلتفرم پایدار نزدیک به لبه "
+"ی تکنولوژی های لینوکس دارید، Tumbleweed بهترین انتخاب برای شماست."
 
 #: index.html:94
 msgid "Learn more"
-msgstr ""
+msgstr "بیشتر بدانید"
 
 #: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
+"کاملترین نسخه ی لینوکس را با آخرین نسخه ی openSUSE با دوره ی انتشار عادی "
+"دریافت کنید"
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
-msgstr ""
+msgstr "نصب Leap"
 
 #: index.html:114
 msgid ""
@@ -82,42 +95,49 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
+"کاربران جدید و کاربران باتجربه، قابل استفاده ترین و پایدار ترین سیستم عامل "
+"را با openSUSE نسخه ی با دوره انتشار عادی دریافت میکنند. با آخرین نسخه ی "
+"OpenSUSE به روزرسانی ها را دریافت و  سیستم عامل خود را مستحکم کنید. میزکار "
+"خود را انتخاب کنید، سیستم خود را پیکربندی نموده و از لینوکس مورد انتخاب "
+"توسعه دهندگان، مدیران و فروشندگان نرم افزاری لذت ببرید."
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "روز"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "روز"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "ساعت"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "ساعت"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "برای openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "در حال حاظر در دسترس است"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "ابزارهای openSUSE"
 
 #: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
+"بهترین ابزارهای متن-باز را که توسط جامعه ی کاربران ما توسعه داده شدند را "
+"بیابید"
 
 #: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
-msgstr ""
+msgstr "برو به آدرس"
 
 #: index.html:174
 msgid ""
@@ -125,17 +145,21 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
+"ابزار ساخت ما، تمامی بسته های ما را به خوبی بسته های SUSE Linux Enterprise، "
+"آرچ دبیان، فدورا، Scientific Linux، RHEL، سنت او اس، اوبونتو و غیره میسازد."
 
 #: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
+"آزمایش اتوماتیک برای •هر• سیستم عامل، که میتواند مانند کاربر صفحه نمایش را "
+"خوانده و میزبان را کنترل کند."
 
 #: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr ""
+msgstr "بهترین/تنهاترین ابزار جامع پیکربندی و نصب سیستم لینوکس."
 
 #: index.html:228
 msgid ""
@@ -143,26 +167,29 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
+"ایمیج های لینوکس را برای گسترش بر روی سخت افزار واقعی، مجازی سازی، و هم "
+"اکنون حتی سیستم های محفظه ای مانند داکر بسازید. Kiwi موتور تغذیه کننده ی "
+"SUSE Studio است."
 
 #: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "در توسعه ی OPENSUSE مشارکت کنید"
 
 #: index.html:256
 msgid "Be part of our community contributing with any of the following:"
-msgstr ""
+msgstr "با مشارکت در یکی از موارد زیر قسمتی از جامعه ی ما باشید:"
 
 #: index.html:263
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #: index.html:264 index.html:279
 msgid "Find out more"
-msgstr ""
+msgstr "بیشتر بدانید"
 
 #: index.html:268
 msgid "Contribute Code"
-msgstr ""
+msgstr "مشارکت در کد"
 
 #: index.html:269
 msgid ""
@@ -179,18 +206,29 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"در openSUSE این باور وجود دارد که بهترین نتیجه حاصل از افرادیست که به صورت "
+"گروهی  کار کرده و شاد هستند. متفاوت بودن با سایر جوامع متن-باز چیزیست که "
+"openSUSE را مطلوب میکند. ما جامعه ای سنتی نیستیم و تلاش های جامعه ی کاربران "
+"ما مسیر پروژه را تعیین میکند. تلاش های جامعه ی کاربری چندین ابزار بسیار خوب "
+"برای لینوکس و یک توزیع عالی را ساخته است. با openSUSE، شما یک رای دارید و به "
+"راحتی میتوانید در پروژه مشارکت کنید. چه شما یک توسعه دهنده ی لینوکس باشید چه "
+"کاربر نهایی که به پروژه ی openSUSE علاقه مند شده باشید. به یک انجمن عضو شوید،"
+" ویکی ما را حمایت و به روز نگه دارید، باگ ها را بیابید  و آنها را گزارش دهید،"
+" مستندات را بازبینی کنید، لیستی از بسته ها و امکانات درخواتستی خود را "
+"بفرستید، وصله های نرم افزاری را بسازید و ثبت کنید، و یا با شرکت در همایش ها، "
+"یک حامی برای openSUSE شوید و به سفیر آن تبدیل شوید."
 
 #: index.html:270
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "در ارتباط با چگونگی مشارکت بیشتر بدانید"
 
 #: index.html:278
 msgid "Hardware"
-msgstr ""
+msgstr "سخت افزار"
 
 #: index.html:283
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "مشارکت در سخت افزار"
 
 #: index.html:284
 msgid ""
@@ -213,52 +251,52 @@ msgstr ""
 
 #: index.html:295
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "مشاهده ی کنفرانس های آینده"
 
 #: index.html:307
 msgid "Get software"
-msgstr ""
+msgstr "دریافت نرم افزار"
 
 #: index.html:312
 msgid "Wiki"
-msgstr ""
+msgstr "ویکی"
 
 #: index.html:317
 msgid "Build Service"
-msgstr ""
+msgstr "سرویس ساخت"
 
 #: index.html:326
 msgid "Social Network"
-msgstr ""
+msgstr "شبکه اجتماعی"
 
 #: index.html:336
 msgid "Forums"
-msgstr ""
+msgstr "انجمن ها"
 
 #: index.html:345
 msgid "Shop"
-msgstr ""
+msgstr "فروشگاه"
 
 #: index.html:350
 msgid "Blogs"
-msgstr ""
+msgstr "وبلاگها"
 
 #: index.html:355
 msgid "Press"
-msgstr ""
+msgstr "مطبوعات"
 
 #: index.html:380
 msgid "Sponsored by:"
-msgstr ""
+msgstr "حمایت شده توسط:"
 
 #: index.html:386
 msgid "Change language"
-msgstr ""
+msgstr "تغییر زبان"
 
 #: index.html:416
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "تمامی حقوق محفوظ است"
 
 #: index.html:439
 msgid "Back to main page"
-msgstr ""
+msgstr "بازگشت به صفحه ی اصلی"
