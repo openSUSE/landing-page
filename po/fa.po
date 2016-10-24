@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2016-10-24 10:00+0330\n"
-"Last-Translator: hayyan <joghdeshab@live.com>\n"
-"Language-Team: Persian <i18n@suse.de>\n"
+"PO-Revision-Date: 2016-10-24 06:55+0000\n"
+"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
+"Language-Team: Persian <https://l10n.opensuse.org/projects/landing-"
+"page/master/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -81,7 +82,7 @@ msgid ""
 "release version!"
 msgstr ""
 "کاملترین نسخه ی لینوکس را با آخرین نسخه ی openSUSE با دوره ی انتشار عادی "
-"دریافت کنید"
+"دریافت کنید!"
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
@@ -220,7 +221,7 @@ msgstr ""
 
 #: index.html:270
 msgid "Find out more about how to participate."
-msgstr "در ارتباط با چگونگی مشارکت بیشتر بدانید"
+msgstr "در ارتباط با چگونگی مشارکت بیشتر بدانید."
 
 #: index.html:278
 msgid "Hardware"
@@ -244,10 +245,21 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"حمایت های مالی به پروژه ی openSUSE همیشه مورد پذیرش واقع میگیرند. در واقع، "
+"Open Build Service، چیزی که به وسیله ی چندین پروژه ی متن باز دیگر استفاده "
+"میشود، به وسیله ی اهدای سرور توسط AMD در دسترس پروژه ی جامعه قرار گرفته است. "
+"این یک نوع حمایتیست که باعث میشود مردم و پروژه پیشرفت کنند، توسعه داده، "
+"نوآوری کنند و در جریان باشند. پروژه درخواست پول نمیکند، اما اهدای سخت افزار "
+"برای استفاده از تخصص جامعه ی متن-باز برای قدرت بخشی به توسعه ی لینوکس، باعث "
+"میشود تا ابزار های openSUSE رایگان، اکوسیستم متن باز و دارای بازدهی به توسعه "
+"دهندگان، مدیران سیستم و بسته بندی کنندگان باشد. سخت افزار به جامعه ی "
+"openSUSE کمک میکند! سخت افزار به جامعه ی متن-باز کمک میکند! و سخت افزار به "
+"توسعه ی لینوکس کمک میکند. برای اینکه بدانید چگونه به پروژه ی openSUSE سخت "
+"افزار اهدا کنید، به رایانامه ی زیر نامه بفرستید"
 
 #: index.html:294
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "با openSUSE در کنفرانس دیدار کنید."
 
 #: index.html:295
 msgid "View upcoming conferences"
@@ -295,7 +307,7 @@ msgstr "تغییر زبان"
 
 #: index.html:416
 msgid "All Rights Reserved."
-msgstr "تمامی حقوق محفوظ است"
+msgstr "تمامی حقوق محفوظ است."
 
 #: index.html:439
 msgid "Back to main page"
