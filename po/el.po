@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2015-10-02 17:06+0300\n"
-"Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
-"Language-Team: Ελληνικά <opensuse-translation-el@opensuse.org>\n"
+"PO-Revision-Date: 2016-10-27 18:14+0000\n"
+"Last-Translator: alexandros Vennos <alexandros.venn@gmail.com>\n"
+"Language-Team: Greek <https://l10n.opensuse.org/projects/landing-"
+"page/master/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 #, fuzzy
@@ -82,7 +83,7 @@ msgstr ""
 
 #: index.html:94
 msgid "Learn more"
-msgstr ""
+msgstr "Μάθε περισσότερα"
 
 #: index.html:108
 #, fuzzy
@@ -94,9 +95,8 @@ msgstr ""
 "του openSUSE!"
 
 #: index.html:111 index.html:116
-#, fuzzy
 msgid "Install Leap"
-msgstr "Εγκατάσταση openSUSE"
+msgstr "Εγκατάσταση Leap"
 
 #: index.html:114
 #, fuzzy
@@ -117,27 +117,27 @@ msgstr ""
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "ημέρες"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "ημέρα"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "ώρες"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "ώρα"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "για το openSUSE Leap 42.2"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "είναι διαθέσιμο τώρα"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
