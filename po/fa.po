@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2016-10-24 06:55+0000\n"
+"PO-Revision-Date: 2016-10-28 22:56+0000\n"
 "Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/landing-"
 "page/master/fa/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr "گزینه ی ایده آل برای مدیران سیستم، توسعه دهندگان و کاربران دسک تاپ."
+msgstr "انتخاب سازنده برای مدیران سیستم، توسعه دهندگان و کاربران دسکتاپ."
 
 #: index.html:48
 msgid "Home"
