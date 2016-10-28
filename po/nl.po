@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
-"PO-Revision-Date: 2016-09-22 21:16+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"PO-Revision-Date: 2016-10-28 18:32+0000\n"
+"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/landing-"
 "page/master/nl/>\n"
 "Language: nl\n"
@@ -23,12 +23,11 @@ msgstr ""
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
-"De keuze van de makers voor systeembeheerders, ontwikkelaars en "
-"bureaubladgebruikers."
+"De beste keuze voor systeembeheerders, ontwikkelaars en bureaubladgebruikers."
 
 #: index.html:48
 msgid "Home"
-msgstr "Homepagina"
+msgstr "Hoofdpagina"
 
 #: index.html:51
 msgid "Tools"
@@ -41,7 +40,7 @@ msgstr "Nieuws"
 # continue button label
 #: index.html:57
 msgid "Contribute"
-msgstr "Meewerken"
+msgstr "Bijdragen"
 
 #: index.html:60
 msgid "Conferences"
@@ -52,8 +51,8 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"Haal de nieuwste Linux pakketten op met onze rollende uitgave. Snel! "
-"Geïntegreerd! Gestabiliseerd! Getest!"
+"Haal de nieuwste Linux-pakketten op met onze rollende uitgave. Snel! "
+"Geïntegreerd! Stabiel! Getest!"
 
 #: index.html:87 index.html:109
 msgid "More information"
@@ -73,25 +72,24 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Elke gebruiker die de nieuwste pakketten wil hebben die bevatten, maar zich "
-"niet beperken tot de Linux kernel, SAMBA, git, bureaubladen, "
-"kantoortoepassingen en vele andere pakketten, zullen Tumbleweed willen. "
-"Tumbleweed heeft aantrekkingskracht voor zware gebruikers, software "
-"ontwikkelaars en zij die bijdragen aan openSUSE. Als u de nieuwste "
-"softwarestacks en een onafhankelijke ontwikkelomgeving wilt of een stabiel "
-"platform het dichts bij het allernieuwste in Linux, dan is Tumbleweed de "
-"beste keuze voor u."
+"Elke gebruiker die de nieuwste pakketten wil hebben met onder andere de "
+"Linux-kernel, SAMBA, git, bureaubladen, kantoortoepassingen en vele andere "
+"pakketten, zal Tumbleweed willen. Tumbleweed heeft aantrekkingskracht voor "
+"ervaren gebruikers, softwareontwikkelaars en zij die bijdragen aan openSUSE. "
+"Als u de nieuwste softwarestacks en een onafhankelijke ontwikkelomgeving "
+"wilt of een stabiel platform het dichtst bij het allernieuwste in Linux, dan "
+"is Tumbleweed de beste keuze voor u."
 
 #: index.html:94
 msgid "Learn more"
-msgstr "Kom meer te weten"
+msgstr "Lees meer"
 
 #: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
-"Haal de meest complete Linux distribution met de laatste versie van de "
+"Haal de meest complete Linux-distributie met de laatste versie van de "
 "reguliere uitgave van openSUSE!"
 
 #: index.html:111 index.html:116
@@ -106,12 +104,12 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
-"Nieuwe en ervaren Linux gebruikers halen de meest bruikbare Linux "
-"distributie en stabiel besturingssysteem op met de reguliere uitgave van "
-"openSUSE. Ontvang elementen voor bijwerken en maak uw OS harder met de "
-"laatste hoofddistributie van openSUSE. Kies uw bureaublad, configureer uw "
-"systeem en geniet van het platform van uw keuze voor Linux ontwikkelaars, "
-"beheerders en software verkopers."
+"Nieuwe en ervaren Linux-gebruikers halen de meest bruikbare Linux-"
+"distributie en een stabiel besturingssysteem op met de reguliere uitgave van "
+"openSUSE. Ontvang updates en maak uw OS veiliger met de laatste nieuwe "
+"hoofddistributie van openSUSE. Kies uw bureaublad, configureer uw systeem en "
+"geniet van het platform van uw keuze voor Linux-ontwikkelaars, -beheerders "
+"en -softwareverkopers."
 
 #: index.html:130
 msgid "days"
@@ -123,7 +121,7 @@ msgstr "dag"
 
 #: index.html:132
 msgid "hours"
-msgstr "uren"
+msgstr "uur"
 
 #: index.html:133
 msgid "hour"
@@ -139,12 +137,11 @@ msgstr "is nu beschikbaar"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
-msgstr "openSUSE HULPMIDDELEN"
+msgstr "openSUSE-HULPMIDDELEN"
 
 #: index.html:156
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
-"Ontdek de beste open-source hulpmiddelen ontwikkelt door onze gemeenschap"
+msgstr "Ontdek de beste openbronhulpmiddelen, ontwikkeld door onze gemeenschap"
 
 #: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
@@ -156,9 +153,9 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
-"Ons hulpmiddel voor bouwen, door al onze pakketten zowel die voor SUSE Linux "
+"Ons bouwhulpmiddel bouwt al onze pakketten, zowel die voor SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS als Ubuntu "
-"en meer te bouwen."
+"en meer."
 
 #: index.html:192
 msgid ""
@@ -174,7 +171,7 @@ msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "Het beste/enige veelomvattende hulpmiddel voor configuratie & installatie "
-"van een Linux systeem."
+"van een Linux-systeem."
 
 #: index.html:228
 msgid ""
@@ -182,19 +179,17 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"Maak Linux images voor gebruik op echte hardware, virtualisatie en nu zelfs "
-"containersystemen zoals Docker. Kiwi is de engine die energie levert aan "
-"SUSE Studio."
+"Maak Linux-images voor gebruik op echte hardware, virtualisatie en nu zelfs "
+"containersystemen zoals Docker. Kiwi is de motor waarop SUSE Studio draait."
 
 #: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr "DRAAG BIJ AAN OPENSUSE"
+msgstr "BIJDRAGEN AAN OPENSUSE"
 
 #: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
-"Maak onderdeel uit van onze gemeenschap door bij te dragen met iets van het "
-"volgende:"
+"Word deel van onze gemeenschap door bij te dragen met iets van het volgende:"
 
 #: index.html:263
 msgid "Code"
@@ -202,12 +197,12 @@ msgstr "Code"
 
 #: index.html:264 index.html:279
 msgid "Find out more"
-msgstr "Verdere informatie"
+msgstr "Meer informatie"
 
 # continue button label
 #: index.html:268
 msgid "Contribute Code"
-msgstr "Draag code bij"
+msgstr "Code bijdragen"
 
 #: index.html:269
 msgid ""
@@ -224,22 +219,22 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
-"openSUSE gelooft dat de best resultaten komen van mensen die samenwerken en "
-"plezier hebben. Door anders te zijn dan andere open-source gemeenschappen "
-"maakt openSUSE begeerd. We zijn geen conventionele gemeenschap en de "
-"inspanningen van onze gemeenschap bepaalt het pad van het project. De "
-"inspanningen van de gemeenschap hebben verschillende grootse hulpmiddelen "
-"voor Linux en een geweldige distributie opgeleverd. Met openSUSE hent u een "
-"stem en kunt u gemakkelijk bijdragen aan het project. Of u nu een ervaren "
-"Linux ontwerper bent of een eindgebruiker doe mee in het openSUSE project. "
-"Wordt lid van een forum, onderhoud en werk onze wiki bij, zoek en rapporteer "
+"openSUSE gelooft dat de beste resultaten komen van mensen die samenwerken en "
+"plezier hebben. Ons anders zijn dan andere openbrongemeenschappen maakt "
+"openSUSE begeerd. We zijn geen conventionele gemeenschap en de inspanningen "
+"van onze gemeenschap bepalen het pad van het project. De inspanningen van de "
+"gemeenschap hebben verschillende schitterende hulpmiddelen voor Linux en een "
+"geweldige distributie opgeleverd. Met openSUSE heeft u een stem en kunt u "
+"gemakkelijk bijdragen aan het project. Of u nu een ervaren Linux-"
+"ontwikkelaar bent of een eindgebruiker, doe mee aan het openSUSE-project. "
+"Word lid van een forum, onderhoud en werk onze wiki bij, zoek en rapporteer "
 "bugs, kijk de documentatie na, stuur uw wensenlijst voor nieuwe pakketten en "
-"functies in, maak en dien patches in of wordt een pleitbezorger voor "
-"openSUSE door gebeurtenissen bij te wonen en wordt een ambassadeur."
+"functies in, maak en dien patches in of word een pleitbezorger voor openSUSE "
+"door evenementen bij te wonen en een ambassadeur te worden."
 
 #: index.html:270
 msgid "Find out more about how to participate."
-msgstr "Ontdek hoe u meer kunt deelnemen."
+msgstr "Lees meer over hoe u kunt deelnemen."
 
 #: index.html:278
 msgid "Hardware"
@@ -247,7 +242,7 @@ msgstr "Hardware"
 
 #: index.html:283
 msgid "Contribute Hardware"
-msgstr "Draag hardware bij"
+msgstr "Hardware bijdragen"
 
 #: index.html:284
 msgid ""
@@ -263,19 +258,19 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
-"Donaties voor ondersteuning van het openSUSE project zijn altijd welkom. In "
+"Donaties voor ondersteuning van het openSUSE-project zijn altijd welkom. In "
 "feite is Open Build Service, dat gebruikt wordt door verschillende andere "
-"open-source projecten, is beschikbaar gesteld aan de gemenschap van het "
-"project door een genereuze donatie van servers door AMD. Het is dit type "
-"donaties dat mensen en projecten doen bloeien, zich ontwikkelen, innoveren "
-"en voortgang maken. Het project vraagt niet om geld, maar donaties van "
-"hardware om de expertise in de open-source gemeenschap te gebruiken en Linux "
-"ontwikkeling van energie te voorzien, openSUSE hulpmiddelen te bieden aan "
-"het vrije, open-source ecosysteem en terug te geven aan ontwikkelaars, "
-"systeembeheerders en makers van pakketten. Hardware helpt de openSUSE "
-"gemeenschap! Hardware helpt de open-source gemeenschap! En hardware helpt de "
-"ontwikkeling van Linux. Om te weten hoe u hardware kan doneren aan het "
-"openSUSE project, stuur een e-mail"
+"openbronprojecten, beschikbaar gesteld aan de gemenschap van het project "
+"door een genereuze donatie van servers door AMD. Het is dit type donaties "
+"dat mensen en projecten doen bloeien, zich ontwikkelen, innoveren en "
+"voortgang maken. Het project vraagt niet om geld, maar donaties van hardware "
+"om de expertise in de openbrongemeenschap te gebruiken en Linux-ontwikkeling "
+"van energie te voorzien, openSUSE-hulpmiddelen te bieden aan het vrije, "
+"openbronecosysteem en terug te geven aan ontwikkelaars, systeembeheerders en "
+"makers van pakketten. Hardware helpt de openSUSE-gemeenschap! Hardware helpt "
+"de openbrongemeenschap! En hardware helpt de ontwikkeling van Linux. Om te "
+"weten hoe u hardware kan doneren aan het openSUSE project, stuur een e-mail "
+"naar"
 
 #: index.html:294
 msgid "Meet up with openSUSE at conferences."
@@ -287,7 +282,7 @@ msgstr "Bekijk komende conferenties"
 
 #: index.html:307
 msgid "Get software"
-msgstr "Haal software op"
+msgstr "Software downloaden"
 
 #: index.html:312
 msgid "Wiki"
@@ -295,7 +290,7 @@ msgstr "Wiki"
 
 #: index.html:317
 msgid "Build Service"
-msgstr "Build-service"
+msgstr "Bouwdienst"
 
 #: index.html:326
 msgid "Social Network"
