@@ -8,6 +8,7 @@
     "Conferences": "Conferencies",
     "Contribute": "Collaborar",
     "Forums": "Foros",
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!": "¡Consigui la distribución Linux más completa cola versión de llanzamientu menos continuu d'OpenSUSE!",
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!": "Consigui los paquetes más nuevos de Linux col nuesu llanzamientu continuu. ¡Rápidu, integráu, estabilizáu y probáu!",
     "Go to link": "Dir al enllaz",
     "Home": "Aniciu",
@@ -20,6 +21,12 @@
     "Social Network": "Redes sociales",
     "The makers' choice for sysadmins, developers and desktop users.": "La escoyeta p'alministradores de sistemes, desendolcadores y usuarios d'escritoriu.",
     "Tools": "Ferramientes",
-    "openSUSE TOOLS": "FERRAMIENTES D'openSUISE"
+    "day": "día",
+    "days": "díes",
+    "for openSUSE Leap 42.2": "pa openSUSE Leap 42.2",
+    "hour": "hora",
+    "hours": "hores",
+    "is available now": "ta disponible agora",
+    "openSUSE TOOLS": "FERRAMIENTES D'openSUSE"
   }
 }

@@ -20,7 +20,9 @@
     "Go to link": "Μετάβαση σε σύνδεσμο",
     "Hardware": "Υλικό",
     "Home": "Αρχική",
+    "Install Leap": "Εγκατάσταση Leap",
     "Install Tumbleweed": "Εγκατάσταση Tumbleweed",
+    "Learn more": "Μάθε περισσότερα",
     "Meet up with openSUSE at conferences.": "Συναντήσεις στα συνέδρια openSUSE.",
     "More information": "Περισσότερες πληροφορίες",
     "News": "Νέα",
@@ -31,6 +33,12 @@
     "Sponsored by:": "Χορηγοί:",
     "Tools": "Εργαλεία",
     "View upcoming conferences": "Προβολή επερχόμενων συνεδρίων",
+    "day": "ημέρα",
+    "days": "ημέρες",
+    "for openSUSE Leap 42.2": "για το openSUSE Leap 42.2",
+    "hour": "ώρα",
+    "hours": "ώρες",
+    "is available now": "είναι διαθέσιμο τώρα",
     "openSUSE TOOLS": "ΕΡΓΑΛΕΙΑ openSUSE"
   }
 }
