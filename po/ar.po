@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
+"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
 "PO-Revision-Date: 2016-10-27 05:28+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/landing-page/"
@@ -299,10 +299,10 @@ msgstr "الداعمون:"
 msgid "Change language"
 msgstr "تغيير اللغة"
 
-#: index.html:417
+#: index.html:425
 msgid "All Rights Reserved."
 msgstr "جميع الحقوق محفوظة."
 
-#: index.html:440
+#: index.html:448
 msgid "Back to main page"
 msgstr "عودة للصفحة الرئيسية"

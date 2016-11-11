@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
+"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
 "PO-Revision-Date: 2016-09-26 20:35+0000\n"
 "Last-Translator: Mariusz Fik <fisiu@opensuse.org>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
@@ -321,10 +321,10 @@ msgstr "Sponsorowane przez:"
 msgid "Change language"
 msgstr "Zmień język"
 
-#: index.html:417
+#: index.html:425
 msgid "All Rights Reserved."
 msgstr "Wszelkie prawa zastrzeżone."
 
-#: index.html:440
+#: index.html:448
 msgid "Back to main page"
 msgstr "Wróć do głównej strony"

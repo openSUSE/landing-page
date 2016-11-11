@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
+"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
 "PO-Revision-Date: 2016-09-26 16:36+0000\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/landing-"
@@ -296,11 +296,11 @@ msgstr "贊助："
 msgid "Change language"
 msgstr "變更語系"
 
-#: index.html:417
+#: index.html:425
 msgid "All Rights Reserved."
 msgstr "保留所有權利。"
 
-#: index.html:440
+#: index.html:448
 msgid "Back to main page"
 msgstr "回到主頁面"
 

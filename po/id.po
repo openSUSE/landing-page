@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
+"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
 "PO-Revision-Date: 2016-11-04 02:22+0000\n"
 "Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
@@ -316,10 +316,10 @@ msgstr "Disponsori oleh:"
 msgid "Change language"
 msgstr "Ganti bahasa"
 
-#: index.html:417
+#: index.html:425
 msgid "All Rights Reserved."
 msgstr "Hak Cipta."
 
-#: index.html:440
+#: index.html:448
 msgid "Back to main page"
 msgstr "Kembali ke halaman utama"

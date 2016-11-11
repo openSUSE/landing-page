@@ -51,6 +51,7 @@ pot_file_stamp = File.stat(pot_file).mtime
 newest_stamp = pot_file_stamp
 
 strings = Hash.new
+listed_langs = Hash.new
 
 cfg['pages'].each do |page|
   f = open(page, 'r')
@@ -69,6 +70,10 @@ cfg['pages'].each do |page|
     end
     strings[text] ||= []
     strings[text].push(t.line)
+  end
+  page.xpath('//*[@class="change-language"]').each do |t|
+    lang=t.attribute('data-language-value').value
+    listed_langs[lang] = t.text
   end
 end
 
@@ -108,9 +113,12 @@ Dir.mktmpdir do |localedir|
       translation = gettext(string)
       translations[string] = gettext(string) if string != translation
     end
-    if translations.count < 2
-	    puts("skipping #{po}")
-	    next
+    if translations.count < 5
+      puts("#{language} has only #{translations.count} translations, skipping")
+      next
+    end
+    if not listed_langs.has_key?(language)
+      puts("missing #{language} in index.html, don't forget assets/js/opensuse-theme.js")
     end
     puts("updating #{target_file} ...")
     hash = {}

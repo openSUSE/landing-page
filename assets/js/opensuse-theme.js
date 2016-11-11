@@ -255,23 +255,32 @@ function backToMainPageOs (os) {
 
 var lang = new Lang('en');
 //languages setup - please list here all new language packs
-window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('ar', 'assets/js/langpack/ar.json');
+window.lang.dynamic('ast', 'assets/js/langpack/ast.json');
 window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
+window.lang.dynamic('cs', 'assets/js/langpack/cs.json');
+window.lang.dynamic('da', 'assets/js/langpack/da.json');
 window.lang.dynamic('de', 'assets/js/langpack/de.json');
 window.lang.dynamic('el', 'assets/js/langpack/el.json');
+window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('fa', 'assets/js/langpack/fa.json');
+window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
+window.lang.dynamic('gl', 'assets/js/langpack/gl.json');
+window.lang.dynamic('id', 'assets/js/langpack/id.json');
 window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
+window.lang.dynamic('ko', 'assets/js/langpack/ko.json');
 window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
 window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
 window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
-window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
-window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
-window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
-window.lang.dynamic('zh_CN', 'assets/js/langpack/zh_CN.json');
 window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
-window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
+window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
+window.lang.dynamic('sv', 'assets/js/langpack/sv.json');
+window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
+window.lang.dynamic('zh_CN', 'assets/js/langpack/zh_CN.json');
+window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
 
 //change language on click
 $(document).on("click", ".change-language", function() {

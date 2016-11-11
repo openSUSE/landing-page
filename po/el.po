@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
+"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
 "PO-Revision-Date: 2016-10-27 18:14+0000\n"
 "Last-Translator: alexandros Vennos <alexandros.venn@gmail.com>\n"
 "Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
@@ -334,11 +334,11 @@ msgstr "Χορηγοί:"
 msgid "Change language"
 msgstr "Επιλογή γλώσσας"
 
-#: index.html:417
+#: index.html:425
 msgid "All Rights Reserved."
 msgstr "Με επιφύλαξη παντός νομίμου δικαιώματος."
 
-#: index.html:440
+#: index.html:448
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
 
