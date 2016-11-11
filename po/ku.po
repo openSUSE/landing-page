@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: memory.ku.po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
+"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
 "PO-Revision-Date: 2005-09-23 00:15+0200\n"
 "Last-Translator: Kurdish Team <i18n@suse.de>\n"
 "Language-Team: Kurdish Team <i18n@suse.de>\n"
@@ -272,10 +272,10 @@ msgstr ""
 msgid "Change language"
 msgstr "Ziman tê tomarkirin..."
 
-#: index.html:416
+#: index.html:417
 msgid "All Rights Reserved."
 msgstr ""
 
-#: index.html:439
+#: index.html:440
 msgid "Back to main page"
 msgstr ""

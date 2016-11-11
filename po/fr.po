@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
+"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
 "PO-Revision-Date: 2016-09-26 08:29+0000\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
-"Language-Team: French <https://l10n.opensuse.org/projects/landing-"
-"page/master/fr/>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/landing-page/"
+"master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -326,10 +326,10 @@ msgstr "Sponsorisé par :"
 msgid "Change language"
 msgstr "Changer la langue"
 
-#: index.html:416
+#: index.html:417
 msgid "All Rights Reserved."
 msgstr "Tous droits réservés."
 
-#: index.html:439
+#: index.html:440
 msgid "Back to main page"
 msgstr "Retour à la page principale"

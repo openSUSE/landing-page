@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
+"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
 "PO-Revision-Date: 2001-10-18 10:13+0200\n"
 "Last-Translator: Görkem Çetin <gorkem@gelecek.com.tr>\n"
 "Language-Team: turkish <i18n@suse.de>\n"
@@ -273,10 +273,10 @@ msgstr ""
 msgid "Change language"
 msgstr "Dil"
 
-#: index.html:416
+#: index.html:417
 msgid "All Rights Reserved."
 msgstr ""
 
-#: index.html:439
+#: index.html:440
 msgid "Back to main page"
 msgstr ""

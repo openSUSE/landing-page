@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
+"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
 "PO-Revision-Date: 2005-07-29 15:37+0530\n"
 "Last-Translator: Prasanth Kurian <prasanth.kurian@agreeya.com>\n"
 "Language-Team: Hindi <i18n@suse.de>\n"
@@ -272,10 +272,10 @@ msgstr ""
 msgid "Change language"
 msgstr "चामिक भाषाएं"
 
-#: index.html:416
+#: index.html:417
 msgid "All Rights Reserved."
 msgstr ""
 
-#: index.html:439
+#: index.html:440
 msgid "Back to main page"
 msgstr ""

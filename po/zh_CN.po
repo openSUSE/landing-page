@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-22 13:52:00 +0200\n"
+"POT-Creation-Date: 2016-11-11 11:04:10 +0100\n"
 "PO-Revision-Date: 2016-06-06 08:57+0000\n"
 "Last-Translator: Marguerite Su <i@marguerite.su>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
@@ -287,11 +287,11 @@ msgstr "赞助："
 msgid "Change language"
 msgstr "修改语言"
 
-#: index.html:416
+#: index.html:417
 msgid "All Rights Reserved."
 msgstr "保留所有权利。"
 
-#: index.html:439
+#: index.html:440
 msgid "Back to main page"
 msgstr "返回首页"
 
