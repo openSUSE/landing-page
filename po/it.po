@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
-"PO-Revision-Date: 2016-11-15 10:29+0000\n"
+"PO-Revision-Date: 2016-11-15 11:15+0000\n"
 "Last-Translator: Alessio Adamo <alessio.adamo@gmail.com>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/landing-"
 "page/master/it/>\n"
@@ -31,7 +31,7 @@ msgstr "Strumenti"
 
 #: index.html:54 index.html:331
 msgid "News"
-msgstr "News"
+msgstr "Notizie"
 
 # continue button label
 #: index.html:57
@@ -69,13 +69,13 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Ogni utente che desidera avere i pacchetti più recenti, come tra gli altri "
-"il kernel Linux, SAMBA, git, applicazioni desktop e d'ufficio, vorrà "
-"Tumbleweed. Tumbleweed attrae gli Utenti Avanzati, i Sviluppatori Software e "
-"i Contributori di openSUSE. Se necessiti degli ultimi pacchetti di programmi "
-"e di un ambiente di sviluppo indipendente, o di una piattaforma stabile il "
-"più vicino possibile agli ultimi sviluppi di Linux, Tumbleweed è la tua "
-"scelta migliore."
+"Ogni utente che desideri avere i pacchetti più recenti — ad esempio per "
+"kernel Linux, SAMBA, git, ambienti desktop, applicazioni per ufficio e molto "
+"altro — dovrebbe scegliere Tumbleweed. Tumbleweed è rivolta agli Utenti "
+"Avanzati, agli Sviluppatori Software e ai Contributori di openSUSE. Se "
+"necessiti degli ultimi pacchetti di programmi e di un ambiente di sviluppo "
+"integrato, o di una piattaforma stabile il più vicino possibile agli ultimi "
+"sviluppi di Linux, Tumbleweed è la tua scelta migliore."
 
 #: index.html:94
 msgid "Learn more"
@@ -101,12 +101,12 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
-"I nuovi utenti Linux e anche quelli avanzati ottengono la distribuzione "
+"Sia i nuovi utenti Linux che quelli più esperti ottengono la distribuzione "
 "Linux più usabile e il sistema operativo più stabile grazie al rilascio "
-"regolare di openSUSE! Ottieni gli aggiornamenti e migliora il tuo sistema "
-"operativo con l'ultima maggiore distribuzione di openSUSE. Scegli l'ambiente "
-"desktop, configura il sistema e assapora la piattaforma scelta da "
-"sviluppatori Linux, amministratori e rivenditori di programmi."
+"regolare di openSUSE. Ricevi gli aggiornamenti e migliora il tuo sistema "
+"operativo con l'ultima distribuzione di openSUSE. Scegli l'ambiente desktop, "
+"configura il sistema e goditi la piattaforma d'elezione per sviluppatori "
+"Linux, amministratori e rivenditori di programmi."
 
 #: index.html:130
 msgid "days"
@@ -160,7 +160,7 @@ msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
-"Il test automatico per *ogni* sistema operativo, che può catturare lo "
+"Il test automatico per *qualsiasi* sistema operativo, che può catturare lo "
 "schermo e controllare l'host di test come farebbe un utente."
 
 #: index.html:210
@@ -289,7 +289,7 @@ msgstr "Wiki"
 
 #: index.html:317
 msgid "Build Service"
-msgstr "Build Service"
+msgstr "Servizio di Build"
 
 #: index.html:326
 msgid "Social Network"
