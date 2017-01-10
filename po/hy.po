@@ -3,51 +3,57 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-01-10 16:42+0000\n"
+"Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
+"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
+"page/master/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
+"Ստեղծողները սիսադմինների, մշակողների եւ սեղանադիր օգտվողների ընտրությունը."
 
 #: index.html:48
 msgid "Home"
-msgstr ""
+msgstr "Տուն"
 
 #: index.html:51
 msgid "Tools"
-msgstr ""
+msgstr "Գործիքներ"
 
 #: index.html:54 index.html:331
 msgid "News"
-msgstr ""
+msgstr "Նորություններ"
 
 #: index.html:57
 msgid "Contribute"
-msgstr ""
+msgstr "Աջակցել"
 
 #: index.html:60
 msgid "Conferences"
-msgstr ""
+msgstr "Կոնֆերանսներ"
 
 #: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Ձեռքբերել նորագույն Linux փաթեթները մեր շարժակազմի հաղորդագրության մեջ. "
+"Արագ! Ինտեգրված! Կայուն! Փորձարկված!"
 
 #: index.html:87 index.html:109
 msgid "More information"
-msgstr ""
+msgstr "Լրացուցիչ տեղեկություններ"
 
 #: index.html:89 index.html:97
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "Տեղադրեք Tumbleweed"
 
 #: index.html:92
 msgid ""
@@ -59,16 +65,25 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Ցանկացած օգտվողին, ով ցանկանում է ունենալ նորագույն փաթեթները, որոնք "
+"ներառում են, սակայն չեն սահմանափակվում, Linux միջուկը, Samba, git , "
+"desktops, գրասենյակային դիմումները եւ շատ այլ փաթեթներ, չի ուզում Tumbleweed:"
+" Tumbleweed դիմում Power Users, ծրագրային մշակողների եւ openSUSE ներդրում: "
+"Եթե դուք պահանջում նորագույն ծրագրային ապահովման stacks եւ ինտեգրված "
+"զարգացման միջավայր, կամ պետք է կայուն հարթակ, որն ամենամոտն է "
+"արյունահոսություն ծայրը Linux, Tumbleweed լավագույն ընտրությունն է ձեզ համար."
 
 #: index.html:94
 msgid "Learn more"
-msgstr ""
+msgstr "Իմանալ ավելին"
 
 #: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
+"Ստացեք առավել ամբողջական Linux բաշխման հետ openSUSE ի վերջին հերթական ազատ "
+"արձակման տարբերակը."
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
