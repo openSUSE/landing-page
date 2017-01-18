@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
-"PO-Revision-Date: 2017-01-10 16:42+0000\n"
+"PO-Revision-Date: 2017-01-18 11:55+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
 "Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
 "page/master/hy/>\n"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
-msgstr ""
+msgstr "Տեղադրեք Leap"
 
 #: index.html:114
 msgid ""
@@ -97,42 +97,48 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
+"Նոր եւ փորձառու Linux- ի օգտվողները ստանում են առավել օգտագործելի Linux "
+"բաշխված եւ կայուն օպերացիոն համակարգ openSUSE հերթական հաղորդագրության մեջ: "
+"Ստանալ թարմացումներ եւ կարծրացնում ձեր օպերացիոն openSUSE վերջին խոշոր "
+"բաշխման. Ընտրեք Ձեր աշխատասեղանին, կարգավորել ձեր համակարգը եւ վայելեք "
+"հարթակ ընտրության համար Linux մշակողների, վարչարարներ, եւ ծրագրային "
+"ապահովման վաճառողներին."
 
 #: index.html:130
 msgid "days"
-msgstr ""
+msgstr "օրեր"
 
 #: index.html:131
 msgid "day"
-msgstr ""
+msgstr "օր"
 
 #: index.html:132
 msgid "hours"
-msgstr ""
+msgstr "ժամեր"
 
 #: index.html:133
 msgid "hour"
-msgstr ""
+msgstr "ժամ"
 
 #: index.html:136
 msgid "for openSUSE Leap 42.2"
-msgstr ""
+msgstr "openSUSE Leap 42.2 -ի համար"
 
 #: index.html:144
 msgid "is available now"
-msgstr ""
+msgstr "այժմ հասանելի"
 
 #: index.html:155
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "openSUSE ԳՈՐԾԻՔՆԵՐ"
 
 #: index.html:156
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
+msgstr "Բացահայտեք լավագույն open-source  tools  մշակված մեր համայնքի կողմից"
 
 #: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
-msgstr ""
+msgstr "հղում"
 
 #: index.html:174
 msgid ""
@@ -140,6 +146,9 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
+"Մեր կառուցել գործիք, կառուցելու մեր բոլոր փաթեթների, ինչպես նաեւ նորերը süse "
+"Linux Enterprise, arch, Debian, Fedora, գիտական Linux, RHEL, CentOS, Ubuntu, "
+"եւ ավելի."
 
 #: index.html:192
 msgid ""
