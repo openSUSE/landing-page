@@ -1,7 +1,7 @@
 {
   "name": "opensuse-landing-page",
   "version": "1.0.0",
-  "description": "The new landing page to get all the latest information about Tumbleweed and Leap",
+  "description": "The landing page to get all the latest information about openSUSE Tumbleweed and Leap",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.0",
