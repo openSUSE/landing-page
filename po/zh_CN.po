@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
+"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
 "PO-Revision-Date: 2016-11-14 08:10+0000\n"
 "Last-Translator: Wnereiz Z <wnereiz@eienteiland.org>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
@@ -295,7 +295,7 @@ msgstr "修改语言"
 
 #: index.html:429
 #, fuzzy
-msgid "All Rights Reserved. "
+msgid "All Rights Reserved."
 msgstr "保留所有权利。"
 
 #: index.html:429

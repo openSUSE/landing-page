@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
+"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
 "PO-Revision-Date: 2016-11-03 15:51+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/landing-page/"
@@ -328,7 +328,7 @@ msgstr "Zmeniť jazyk"
 
 #: index.html:429
 #, fuzzy
-msgid "All Rights Reserved. "
+msgid "All Rights Reserved."
 msgstr "Všetky práva vyhradené."
 
 #: index.html:429

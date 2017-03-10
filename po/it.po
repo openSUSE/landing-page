@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
+"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
 "PO-Revision-Date: 2016-11-15 11:15+0000\n"
 "Last-Translator: Alessio Adamo <alessio.adamo@gmail.com>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/landing-page/"
@@ -327,7 +327,7 @@ msgstr "Cambia la lingua"
 
 #: index.html:429
 #, fuzzy
-msgid "All Rights Reserved. "
+msgid "All Rights Reserved."
 msgstr "Tutti i diritti riservati."
 
 #: index.html:429
