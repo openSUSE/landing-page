@@ -70,6 +70,11 @@ cfg['pages'].each do |page|
     end
     strings[text] ||= []
     strings[text].push(t.line)
+    if t.name == 'a' && !t.attribute('href').to_s.empty?
+      href = t.attribute('href').to_s
+      strings[href] ||= []
+      strings[href].push(t.line)
+    end
   end
   page.xpath('//*[@class="change-language"]').each do |t|
     lang=t.attribute('data-language-value').value
