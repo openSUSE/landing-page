@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 12:04:44 +0100\n"
-"PO-Revision-Date: 2016-10-05 15:47+0000\n"
+"PO-Revision-Date: 2017-03-10 12:13+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-page/"
-"master/ca/>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-"
+"page/master/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,14 +123,12 @@ msgid "hour"
 msgstr "hora"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Reuniu-vos amb l'openSUSE a les conferències."
+msgstr "per a la conferència d'openSUSE"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Reuniu-vos amb l'openSUSE a les conferències."
+msgstr "xerrades de la conferència d'openSUSE"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -238,7 +236,7 @@ msgstr "Descobriu més coses sobre com participar-hi."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -325,17 +323,16 @@ msgid "Change language"
 msgstr "Canvieu la llengua"
 
 #: index.html:429
-#, fuzzy
 msgid "All Rights Reserved. "
-msgstr "Tots els drets reservats."
+msgstr "Tots els drets reservats. "
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Empremta."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
