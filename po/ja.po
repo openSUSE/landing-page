@@ -5,10 +5,10 @@ msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
-"PO-Revision-Date: 2016-09-22 22:42+0000\n"
+"PO-Revision-Date: 2017-03-10 11:21+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
-"master/ja/>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-"
+"page/master/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -121,14 +121,12 @@ msgid "hour"
 msgstr "時間"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
+msgstr "openSUSE カンファレンスについて"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
+msgstr "openSUSE カンファレンスのトーク"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -230,6 +228,8 @@ msgstr "参加方法についてさらに詳しく見る"
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr ""
+"https://ja.opensuse.org/Portal:%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B%"
+"E3%81%9F"
 
 #: index.html:281
 msgid "Hardware"
@@ -313,9 +313,8 @@ msgid "Change language"
 msgstr "言語の変更"
 
 #: index.html:429
-#, fuzzy
 msgid "All Rights Reserved. "
-msgstr "All Rights Reserved."
+msgstr "All Rights Reserved. "
 
 #: index.html:429
 msgid "Imprint."
