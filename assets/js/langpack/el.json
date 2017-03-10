@@ -1,7 +1,6 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "All Rights Reserved.": "Με επιφύλαξη παντός νομίμου δικαιώματος.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Ο χρήστης που επιθυμεί να έχει τα νεότερα πακέτα που περιλαμβάνουν τον πυρήνα του Linux, SAMBA, git, εφαρμογές γραφείου, το γραφικό περιβάλλον και πολλά άλλα πακέτα, θα θέλει την έκδοση Tumbleweed. Η έκδοση Tumbleweed απευθύνεται σε προχωρημένους χρήστες, προγραμματιστές και χρήστες που συνεισφέρουν στο openSUSE. Εάν χρειάζεστε τις τελευταίες εκδόσεις λογισμικού και ανεξάρτητο περιβάλλον ανάπτυξης ή χρειάζεστε μια σταθερή πλατφόρμα που βρίσκεται μέσα στις τελευταίες εξελίξεις στο χώρο του Linux, τότε το Tumblweed είναι η καλύτερη επιλογή για εσάς.",
     "Back to main page": "Πίσω στην κύρια σελίδα",
     "Be part of our community contributing with any of the following:": "Γίνετε μέρος της κοινότητας συνεισφέροντας με οποιονδήποτε από τους παρακάτω τρόπους:",
@@ -35,10 +34,8 @@
     "View upcoming conferences": "Προβολή επερχόμενων συνεδρίων",
     "day": "ημέρα",
     "days": "ημέρες",
-    "for openSUSE Leap 42.2": "για το openSUSE Leap 42.2",
     "hour": "ώρα",
     "hours": "ώρες",
-    "is available now": "είναι διαθέσιμο τώρα",
     "openSUSE TOOLS": "ΕΡΓΑΛΕΙΑ openSUSE"
   }
 }

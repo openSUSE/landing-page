@@ -1,7 +1,7 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "All Rights Reserved.": "Alle Rechte vorbehalten.",
+    "All Rights Reserved. ": "Alle Rechte vorbehalten.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Jeder Benutzer, die sich die neuesten Pakete inklusive, aber nicht beschränkt auf den Linux-Kernel, SAMBA, git, Desktops, Officeanwendungen und viele andere Pakete wünschen, möchten Tumbleweed. Tumbleweed wendet sich an Powernutzer, Softwareentwickler und an Beitragende zu openSUSE. Wenn Sie die neuesten Softwarestacks und Integrated Development Environments benötigen oder eine stabile Plattform nahe von Bleeding Edge Linux suchen, ist Tumbleweed für Sie die beste Wahl.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Automatisierte Tests für *jedes* Betriebssystem, die den Bildschirm lesen und den Test-Host auf dieselbe Weise wie ein Benutzer kontrollieren können.",
     "Back to main page": "Zurück zur Hauptseite",
@@ -23,6 +23,7 @@
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!": "Holen Sie sich die neusten Linuxpakete mit unserem Rolling Release. Schnell! Integriert! Stabil! Getestet!",
     "Go to link": "Link folgen",
     "Home": "Startseite",
+    "Imprint.": "Impressum.",
     "Install Leap": "Leap installieren",
     "Install Tumbleweed": "Tumbleweed installieren",
     "Learn more": "Erfahren Sie mehr",
@@ -40,10 +41,10 @@
     "View upcoming conferences": "Demnächst stattfindende Konferenzen ansehen",
     "day": "Tag",
     "days": "Tage",
-    "for openSUSE Leap 42.2": "bis openSUSE Leap 42.2",
+    "for openSUSE Conference": "bis zur openSUSE Konferenz",
     "hour": "Stunde",
     "hours": "Stunden",
-    "is available now": "ist jetzt verfügbar",
+    "openSUSE Conference talks": "openSUSE Konferenz Vorträge",
     "openSUSE TOOLS": "openSUSE-WERKZEUGE",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE ist davon überzeugt, das die besten Resultate von Leuten kommen, die zusammenarbeiten und Spaß haben. Anders zu sein als andere Open-Source- Gemeinschaften macht openSUSE begehrenswert. Wir sind keine konventionelle Gemeinschaft und die Leistungen unser Gemeinschaft bestimmen den Weg des Projekts. Unsere Gemeinschaft hat einige hervorragende Werkzeuge für Linux und eine großartige Distribution geschaffen. Bei openSUSE haben Sie eine Stimme und können leicht zum Projekt beitragen. Wenn Sie sich am openSUSE-Projekt beteiligen, ist es egal, ob Sie ein erfahrener Linuxentwickler oder ein Endanwender sind. Treten Sie einem Forum bei, verwalten und aktualisieren Sie unser Wiki, finden und melden Sie Fehler, überprüfen Sie die Dokumentation, senden Sie Ihre Wunschliste für neue Pakete und Funktionen, erstellen und schicken Sie Patches ein oder werden Sie ein Befürworter von openSUSE indem Sie an Veranstaltungen teilnehmen und Botschafter werden."
   }

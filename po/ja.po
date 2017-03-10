@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-11 11:51:45 +0100\n"
+"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
 "PO-Revision-Date: 2016-09-22 22:42+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
@@ -28,7 +28,7 @@ msgstr "ホーム"
 msgid "Tools"
 msgstr "ツール"
 
-#: index.html:54 index.html:331
+#: index.html:54 index.html:334
 msgid "News"
 msgstr "ニュース"
 
@@ -121,26 +121,28 @@ msgid "hour"
 msgstr "時間"
 
 #: index.html:136
-msgid "for openSUSE Leap 42.2"
-msgstr "(openSUSE Leap 42.2 公開まで)"
+#, fuzzy
+msgid "for openSUSE Conference"
+msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
 
-#: index.html:144
-msgid "is available now"
-msgstr "が公開されています"
+#: index.html:147
+#, fuzzy
+msgid "openSUSE Conference talks"
+msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
 
-#: index.html:155
+#: index.html:158
 msgid "openSUSE TOOLS"
 msgstr "openSUSE ツール"
 
-#: index.html:156
+#: index.html:159
 msgid "Discover the best open-source tools developed by our community"
 msgstr "コミュニティが開発した最良のオープンソースツールの発見"
 
-#: index.html:170 index.html:188 index.html:206 index.html:224
+#: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
 msgstr "リンクへ"
 
-#: index.html:174
+#: index.html:177
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -150,7 +152,7 @@ msgstr ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu など"
 "のパッケージも構築することができます。"
 
-#: index.html:192
+#: index.html:195
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -158,12 +160,12 @@ msgstr ""
 "*任意の* オペレーティングシステムに対する自動化されたテストです。ユーザと同様"
 "に画面上の情報を読み取り、ホストを操作することができます。"
 
-#: index.html:210
+#: index.html:213
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "最良かつ唯一の Linux システム設定・インストールツールです。"
 
-#: index.html:228
+#: index.html:231
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -173,27 +175,27 @@ msgstr ""
 "できる Linux イメージを作成します。 Kiwi は SUSE Studio で使用されているエン"
 "ジンです。"
 
-#: index.html:255
+#: index.html:258
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "openSUSE への貢献方法"
 
-#: index.html:256
+#: index.html:259
 msgid "Be part of our community contributing with any of the following:"
 msgstr "コミュニティに参加するには、下記のいずれかの方法があります:"
 
-#: index.html:263
+#: index.html:266
 msgid "Code"
 msgstr "コード"
 
-#: index.html:264 index.html:279
+#: index.html:267 index.html:282
 msgid "Find out more"
 msgstr "さらに詳しく"
 
-#: index.html:268
+#: index.html:271
 msgid "Contribute Code"
 msgstr "コードによる貢献"
 
-#: index.html:269
+#: index.html:272
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -221,19 +223,23 @@ msgstr ""
 "作成して送信したり、イベントに参加したりアンバサダーになって openSUSE を広め"
 "たりなど、様々な方法で参加することができます。"
 
-#: index.html:270
+#: index.html:273
 msgid "Find out more about how to participate."
 msgstr "参加方法についてさらに詳しく見る"
 
-#: index.html:278
+#: index.html:273
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr ""
+
+#: index.html:281
 msgid "Hardware"
 msgstr "ハードウエア"
 
-#: index.html:283
+#: index.html:286
 msgid "Contribute Hardware"
 msgstr "ハードウエアによる貢献"
 
-#: index.html:284
+#: index.html:287
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -258,58 +264,73 @@ msgstr ""
 "ソースコミュニティ、そして Linux の開発を支えているのです。 openSUSE プロジェ"
 "クトへのハードウエアの寄付について、詳しくは電子メールにてお尋ねください:"
 
-#: index.html:294
+#: index.html:297
 msgid "Meet up with openSUSE at conferences."
 msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
 
-#: index.html:295
+#: index.html:298
 msgid "View upcoming conferences"
 msgstr "カンファレンスの予定を表示する"
 
-#: index.html:307
+#: index.html:310
 msgid "Get software"
 msgstr "ソフトウエアの取得"
 
-#: index.html:312
+#: index.html:315
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:317
+#: index.html:320
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:326
+#: index.html:329
 msgid "Social Network"
 msgstr "ソーシャルネットワーク"
 
-#: index.html:336
+#: index.html:339
 msgid "Forums"
 msgstr "フォーラム"
 
-#: index.html:345
+#: index.html:348
 msgid "Shop"
 msgstr "ショップ"
 
-#: index.html:350
+#: index.html:353
 msgid "Blogs"
 msgstr "ブログ"
 
-#: index.html:355
+#: index.html:358
 msgid "Press"
 msgstr "プレスリリース"
 
-#: index.html:380
+#: index.html:383
 msgid "Sponsored by:"
 msgstr "スポンサー:"
 
-#: index.html:386
+#: index.html:389
 msgid "Change language"
 msgstr "言語の変更"
 
-#: index.html:425
-msgid "All Rights Reserved."
+#: index.html:429
+#, fuzzy
+msgid "All Rights Reserved. "
 msgstr "All Rights Reserved."
 
-#: index.html:448
+#: index.html:429
+msgid "Imprint."
+msgstr ""
+
+#: index.html:429
+msgid "https://en.opensuse.org/Imprint"
+msgstr ""
+
+#: index.html:452
 msgid "Back to main page"
 msgstr "メインページに戻る"
+
+#~ msgid "for openSUSE Leap 42.2"
+#~ msgstr "(openSUSE Leap 42.2 公開まで)"
+
+#~ msgid "is available now"
+#~ msgstr "が公開されています"

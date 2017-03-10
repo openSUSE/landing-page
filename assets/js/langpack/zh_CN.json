@@ -1,7 +1,6 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "All Rights Reserved.": "保留所有权利。",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以及许多其它软件包，都会想要使用 Tumbleweed。Tumbleweed 迎合了高级用户、软件开发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最接近最新 Linux 的稳定平台，Tumbleweed 是您的不二选择。",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "自动测试任何操作系统，可以像用户那样阅读屏幕和控制测试用主机。",
     "Back to main page": "返回首页",
@@ -46,10 +45,8 @@
     "Wiki": "维基",
     "day": "天",
     "days": "天",
-    "for openSUSE Leap 42.2": "距离 openSUSE Leap 42.2 发布",
     "hour": "小时",
     "hours": "小时",
-    "is available now": "现已发布",
     "openSUSE TOOLS": "openSUSE 工具",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE 坚信最好的结果来自于人们的协作和兴趣。与其它开源社区的不同之处才是 openSUSE 的出彩之处。 我们不是保守的社区，社区的努力可以决定项目的走向。社区的努力已经创造了一些伟大的 Linux 工具和一个了不起的发行版。参与 openSUSE，您可以发出声音，也可以轻松地为项目出力。不管您是一个经验丰富的 Linux 开发者还是一个最终用户，参与 openSUSE 项目吧！您可以加入论坛，维护、更新我们的 wiki，寻找并报告臭虫，校对文档，请愿新软件包及功能，创建并提交补丁，参加开源活动倡导 openSUSE，或者成为一名大使。"
   }

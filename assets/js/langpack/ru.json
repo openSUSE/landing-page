@@ -1,7 +1,6 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "All Rights Reserved.": "Все права защищены.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Любой пользователь, желающий получить новейшие пакеты, в том числе ядро Linux, SAMBA, git, приложения рабочего стола, офисные приложения и многие другие пакеты, захочет загрузить Tumbleweed. Tumbleweed предназначен для опытных пользователей, разработчиков ПО и участников проекта openSUSE. Если вам необходимы последние версии ПО и интегрированная среда разработки или стабильная платформа, ближайшая к передовому краю Linux, то Tumbleweed — это ваш выбор.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Средство автоматизированного тестирования для *любой* операционной системы, которое позволяет считывать события на экране и управлять тестируемой системой, имитируя работу пользователя.",
     "Back to main page": "Назад на главную страницу",
@@ -46,10 +45,8 @@
     "Wiki": "Вики",
     "day": "день",
     "days": "дней",
-    "for openSUSE Leap 42.2": "до openSUSE Leap 42.2",
     "hour": "час",
     "hours": "часов",
-    "is available now": "уже доступен",
     "openSUSE TOOLS": "Инструменты openSUSE",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "Мы в openSUSE верим, что лучшие результаты получаются тогда, когда люди работают сообща и получают от этого удовольствие. То, что отличает наше сообщество от других open-source сообществ — это то, что делает openSUSE особенным. Мы не обычное сообщество, наши общие усилия определяют путь развития проекта. Этими усилиями уже создано несколько великолепных инструментов для Linux, а также прекрасный дистрибутив операционной системы. В openSUSE у вас есть право голоса и вы легко можете внести свой собственный вклад в проект. Являетесь ли вы опытным Linux-разработчиком или обычным пользователем — принимайте участие в проекте openSUSE! Регистрируйтесь на форуме, поддерживайте и обновляйте наши wiki-страницы, находите ошибки и сообщайте нам о них, проверяйте документацию, присылайте нам свои пожелания касаемо новых пакетов и усовершенствований, создавайте и присылайте патчи или же становитесь евангелистом openSUSE, принимая участие во встречах и конференциях и рассказывая об openSUSE."
   }

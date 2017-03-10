@@ -1,7 +1,6 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "All Rights Reserved.": "保留所有權利。",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "任何希望擁有最新套件 (包含但不限於 Linux 核心、SAMBA、git、桌面環境、辦公室套件等等) 的使用者，Tumbleweed 就是他們想要的。Tumbleweed 是面向玩家、軟體開發者和 openSUSE 貢獻者的發行版本。若您需要最新的軟體堆疊和 IDE 環境，或是想要擁有最尖端的 Linux 技術，但相對穩定的平台，Tumbleweed 是您的最佳選擇。",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "用來測試 *任何* 作業系統的自動化測試工具，能夠擷圖並且模擬一般使用者來操作待測機器。",
     "Back to main page": "回到主頁面",

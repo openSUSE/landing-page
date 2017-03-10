@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-14 08:59:44 +0100\n"
+"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -183,6 +183,10 @@ msgstr ""
 msgid "Find out more about how to participate."
 msgstr ""
 
+#: index.html:273
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr ""
+
 #: index.html:281
 msgid "Hardware"
 msgstr ""
@@ -254,10 +258,18 @@ msgstr ""
 msgid "Change language"
 msgstr ""
 
-#: index.html:428
-msgid "All Rights Reserved."
+#: index.html:429
+msgid "All Rights Reserved. "
 msgstr ""
 
-#: index.html:451
+#: index.html:429
+msgid "Imprint."
+msgstr ""
+
+#: index.html:429
+msgid "https://en.opensuse.org/Imprint"
+msgstr ""
+
+#: index.html:452
 msgid "Back to main page"
 msgstr ""
