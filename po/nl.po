@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
-"PO-Revision-Date: 2016-10-28 18:32+0000\n"
-"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/landing-page/master/"
-"nl/>\n"
+"PO-Revision-Date: 2017-03-10 12:13+0000\n"
+"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"Language-Team: Dutch <https://l10n.opensuse.org/projects/landing-"
+"page/master/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -128,14 +128,12 @@ msgid "hour"
 msgstr "uur"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Ontmoet openSUSE op conferenties."
+msgstr "tot de openSUSE conferentie"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Ontmoet openSUSE op conferenties."
+msgstr "openSUSE conferentie voordrachten"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -240,7 +238,7 @@ msgstr "Lees meer over hoe u kunt deelnemen."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://nl.opensuse.org/Portal:Hoe_mee_te_doen"
 
 #: index.html:281
 msgid "Hardware"
@@ -327,17 +325,16 @@ msgid "Change language"
 msgstr "Taal wijzigen"
 
 #: index.html:429
-#, fuzzy
 msgid "All Rights Reserved. "
-msgstr "Alle rechten voorbehouden."
+msgstr "Alle rechten voorbehouden. "
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Indruk."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
