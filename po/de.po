@@ -342,7 +342,7 @@ msgstr "Impressum."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://de.opensuse.org/Impressum"
 
 #: index.html:452
 msgid "Back to main page"
