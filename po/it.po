@@ -4,10 +4,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
-"PO-Revision-Date: 2016-11-15 11:15+0000\n"
+"PO-Revision-Date: 2017-03-13 12:18+0000\n"
 "Last-Translator: Alessio Adamo <alessio.adamo@gmail.com>\n"
-"Language-Team: Italian <https://l10n.opensuse.org/projects/landing-page/"
-"master/it/>\n"
+"Language-Team: Italian <https://l10n.opensuse.org/projects/landing-"
+"page/master/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -125,14 +125,12 @@ msgid "hour"
 msgstr "ora"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Incontrarsi con openSUSE alle conferenze."
+msgstr "all'openSUSE Conference"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Incontrarsi con openSUSE alle conferenze."
+msgstr "Interventi programmati all'openSUSE Conference"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -240,7 +238,7 @@ msgstr "Scopri come partecipare."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://it.opensuse.org/Portal:Come_partecipare"
 
 #: index.html:281
 msgid "Hardware"
@@ -326,17 +324,16 @@ msgid "Change language"
 msgstr "Cambia la lingua"
 
 #: index.html:429
-#, fuzzy
 msgid "All Rights Reserved. "
-msgstr "Tutti i diritti riservati."
+msgstr "Tutti i diritti riservati. "
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Dati societari."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
