@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 12:05:38 +0100\n"
+"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
 "PO-Revision-Date: 2016-09-24 09:34+0000\n"
 "Last-Translator: Claus Christensen <claus_chr@webspeed.dk>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
@@ -324,7 +324,7 @@ msgstr "Skift sprog"
 
 #: index.html:429
 #, fuzzy
-msgid "All Rights Reserved. "
+msgid "All Rights Reserved."
 msgstr "All Rights Reserved."
 
 #: index.html:429
