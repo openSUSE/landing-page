@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-03-15 14:32+0000\n"
-"Last-Translator: Fun MR <mrfun1993@protonmail.com>\n"
+"PO-Revision-Date: 2017-03-20 17:57+0000\n"
+"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/landing-"
 "page/master/zh_TW/>\n"
 "Language: zh_TW\n"
@@ -120,7 +120,7 @@ msgstr "小時"
 
 #: index.html:136
 msgid "for openSUSE Conference"
-msgstr "在 openSUSE 研討會上"
+msgstr "for openSUSE Conference"
 
 #: index.html:147
 msgid "openSUSE Conference talks"
