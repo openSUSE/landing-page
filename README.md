@@ -87,25 +87,28 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 
 ---
 
-#CONTRIBUTE
+# CONTRIBUTE
+
 ## Do you want to contribute by providing translations for the new openSUSE website?
 If yes is your answer, then you will make thousands of users happy to have the openSUSE landing page in their language.
 
 The openSUSE translations are provided by https://l10n.opensuse.org/. You can log in with your openSUSE account there.
 
- For introducing a new language, you need to continue reading.
+For introducing a new language, you need to continue reading.
 
-#### Now its time to add the new language to the dropdown. For this follow the next steps:
+#### 1. introducing new language
+
+Now its time to add the new language to the dropdown. For this follow the next steps:
 
 1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
 2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added.
 3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to search for "i18n" and add your language following the pattern there.
 
-#### Last steps: build and test
+#### 2. Last steps: build and test
 
 We use GULP to run automatic tasks to preprocess CSS (from less), compress images, and optimize and compress JS.
-The last step you need to do is, open the terminal and go to the directory where you have the project cloned.
-Once you are there and considering you have Gulp installed, just run:
+The last step you need to do, is opening the terminal and going to the directory where you have the project cloned.
+Once you are there and considering you have `Gulp` and the ruby gems `nokogiri` and `gettext` installed, just run:
 <pre>
 $ po/update_po.rb
 $ gulp
