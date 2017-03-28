@@ -26,6 +26,7 @@
     "Go to link": "اذهب إلى الرابط",
     "Hardware": "عتاد",
     "Home": "الرئيسية",
+    "Imprint.": "معلومات الناشر.",
     "Install Leap": "تثبيت Leap",
     "Install Tumbleweed": "تثبيت Tumbleweed",
     "Learn more": "تعرف على المزيد",
@@ -45,8 +46,10 @@
     "Wiki": "ويكي",
     "day": "يوم",
     "days": "أيام",
+    "for openSUSE Conference": "لمؤتمر أوبن سوزي",
     "hour": "ساعة",
     "hours": "ساعات",
+    "openSUSE Conference talks": "متحدثي مؤتمر أوبن سوزي",
     "openSUSE TOOLS": "أدوات openSUSE",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "تؤمن openSUSE بأن أفضل النتائج تأتي من تعاون الناس واستمتاعهم. اختلاف openSUSE عن المجتمعات مفتوحة المصدر الأخرى هو ما يجعلها مرغوبة. نحن لسنا مجتمعاً تقليدياً وجهود مجتمعنا هي ما يحدد مسار المشروع. لقد أنتجت جهود المجتمع أدوات عظيمة عديدة لنظام لينكس بالإضافة لإنتاجها توزيعة رائعة. في openSUSE، صوتك مسموع ويمكنك المساهمة في المشروع بسهولة. سواء كنت مطور لينكس مخضرماً أو مستخدماً نهائياً عليك الانضمام لمشروع openSUSE. شارك في منتدى، تابع صيانة وتحديث ويكي المشروع، اعثر على العلل البرمجية وبلغ عنها، راجع وثائق المشروع، أرسل قائمة رغباتك بإضافة حزم ومزايا جديدة، رقع الأخطاء البرمجية وأرسل ترقيعاتك، أو ساهم في الترويج لمشروع openSUSE عبر حضور المناسبات والعمل كسفير."
   }
