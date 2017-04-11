@@ -1,6 +1,7 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
+    "All Rights Reserved.": "تمامی حقوق محفوظ است.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "هر کاربری که علاقه به دریافت آخرین نسخه های بسته های مختلف، شامل  هسته ی لینوکس، سامبا، گیت، میزکارها، نرم افزارهای آفیس و بسیاری بسته های دیگر  دارد، به Tumbleweed علاقه مند خواهد شد.Tumbleweed کاربران قدرتمند،  توسعه دهندگان نرم افزارها و مشارکت کنندگان در openSUSE را جذب خواهد کرد. اگر شما به آخرین نسخه ی نرم افزارها و محیط توسعه ی یکپارچه و یا یک پلتفرم پایدار نزدیک به لبه ی تکنولوژی های لینوکس دارید، Tumbleweed بهترین انتخاب برای شماست.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "آزمایش خودکار برای •هر• سیستم عامل، که میتواند مانند کاربر صفحه نمایش را خوانده و میزبان را کنترل کند.",
     "Back to main page": "بازگشت به صفحه ی اصلی",

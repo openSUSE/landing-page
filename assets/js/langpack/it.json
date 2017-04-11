@@ -1,6 +1,7 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
+    "All Rights Reserved.": "Tutti i diritti riservati.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Ogni utente che desideri avere i pacchetti più recenti — ad esempio per kernel Linux, SAMBA, git, ambienti desktop, applicazioni per ufficio e molto altro — dovrebbe scegliere Tumbleweed. Tumbleweed è rivolta agli Utenti Avanzati, agli Sviluppatori Software e ai Contributori di openSUSE. Se necessiti degli ultimi pacchetti di programmi e di un ambiente di sviluppo integrato, o di una piattaforma stabile il più vicino possibile agli ultimi sviluppi di Linux, Tumbleweed è la tua scelta migliore.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Il test automatico per *qualsiasi* sistema operativo, che può catturare lo schermo e controllare l'host di test come farebbe un utente.",
     "Back to main page": "Torna alla pagina principale",
