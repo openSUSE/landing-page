@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-04-17 05:08+0000\n"
+"PO-Revision-Date: 2017-04-17 05:17+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-"
 "page/master/id/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr "Pilihan bagi sysadmin, pengembang dan pengguna desktop."
+msgstr "Pilihan bagi sysadmin, pengembang dan pengguna destop."
 
 #: index.html:48
 msgid "Home"
@@ -66,10 +66,10 @@ msgid ""
 "choice for you."
 msgstr ""
 "Pengguna yang berkeinginan menggunakan paket-paket terbaru yang tidak hanya "
-"meliputi kernel Linux, SAMBA, git, desktop, aplikasi perkantoran dan banyak "
+"meliputi kernel Linux, SAMBA, git, destop, aplikasi perkantoran dan banyak "
 "lagi paket lainnya, dapat menggunakan Tumbleweed. Tumbleweed ditujukan untuk "
 "pengguna mahir, pengembang perangkat lunak, dan kontributor openSUSE. Jika "
-"anda membutuhkan sekumpulan  perangkat lunak terbaru dan Lingkungan "
+"anda membutuhkan sekumpulan perangkat lunak terbaru dan Lingkungan "
 "Pengembangan Terintegrasi atau sekedar sebuah platform stabil dengan versi "
 "Linux terbaru, Tumbleweed sangat tepat untuk anda."
 
@@ -140,7 +140,7 @@ msgstr ""
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
-msgstr "Arahkan ke tautan"
+msgstr "Pergi ke tautan"
 
 #: index.html:177
 msgid ""
@@ -322,7 +322,7 @@ msgstr "Ganti bahasa"
 
 #: index.html:429
 msgid "All Rights Reserved."
-msgstr "Seluluh Hak Cipta Dilindungi."
+msgstr "Seluruh Hak Cipta Dilindungi."
 
 #: index.html:429
 msgid "Imprint."
