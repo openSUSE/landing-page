@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-04-11 22:52+0000\n"
-"Last-Translator: Wanto Yo <wantoyek@gmail.com>\n"
+"PO-Revision-Date: 2017-04-17 05:08+0000\n"
+"Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-"
 "page/master/id/>\n"
 "Language: id\n"
@@ -121,14 +121,12 @@ msgid "hour"
 msgstr "jam"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Bertemu dengan openSUSE saat konferensi."
+msgstr "untuk Konferensi openSUSE"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Bertemu dengan openSUSE saat konferensi."
+msgstr "Perbincangan Konferensi openSUSE"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -237,7 +235,7 @@ msgstr "Pelajari lebih jauh bagaimana cara berpartisipasi."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -328,11 +326,11 @@ msgstr "Seluluh Hak Cipta Dilindungi."
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Jejak."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
