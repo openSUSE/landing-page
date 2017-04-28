@@ -1,7 +1,8 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Pengguna yang berkeinginan menggunakan paket-paket terbaru yang tidak hanya meliputi kernel Linux, SAMBA, git, desktop, aplikasi perkantoran dan banyak lagi paket lainnya, dapat menggunakan Tumbleweed. Tumbleweed ditujukan untuk pengguna mahir, pengembang perangkat lunak, dan kontributor openSUSE. Jika anda membutuhkan sekumpulan  perangkat lunak terbaru dan Lingkungan Pengembangan Terintegrasi atau sekedar sebuah platform stabil dengan versi Linux terbaru, Tumbleweed sangat tepat untuk anda.",
+    "All Rights Reserved.": "Seluruh Hak Cipta Dilindungi.",
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Pengguna yang berkeinginan menggunakan paket-paket terbaru yang tidak hanya meliputi kernel Linux, SAMBA, git, destop, aplikasi perkantoran dan banyak lagi paket lainnya, dapat menggunakan Tumbleweed. Tumbleweed ditujukan untuk pengguna mahir, pengembang perangkat lunak, dan kontributor openSUSE. Jika anda membutuhkan sekumpulan perangkat lunak terbaru dan Lingkungan Pengembangan Terintegrasi atau sekedar sebuah platform stabil dengan versi Linux terbaru, Tumbleweed sangat tepat untuk anda.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Pengujian otomatis untuk *sebarang* sistem operasi, yang dapat membaca layar dan mengontrol mesin uji seperti halnya dikerjakan oleh pengguna.",
     "Back to main page": "Kembali ke halaman utama",
     "Be part of our community contributing with any of the following:": "Jadilah bagian dari komunitas kami, berkontribusi dapat dilakukan dengan salah satu cara-cara berikut:",
@@ -23,9 +24,10 @@
     "Get software": "Dapatkan Perangkat Lunak",
     "Get the most complete Linux distribution with openSUSE’s latest regular-release version!": "Dapatkan distribusi Linux terlengkap dengan versi rilis-berkala openSUSE terbaru!",
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!": "Dapatkan paket-paket Linux terbaru dengan rilis bergulir kami. Cepat! Terintegrasi! Stabil! Teruji!",
-    "Go to link": "Arahkan ke tautan",
+    "Go to link": "Pergi ke tautan",
     "Hardware": "Perangkat Keras",
     "Home": "Beranda",
+    "Imprint.": "Jejak.",
     "Install Leap": "Instalasi Leap",
     "Install Tumbleweed": "Instalasi Tumbleweed",
     "Learn more": "Pelajari lebih lanjut",
@@ -39,13 +41,15 @@
     "Social Network": "Jejaring Sosial",
     "Sponsored by:": "Disponsori oleh:",
     "The best/only comprehensive Linux system configuration & installation tool.": "Konfigurasi sistem Linux dan alat bantu instalasi terbaik/satu-satunya secara menyeluruh.",
-    "The makers' choice for sysadmins, developers and desktop users.": "Pilihan bagi sysadmin, pengembang dan pengguna desktop.",
+    "The makers' choice for sysadmins, developers and desktop users.": "Pilihan bagi sysadmin, pengembang dan pengguna destop.",
     "Tools": "Alat Bantu",
     "View upcoming conferences": "Lihat beberapa konferensi yang akan berlangsung",
     "day": "hari",
     "days": "hari",
+    "for openSUSE Conference": "untuk Konferensi openSUSE",
     "hour": "jam",
     "hours": "jam",
+    "openSUSE Conference talks": "Perbincangan Konferensi openSUSE",
     "openSUSE TOOLS": "Alat-alat bantu openSUSE",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE percaya bahwa hasil terbaik didapatkan dari kerjasama antar manusia dan sekaligus bergembira. Menjadi berbeda dari komunitas sumber terbuka lainnya yang membuat openSUSE dinantikan. Kami bukanlah komunitas konvensional dan usaha komunitas kami lah yang menentukan arah dari proyek. Kerja keras dari komunitas telah menghasilkan beberapa alat bantu terbaik untuk Linux dan sebuah distribusi yang keren. Dengan openSUSE, suara anda didengar dan dengan mudah dapat berkontribusi langsung. Apakah anda seorang pengembang Linux berpengalaman atau hanya sekedar pengguna, terlibatlah dalam proyek openSUSE. Bergabunglah di forum, merawat dan menjaga wiki kami tetap kekinian, temukan dan laporkan bug, mengulas dokumentasi, mengirimkan daftar harapan anda untuk paket-paket dan fitur terbaru, membuat dan mengusulkan perbaikan, atau menjadi advokat dengan menghadiri acara dan menjadi duta openSUSE."
   }
