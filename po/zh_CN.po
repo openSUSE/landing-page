@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-04-30 10:21+0000\n"
+"PO-Revision-Date: 2017-05-01 16:01+0000\n"
 "Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
 "page/master/zh_CN/>\n"
@@ -215,7 +215,7 @@ msgstr "了解如何参与。"
 #: index.html:273
 #, fuzzy
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://zh.opensuse.org/How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
