@@ -4,10 +4,10 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2016-09-24 09:34+0000\n"
-"Last-Translator: Claus Christensen <claus_chr@webspeed.dk>\n"
-"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
-"master/da/>\n"
+"PO-Revision-Date: 2017-06-03 20:57+0000\n"
+"Last-Translator: scootergrisen Required Fields <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
+"page/master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,14 +123,12 @@ msgid "hour"
 msgstr "time"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Mød openSUSE til konferencer."
+msgstr "til openSUSE-konference"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Mød openSUSE til konferencer."
+msgstr "openSUSE-konferencetaler"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -234,7 +232,7 @@ msgstr "Læs mere om at deltage."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -323,17 +321,16 @@ msgid "Change language"
 msgstr "Skift sprog"
 
 #: index.html:429
-#, fuzzy
 msgid "All Rights Reserved."
-msgstr "All Rights Reserved."
+msgstr "Alle rettigheder forbeholdt."
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Imprint."
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
