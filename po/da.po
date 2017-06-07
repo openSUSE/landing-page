@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-06-03 20:57+0000\n"
+"PO-Revision-Date: 2017-06-07 12:45+0000\n"
 "Last-Translator: scootergrisen Required Fields <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
 "page/master/da/>\n"
@@ -132,7 +132,7 @@ msgstr "openSUSE-konferencetaler"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
-msgstr "openSUSE-værktøjer"
+msgstr "openSUSE-VÆRKTØJER"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
