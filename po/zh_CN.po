@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-05-01 19:29+0000\n"
-"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
+"PO-Revision-Date: 2017-06-10 13:50+0000\n"
+"Last-Translator: Wnereiz Z <wnereiz@eienteiland.org>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
 "page/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -37,7 +37,7 @@ msgstr "贡献"
 
 #: index.html:60
 msgid "Conferences"
-msgstr "集会"
+msgstr "会议"
 
 #: index.html:86
 msgid ""
@@ -247,7 +247,7 @@ msgstr ""
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr "来集会邂逅 openSUSE。"
+msgstr "参加会议邂逅 openSUSE。"
 
 #: index.html:298
 msgid "View upcoming conferences"
@@ -263,7 +263,7 @@ msgstr "维基"
 
 #: index.html:320
 msgid "Build Service"
-msgstr "包构建服务"
+msgstr "构建服务"
 
 #: index.html:329
 msgid "Social Network"
