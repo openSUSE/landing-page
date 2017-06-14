@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-06-08 21:38+0000\n"
+"PO-Revision-Date: 2017-06-14 20:03+0000\n"
 "Last-Translator: Javier Llorente <javier@opensuse.org>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/landing-"
 "page/master/es/>\n"
@@ -125,14 +125,12 @@ msgid "hour"
 msgstr "hora"
 
 #: index.html:136
-#, fuzzy
 msgid "for openSUSE Conference"
-msgstr "Encuéntrese con openSUSE en conferencias."
+msgstr "para la conferencia de openSUSE"
 
 #: index.html:147
-#, fuzzy
 msgid "openSUSE Conference talks"
-msgstr "Encuéntrese con openSUSE en conferencias."
+msgstr "ponencias de la Conferencia de openSUSE"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
