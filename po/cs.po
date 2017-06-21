@@ -333,8 +333,8 @@ msgstr ""
 msgid "Back to main page"
 msgstr "Zpět na hlavní stránku"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "pro openSUSE Leap 42.2"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "pro openSUSE Leap 42.3"
 
 #~ msgid "is available now"
 #~ msgstr "je nyní dostupné"

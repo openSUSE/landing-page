@@ -307,8 +307,8 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "返回首页"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "距离 openSUSE Leap 42.2 发布"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "距离 openSUSE Leap 42.3 发布"
 
 #~ msgid "is available now"
 #~ msgstr "现已发布"

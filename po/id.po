@@ -336,8 +336,8 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Kembali ke halaman utama"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "untuk openSUSE Leap 42.2"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "untuk openSUSE Leap 42.3"
 
 #~ msgid "is available now"
 #~ msgstr "tersedia sekarang"

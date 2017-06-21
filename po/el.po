@@ -357,8 +357,8 @@ msgstr ""
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "για το openSUSE Leap 42.2"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "για το openSUSE Leap 42.3"
 
 #~ msgid "is available now"
 #~ msgstr "είναι διαθέσιμο τώρα"

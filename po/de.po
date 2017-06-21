@@ -348,8 +348,8 @@ msgstr "https://de.opensuse.org/Impressum"
 msgid "Back to main page"
 msgstr "Zurück zur Hauptseite"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "bis openSUSE Leap 42.2"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "bis openSUSE Leap 42.3"
 
 #~ msgid "is available now"
 #~ msgstr "ist jetzt verfügbar"

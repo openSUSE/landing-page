@@ -328,8 +328,8 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "メインページに戻る"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "(openSUSE Leap 42.2 公開まで)"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "(openSUSE Leap 42.3 公開まで)"
 
 #~ msgid "is available now"
 #~ msgstr "が公開されています"

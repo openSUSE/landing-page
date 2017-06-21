@@ -344,8 +344,8 @@ msgstr ""
 msgid "Back to main page"
 msgstr "Wróć do głównej strony"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "dla openSUSE Leap 42.2"
+#~ msgid "for openSUSE Leap 42.3"
+#~ msgstr "dla openSUSE Leap 42.3"
 
 #~ msgid "is available now"
 #~ msgstr "jest już dostępne"

@@ -117,7 +117,7 @@ msgstr "hora"
 #: index.html:136
 #, fuzzy
 msgid "for openSUSE Conference"
-msgstr "pa openSUSE Leap 42.2"
+msgstr "pa openSUSE Leap 42.3"
 
 #: index.html:147
 #, fuzzy
