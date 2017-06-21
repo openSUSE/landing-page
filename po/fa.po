@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-06-21 14:22:55 +0200\n"
 "PO-Revision-Date: 2017-03-31 16:09+0000\n"
 "Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
-"Language-Team: Persian <https://l10n.opensuse.org/projects/landing-"
-"page/master/fa/>\n"
+"Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
+"master/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr "خانه"
 msgid "Tools"
 msgstr "ابزارها"
 
-#: index.html:54 index.html:334
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "اخبار"
 
@@ -103,45 +103,45 @@ msgstr ""
 "را انتخاب کنید، سیستم خود را پیکربندی نموده و از لینوکس مورد انتخاب توسعه "
 "دهندگان، مدیران و فروشندگان نرم افزاری لذت ببرید."
 
-#: index.html:130
+#: index.html:129
 msgid "days"
 msgstr "روز"
 
-#: index.html:131
+#: index.html:130
 msgid "day"
 msgstr "روز"
 
-#: index.html:132
+#: index.html:131
 msgid "hours"
 msgstr "ساعت"
 
-#: index.html:133
+#: index.html:132
 msgid "hour"
 msgstr "ساعت"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "برای کنفرانس openSUSE"
+#: index.html:135
+msgid "for Leap 42.3"
+msgstr "تا openSUSE Leap 42.3"
 
-#: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "صحبت های کنفرانس openSUSE"
+#: index.html:144
+msgid "is now available"
+msgstr "در حال حاظر در دسترس است"
 
-#: index.html:158
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "ابزارهای openSUSE"
 
-#: index.html:159
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "بهترین ابزارهای متن-باز را که توسط جامعه ی کاربران ما توسعه داده شدند را "
 "بیابید"
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "برو به آدرس"
 
-#: index.html:177
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -150,7 +150,7 @@ msgstr ""
 "ابزار ساخت ما، تمامی بسته های ما را به خوبی بسته های SUSE Linux Enterprise، "
 "آرچ دبیان، فدورا، Scientific Linux، RHEL، سنت او اس، اوبونتو و غیره میسازد."
 
-#: index.html:195
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -158,12 +158,12 @@ msgstr ""
 "آزمایش خودکار برای •هر• سیستم عامل، که میتواند مانند کاربر صفحه نمایش را "
 "خوانده و میزبان را کنترل کند."
 
-#: index.html:213
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "بهترین/تنهاترین ابزار جامع پیکربندی و نصب سیستم لینوکس."
 
-#: index.html:231
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -173,27 +173,27 @@ msgstr ""
 "اکنون حتی سیستم های محفظه ای مانند داکر بسازید. Kiwi موتور تغذیه کننده ی "
 "SUSE Studio است."
 
-#: index.html:258
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "در توسعه ی OPENSUSE مشارکت کنید"
 
-#: index.html:259
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr "با مشارکت در یکی از موارد زیر قسمتی از جامعه ی ما باشید:"
 
-#: index.html:266
+#: index.html:263
 msgid "Code"
 msgstr "کد"
 
-#: index.html:267 index.html:282
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "بیشتر بدانید"
 
-#: index.html:271
+#: index.html:268
 msgid "Contribute Code"
 msgstr "مشارکت در کد"
 
-#: index.html:272
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -220,23 +220,23 @@ msgstr ""
 "بفرستید، وصله های نرم افزاری را بسازید و ثبت کنید، و یا با شرکت در همایش ها، "
 "یک حامی برای openSUSE شوید و به سفیر آن تبدیل شوید."
 
-#: index.html:273
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "در ارتباط با چگونگی مشارکت بیشتر بدانید."
 
-#: index.html:273
+#: index.html:270
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:278
 msgid "Hardware"
 msgstr "سخت افزار"
 
-#: index.html:286
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "مشارکت در سخت افزار"
 
-#: index.html:287
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -262,72 +262,72 @@ msgstr ""
 "توسعه ی لینوکس کمک میکند. برای اینکه بدانید چگونه به پروژه ی openSUSE سخت "
 "افزار اهدا کنید، به رایانامه ی زیر نامه بفرستید"
 
-#: index.html:297
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "با openSUSE در کنفرانس دیدار کنید."
 
-#: index.html:298
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "مشاهده ی کنفرانس های آینده"
 
-#: index.html:310
+#: index.html:307
 msgid "Get software"
 msgstr "دریافت نرم افزار"
 
-#: index.html:315
+#: index.html:312
 msgid "Wiki"
 msgstr "ویکی"
 
-#: index.html:320
+#: index.html:317
 msgid "Build Service"
 msgstr "سرویس ساخت"
 
-#: index.html:329
+#: index.html:326
 msgid "Social Network"
 msgstr "شبکه اجتماعی"
 
-#: index.html:339
+#: index.html:336
 msgid "Forums"
 msgstr "انجمن ها"
 
-#: index.html:348
+#: index.html:345
 msgid "Shop"
 msgstr "فروشگاه"
 
-#: index.html:353
+#: index.html:350
 msgid "Blogs"
 msgstr "وبلاگها"
 
-#: index.html:358
+#: index.html:355
 msgid "Press"
 msgstr "مطبوعات"
 
-#: index.html:383
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "حمایت شده توسط:"
 
-#: index.html:389
+#: index.html:386
 msgid "Change language"
 msgstr "تغییر زبان"
 
-#: index.html:429
+#: index.html:426
 msgid "All Rights Reserved."
 msgstr "تمامی حقوق محفوظ است."
 
-#: index.html:429
+#: index.html:426
 msgid "Imprint."
 msgstr "مهر زده شده است."
 
-#: index.html:429
+#: index.html:426
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:449
 msgid "Back to main page"
 msgstr "بازگشت به صفحه ی اصلی"
 
-#~ msgid "for openSUSE Leap 42.3"
-#~ msgstr "تا openSUSE Leap 42.3"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "برای کنفرانس openSUSE"
 
-#~ msgid "is available now"
-#~ msgstr "در حال حاظر در دسترس است"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "صحبت های کنفرانس openSUSE"

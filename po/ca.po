@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-06-21 14:22:55 +0200\n"
 "PO-Revision-Date: 2017-03-13 19:45+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-"
-"page/master/ca/>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-page/"
+"master/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +28,7 @@ msgstr "Inici"
 msgid "Tools"
 msgstr "Eines"
 
-#: index.html:54 index.html:334
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Notícies"
 
@@ -106,45 +106,45 @@ msgstr ""
 "sistema i gaudiu d'una plataforma d'elecció per als desenvolupadors de "
 "Linux, els administradors i els proveïdors de programari."
 
-#: index.html:130
+#: index.html:129
 msgid "days"
 msgstr "dies"
 
-#: index.html:131
+#: index.html:130
 msgid "day"
 msgstr "dia"
 
-#: index.html:132
+#: index.html:131
 msgid "hours"
 msgstr "hores"
 
-#: index.html:133
+#: index.html:132
 msgid "hour"
 msgstr "hora"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "per a la conferència d'openSUSE"
+#: index.html:135
+msgid "for Leap 42.3"
+msgstr "per a l'openSUSE Leap 42.3"
 
-#: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "xerrades de la conferència d'openSUSE"
+#: index.html:144
+msgid "is now available"
+msgstr "ja està disponible"
 
-#: index.html:158
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "EINES de l'openSUSE"
 
-#: index.html:159
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "Descobriu les millors eines de codi obert desenvolupades per la nostra "
 "comunitat."
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "Vés a l'enllaç"
 
-#: index.html:177
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -154,7 +154,7 @@ msgstr ""
 "paquets, així com alguns per a SUSE Linux Enterprise, Arch, Debian, Fedora, "
 "Scientific Linux, RHEL, CentOS, Ubuntu i altres."
 
-#: index.html:195
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -162,14 +162,14 @@ msgstr ""
 "Proves automatitzades per a *qualsevol* sistema operatiu. Pot llegir la "
 "pantalla i controlar l'amfitrió de prova com ho fa un usuari."
 
-#: index.html:213
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "L'única i millor eina comprensiva de configuració i instal·lació d'un "
 "sistema Linux."
 
-#: index.html:231
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -179,30 +179,30 @@ msgstr ""
 "virtualització i fins i tot ara en sistemes de contenidor com ara el Docker. "
 "El Kiwi és el motor que impulsa el SUSE Studio."
 
-#: index.html:258
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "CONTRIBUÏU A OPENSUSE"
 
-#: index.html:259
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
 "Formeu part de la nostra comunitat contribuint-hi d'alguna d'aquestes "
 "maneres:"
 
-#: index.html:266
+#: index.html:263
 msgid "Code"
 msgstr "Codi"
 
-#: index.html:267 index.html:282
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "Descobriu-ne més coses"
 
 # continue button label
-#: index.html:271
+#: index.html:268
 msgid "Contribute Code"
 msgstr "Contribuïu-hi amb codi"
 
-#: index.html:272
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -230,23 +230,23 @@ msgstr ""
 "característiques, creeu i envieu pedaços, o esdeveniu un defensor d'openSUSE "
 "assistint a esdeveniments i feu-vos-en ambaixador."
 
-#: index.html:273
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "Descobriu més coses sobre com participar-hi."
 
-#: index.html:273
+#: index.html:270
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:278
 msgid "Hardware"
 msgstr "Maquinari"
 
-#: index.html:286
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "Contribuïu-hi amb maquinari"
 
-#: index.html:287
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -274,75 +274,75 @@ msgstr ""
 "ajuda el desenvolupament de Linux. Per saber com podeu donar maquinari al "
 "projecte openSUSE, escriviu un missatge de correu electrònic a..."
 
-#: index.html:297
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "Reuniu-vos amb l'openSUSE a les conferències."
 
-#: index.html:298
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "Vegeu les properes conferències"
 
-#: index.html:310
+#: index.html:307
 msgid "Get software"
 msgstr "Obtingueu programari"
 
-#: index.html:315
+#: index.html:312
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:320
+#: index.html:317
 msgid "Build Service"
 msgstr "Servei de construcció"
 
-#: index.html:329
+#: index.html:326
 msgid "Social Network"
 msgstr "Xarxa social"
 
-#: index.html:339
+#: index.html:336
 msgid "Forums"
 msgstr "Fòrums"
 
-#: index.html:348
+#: index.html:345
 msgid "Shop"
 msgstr "Botiga"
 
-#: index.html:353
+#: index.html:350
 msgid "Blogs"
 msgstr "Blogs"
 
-#: index.html:358
+#: index.html:355
 msgid "Press"
 msgstr "Premsa"
 
-#: index.html:383
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Patrocinat per"
 
-#: index.html:389
+#: index.html:386
 msgid "Change language"
 msgstr "Canvieu la llengua"
 
-#: index.html:429
+#: index.html:426
 msgid "All Rights Reserved."
 msgstr "Tots els drets reservats."
 
-#: index.html:429
+#: index.html:426
 msgid "Imprint."
 msgstr "Empremta."
 
-#: index.html:429
+#: index.html:426
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:449
 msgid "Back to main page"
 msgstr "Torna a la pàgina principal"
 
-#~ msgid "for openSUSE Leap 42.3"
-#~ msgstr "per a l'openSUSE Leap 42.3"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "per a la conferència d'openSUSE"
 
-#~ msgid "is available now"
-#~ msgstr "ja està disponible"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "xerrades de la conferència d'openSUSE"
 
 #~ msgid "What's new"
 #~ msgstr "Novetats"

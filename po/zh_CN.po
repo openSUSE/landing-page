@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-06-21 14:22:55 +0200\n"
 "PO-Revision-Date: 2017-06-10 14:01+0000\n"
 "Last-Translator: Grover Chou <groverchout@gmail.com>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
@@ -27,7 +27,7 @@ msgstr "首页"
 msgid "Tools"
 msgstr "工具"
 
-#: index.html:54 index.html:334
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "新闻"
 
@@ -97,43 +97,43 @@ msgstr ""
 "更新和加固您的操作系统。选择桌面环境、简单配置下系统，您就可以享有 Linux 开发"
 "者、管理员以及软件制造商所钟情的平台。"
 
-#: index.html:130
+#: index.html:129
 msgid "days"
 msgstr "天"
 
-#: index.html:131
+#: index.html:130
 msgid "day"
 msgstr "天"
 
-#: index.html:132
+#: index.html:131
 msgid "hours"
 msgstr "小时"
 
-#: index.html:133
+#: index.html:132
 msgid "hour"
 msgstr "小时"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "为了 openSUSE 会议"
+#: index.html:135
+msgid "for Leap 42.3"
+msgstr "距离 openSUSE Leap 42.3 发布"
 
-#: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "openSUSE 会议讨论"
+#: index.html:144
+msgid "is now available"
+msgstr "现已发布"
 
-#: index.html:158
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "openSUSE 工具"
 
-#: index.html:159
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr "探索我们社区开发的、最好的开源工具"
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "前往链接"
 
-#: index.html:177
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -143,18 +143,18 @@ msgstr ""
 "Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu 甚至更多发行版的部分软"
 "件包。"
 
-#: index.html:195
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr "自动测试任何操作系统，可以像用户那样阅读屏幕和控制测试用主机。"
 
-#: index.html:213
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
 
-#: index.html:231
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -163,27 +163,27 @@ msgstr ""
 "为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
 "Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
 
-#: index.html:258
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "群策群力"
 
-#: index.html:259
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr "为以下事务出力，成为我们社区的一份子："
 
-#: index.html:266
+#: index.html:263
 msgid "Code"
 msgstr "代码"
 
-#: index.html:267 index.html:282
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "详细了解"
 
-#: index.html:271
+#: index.html:268
 msgid "Contribute Code"
 msgstr "贡献代码"
 
-#: index.html:272
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -206,23 +206,23 @@ msgstr ""
 "找并报告臭虫，校对文档，请愿新软件包及功能，创建并提交补丁，参加开源活动倡导 "
 "openSUSE，或者成为一名大使。"
 
-#: index.html:273
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "了解如何参与。"
 
-#: index.html:273
+#: index.html:270
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://zh.opensuse.org/Portal:如何参与"
 
-#: index.html:281
+#: index.html:278
 msgid "Hardware"
 msgstr "硬件"
 
-#: index.html:286
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "贡献硬件"
 
-#: index.html:287
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -243,75 +243,75 @@ msgstr ""
 "并回馈给开发者、系统管理员和打包者。硬件有助 openSUSE 社区！硬件有助开源社"
 "区！并且硬件有助 Linux 开发。要了解如何捐赠硬件给 openSUSE 项目，请邮件"
 
-#: index.html:297
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "参加会议邂逅 openSUSE。"
 
-#: index.html:298
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "查看临近的会议"
 
-#: index.html:310
+#: index.html:307
 msgid "Get software"
 msgstr "撷取软件"
 
-#: index.html:315
+#: index.html:312
 msgid "Wiki"
 msgstr "维基"
 
-#: index.html:320
+#: index.html:317
 msgid "Build Service"
 msgstr "构建服务"
 
-#: index.html:329
+#: index.html:326
 msgid "Social Network"
 msgstr "社交网络"
 
-#: index.html:339
+#: index.html:336
 msgid "Forums"
 msgstr "论坛"
 
-#: index.html:348
+#: index.html:345
 msgid "Shop"
 msgstr "商店"
 
-#: index.html:353
+#: index.html:350
 msgid "Blogs"
 msgstr "博客"
 
-#: index.html:358
+#: index.html:355
 msgid "Press"
 msgstr "媒体"
 
-#: index.html:383
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "赞助："
 
-#: index.html:389
+#: index.html:386
 msgid "Change language"
 msgstr "修改语言"
 
-#: index.html:429
+#: index.html:426
 msgid "All Rights Reserved."
 msgstr "保留所有权利。"
 
-#: index.html:429
+#: index.html:426
 msgid "Imprint."
 msgstr "说明。"
 
-#: index.html:429
+#: index.html:426
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:449
 msgid "Back to main page"
 msgstr "返回首页"
 
-#~ msgid "for openSUSE Leap 42.3"
-#~ msgstr "距离 openSUSE Leap 42.3 发布"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "为了 openSUSE 会议"
 
-#~ msgid "is available now"
-#~ msgstr "现已发布"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "openSUSE 会议讨论"
 
 #~ msgid "What's new"
 #~ msgstr "最新消息"
