@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-06-21 14:18:23 +0200\n"
 "PO-Revision-Date: 2017-04-17 05:17+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-"
-"page/master/id/>\n"
+"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
+"master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +26,7 @@ msgstr "Beranda"
 msgid "Tools"
 msgstr "Alat Bantu"
 
-#: index.html:54 index.html:334
+#: index.html:54 index.html:331
 msgid "News"
 msgstr "Berita"
 
@@ -104,45 +104,47 @@ msgstr ""
 "anda dan nikmati platform pilihan untuk pengembang linux, administrator dan "
 "pengembang perangkat lunak."
 
-#: index.html:130
+#: index.html:129
 msgid "days"
 msgstr "hari"
 
-#: index.html:131
+#: index.html:130
 msgid "day"
 msgstr "hari"
 
-#: index.html:132
+#: index.html:131
 msgid "hours"
 msgstr "jam"
 
-#: index.html:133
+#: index.html:132
 msgid "hour"
 msgstr "jam"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "untuk Konferensi openSUSE"
+#: index.html:135
+#, fuzzy
+msgid "for Leap 42.3"
+msgstr "untuk openSUSE Leap 42.2"
 
-#: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "Perbincangan Konferensi openSUSE"
+#: index.html:144
+#, fuzzy
+msgid "is now available"
+msgstr "tersedia sekarang"
 
-#: index.html:158
+#: index.html:155
 msgid "openSUSE TOOLS"
 msgstr "Alat-alat bantu openSUSE"
 
-#: index.html:159
+#: index.html:156
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "Jelajahi alat-alat bantu sumber terbuka terbaik yang dikembangkan oleh "
 "komunitas kami"
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:170 index.html:188 index.html:206 index.html:224
 msgid "Go to link"
 msgstr "Pergi ke tautan"
 
-#: index.html:177
+#: index.html:174
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -152,7 +154,7 @@ msgstr ""
 "SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, "
 "Ubuntu, dan banyak lagi."
 
-#: index.html:195
+#: index.html:192
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -160,14 +162,14 @@ msgstr ""
 "Pengujian otomatis untuk *sebarang* sistem operasi, yang dapat membaca layar "
 "dan mengontrol mesin uji seperti halnya dikerjakan oleh pengguna."
 
-#: index.html:213
+#: index.html:210
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "Konfigurasi sistem Linux dan alat bantu instalasi terbaik/satu-satunya "
 "secara menyeluruh."
 
-#: index.html:231
+#: index.html:228
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -177,30 +179,30 @@ msgstr ""
 "sekarang juga mendukung sistem kontainer seperti Docker. Kiwi adalah mesin "
 "di belakang SUSE Studio."
 
-#: index.html:258
+#: index.html:255
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "KONTRIBUSI KE OPENSUSE"
 
-#: index.html:259
+#: index.html:256
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
 "Jadilah bagian dari komunitas kami, berkontribusi dapat dilakukan dengan "
 "salah satu cara-cara berikut:"
 
-#: index.html:266
+#: index.html:263
 msgid "Code"
 msgstr "Menulis Kode"
 
-#: index.html:267 index.html:282
+#: index.html:264 index.html:279
 msgid "Find out more"
 msgstr "Pelajari lebih jauh"
 
 # continue button label
-#: index.html:271
+#: index.html:268
 msgid "Contribute Code"
 msgstr "Menyumbangkan Kode"
 
-#: index.html:272
+#: index.html:269
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -229,23 +231,23 @@ msgstr ""
 "mengusulkan perbaikan, atau menjadi advokat dengan menghadiri acara dan "
 "menjadi duta openSUSE."
 
-#: index.html:273
+#: index.html:270
 msgid "Find out more about how to participate."
 msgstr "Pelajari lebih jauh bagaimana cara berpartisipasi."
 
-#: index.html:273
+#: index.html:270
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:278
 msgid "Hardware"
 msgstr "Perangkat Keras"
 
-#: index.html:286
+#: index.html:283
 msgid "Contribute Hardware"
 msgstr "Menyumbang Perangkat Keras"
 
-#: index.html:287
+#: index.html:284
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -272,72 +274,72 @@ msgstr ""
 "Linux. Untuk mempelajari bagaimana anda dapat mendonasikan perangkat kera "
 "untuk proyek openSUSE, kirim email"
 
-#: index.html:297
+#: index.html:294
 msgid "Meet up with openSUSE at conferences."
 msgstr "Bertemu dengan openSUSE saat konferensi."
 
-#: index.html:298
+#: index.html:295
 msgid "View upcoming conferences"
 msgstr "Lihat beberapa konferensi yang akan berlangsung"
 
-#: index.html:310
+#: index.html:307
 msgid "Get software"
 msgstr "Dapatkan Perangkat Lunak"
 
-#: index.html:315
+#: index.html:312
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:320
+#: index.html:317
 msgid "Build Service"
 msgstr "Build Service - Layanan Build"
 
-#: index.html:329
+#: index.html:326
 msgid "Social Network"
 msgstr "Jejaring Sosial"
 
-#: index.html:339
+#: index.html:336
 msgid "Forums"
 msgstr "Forum"
 
-#: index.html:348
+#: index.html:345
 msgid "Shop"
 msgstr "Toko"
 
-#: index.html:353
+#: index.html:350
 msgid "Blogs"
 msgstr "Blog"
 
-#: index.html:358
+#: index.html:355
 msgid "Press"
 msgstr "Media"
 
-#: index.html:383
+#: index.html:380
 msgid "Sponsored by:"
 msgstr "Disponsori oleh:"
 
-#: index.html:389
+#: index.html:386
 msgid "Change language"
 msgstr "Ganti bahasa"
 
-#: index.html:429
+#: index.html:426
 msgid "All Rights Reserved."
 msgstr "Seluruh Hak Cipta Dilindungi."
 
-#: index.html:429
+#: index.html:426
 msgid "Imprint."
 msgstr "Jejak."
 
-#: index.html:429
+#: index.html:426
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:449
 msgid "Back to main page"
 msgstr "Kembali ke halaman utama"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "untuk openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "untuk Konferensi openSUSE"
 
-#~ msgid "is available now"
-#~ msgstr "tersedia sekarang"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "Perbincangan Konferensi openSUSE"
