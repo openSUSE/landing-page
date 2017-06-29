@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-21 14:22:55 +0200\n"
-"PO-Revision-Date: 2017-06-08 13:00+0000\n"
-"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
-"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
-"master/da/>\n"
+"PO-Revision-Date: 2017-06-29 00:04+0000\n"
+"Last-Translator: scootergrisen Required Fields <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
+"page/master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -124,7 +124,7 @@ msgstr "time"
 
 #: index.html:135
 msgid "for Leap 42.3"
-msgstr "for openSUSE Leap 42.3"
+msgstr "til Leap 42.3"
 
 #: index.html:144
 msgid "is now available"
@@ -281,7 +281,7 @@ msgstr "Vis kommende konferencer"
 
 #: index.html:307
 msgid "Get software"
-msgstr "Få software"
+msgstr "Hent software"
 
 #: index.html:312
 msgid "Wiki"
