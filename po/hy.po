@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
-"PO-Revision-Date: 2017-07-19 11:27+0000\n"
+"PO-Revision-Date: 2017-07-19 14:41+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
 "Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
 "page/master/hy/>\n"
@@ -69,9 +69,9 @@ msgstr ""
 "սակայն չեն սահմանափակվում, Linux kernel, Samba, git , desktops,  office "
 "applications  եւ շատ այլ փաթեթներով, կընTumbleweed: Tumbleweed գրավիչ է "
 "Power Users, ծրագրային մշակողների եւ openSUSE  աջակցողներ:Եթե դուք պահանջում "
-"նորագույն ծրագրային ապահովման stacks եւ ինտեգրված զարգացման միջավայր, կամ "
-"պետք է կայուն հարթակ, որն ամենամոտն է արյունահոսություն ծայրը Linux, "
-"Tumbleweed լավագույն ընտրությունն է ձեզ համար."
+"նորագույն ծրագրային ապահովում եւ ինտեգրված մշակման միջավայր, կամ պահանջվում "
+"է կայուն հարթակ, որն ամենամոտն է bleeding edge Linux ին, Tumbleweed "
+"լավագույն ընտրությունն է ձեզ համար."
 
 #: index.html:94
 msgid "Learn more"
@@ -97,11 +97,10 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 "Նոր եւ փորձառու Linux- ի օգտվողները ստանում են առավել օգտագործելի Linux "
-"բաշխված եւ կայուն օպերացիոն համակարգ openSUSE հերթական հաղորդագրության մեջ: "
-"Ստանալ թարմացումներ եւ կարծրացնում ձեր օպերացիոն openSUSE վերջին խոշոր "
-"բաշխման. Ընտրեք Ձեր աշխատասեղանին, կարգավորել ձեր համակարգը եւ վայելեք "
-"հարթակ ընտրության համար Linux մշակողների, վարչարարներ, եւ ծրագրային "
-"ապահովման վաճառողներին."
+"բաշխված եւ կայուն օպերացիոն համակարգ openSUSE հերթական թողարկման մեջ: Ստանալ "
+"թարմացումներ եւ կարծրացնում ձեր օպերացիոն openSUSE վերջին խոշոր բաշխման. "
+"Ընտրեք Ձեր աշխատասեղանին, կարգավորել ձեր համակարգը եւ վայելեք հարթակ ընտրված "
+"Linux մշակողների, վարչների, եւ ծրագրային ապահովման վաճառողներին կողմից."
 
 #: index.html:132
 msgid "days"
@@ -121,20 +120,19 @@ msgstr "ժամ"
 
 #: index.html:138
 msgid "for Leap 42.3"
-msgstr ""
+msgstr "Leap 42.3 համար"
 
 #: index.html:147
-#, fuzzy
 msgid "is now available"
-msgstr "այժմ հասանելի"
+msgstr "Առկա"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
-msgstr "openSUSE ԳՈՐԾԻՔՆԵՐ"
+msgstr "openSUSE գործիքներ"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
-msgstr "Բացահայտեք լավագույն open-source  tools  մշակված մեր համայնքի կողմից"
+msgstr "Բացահայտեք լավագույն open-source  գործիքներ մշակված մեր համայնքի կողմից"
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
@@ -146,9 +144,9 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
-"Մեր կառուցել գործիք, կառուցելու մեր բոլոր փաթեթների, ինչպես նաեւ նորերը süse "
-"Linux Enterprise, arch, Debian, Fedora, գիտական Linux, RHEL, CentOS, Ubuntu, "
-"եւ ավելի."
+"Մեր կառուցող գործիքը, կառուցում է մեր բոլոր փաթեթների, ինչպես նաեւ  SUSE "
+"Linux Enterprise, Arch, Debian, Fedora,Scientific Linux, RHEL, CentOS, "
+"Ubuntu, եւ ավելի."
 
 #: index.html:195
 msgid ""
