@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
-"PO-Revision-Date: 2017-07-19 15:01+0000\n"
+"PO-Revision-Date: 2017-07-25 20:48+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
 "Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
 "page/master/hy/>\n"
@@ -169,29 +169,29 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"Ստեղծեք Linux պատկերներ տեղադրման համար իրական ապարատային, վիրտուալիզացիայի "
-"եւ այժմ նույնիսկ Docker- ի կոնտեյներային համակարգերի մասին: Կիվին շարժիչն է, "
-"որը լիազորված է SUSE Studio- ին:"
+"Ստեղծեք Linux պատկերներ տեղադրման համար իրական սարքաշարի, վիրտուալիզացիայի "
+"եւ այժմ նույնիսկ Docker- ի պարունակ համակարգերի մասին: Kiwi շարժիչն է, որը "
+"գործարկում է SUSE Studio- ին:"
 
 #: index.html:258
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "Նվիրաբերիր OPENSUSE"
 
 #: index.html:259
 msgid "Be part of our community contributing with any of the following:"
-msgstr ""
+msgstr "Մեր համայնքի մասն եղիր,օժանդակելով հաջորդներից ցանկացածը:"
 
 #: index.html:266
 msgid "Code"
-msgstr ""
+msgstr "Կոդ"
 
 #: index.html:267 index.html:282
 msgid "Find out more"
-msgstr ""
+msgstr "Պարզել ավելին"
 
 #: index.html:271
 msgid "Contribute Code"
-msgstr ""
+msgstr "Փոփոխել կոդ"
 
 #: index.html:272
 msgid ""
@@ -208,22 +208,35 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"openSUSE հավատում է որ ամենալավ արդյունքները գալիս են երբ մարդիկ "
+"համագործակցում են և զվարճանում : Լինելով տարբեր այլ open-source ծրագրերից , "
+"դարձնում է openSUSE-ն ցանկալի: Մենք սովորական համայնքը չենք և մեր համայնքի "
+"ջանքերը որոշում են նախագծի ուղին: Համայնքի ջանքերով ստեղծվել են բազմաթիվ "
+"հիանալի ծրագրային գործիքներ LINUX-ի համար և խիստ տպավորիչ բաշխում: openSUSE "
+"ի հետ դուք ձայն և հեշտությամբ կարող եք նախագծում ներդրում կատարել: Անկախ "
+"նրանից, թե դուք փորձառու LINUX-ի մշակող եք թե վերջնական օգտագործող "
+"կներգրավվեք openSUSE նախագիծ : Միացեք ֆորումին , պահպանել եւ պահել մեր wiki-"
+"ն թարմացված, գտնել եւ զեկուցել սխալները, վերանայել փաստաթղթերը, ուղարկել ձեր "
+"ցանկությունների ցանկը նոր փաթեթների եւ հատկությունների համար, ստեղծել եւ "
+"ներկայացնել շտկումներ կամ դառնալ կողմնակից\n"
+"OpenSUSE- ի համար մասնակցելով միջոցառումների եւ դառնալով OpenSUSE- ի "
+"ներկայացուցիչ:"
 
 #: index.html:273
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "Պարզել ավելին, թե ինչպես մասնակցել:"
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
-msgstr ""
+msgstr "Սարքաշար"
 
 #: index.html:286
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "Աջակցել սարքաշարի"
 
 #: index.html:287
 msgid ""
@@ -239,70 +252,82 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"OpenSUSE նախագծին աջակցությունը միշտ ողջունվում է: Փաստացի, Open Build "
+"Service-ը, որն օգտագործվում է մի քանի այլ open-source ծրագրերի կողմից, "
+"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ "
+"AMD-ից: Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս մարդկանց եւ "
+"նախագծին բարգավաճել , զարգանալ , նորամուծություն մտցնել և առաջադիմել: "
+"Ծրագիրը գումար չի պահանջում, բայց սարքաշարի նվիրատվություններ, որոնք "
+"կօգտագործվեն  open-source համայնքի կողմից, Linux- ի զարգացման համար, "
+"OpenSUSE- ի գործիքները տրամադրել ազատ, բաց կոդով էկոհամակարգին եւ "
+"վերադարձնել ծրագրավորողներին, sysadmins եւ փաթեթավորողներին: Hardware- ը "
+"օգնում է openSUSE համայնքին: Hardware- ը օգնում է open-source համայնքին: Եվ "
+"Hardware- ը օգնում է Linux- ի զարգացմանը: Սովորելու համար, թե ինչպես կարող "
+"եք նվիրաբերել hardware openSUSE նախագծին, ուղարկեք նամակ:"
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "Հանդիպումներ openSUSE կոնֆերանսներին:"
 
 #: index.html:298
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "Դիտեք առաջիկա կոնֆերանսները"
 
 #: index.html:310
 msgid "Get software"
-msgstr ""
+msgstr "Ստացեք ծրագրային ապահովում"
 
 #: index.html:315
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:320
 msgid "Build Service"
-msgstr ""
+msgstr "Build Service"
 
 #: index.html:329
 msgid "Social Network"
-msgstr ""
+msgstr "Սոցիալական ցանց"
 
 #: index.html:339
 msgid "Forums"
-msgstr ""
+msgstr "Ֆորումներ"
 
 #: index.html:348
 msgid "Shop"
-msgstr ""
+msgstr "Խանութ"
 
 #: index.html:353
 msgid "Blogs"
-msgstr ""
+msgstr "Բլոգեր"
 
 #: index.html:358
 msgid "Press"
-msgstr ""
+msgstr "Մամուլ"
 
 #: index.html:383
 msgid "Sponsored by:"
-msgstr ""
+msgstr "Հովանավորված է:"
 
 #: index.html:389
 msgid "Change language"
-msgstr ""
+msgstr "Փոխել լեզուն"
 
 #: index.html:429
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Բոլոր իրավունքները պաշտպանված են."
 
 #: index.html:429
 msgid "Imprint."
-msgstr ""
+msgstr "Տպագիր:"
 
 #: index.html:429
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:452
 msgid "Back to main page"
-msgstr ""
+msgstr "Վերադառնալ գլխավոր էջ"
 
 #, fuzzy
 #~ msgid "for openSUSE Conference"
