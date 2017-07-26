@@ -2,7 +2,8 @@ $(function () {
 
   'use strict'
 
-  var leapReleaseDate = moment.tz("2017-07-26 12:00", "UTC");
+  // one hour later due to https://github.com/openSUSE/landing-page/issues/113
+  var leapReleaseDate = moment.tz("2017-07-26 13:00", "UTC");
 
   $('.opensuse-countdown__number').countdown(leapReleaseDate.toDate(), function(event) {
 
