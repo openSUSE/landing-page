@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2017-07-25 20:48+0000\n"
+"PO-Revision-Date: 2017-07-26 08:07+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
-"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-page/"
-"master/hy/>\n"
+"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
+"page/master/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,8 +16,7 @@ msgstr ""
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
-"Արարիչները սիսադմինների, մշակողների եւ սեղանադիր օգտվողների ընտրությունը."
+msgstr "Լավագույն ընտրությունը սիսադմինների, մշակողների եւ  օգտվողի կողմից:"
 
 #: index.html:48
 msgid "Home"
@@ -44,7 +43,7 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"Ձեռքբերել թարմ Linux փաթեթները մեր թողարկում մեջ. Արագ! Ամբողջացված ! "
+"Ձեռքբերել թարմ Linux փաթեթները մեր թողարկման մեջ. Արագ! Ամբողջացված ! "
 "Կայուն! Փորձարկված!"
 
 #: index.html:87 index.html:109
@@ -104,7 +103,7 @@ msgstr ""
 
 #: index.html:132
 msgid "days"
-msgstr "օրեր"
+msgstr "օր"
 
 #: index.html:133
 msgid "day"
@@ -112,7 +111,7 @@ msgstr "օր"
 
 #: index.html:134
 msgid "hours"
-msgstr "ժամեր"
+msgstr "ժամ"
 
 #: index.html:135
 msgid "hour"
@@ -237,7 +236,7 @@ msgstr "Սարքաշար"
 
 #: index.html:286
 msgid "Contribute Hardware"
-msgstr "Աջակցել սարքաշարի"
+msgstr "Նվիրաբերել սարքաշարով"
 
 #: index.html:287
 msgid ""
@@ -255,16 +254,17 @@ msgid ""
 msgstr ""
 "OpenSUSE նախագծին աջակցությունը միշտ ողջունվում է: Փաստացի, Open Build "
 "Service-ը, որն օգտագործվում է մի քանի այլ open-source ծրագրերի կողմից, "
-"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ AMD-"
-"ից: Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս մարդկանց եւ "
-"նախագծին բարգավաճել , զարգանալ , նորամուծություն մտցնել և առաջադիմել: "
-"Ծրագիրը գումար չի պահանջում, բայց սարքաշարի նվիրատվություններ, որոնք "
-"կօգտագործվեն  open-source համայնքի կողմից, Linux- ի զարգացման համար, "
-"OpenSUSE- ի գործիքները տրամադրել ազատ, բաց կոդով էկոհամակարգին եւ "
-"վերադարձնել ծրագրավորողներին, sysadmins եւ փաթեթավորողներին: Hardware- ը "
-"օգնում է openSUSE համայնքին: Hardware- ը օգնում է open-source համայնքին: Եվ "
-"Hardware- ը օգնում է Linux- ի զարգացմանը: Սովորելու համար, թե ինչպես կարող "
-"եք նվիրաբերել hardware openSUSE նախագծին, ուղարկեք նամակ:"
+"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ AMD "
+"ընկերության կողմից : Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս "
+"մարդկանց եւ նախագծին բարգավաճել , զարգանալ , նորամուծություն մտցնել և "
+"առաջադիմել: openSUSE ծրագիրը գումար չի պահանջում, այլ սարքաշարի "
+"նվիրատվություններ , որոնք կօգտագործվեն  open-source համայնքի կողմից, Linux- "
+"ի զարգացման համար, ապահովելով OpenSUSE  գործիքներով ազատ եւ բաց էկոհամակարգի "
+"համար, որը կօգտագործվի ծրագրավորողների, sսիսադմիների եւ փաթեթավորողների "
+"կողմից: Hardware- ը օգնում է openSUSE համայնքին: Hardware- ը օգնում է open-"
+"source համայնքին: Եվ Hardware- ը օգնում է Linux- ի զարգացմանը: Իմանալու "
+"համար, թե ինչպես կարող եք նվիրաբերել openSUSE  նախագծին սարքավորումներով, "
+"ուղարկեք նամակ հետեւյալ հասցեով:"
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
@@ -320,7 +320,7 @@ msgstr "Բոլոր իրավունքները պաշտպանված են."
 
 #: index.html:430
 msgid "Imprint."
-msgstr "Տպագիր:"
+msgstr "Imprint."
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
