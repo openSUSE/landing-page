@@ -2,7 +2,7 @@ $(function () {
 
   'use strict'
 
-  var leapReleaseDate = moment.tz("2017-07-26 12:00", "Europe/Berlin");
+  var leapReleaseDate = moment.tz("2017-07-26 12:00", "UTC");
 
   $('.opensuse-countdown__number').countdown(leapReleaseDate.toDate(), function(event) {
 
