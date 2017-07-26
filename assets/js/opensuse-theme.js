@@ -256,20 +256,17 @@ function backToMainPageOs (os) {
 var lang = new Lang('en');
 //languages setup - please list here all new language packs
 window.lang.dynamic('ar', 'assets/js/langpack/ar.json');
-window.lang.dynamic('ast', 'assets/js/langpack/ast.json');
 window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
 window.lang.dynamic('cs', 'assets/js/langpack/cs.json');
 window.lang.dynamic('da', 'assets/js/langpack/da.json');
 window.lang.dynamic('de', 'assets/js/langpack/de.json');
-window.lang.dynamic('el', 'assets/js/langpack/el.json');
 window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('el', 'assets/js/langpack/el.json');
 window.lang.dynamic('fa', 'assets/js/langpack/fa.json');
 window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
-window.lang.dynamic('gl', 'assets/js/langpack/gl.json');
 window.lang.dynamic('id', 'assets/js/langpack/id.json');
 window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
-window.lang.dynamic('ko', 'assets/js/langpack/ko.json');
 window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
