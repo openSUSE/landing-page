@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-03-28 12:27+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/"
@@ -325,19 +325,19 @@ msgstr "Patrocinado por:"
 msgid "Change language"
 msgstr "Alterar idioma"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Todos os direitos reservados."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Responsável."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Voltar à página inicial"
 

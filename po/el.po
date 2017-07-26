@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-07-21 11:24+0000\n"
 "Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
-"Language-Team: Greek <https://l10n.opensuse.org/projects/landing-"
-"page/master/el/>\n"
+"Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
+"el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -71,8 +71,8 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Ο χρήστης που επιθυμεί να έχει τα πιο πρόσφατα πακέτα που περιλαμβάνουν ("
-"αλλά δεν περιορίζονται μονο) τον πυρήνα του Linux, SAMBA, git, εφαρμογές "
+"Ο χρήστης που επιθυμεί να έχει τα πιο πρόσφατα πακέτα που περιλαμβάνουν "
+"(αλλά δεν περιορίζονται μονο) τον πυρήνα του Linux, SAMBA, git, εφαρμογές "
 "γραφείου, γραφικό περιβάλλον και πολλά άλλα πακέτα, θα θέλει την έκδοση "
 "Tumbleweed. Η έκδοση Tumbleweed απευθύνεται σε προχωρημένους χρήστες, "
 "προγραμματιστές και χρήστες που συνεισφέρουν στο openSUSE. Εάν χρειάζεστε "
@@ -330,19 +330,19 @@ msgstr "Χορηγοί:"
 msgid "Change language"
 msgstr "Επιλογή γλώσσας"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Με επιφύλαξη κάθε νομίμου δικαιώματος."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Ανατύπωση."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://el.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
 

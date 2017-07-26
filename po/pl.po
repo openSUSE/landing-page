@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-07-23 12:38+0000\n"
 "Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
-"Language-Team: Polish <https://l10n.opensuse.org/projects/landing-"
-"page/master/pl/>\n"
+"Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
+"master/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -325,20 +325,20 @@ msgstr "Sponsorowane przez:"
 msgid "Change language"
 msgstr "Zmień język"
 
-#: index.html:429
+#: index.html:430
 #, fuzzy
 msgid "All Rights Reserved."
 msgstr "Wszelkie prawa zastrzeżone."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Wróć do głównej strony"
 

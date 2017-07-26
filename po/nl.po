@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-03-14 00:14+0000\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/landing-page/master/"
@@ -324,19 +324,19 @@ msgstr "Gesponsord door:"
 msgid "Change language"
 msgstr "Taal wijzigen"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Alle rechten voorbehouden."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Indruk."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Terug naar de hoofdpagina"
 

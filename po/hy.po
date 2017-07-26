@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-10 17:02:35 +0200\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-07-25 20:48+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
-"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-"
-"page/master/hy/>\n"
+"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-page/"
+"master/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,7 +132,8 @@ msgstr "openSUSE գործիքներ"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
-msgstr "Բացահայտեք լավագույն open-source  գործիքներ մշակված մեր համայնքի կողմից"
+msgstr ""
+"Բացահայտեք լավագույն open-source  գործիքներ մշակված մեր համայնքի կողմից"
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
@@ -254,8 +255,8 @@ msgid ""
 msgstr ""
 "OpenSUSE նախագծին աջակցությունը միշտ ողջունվում է: Փաստացի, Open Build "
 "Service-ը, որն օգտագործվում է մի քանի այլ open-source ծրագրերի կողմից, "
-"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ "
-"AMD-ից: Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս մարդկանց եւ "
+"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ AMD-"
+"ից: Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս մարդկանց եւ "
 "նախագծին բարգավաճել , զարգանալ , նորամուծություն մտցնել և առաջադիմել: "
 "Ծրագիրը գումար չի պահանջում, բայց սարքաշարի նվիրատվություններ, որոնք "
 "կօգտագործվեն  open-source համայնքի կողմից, Linux- ի զարգացման համար, "
@@ -313,19 +314,19 @@ msgstr "Հովանավորված է:"
 msgid "Change language"
 msgstr "Փոխել լեզուն"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Բոլոր իրավունքները պաշտպանված են."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Տպագիր:"
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Վերադառնալ գլխավոր էջ"
 
