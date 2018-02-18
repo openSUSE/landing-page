@@ -3,51 +3,58 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 10:24:02 +0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-02-18 20:02+0000\n"
+"Last-Translator: Tommi Nieminen <software@legisign.org>\n"
+"Language-Team: Finnish <https://l10n.opensuse.org/projects/landing-"
+"page/master/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
+"Tekijöiden valinta järjestelmän ylläpitäjille, kehittäjille ja "
+"työpöytäkäyttäjille."
 
 #: index.html:48
 msgid "Home"
-msgstr ""
+msgstr "Koti"
 
 #: index.html:51
 msgid "Tools"
-msgstr ""
+msgstr "Työkalut"
 
 #: index.html:54 index.html:334
 msgid "News"
-msgstr ""
+msgstr "Uutiset"
 
 #: index.html:57
 msgid "Contribute"
-msgstr ""
+msgstr "Avusta"
 
 #: index.html:60
 msgid "Conferences"
-msgstr ""
+msgstr "Konferenssit"
 
 #: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Saa uusimmat Linux-paketit jatkuvalla jakelullamme. Nopeaa! Yhtenäistä! "
+"Vakaata! Testattua!"
 
 #: index.html:87 index.html:109
 msgid "More information"
-msgstr ""
+msgstr "Lisätietoa"
 
 #: index.html:89 index.html:97
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "Asenna Tumbleweed"
 
 #: index.html:92
 msgid ""
@@ -59,20 +66,28 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Käyttäjä, joka haluaa aina uusimmat paketit mm. Linux-ytimestä, Sambasta, "
+"gitistä, työpöydistä, toimistosovelluksista ja monista muista paketeista, "
+"haluaa Tumbleweedin. Tumbleweed vetoaa tehokäyttäjiin, ohjelmakehittäjiin ja "
+"openSUSEn avustajiin. Jos vaadit uusimmat ohjelmat ja kehitysympäristöt tai "
+"tarvitset eturivin Linuxia lähinnä olevan vakaan alustan, Tumbleweed on "
+"sinulle paras vaihtoehto."
 
 #: index.html:94
 msgid "Learn more"
-msgstr ""
+msgstr "Lisätietoa"
 
 #: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
+"Saat täydellisimmän Linux-jakelun openSUSEn viimeisimmällä säännöllisellä "
+"kausijulkaisulla!"
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
-msgstr ""
+msgstr "Asenna Leap"
 
 #: index.html:114
 msgid ""
@@ -82,42 +97,48 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
+"Uudet ja kokeneet Linux-käyttäjät saavat käytettävimmän Linux-jakelun ja "
+"vakaimman käyttöjärjestelmän openSUSEn säännöllisellä kausijulkaisulla. "
+"openSUSEn viimeisimmällä pääjulkaisulla saat päivitykset ja "
+"tietoturvaparannukset. Valitse työpöytäsi, määritä järjestelmäsi ja nauti "
+"Linux-kehittäjien, -ylläpitäjien ja -ohjelmajakelijoiden valitsemasta "
+"alustasta."
 
 #: index.html:132
 msgid "days"
-msgstr ""
+msgstr "päivää"
 
 #: index.html:133
 msgid "day"
-msgstr ""
+msgstr "päivä"
 
 #: index.html:134
 msgid "hours"
-msgstr ""
+msgstr "tuntia"
 
 #: index.html:135
 msgid "hour"
-msgstr ""
+msgstr "tunti"
 
 #: index.html:138
 msgid "for Leap 42.3"
-msgstr ""
+msgstr "Leap 42.3:lle"
 
 #: index.html:147
 msgid "is now available"
-msgstr ""
+msgstr "on nyt saatavilla"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "openSUSE-työkalut"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
+msgstr "Löydä yhteisömme kehittämät parhaat avoimen lähdekoodin työkalut"
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
-msgstr ""
+msgstr "Siirry linkkiin"
 
 #: index.html:177
 msgid ""
@@ -125,17 +146,22 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
+"Koostamistyökalumme koostaa paitsi meidän myös openSUSE Linux Enterprisen, "
+"Archin, Debianin, Fedoran, Scientific Linux, RHELin, CentOSin, Ubuntun ja "
+"muiden paketit."
 
 #: index.html:195
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
+"*Minkä tahansa* käyttöjärjestelmän automaattinen testaus: osaa lukea näyttöä "
+"ja hallita testikonetta kuten käyttäjäkin."
 
 #: index.html:213
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr ""
+msgstr "Paras ja ainoa täydellinen Linux-järjestelmäasetus- ja -asennustyökalu."
 
 #: index.html:231
 msgid ""
@@ -143,26 +169,28 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
+"Luo Linux-levykuvia käytettäväksi oikeassa tai virtuaalilaitteistossa, nyt "
+"myös Dockerissa. Kiwi on SUSE Studiota pyörittävä moottori."
 
 #: index.html:258
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "AVUSTA OPENSUSEA"
 
 #: index.html:259
 msgid "Be part of our community contributing with any of the following:"
-msgstr ""
+msgstr "Tule osaksi yhteisöä avustamalla missä hyvänsä seuraavista:"
 
 #: index.html:266
 msgid "Code"
-msgstr ""
+msgstr "koodissa"
 
 #: index.html:267 index.html:282
 msgid "Find out more"
-msgstr ""
+msgstr "Lisätietoa"
 
 #: index.html:271
 msgid "Contribute Code"
-msgstr ""
+msgstr "Avusta koodissa"
 
 #: index.html:272
 msgid ""
