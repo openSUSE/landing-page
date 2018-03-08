@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2015-11-08 11:09+0100\n"
-"Last-Translator: Manuel A. Vazquez <xixirei@yahoo.es>\n"
-"Language-Team: Galician <i18n@suse.de>\n"
+"PO-Revision-Date: 2018-03-08 17:18+0000\n"
+"Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
+"Language-Team: Galician <https://l10n.opensuse.org/projects/landing-"
+"page/master/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -68,11 +69,11 @@ msgid ""
 "choice for you."
 msgstr ""
 "Calquera usuario que desexe ter os paquetes máis recentes que inclúen, pero "
-"non son limitados a, kernel linux, SAMBA, git, escritorios, aplicativos "
-"ofimáticos e moitos outros paquetes, quereré Tumbleweed. Tumbleweed atrae a "
+"non son limitados a, o kernel linux, SAMBA, git, escritorios, aplicativos "
+"ofimáticos e moitos outros paquetes, quererá Tumbleweed. Tumbleweed atrae a "
 "usuarios avanzados, desenvolvedores de software e contribuidores de "
 "openSUSE. Se quere o software máis recente e un ambiente de desenvolvemento "
-"independente ou precisa unha plataforma estábel preto do máis recente en "
+"independente ou precisa unha plataforma estábel próxima ao máis recente en "
 "Linux, Tumbleweed é a súa mellor escolla."
 
 #: index.html:94
@@ -108,27 +109,27 @@ msgstr ""
 
 #: index.html:132
 msgid "days"
-msgstr ""
+msgstr "días"
 
 #: index.html:133
 msgid "day"
-msgstr ""
+msgstr "día"
 
 #: index.html:134
 msgid "hours"
-msgstr ""
+msgstr "horas"
 
 #: index.html:135
 msgid "hour"
-msgstr ""
+msgstr "hora"
 
 #: index.html:138
 msgid "for Leap 42.3"
-msgstr ""
+msgstr "para openSUSE Leap 42.3"
 
 #: index.html:147
 msgid "is now available"
-msgstr ""
+msgstr "dispoñíbel agora"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -233,7 +234,7 @@ msgstr "Atopar máis información sobre como participar."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -272,7 +273,7 @@ msgstr ""
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr "Encóntrese con openSUSE en conferencias"
+msgstr "Encóntrese con openSUSE en conferencias."
 
 #: index.html:298
 msgid "View upcoming conferences"
@@ -319,17 +320,16 @@ msgid "Change language"
 msgstr "Cambiar idioma"
 
 #: index.html:430
-#, fuzzy
 msgid "All Rights Reserved."
 msgstr "Todos os dereitos reservados."
 
 #: index.html:430
 msgid "Imprint."
-msgstr ""
+msgstr "Responsábel."
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:453
 msgid "Back to main page"
