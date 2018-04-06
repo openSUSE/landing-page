@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2018-04-06 15:04+0000\n"
+"PO-Revision-Date: 2018-04-06 20:03+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
 "page/master/hi/>\n"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: index.html:94
 msgid "Learn more"
-msgstr ""
+msgstr "और जानें"
 
 #: index.html:108
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
-msgstr ""
+msgstr "Leap इंस्टॉल करें"
 
 #: index.html:114
 msgid ""
@@ -91,31 +91,31 @@ msgstr ""
 
 #: index.html:132
 msgid "days"
-msgstr ""
+msgstr "दिनों"
 
 #: index.html:133
 msgid "day"
-msgstr ""
+msgstr "दिन"
 
 #: index.html:134
 msgid "hours"
-msgstr ""
+msgstr "घंटे"
 
 #: index.html:135
 msgid "hour"
-msgstr ""
+msgstr "घंटा"
 
 #: index.html:138
 msgid "for Leap 42.3"
-msgstr ""
+msgstr "Leap 42.3 के लिए"
 
 #: index.html:147
 msgid "is now available"
-msgstr ""
+msgstr "अब उपलब्ध है"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "openSUSE साधन"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
-msgstr ""
+msgstr "लिंक पर जाएँ"
 
 #: index.html:177
 msgid ""
@@ -152,7 +152,7 @@ msgstr ""
 
 #: index.html:258
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "OPENSUSE में योगदान दें"
 
 #: index.html:259
 msgid "Be part of our community contributing with any of the following:"
@@ -160,15 +160,15 @@ msgstr ""
 
 #: index.html:266
 msgid "Code"
-msgstr ""
+msgstr "कोड"
 
 #: index.html:267 index.html:282
 msgid "Find out more"
-msgstr ""
+msgstr "और जानें"
 
 #: index.html:271
 msgid "Contribute Code"
-msgstr ""
+msgstr "कोड के रूप में योगदान दें"
 
 #: index.html:272
 msgid ""
@@ -196,11 +196,11 @@ msgstr ""
 
 #: index.html:281
 msgid "Hardware"
-msgstr ""
+msgstr "हार्डवेयर"
 
 #: index.html:286
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "हार्डवेयर के रूप में योगदान दें"
 
 #: index.html:287
 msgid ""
@@ -227,43 +227,43 @@ msgstr ""
 
 #: index.html:310
 msgid "Get software"
-msgstr ""
+msgstr "सॉफ्टवेयर प्राप्त करें"
 
 #: index.html:315
 msgid "Wiki"
-msgstr ""
+msgstr "विकी"
 
 #: index.html:320
 msgid "Build Service"
-msgstr ""
+msgstr "निर्माण सेवा"
 
 #: index.html:329
 msgid "Social Network"
-msgstr ""
+msgstr "सोशल नेटवर्क"
 
 #: index.html:339
 msgid "Forums"
-msgstr ""
+msgstr "चर्चा मंच"
 
 #: index.html:348
 msgid "Shop"
-msgstr ""
+msgstr "दुकान"
 
 #: index.html:353
 msgid "Blogs"
-msgstr ""
+msgstr "ब्लॉग"
 
 #: index.html:358
 msgid "Press"
-msgstr ""
+msgstr "प्रेस"
 
 #: index.html:383
 msgid "Sponsored by:"
-msgstr ""
+msgstr "प्रायोजक :"
 
 #: index.html:389
 msgid "Change language"
-msgstr ""
+msgstr "भाषा बदलें"
 
 #: index.html:430
 msgid "All Rights Reserved."
@@ -275,8 +275,8 @@ msgstr ""
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:453
 msgid "Back to main page"
-msgstr ""
+msgstr "मुख्य पृष्ठ पर वापस जाएँ"
