@@ -3,51 +3,57 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-04-06 15:04+0000\n"
+"Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
+"Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
+"page/master/hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
+"सिस्टम प्रबंधकों, डेवलपर व डेस्कटॉप उपयोक्ताओं के लिए निर्माता की पहली पसंद।"
 
 #: index.html:48
 msgid "Home"
-msgstr ""
+msgstr "होम"
 
 #: index.html:51
 msgid "Tools"
-msgstr ""
+msgstr "साधन"
 
 #: index.html:54 index.html:334
 msgid "News"
-msgstr ""
+msgstr "संदेश"
 
 #: index.html:57
 msgid "Contribute"
-msgstr ""
+msgstr "योगदान करें"
 
 #: index.html:60
 msgid "Conferences"
-msgstr ""
+msgstr "सम्मेलन"
 
 #: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"इस हमेशा अपडेट रहने वाले रिलीज़ संस्करण के साथ पाएँ लिनक्स के नवीनतम पैकेज। ते"
+"ज़! समन्वित! स्थिर! परीक्षित!"
 
 #: index.html:87 index.html:109
 msgid "More information"
-msgstr ""
+msgstr "अधिक जानकारी"
 
 #: index.html:89 index.html:97
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed इंस्टॉल करें"
 
 #: index.html:92
 msgid ""
