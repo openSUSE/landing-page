@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2018-04-08 11:03+0000\n"
+"PO-Revision-Date: 2018-05-07 11:38+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
 "page/master/hi/>\n"
@@ -223,7 +223,7 @@ msgstr ""
 
 #: index.html:298
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "आगामी सम्मेलन देखें"
 
 #: index.html:310
 msgid "Get software"
