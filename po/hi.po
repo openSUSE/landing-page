@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2018-05-07 11:38+0000\n"
+"PO-Revision-Date: 2018-05-07 15:02+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
 "page/master/hi/>\n"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "openSUSE के सम्मेलनों का हिस्सा बनें।"
 
 #: index.html:298
 msgid "View upcoming conferences"
@@ -271,7 +271,7 @@ msgstr "सर्वाधिकार सुरक्षित।"
 
 #: index.html:430
 msgid "Imprint."
-msgstr ""
+msgstr "प्रकाशन जानकारी।"
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
