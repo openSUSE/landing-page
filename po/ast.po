@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2016-10-19 01:47+0000\n"
 "Last-Translator: Enol P <enolp@softastur.org>\n"
 "Language-Team: Asturian <https://l10n.opensuse.org/projects/landing-page/"
@@ -98,31 +98,30 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "díes"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "día"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "hores"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "hora"
 
-#: index.html:136
-#, fuzzy
-msgid "for openSUSE Conference"
-msgstr "pa openSUSE Leap 42.2"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr ""
 
 #: index.html:147
 #, fuzzy
-msgid "openSUSE Conference talks"
-msgstr "Conferencies"
+msgid "is now available"
+msgstr "ta disponible agora"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -276,22 +275,27 @@ msgstr ""
 msgid "Change language"
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 #, fuzzy
 msgid "All Rights Reserved."
 msgstr "Tolos drechos reservaos."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr ""
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr ""
 
-#~ msgid "is available now"
-#~ msgstr "ta disponible agora"
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "pa openSUSE Leap 42.3"
+
+#, fuzzy
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "Conferencies"

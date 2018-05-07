@@ -1,6 +1,7 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
+    "All Rights Reserved.": "Med einerett.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Om du ønskjer dei nyaste versjonane av for eksempel Linux-kjernen, SAMBA, Git, skrivebordsmiljø og kontorprogramvare, treng du Tumbleweed. Tumbleweed passar for avanserte brukarar, programutviklarar og bidragsytarar til openSUSE. Viss du treng dei nyaste programbiblioteka og utviklingsmiljøa, eller treng ei stabil plattform med dei siste oppdateringane, er Tumbleweed det beste valet.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Automatiserte testar for *alle* operativsystem, og som kan lesa skjermen og styra testsystemet på same måte som vanlege brukarar.",
     "Back to main page": "Tilbake til hovudsida",
@@ -26,6 +27,7 @@
     "Go to link": "Gå til lenkja",
     "Hardware": "Maskinvare",
     "Home": "Heim",
+    "Imprint.": "Juridisk informasjon.",
     "Install Leap": "Installer Leap",
     "Install Tumbleweed": "Installer Tumbleweed",
     "Learn more": "Lær meir",
@@ -42,6 +44,11 @@
     "The makers' choice for sysadmins, developers and desktop users.": "Valet for systemadministratorar, utviklarar og vanlege brukarar.",
     "Tools": "Verktøy",
     "View upcoming conferences": "Vis kommande konferansar",
+    "day": "dag",
+    "days": "dagar",
+    "hour": "time",
+    "hours": "timar",
+    "is now available": "er no tilgjengeleg",
     "openSUSE TOOLS": "openSUSE-verktøy",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "Me i openSUSE meiner dei beste resultata kjem frå menneske som samarbeider og har det gøy. Det å vera annleis enn andre friprog-miljø gjer openSUSE attraktivt. Me er ikkje eit vanleg fellesskap, og kva brukarane gjer avgjer kva veg prosjektet skal gå vidare. I fellesskap har me laga fleire flotte Linux-verktøy og ein fantastisk distro. Med openSUSE har du ei røyst, og kan lett bidra til prosjektet. Anten du er ein erfaren Linux-utviklar eller ein sluttbrukar, kan du verta med. Delta på forum, rediger og hald wikien oppdatert, meld frå om feil du finn, forbetra dokumentasjonen, send ønskjer om nye pakkar og funksjonar, lag feilrettingar eller reklamer for openSUSE på konferansar og møter."
   }

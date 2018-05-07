@@ -1,63 +1,59 @@
-# Martin Schlander <mschlander@opensuse.org>, 2015.
-# scootergrisen, 2017.
 msgid ""
 msgstr ""
-"Project-Id-Version: @PACKAGE@\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2017-06-29 00:04+0000\n"
-"Last-Translator: scootergrisen\n"
-"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
-"page/master/da/>\n"
-"Language: da\n"
+"PO-Revision-Date: 2018-05-07 11:38+0000\n"
+"Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
+"Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
+"page/master/hi/>\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.13.1\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
-"Det rette valg for skabende brugere - systemadministratorer, udviklere og "
-"desktop-brugere."
+"सिस्टम प्रबंधकों, डेवलपर व डेस्कटॉप उपयोक्ताओं के लिए निर्माता की पहली पसंद।"
 
 #: index.html:48
 msgid "Home"
-msgstr "Hjemme"
+msgstr "होम"
 
 #: index.html:51
 msgid "Tools"
-msgstr "Værktøjer"
+msgstr "साधन"
 
 #: index.html:54 index.html:334
 msgid "News"
-msgstr "Nyheder"
+msgstr "संदेश"
 
-# continue button label
 #: index.html:57
 msgid "Contribute"
-msgstr "Bidrag"
+msgstr "योगदान करें"
 
 #: index.html:60
 msgid "Conferences"
-msgstr "Konferencer"
+msgstr "सम्मेलन"
 
 #: index.html:86
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"Få de nyeste Linux-pakker med vores rullende udgivelse. Hurtigt! Integreret! "
-"Relativt stabilt! Testet!"
+"इस हमेशा अपडेट रहने वाले रिलीज़ संस्करण के साथ पाएँ लिनक्स के नवीनतम पैकेज। ते"
+"ज़! समन्वित! स्थिर! परीक्षित!"
 
 #: index.html:87 index.html:109
 msgid "More information"
-msgstr "Mere information"
+msgstr "अधिक जानकारी"
 
 #: index.html:89 index.html:97
 msgid "Install Tumbleweed"
-msgstr "Installér Tumbleweed"
+msgstr "Tumbleweed इंस्टॉल करें"
 
 #: index.html:92
 msgid ""
@@ -69,29 +65,20 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Brugere, som ønsker de nyeste pakker herunder - men ikke kun - Linux-kernen, "
-"SAMBA, git, skriveborde, kontorprogrammer og mange andre pakker har brug for "
-"Tumbleweed. Tumbleweed appellerer til brugere med stor erfaring, "
-"softwareudviklere og bidragydere til openSUSE. Hvis de har brug for den "
-"seneste softwarestak og integrerede udviklingsmiljø eller behøver en stabil "
-"platform så tæt på de seneste udviklinger i Linux som muligt, så er "
-"Tumbleweed det bedste valg."
 
 #: index.html:94
 msgid "Learn more"
-msgstr "Læs mere"
+msgstr "और जानें"
 
 #: index.html:108
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
-"Få den mest komplette Linux-distribution med openSUSE's seneste almindelige "
-"udgivelse!"
 
 #: index.html:111 index.html:116
 msgid "Install Leap"
-msgstr "Installér Leap"
+msgstr "Leap इंस्टॉल करें"
 
 #: index.html:114
 msgid ""
@@ -101,47 +88,42 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
-"Nye og erfarne Linux-brugere får den mest brugervenlige Linux-distribution "
-"og stabiliserede operativsystem med openSUSE almindelige udgivelse. Få "
-"opdateringer og styrk dit OS med openSUSE's seneste fulde distribution. Vælg "
-"dit skrivebordsmiljø, konfigurér dit system og nyd den foretrukne platform "
-"for Linux-udviklere, administratorer og softwareleverandører."
 
 #: index.html:132
 msgid "days"
-msgstr "dage"
+msgstr "दिनों"
 
 #: index.html:133
 msgid "day"
-msgstr "dag"
+msgstr "दिन"
 
 #: index.html:134
 msgid "hours"
-msgstr "timer"
+msgstr "घंटे"
 
 #: index.html:135
 msgid "hour"
-msgstr "time"
+msgstr "घंटा"
 
 #: index.html:138
 msgid "for Leap 42.3"
-msgstr "til Leap 42.3"
+msgstr "Leap 42.3 के लिए"
 
 #: index.html:147
 msgid "is now available"
-msgstr "er tilgængelig nu"
+msgstr "अब उपलब्ध है"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
-msgstr "openSUSE-VÆRKTØJER"
+msgstr "openSUSE साधन"
 
 #: index.html:159
 msgid "Discover the best open-source tools developed by our community"
-msgstr "Opdag de bedste open source-værktøjer udviklet af vores fællesskab"
+msgstr ""
 
 #: index.html:173 index.html:191 index.html:209 index.html:227
 msgid "Go to link"
-msgstr "Gå til link"
+msgstr "लिंक पर जाएँ"
 
 #: index.html:177
 msgid ""
@@ -149,24 +131,17 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
-"Vores byggeværktøj, som bygger alle vores pakker, samt pakker til SUSE Linux "
-"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu m."
-"fl."
 
 #: index.html:195
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
-"Automatiseret test af *alle* operativsystemer, som kan læse skærmen og "
-"kontrollere testmaskinen ligesom en bruger gør."
 
 #: index.html:213
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
-"Det bedste/eneste omfattende værktøj til konfiguration og installation af "
-"Linux-systemer."
 
 #: index.html:231
 msgid ""
@@ -174,30 +149,26 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"Opret Linux-imagefiler til udrulning på ægte hardware, virtualisering og nu "
-"endda containersystemer såsom Docker. Kiwi er den motor som driver SUSE "
-"Studio."
 
 #: index.html:258
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr "BIDRAG TIL OPENSUSE"
+msgstr "OPENSUSE में योगदान दें"
 
 #: index.html:259
 msgid "Be part of our community contributing with any of the following:"
-msgstr "Vær en del af fællesskabet ved at bidrage med noget af følgende:"
+msgstr ""
 
 #: index.html:266
 msgid "Code"
-msgstr "Kode"
+msgstr "कोड"
 
 #: index.html:267 index.html:282
 msgid "Find out more"
-msgstr "Mere information"
+msgstr "और जानें"
 
-# continue button label
 #: index.html:271
 msgid "Contribute Code"
-msgstr "Bidrag med kode"
+msgstr "कोड के रूप में योगदान दें"
 
 #: index.html:272
 msgid ""
@@ -214,22 +185,10 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
-"openSUSE tror på, at det bedste resultat opstår, når mennesker samarbejder "
-"og har det sjovt. openSUSE er forskelligt fra andre open-source-"
-"fællesskaber, og det er det, der gør openSUSE tiltrækkende. Vi er ikke et "
-"konventionelt fællelsskab; vores fællesskabs indsatser bestemmer projektets "
-"vej frem. Fællesskabets indsatser har skabt flere gode værktøjer til Linux "
-"og en fantastisk distribution. I openSUSE har du en stemme og kan let "
-"bidrage til projektet. Engagér dig i openSUSE-projektet, hvad enten du er en "
-"erfaren Linux-udvikler eller en almindelig bruger. Slut dig til et forum, "
-"vedligehold vores wiki og hold den a jour, find og rapportér fejl, gennemgå "
-"dokumentationen, indsend ønsker om nye pakker og funktioner, lav og indsend "
-"rettelser eller bliv er fortaler for openSUSE ved at deltage i begivenheder "
-"og blive en ambassadør."
 
 #: index.html:273
 msgid "Find out more about how to participate."
-msgstr "Læs mere om at deltage."
+msgstr ""
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
@@ -237,11 +196,11 @@ msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
-msgstr "Hardware"
+msgstr "हार्डवेयर"
 
 #: index.html:286
 msgid "Contribute Hardware"
-msgstr "Bidrag med hardware"
+msgstr "हार्डवेयर के रूप में योगदान दें"
 
 #: index.html:287
 msgid ""
@@ -257,77 +216,62 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
-"Donationer til støtte for openSUSE-projektet modtages med taknemmelighed. "
-"Faktisk er Open Build Service, som bruges af adskillige andre open-source-"
-"projekter blevet gjort tilgængelig for fællesskabet på grund af AMD's "
-"gavmilde donation af servere. Det er den slags donationer, som sikrer at "
-"mennesker og projekter kan trives, udvikle sig og skabe innovation og "
-"fremskridt. Projektet beder ikke om penge men om donationer af hardware for "
-"at give open-source-fællesskabet med dets omfattende ekspertise bedre "
-"muligheder for at udvikle Linux, udbyde openSUSE's værktøjer gratis til "
-"økosystemet af fri, open-source software og give noget tilbage til "
-"udviklere, systemadministratorer og de, der vedligeholder software-"
-"arkiverne. Hardware hjælper openSUSE-fællesskabet! Hardware hjælper open-"
-"source-fællesskabet! Og hardware understøtter udviklingen af Linux. Send os "
-"en e-mail for at finde ud af, hvordan du kan donere hardware til openSUSE-"
-"projektet"
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr "Mød openSUSE til konferencer."
+msgstr ""
 
 #: index.html:298
 msgid "View upcoming conferences"
-msgstr "Vis kommende konferencer"
+msgstr "आगामी सम्मेलन देखें"
 
 #: index.html:310
 msgid "Get software"
-msgstr "Hent software"
+msgstr "सॉफ्टवेयर प्राप्त करें"
 
 #: index.html:315
 msgid "Wiki"
-msgstr "Wiki"
+msgstr "विकी"
 
-#
 #: index.html:320
 msgid "Build Service"
-msgstr "Build Service"
+msgstr "निर्माण सेवा"
 
 #: index.html:329
 msgid "Social Network"
-msgstr "Sociale netværk"
+msgstr "सोशल नेटवर्क"
 
 #: index.html:339
 msgid "Forums"
-msgstr "Forum"
+msgstr "चर्चा मंच"
 
 #: index.html:348
 msgid "Shop"
-msgstr "Butik"
+msgstr "दुकान"
 
 #: index.html:353
 msgid "Blogs"
-msgstr "Blogs"
+msgstr "ब्लॉग"
 
 #: index.html:358
 msgid "Press"
-msgstr "Presse"
+msgstr "प्रेस"
 
 #: index.html:383
 msgid "Sponsored by:"
-msgstr "Sponseret af:"
+msgstr "प्रायोजक :"
 
 #: index.html:389
 msgid "Change language"
-msgstr "Skift sprog"
+msgstr "भाषा बदलें"
 
 #: index.html:430
 msgid "All Rights Reserved."
-msgstr "Alle rettigheder forbeholdt."
+msgstr "सर्वाधिकार सुरक्षित।"
 
 #: index.html:430
 msgid "Imprint."
-msgstr "Imprint."
+msgstr ""
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
@@ -335,37 +279,4 @@ msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:453
 msgid "Back to main page"
-msgstr "Tilbage til hovedsiden"
-
-#~ msgid "for openSUSE Conference"
-#~ msgstr "til openSUSE-konference"
-
-#~ msgid "openSUSE Conference talks"
-#~ msgstr "openSUSE-konferencetaler"
-
-#~ msgid "What's new"
-#~ msgstr "Hvad er nyt"
-
-#~ msgid ""
-#~ "Machinery supports configuration discovery, system validation, and "
-#~ "service migration."
-#~ msgstr ""
-#~ "Machinery understøtter opdagelse, systemvalidering og migrering af "
-#~ "tjenester."
-
-#~ msgid "Check all openSUSE tools"
-#~ msgstr "Tjek alle openSUSE-værktøjer"
-
-#~ msgid ""
-#~ "Machinery is based on the idea of an universal system description.It is "
-#~ "transparent,extensible, and crafted beautifully."
-#~ msgstr ""
-#~ "Machinery er baseret på ideen om en universel systembeskrivelse. Det er "
-#~ "gennemsigtigt, kan udvides og smukt udført."
-
-#~ msgid ""
-#~ "Machinery is made for the system administrator of the data center. Read "
-#~ "more about the philosophy behind it."
-#~ msgstr ""
-#~ "Machinery er skabt til systemadministratoren i datacentret. Læs mere om "
-#~ "filosofien bag."
+msgstr "मुख्य पृष्ठ पर वापस जाएँ"

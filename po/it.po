@@ -3,23 +3,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-03-29 15:48+0000\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"PO-Revision-Date: 2017-07-14 12:51+0000\n"
 "Last-Translator: Alessio Adamo <alessio.adamo@gmail.com>\n"
-"Language-Team: Italian <https://l10n.opensuse.org/projects/landing-"
-"page/master/it/>\n"
+"Language-Team: Italian <https://l10n.opensuse.org/projects/landing-page/"
+"master/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
-"La scelta dei creatori per gli amministratori, gli sviluppatori e gli utenti "
-"desktop."
+"La scelta ideale per gli amministratori di sistema, gli sviluppatori e gli "
+"utilizzatori."
 
 #: index.html:48
 msgid "Home"
@@ -108,29 +108,29 @@ msgstr ""
 "configura il sistema e goditi la piattaforma d'elezione per sviluppatori "
 "Linux, amministratori e rivenditori di programmi."
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "giorni"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "giorno"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "ore"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "ora"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "all'openSUSE Conference"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "per openSUSE Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "Interventi programmati all'openSUSE Conference"
+msgid "is now available"
+msgstr "è disponibile adesso"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -323,27 +323,27 @@ msgstr "Sponsorizzato da:"
 msgid "Change language"
 msgstr "Cambia la lingua"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Tutti i diritti riservati."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Dati societari."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Torna alla pagina principale"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "per openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "all'openSUSE Conference"
 
-#~ msgid "is available now"
-#~ msgstr "è disponibile adesso"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "Interventi programmati all'openSUSE Conference"
 
 #~ msgid "What's new"
 #~ msgstr "Ultime novità"

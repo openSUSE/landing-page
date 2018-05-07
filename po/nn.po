@@ -8,16 +8,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2015-10-28 17:00+0100\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"PO-Revision-Date: 2017-07-02 08:17+0000\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
-"Language-Team: NorwegianNynorsk <i18n-nn@lister.ping.uio.no>\n"
+"Language-Team: Norwegian Nynorsk <https://l10n.opensuse.org/projects/landing-"
+"page/master/nn/>\n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -104,31 +105,29 @@ msgstr ""
 "set opp systemet og kos deg med plattforma som er svært populær blant Linux-"
 "utviklarar, systemadministratorar og programleverandørar."
 
-#: index.html:130
-msgid "days"
-msgstr ""
-
-#: index.html:131
-msgid "day"
-msgstr ""
-
 #: index.html:132
-msgid "hours"
-msgstr ""
+msgid "days"
+msgstr "dagar"
 
 #: index.html:133
-msgid "hour"
-msgstr ""
+msgid "day"
+msgstr "dag"
 
-#: index.html:136
-#, fuzzy
-msgid "for openSUSE Conference"
-msgstr "Møt openSUSE-brukarar på konferansar."
+#: index.html:134
+msgid "hours"
+msgstr "timar"
+
+#: index.html:135
+msgid "hour"
+msgstr "time"
+
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "for Leap 42.3"
 
 #: index.html:147
-#, fuzzy
-msgid "openSUSE Conference talks"
-msgstr "Møt openSUSE-brukarar på konferansar."
+msgid "is now available"
+msgstr "er no tilgjengeleg"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -228,7 +227,7 @@ msgstr "Finn ut meir om korleis du kan delta."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -311,22 +310,29 @@ msgstr "Vert støtta av:"
 msgid "Change language"
 msgstr "Byt språk"
 
-#: index.html:429
-#, fuzzy
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Med einerett."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
-msgstr ""
+msgstr "Juridisk informasjon."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Tilbake til hovudsida"
+
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "Møt openSUSE-brukarar på konferansar."
+
+#, fuzzy
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "Møt openSUSE-brukarar på konferansar."
 
 #~ msgid "What's new"
 #~ msgstr "Siste nytt"

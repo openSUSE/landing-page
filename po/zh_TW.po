@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-03-20 17:57+0000\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"PO-Revision-Date: 2017-07-15 07:05+0000\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/landing-"
 "page/master/zh_TW/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -102,29 +102,29 @@ msgstr ""
 "愛的桌面、設定您的系統，享受這個 Linux 開發者、系統管理者及軟體開發商心目中的"
 "理想平台。"
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "天"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "天"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "小時"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "小時"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "for openSUSE Conference"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "for Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "openSUSE 研討會"
+msgid "is now available"
+msgstr "is now available"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -300,21 +300,27 @@ msgstr "贊助："
 msgid "Change language"
 msgstr "變更語系"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "保留所有權利。"
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "版本說明。"
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "回到主頁面"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "for openSUSE Conference"
+
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "openSUSE 研討會"
 
 #~ msgid "What's new"
 #~ msgstr "新功能"

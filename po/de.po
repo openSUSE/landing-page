@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-03-10 12:18+0000\n"
 "Last-Translator: Ludwig Nussel <lnussel@suse.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/landing-page/"
@@ -110,29 +110,29 @@ msgstr ""
 "Desktop, Konfigurieren Sie Ihr System und genießen Sie die Plattform der "
 "Wahl für Linux-Entwickler, Administratoren und Softwarehersteller."
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "Tage"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "Tag"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "Stunden"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "Stunde"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "bis zur openSUSE Konferenz"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "bis openSUSE Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "openSUSE Konferenz Vorträge"
+msgid "is now available"
+msgstr "ist jetzt verfügbar"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -332,27 +332,27 @@ msgstr "Gesponsert von:"
 msgid "Change language"
 msgstr "Sprache wechseln"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Alle Rechte vorbehalten."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Impressum."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://de.opensuse.org/Impressum"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Zurück zur Hauptseite"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "bis openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "bis zur openSUSE Konferenz"
 
-#~ msgid "is available now"
-#~ msgstr "ist jetzt verfügbar"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "openSUSE Konferenz Vorträge"
 
 # Maybe shorten it to "Neues"?
 #~ msgid "What's new"

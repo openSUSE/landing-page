@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-04-17 05:17+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-"
-"page/master/id/>\n"
+"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
+"master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -104,29 +104,29 @@ msgstr ""
 "anda dan nikmati platform pilihan untuk pengembang linux, administrator dan "
 "pengembang perangkat lunak."
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "hari"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "hari"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "jam"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "jam"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "untuk Konferensi openSUSE"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "untuk openSUSE Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "Perbincangan Konferensi openSUSE"
+msgid "is now available"
+msgstr "tersedia sekarang"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -320,24 +320,24 @@ msgstr "Disponsori oleh:"
 msgid "Change language"
 msgstr "Ganti bahasa"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Seluruh Hak Cipta Dilindungi."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Jejak."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Kembali ke halaman utama"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "untuk openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "untuk Konferensi openSUSE"
 
-#~ msgid "is available now"
-#~ msgstr "tersedia sekarang"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "Perbincangan Konferensi openSUSE"

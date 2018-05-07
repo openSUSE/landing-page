@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-07 17:17:39 +0200\n"
+"POT-Creation-Date: 2017-07-26 10:24:02 +0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,28 +82,28 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr ""
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr ""
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr ""
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr ""
 
-#: index.html:136
-msgid "for openSUSE Conference"
+#: index.html:138
+msgid "for Leap 42.3"
 msgstr ""
 
 #: index.html:147
-msgid "openSUSE Conference talks"
+msgid "is now available"
 msgstr ""
 
 #: index.html:158
@@ -258,18 +258,18 @@ msgstr ""
 msgid "Change language"
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr ""
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr ""
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr ""

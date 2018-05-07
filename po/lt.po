@@ -10,17 +10,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LCN (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
 "PO-Revision-Date: 2017-06-13 09:22+0000\n"
 "Last-Translator: Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>\n"
-"Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-"
-"page/master/lt/>\n"
+"Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-page/"
+"master/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || "
-"n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
 "X-Generator: Weblate 2.6\n"
 
 #: index.html:4 index.html:78
@@ -116,29 +116,29 @@ msgstr ""
 "renkasi Linukso programuotojai, administratoriai ir programinės įrangos "
 "platintojai."
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "d."
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "d."
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "val."
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "val."
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "iki openSUSE konferencijose"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "iki openSUSE Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "openSUSE konferencijos pranešimai"
+msgid "is now available"
+msgstr "jau galite atsisiųsti"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -329,27 +329,27 @@ msgstr "Rėmėjai:"
 msgid "Change language"
 msgstr "Pakeisti kalbą"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Visos teisės saugomos."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Impressum."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Grįžti į pradinį puslapį"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "iki openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "iki openSUSE konferencijose"
 
-#~ msgid "is available now"
-#~ msgstr "jau galite atsisiųsti"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "openSUSE konferencijos pranešimai"
 
 #~ msgid "What's new"
 #~ msgstr "Naujienos"

@@ -266,6 +266,7 @@ window.lang.dynamic('es', 'assets/js/langpack/es.json');
 window.lang.dynamic('fa', 'assets/js/langpack/fa.json');
 window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
 window.lang.dynamic('gl', 'assets/js/langpack/gl.json');
+window.lang.dynamic('hy', 'assets/js/langpack/hy.json');
 window.lang.dynamic('id', 'assets/js/langpack/id.json');
 window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');

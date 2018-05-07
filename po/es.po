@@ -3,9 +3,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-10 13:22:58 +0100\n"
-"PO-Revision-Date: 2017-06-14 20:03+0000\n"
-"Last-Translator: Javier Llorente <javier@opensuse.org>\n"
+"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"PO-Revision-Date: 2018-04-29 00:06+0000\n"
+"Last-Translator: Ioannes Andreas <ioannes@tuta.io>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/landing-"
 "page/master/es/>\n"
 "Language: es\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:78
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -102,35 +102,35 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 "Usuarios nuevos y experimentados de Linux obtienen la distribución más "
-"utilizable y estabilizada de Linux con la versión de lanzamientos periódicos "
-"de openSUSE. Reciba actualizaciones y fortifique su sistema operativo con la "
-"con la última versión de la distribución principal de openSUSE. Elija su "
+"utilizable y estabilizada con la versión de lanzamientos periódicos de "
+"openSUSE. Reciba actualizaciones y fortifique su sistema operativo con la "
+"última versión de la distribución principal de openSUSE. Elija su "
 "escritorio, configure su sistema y disfrute de la plataforma de elección "
-"para los desarrolladores de Linux, administradores y proveedores de software."
+"para desarrolladores, administradores y proveedores de software."
 
-#: index.html:130
+#: index.html:132
 msgid "days"
 msgstr "días"
 
-#: index.html:131
+#: index.html:133
 msgid "day"
 msgstr "día"
 
-#: index.html:132
+#: index.html:134
 msgid "hours"
 msgstr "horas"
 
-#: index.html:133
+#: index.html:135
 msgid "hour"
 msgstr "hora"
 
-#: index.html:136
-msgid "for openSUSE Conference"
-msgstr "para la conferencia de openSUSE"
+#: index.html:138
+msgid "for Leap 42.3"
+msgstr "para openSUSE Leap 42.3"
 
 #: index.html:147
-msgid "openSUSE Conference talks"
-msgstr "ponencias de la Conferencia de openSUSE"
+msgid "is now available"
+msgstr "está disponible ahora"
 
 #: index.html:158
 msgid "openSUSE TOOLS"
@@ -161,7 +161,7 @@ msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
-"Pruebas automatizadas para *cualquier* sistema operativo, que pueden leer la "
+"Pruebas automatizadas -para cualquier sistema operativo- que pueden leer la "
 "pantalla y controlar el sistema huésped de prueba de la misma manera que lo "
 "haría un usuario."
 
@@ -169,8 +169,8 @@ msgstr ""
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
-"La mejor/única herramienta exhaustiva de configuración de sistema Linux y de "
-"instalación."
+"La mejor/única herramienta exhaustiva de configuración e instalación del "
+"sistema Linux."
 
 #: index.html:231
 msgid ""
@@ -239,7 +239,7 @@ msgstr "Descubra más sobre cómo participar."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
@@ -325,27 +325,27 @@ msgstr "Patrocinado por:"
 msgid "Change language"
 msgstr "Cambiar idioma"
 
-#: index.html:429
+#: index.html:430
 msgid "All Rights Reserved."
 msgstr "Todos los derechos reservados."
 
-#: index.html:429
+#: index.html:430
 msgid "Imprint."
 msgstr "Información legal."
 
-#: index.html:429
+#: index.html:430
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:452
+#: index.html:453
 msgid "Back to main page"
 msgstr "Volver a la página principal"
 
-#~ msgid "for openSUSE Leap 42.2"
-#~ msgstr "para openSUSE Leap 42.2"
+#~ msgid "for openSUSE Conference"
+#~ msgstr "para la conferencia de openSUSE"
 
-#~ msgid "is available now"
-#~ msgstr "está disponible ahora"
+#~ msgid "openSUSE Conference talks"
+#~ msgstr "ponencias de la Conferencia de openSUSE"
 
 #~ msgid "What's new"
 #~ msgstr "Qué hay de nuevo"
