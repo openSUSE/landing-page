@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 10:24:02 +0200\n"
-"PO-Revision-Date: 2018-02-18 20:02+0000\n"
+"PO-Revision-Date: 2018-05-22 23:02+0000\n"
 "Last-Translator: Tommi Nieminen <software@legisign.org>\n"
 "Language-Team: Finnish <https://l10n.opensuse.org/projects/landing-"
 "page/master/fi/>\n"
@@ -207,22 +207,33 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"openSUSE uskoo, että parhaita tuloksia saa ihmisiltä, jotka toimivat "
+"yhteistyössä ja pitävät hauskaa. openSUSEsta tekee kiinnostavan se, miten se "
+"eroaa muista avoimen lähdekoodin yhteisöistä. Emme ole tavanomainen yhteisö, "
+"vaan yhteisömme uurastus määrittää projektin suunnan. Yhteisömme tekemä työ "
+"on luonut Linuxiin monia hienoja työkaluja sekä upean Linux-jakelun. "
+"openSUSEssa sinulla on ääni ja voit helposti vaikuttaa projektiin. Oletpa "
+"kokenut Linux-kehittäjä tai loppukäyttäjä, ota osaa openSUSE-projektiin. "
+"Liity keskustelualueelle, pidä wikimme ajan tasalla, etsi ja ilmoita "
+"ohjelmavirheistä, tarkista ohjeistusta, lähetä toivomuslistasi uusista "
+"paketeista ja ominaisuuksista, tee ja lähetä paikkauksia tai rupea openSUSEn "
+"puolestapuhujaksi osallistumalla tapahtumiin ja tulemalla lähettilääksi."
 
 #: index.html:273
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "Lue lisää osallistumismahdollisuuksista."
 
 #: index.html:273
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:281
 msgid "Hardware"
-msgstr ""
+msgstr "Laitteisto"
 
 #: index.html:286
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "Avusta laitteistossa"
 
 #: index.html:287
 msgid ""
@@ -238,58 +249,70 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"openSUSE-projektia tukevat lahjoitukset ovat aina tervetulleita. Itse "
+"asiassa useiden avoimen lähdekoodin projektien käyttämä Open Build Service "
+"tuli projektiyhteisön käyttöön AMD:n avokätisesti lahjoittamien palvelinten "
+"myötä. Tällaiset lahjoitukset mahdollistavat ihmisten ja projektien "
+"menestyksen, kehityksen, uudistumisen ja edistymisen. Projekti ei pyydä "
+"rahaa vaan laitelahjoituksia, jotta avoimen lähdekoodin yhteisö voi tehostaa "
+"Linuxin kehitystä, antaa openSUSElle työkalut avoimeen, vapaan lähdekoodin "
+"ekosysteemiin sekä mahdollistaa palautteen kehittäjille, ylläpitäjille ja "
+"paketoijille. Laitteet auttavat openSUSE-yhteisöä! Laitteet auttavat avoimen "
+"lähdekoodin yhteisöä! Ja laitteet auttavat Linuxin kehitystä. Saadaksesi "
+"lisätietoa, miten voit lahjoittaa laitteistoa openSUSE-projektille, lähetä "
+"sähköpostia osoitteeseen"
 
 #: index.html:297
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "Kohtaa openSUSE konferensseissa."
 
 #: index.html:298
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "Katso tulevia konferensseja"
 
 #: index.html:310
 msgid "Get software"
-msgstr ""
+msgstr "Nouda ohjelmia"
 
 #: index.html:315
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:320
 msgid "Build Service"
-msgstr ""
+msgstr "Koostamispalvelu"
 
 #: index.html:329
 msgid "Social Network"
-msgstr ""
+msgstr "Sosiaalinen verkko"
 
 #: index.html:339
 msgid "Forums"
-msgstr ""
+msgstr "Keskustelualueet"
 
 #: index.html:348
 msgid "Shop"
-msgstr ""
+msgstr "Kauppa"
 
 #: index.html:353
 msgid "Blogs"
-msgstr ""
+msgstr "Blogit"
 
 #: index.html:358
 msgid "Press"
-msgstr ""
+msgstr "Lehdistö"
 
 #: index.html:383
 msgid "Sponsored by:"
-msgstr ""
+msgstr "Tukijat:"
 
 #: index.html:389
 msgid "Change language"
-msgstr ""
+msgstr "Vaihda kieltä"
 
 #: index.html:430
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Kaikki oikeudet pidätetään."
 
 #: index.html:430
 msgid "Imprint."
@@ -297,8 +320,8 @@ msgstr ""
 
 #: index.html:430
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:453
 msgid "Back to main page"
-msgstr ""
+msgstr "Palaa pääsivulle"
