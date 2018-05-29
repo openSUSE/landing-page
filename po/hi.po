@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
 "PO-Revision-Date: 2018-05-07 18:02+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
-"Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-"
-"page/master/hi/>\n"
+"Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-page/master/"
+"hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,48 +14,47 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.18\n"
 
-#: index.html:4 index.html:78
+#: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
-"सिस्टम प्रबंधकों, डेवलपर व डेस्कटॉप उपयोक्ताओं के लिए निर्माता की पहली पसंद।"
+msgstr "सिस्टम प्रबंधकों, डेवलपर व डेस्कटॉप उपयोक्ताओं के लिए निर्माता की पहली पसंद।"
 
-#: index.html:48
+#: index.html:49
 msgid "Home"
 msgstr "होम"
 
-#: index.html:51
+#: index.html:52
 msgid "Tools"
 msgstr "साधन"
 
-#: index.html:54 index.html:334
+#: index.html:55 index.html:335
 msgid "News"
 msgstr "संदेश"
 
-#: index.html:57
+#: index.html:58
 msgid "Contribute"
 msgstr "योगदान करें"
 
-#: index.html:60
+#: index.html:61
 msgid "Conferences"
 msgstr "सम्मेलन"
 
-#: index.html:86
+#: index.html:87
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"इस हमेशा अपडेट रहने वाले रिलीज़ संस्करण के साथ पाएँ लिनक्स के नवीनतम पैकेज। ते"
-"ज़! समन्वित! स्थिर! परीक्षित!"
+"इस हमेशा अपडेट रहने वाले रिलीज़ संस्करण के साथ पाएँ लिनक्स के नवीनतम पैकेज। तेज़! समन्वित! "
+"स्थिर! परीक्षित!"
 
-#: index.html:87 index.html:109
+#: index.html:88 index.html:110
 msgid "More information"
 msgstr "अधिक जानकारी"
 
-#: index.html:89 index.html:97
+#: index.html:90 index.html:98
 msgid "Install Tumbleweed"
 msgstr "Tumbleweed इंस्टॉल करें"
 
-#: index.html:92
+#: index.html:93
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -65,28 +64,28 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"हर वह उपयोक्ता Tumbleweed चाहेगा, जो चाहता है कि उसके सिस्टम में लिनक्स कर्ने"
-"ल, SAMBA,git,डेस्कटॉप, ऑफिस संबंधी अनुप्रयोग व कई अन्य पैकेज के अतिरिक्त, "
-"बाकी पैकेज भी नवीनतम हो। Tumbleweed निपुण उपयोक्ताओं, सॉफ्टवेयर डेवलपर व "
-"openSUSE योगदानकर्ताओं के लिए आकर्षण का केंद्र है। अगर आपको आवश्यकता है, नवी"
-"नतम सॉफ्टवेयर अनुप्रयोग व IDE या फिर आप चाहते है एक हमेशा अपडेट रहने वाला, "
-"स्थिर लिनक्स ऑपरेटिंग सिस्टम, तो आपके लिए सबसे उपयुक्त Tumbleweed ही है।"
+"हर वह उपयोक्ता Tumbleweed चाहेगा, जो चाहता है कि उसके सिस्टम में लिनक्स कर्नेल, SAMBA,"
+"git,डेस्कटॉप, ऑफिस संबंधी अनुप्रयोग व कई अन्य पैकेज के अतिरिक्त, बाकी पैकेज भी नवीनतम हो। "
+"Tumbleweed निपुण उपयोक्ताओं, सॉफ्टवेयर डेवलपर व openSUSE योगदानकर्ताओं के लिए आकर्षण "
+"का केंद्र है। अगर आपको आवश्यकता है, नवीनतम सॉफ्टवेयर अनुप्रयोग व IDE या फिर आप चाहते है "
+"एक हमेशा अपडेट रहने वाला, स्थिर लिनक्स ऑपरेटिंग सिस्टम, तो आपके लिए सबसे उपयुक्त "
+"Tumbleweed ही है।"
 
-#: index.html:94
+#: index.html:95
 msgid "Learn more"
 msgstr "और जानें"
 
-#: index.html:108
+#: index.html:109
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
 
-#: index.html:111 index.html:116
+#: index.html:112 index.html:117
 msgid "Install Leap"
 msgstr "Leap इंस्टॉल करें"
 
-#: index.html:114
+#: index.html:115
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -95,88 +94,88 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 
-#: index.html:132
+#: index.html:133
 msgid "days"
 msgstr "दिनों"
 
-#: index.html:133
+#: index.html:134
 msgid "day"
 msgstr "दिन"
 
-#: index.html:134
+#: index.html:135
 msgid "hours"
 msgstr "घंटे"
 
-#: index.html:135
+#: index.html:136
 msgid "hour"
 msgstr "घंटा"
 
-#: index.html:138
+#: index.html:139
 msgid "for Leap 42.3"
 msgstr "Leap 42.3 के लिए"
 
-#: index.html:147
-msgid "is now available"
-msgstr "अब उपलब्ध है"
+#: index.html:148
+msgid "openSUSE Conference 2018"
+msgstr ""
 
-#: index.html:158
+#: index.html:159
 msgid "openSUSE TOOLS"
 msgstr "openSUSE साधन"
 
-#: index.html:159
+#: index.html:160
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
 msgstr "लिंक पर जाएँ"
 
-#: index.html:177
+#: index.html:178
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
 
-#: index.html:195
+#: index.html:196
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
 
-#: index.html:213
+#: index.html:214
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 
-#: index.html:231
+#: index.html:232
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
 
-#: index.html:258
+#: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "OPENSUSE में योगदान दें"
 
-#: index.html:259
+#: index.html:260
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
 
-#: index.html:266
+#: index.html:267
 msgid "Code"
 msgstr "कोड"
 
-#: index.html:267 index.html:282
+#: index.html:268 index.html:283
 msgid "Find out more"
 msgstr "और जानें"
 
-#: index.html:271
+#: index.html:272
 msgid "Contribute Code"
 msgstr "कोड के रूप में योगदान दें"
 
-#: index.html:272
+#: index.html:273
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -192,23 +191,23 @@ msgid ""
 "ambassador."
 msgstr ""
 
-#: index.html:273
+#: index.html:274
 msgid "Find out more about how to participate."
 msgstr ""
 
-#: index.html:273
+#: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:282
 msgid "Hardware"
 msgstr "हार्डवेयर"
 
-#: index.html:286
+#: index.html:287
 msgid "Contribute Hardware"
 msgstr "हार्डवेयर के रूप में योगदान दें"
 
-#: index.html:287
+#: index.html:288
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -223,66 +222,69 @@ msgid ""
 "the openSUSE project, email"
 msgstr ""
 
-#: index.html:297
+#: index.html:298
 msgid "Meet up with openSUSE at conferences."
 msgstr "openSUSE के सम्मेलनों का हिस्सा बनें।"
 
-#: index.html:298
+#: index.html:299
 msgid "View upcoming conferences"
 msgstr "आगामी सम्मेलन देखें"
 
-#: index.html:310
+#: index.html:311
 msgid "Get software"
 msgstr "सॉफ्टवेयर प्राप्त करें"
 
-#: index.html:315
+#: index.html:316
 msgid "Wiki"
 msgstr "विकी"
 
-#: index.html:320
+#: index.html:321
 msgid "Build Service"
 msgstr "निर्माण सेवा"
 
-#: index.html:329
+#: index.html:330
 msgid "Social Network"
 msgstr "सोशल नेटवर्क"
 
-#: index.html:339
+#: index.html:340
 msgid "Forums"
 msgstr "चर्चा मंच"
 
-#: index.html:348
+#: index.html:349
 msgid "Shop"
 msgstr "दुकान"
 
-#: index.html:353
+#: index.html:354
 msgid "Blogs"
 msgstr "ब्लॉग"
 
-#: index.html:358
+#: index.html:359
 msgid "Press"
 msgstr "प्रेस"
 
-#: index.html:383
+#: index.html:384
 msgid "Sponsored by:"
 msgstr "प्रायोजक :"
 
-#: index.html:389
+#: index.html:390
 msgid "Change language"
 msgstr "भाषा बदलें"
 
-#: index.html:430
+#: index.html:431
 msgid "All Rights Reserved."
 msgstr "सर्वाधिकार सुरक्षित।"
 
-#: index.html:430
+#: index.html:431
 msgid "Imprint."
 msgstr "प्रकाशन जानकारी।"
 
-#: index.html:430
+#: index.html:431
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:453
+#: index.html:454
 msgid "Back to main page"
 msgstr "मुख्य पृष्ठ पर वापस जाएँ"
+
+#~ msgid "is now available"
+#~ msgstr "अब उपलब्ध है"

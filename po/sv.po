@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
 "PO-Revision-Date: 2017-06-04 19:59+0000\n"
 "Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-page/"
@@ -20,33 +20,33 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.6\n"
 
-#: index.html:4 index.html:78
+#: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "The makers' choice för systemadministratörer, utvecklare och datoranvändare."
 
-#: index.html:48
+#: index.html:49
 msgid "Home"
 msgstr "Hem"
 
-#: index.html:51
+#: index.html:52
 msgid "Tools"
 msgstr "Verktyg"
 
-#: index.html:54 index.html:334
+#: index.html:55 index.html:335
 msgid "News"
 msgstr "Nyheter"
 
 # continue button label
-#: index.html:57
+#: index.html:58
 msgid "Contribute"
 msgstr "Bidra"
 
-#: index.html:60
+#: index.html:61
 msgid "Conferences"
 msgstr "Konferenser"
 
-#: index.html:86
+#: index.html:87
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -54,15 +54,15 @@ msgstr ""
 "Med vår rullade utgåva av Linux har du alltid de nyaste programpaketen. "
 "Snabbt! Integrerat! Stabiliserat! Testat!"
 
-#: index.html:87 index.html:109
+#: index.html:88 index.html:110
 msgid "More information"
 msgstr "Mer information"
 
-#: index.html:89 index.html:97
+#: index.html:90 index.html:98
 msgid "Install Tumbleweed"
 msgstr "Installera Tumbleweed"
 
-#: index.html:92
+#: index.html:93
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -79,11 +79,11 @@ msgstr ""
 "köra Linux så nära bleeding edge som möjligt, är Tumbleweed det bästa valet "
 "för dig."
 
-#: index.html:94
+#: index.html:95
 msgid "Learn more"
 msgstr "Lär dig mer"
 
-#: index.html:108
+#: index.html:109
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
@@ -91,11 +91,11 @@ msgstr ""
 "Få den mest kompletta Linuxdistributionen med openSUSE:s senaste "
 "standardutgåva!"
 
-#: index.html:111 index.html:116
+#: index.html:112 index.html:117
 msgid "Install Leap"
 msgstr "Installera Leap"
 
-#: index.html:114
+#: index.html:115
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -109,43 +109,44 @@ msgstr ""
 "skrivbordsmiljö, konfigurera ditt system och ha kul med plattformen som är "
 "valet för Linuxutvecklare, administratörer och programleverantörer."
 
-#: index.html:132
+#: index.html:133
 msgid "days"
 msgstr "dagar"
 
-#: index.html:133
+#: index.html:134
 msgid "day"
 msgstr "dag"
 
-#: index.html:134
+#: index.html:135
 msgid "hours"
 msgstr "timmar"
 
-#: index.html:135
+#: index.html:136
 msgid "hour"
 msgstr "timme"
 
-#: index.html:138
+#: index.html:139
 msgid "for Leap 42.3"
 msgstr "för openSUSE Leap 42.3"
 
-#: index.html:147
-msgid "is now available"
-msgstr "är tillgänglig nu"
+#: index.html:148
+#, fuzzy
+msgid "openSUSE Conference 2018"
+msgstr "openSUSE-konferens fördrag"
 
-#: index.html:158
+#: index.html:159
 msgid "openSUSE TOOLS"
 msgstr "openSUSE VERKTYG"
 
-#: index.html:159
+#: index.html:160
 msgid "Discover the best open-source tools developed by our community"
 msgstr "Upptäck de bästa open-sourceverktygen utvecklade av vår community"
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
 msgstr "Gå till länk"
 
-#: index.html:177
+#: index.html:178
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -155,7 +156,7 @@ msgstr ""
 "Enterprise,  Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu "
 "med flera."
 
-#: index.html:195
+#: index.html:196
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -163,14 +164,14 @@ msgstr ""
 "Automatiserad test av *alla* operativsystem som kant läsa av skärmen och "
 "kontrollera testobjektet på samma sätt som en användare gör."
 
-#: index.html:213
+#: index.html:214
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "Det bästa och mest kompletta konfiguration- och installationsverktyget för "
 "Linux."
 
-#: index.html:231
+#: index.html:232
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -180,28 +181,28 @@ msgstr ""
 "nu även på systemcontainers såsom Docker. Kiwi är motor som driver SUSE "
 "Studio."
 
-#: index.html:258
+#: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "BIDRA TILL OPENSUSE"
 
-#: index.html:259
+#: index.html:260
 msgid "Be part of our community contributing with any of the following:"
 msgstr "Bli en del av vår community genom att bidra med något av följande:"
 
-#: index.html:266
+#: index.html:267
 msgid "Code"
 msgstr "Kod"
 
-#: index.html:267 index.html:282
+#: index.html:268 index.html:283
 msgid "Find out more"
 msgstr "Läs mer"
 
 # continue button label
-#: index.html:271
+#: index.html:272
 msgid "Contribute Code"
 msgstr "Bidra med kod"
 
-#: index.html:272
+#: index.html:273
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -227,23 +228,23 @@ msgstr ""
 "buggar, se över dokumentationen, sänd in önskningar om nya paket och "
 "funktioner, bidra med patchar och inte minst, hjälp till att sprida openSUSE."
 
-#: index.html:273
+#: index.html:274
 msgid "Find out more about how to participate."
 msgstr "Läs mer om hur du kan deltaga."
 
-#: index.html:273
+#: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:282
 msgid "Hardware"
 msgstr "Maskinvara"
 
-#: index.html:286
+#: index.html:287
 msgid "Contribute Hardware"
 msgstr "Bidra med hårdvara"
 
-#: index.html:287
+#: index.html:288
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -269,72 +270,72 @@ msgstr ""
 "utvecklingen av Linux. För att se hur du kan donera hårdvara till openSUSE-"
 "projektet, e-posta"
 
-#: index.html:297
+#: index.html:298
 msgid "Meet up with openSUSE at conferences."
 msgstr "Träffas på openSUSE konferenser."
 
-#: index.html:298
+#: index.html:299
 msgid "View upcoming conferences"
 msgstr "Se kommande konferenser"
 
-#: index.html:310
+#: index.html:311
 msgid "Get software"
 msgstr "Få programvara"
 
-#: index.html:315
+#: index.html:316
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:320
+#: index.html:321
 msgid "Build Service"
 msgstr "Byggtjänst"
 
-#: index.html:329
+#: index.html:330
 msgid "Social Network"
 msgstr "Sociala nätverk"
 
-#: index.html:339
+#: index.html:340
 msgid "Forums"
 msgstr "Forum"
 
-#: index.html:348
+#: index.html:349
 msgid "Shop"
 msgstr "Butik"
 
-#: index.html:353
+#: index.html:354
 msgid "Blogs"
 msgstr "Bloggar"
 
-#: index.html:358
+#: index.html:359
 msgid "Press"
 msgstr "Press"
 
-#: index.html:383
+#: index.html:384
 msgid "Sponsored by:"
 msgstr "Sponsorerat av:"
 
-#: index.html:389
+#: index.html:390
 msgid "Change language"
 msgstr "Ändra språk"
 
-#: index.html:430
+#: index.html:431
 msgid "All Rights Reserved."
 msgstr "Alla rättigheter reserverade."
 
-#: index.html:430
+#: index.html:431
 msgid "Imprint."
 msgstr "Imprint."
 
-#: index.html:430
+#: index.html:431
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:453
+#: index.html:454
 msgid "Back to main page"
 msgstr "Tillbaka till huvudsida"
 
+#~ msgid "is now available"
+#~ msgstr "är tillgänglig nu"
+
 #~ msgid "for openSUSE Conference"
 #~ msgstr "för openSUSE konferens"
-
-#~ msgid "openSUSE Conference talks"
-#~ msgstr "openSUSE-konferens fördrag"

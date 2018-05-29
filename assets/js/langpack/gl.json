@@ -1,7 +1,8 @@
 {
   "WARNING": "Please see the README.md - this is generated",
   "token": {
-    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Calquera usuario que desexe ter os paquetes máis recentes que inclúen, pero non son limitados a, kernel linux, SAMBA, git, escritorios, aplicativos ofimáticos e moitos outros paquetes, quereré Tumbleweed. Tumbleweed atrae a usuarios avanzados, desenvolvedores de software e contribuidores de openSUSE. Se quere o software máis recente e un ambiente de desenvolvemento independente ou precisa unha plataforma estábel preto do máis recente en Linux, Tumbleweed é a súa mellor escolla.",
+    "All Rights Reserved.": "Todos os dereitos reservados.",
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Calquera usuario que desexe ter os paquetes máis recentes que inclúen, pero non son limitados a, o kernel linux, SAMBA, git, escritorios, aplicativos ofimáticos e moitos outros paquetes, quererá Tumbleweed. Tumbleweed atrae a usuarios avanzados, desenvolvedores de software e contribuidores de openSUSE. Se quere o software máis recente e un ambiente de desenvolvemento independente ou precisa unha plataforma estábel próxima ao máis recente en Linux, Tumbleweed é a súa mellor escolla.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Probas automatizadas para *calquera* sistema operativo, que poden ler a pantalla e controlar o sistema anfitrión de proba do mesmo xeito que o faría un usuario.",
     "Back to main page": "Volver á páxina principal",
     "Be part of our community contributing with any of the following:": "Sexa parte da nosa comunidade contribuíndo cun dos modos seguintes:",
@@ -23,10 +24,11 @@
     "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!": "Obteña os paquetes de Linux máis novos coa nosa versión de lanzamento continuo. Rápido! Integrado! Estabilizado! Probado!",
     "Go to link": "Ir á ligazón",
     "Home": "Directorio Persoal",
+    "Imprint.": "Responsábel.",
     "Install Leap": "Instalar Leap",
     "Install Tumbleweed": "Instalar Tumbleweed",
     "Learn more": "Aprenda máis",
-    "Meet up with openSUSE at conferences.": "Encóntrese con openSUSE en conferencias",
+    "Meet up with openSUSE at conferences.": "Encóntrese con openSUSE en conferencias.",
     "More information": "Máis información",
     "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.": "Usuarios novos e experimentados de Linux obteñen a distribución máis usábel e estábel de Linux coa versión regular de openSUSE. Reciba actualizacións e potencie o seu sistema operativo coa última distribución maior de openSUSE. Escolla o seu escritorio, configure o seu sistema e goce coa plataforma escollida por desenvolvedores de Linux, administradores e fornecedores de software.",
     "News": "Noticias",
@@ -39,6 +41,11 @@
     "The makers' choice for sysadmins, developers and desktop users.": "A mellor escolla para administradores de sistemas, desenvolvedores e usuarios de escritorio.",
     "Tools": "Ferramentas",
     "View upcoming conferences": "Vexa as próximas conferencias",
+    "day": "día",
+    "days": "días",
+    "for Leap 42.3": "para openSUSE Leap 42.3",
+    "hour": "hora",
+    "hours": "horas",
     "openSUSE TOOLS": "Ferramentas openSUSE",
     "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE cre que os mellores resultados veñen de xente colaborando e divertíndose. Ser diferente a outras comunidades de código aberto é o que fai a openSUSE desexábel. Non somos unha comunidade convencional e os esforzos da nosa comunidade determinan o camiño do proxecto. Os esforzos da comunidade crearon varias ferramentas importantes e unha incríbel distribución. Con openSUSE vostede ten a voz e pode doadamente contribuír ao proxecto. Xa como desenvolvedor de Linux con experiencia ou como usuario final involucrado no proxecto openSUSE. Únase ao foro, manteña a nosa wiki ao día, encontre e informe de erros, revise a documentación, envíe a súa lista de peticións de novos paquetes e características, cree e envíe parches ou fágase un defensor de openSUSE atendendo en eventos e sendo un embaixador."
   }
