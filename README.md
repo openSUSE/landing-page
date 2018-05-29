@@ -1,24 +1,46 @@
-# The new openSUSE landing page
+# The openSUSE landing page
 
 Visit the website at: https://www.opensuse.org/
 
-In this new page we will feature Tumbleweed and Leap.
+# CONTRIBUTING
+
+## Do you want to contribute by providing translations for the new openSUSE website?
+If yes is your answer, then you will make thousands of users happy to have the openSUSE landing page in their language.
+
+The openSUSE translations are provided by https://l10n.opensuse.org/. You can log in with your openSUSE account there.
+
+For introducing a new language, you need to continue reading.
+
+#### 1. introducing new language
+
+Now its time to add the new language to the dropdown. For this follow the next steps:
+
+1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
+2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added.
+3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to search for "i18n" and add your language following the pattern there.
+
+#### 2. Last steps: build and test
+
+GULP is used to run automatic tasks to preprocess CSS (from less), compress images, and optimize and compress JS.
+
+<pre>
+# zypper in 'rubygem(nokogiri)' 'rubygem(gettext)' npm gettext-tools
+$ po/update_po.rb
+$ npm update
+$ npm install gulp
+$ node_modules/.bin/gulp
+</pre>
+<small>More info about <a href="http://gulpjs.com/" target="_blank">gulp here</a></small>
+
+Gulp will give the final touch in the code so then you only need to open the project in your browser
+http://localhost:8000
+Test your language works well. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is error message in the console, if not, you have done an Excellent job!
+So, open a new Pull Request in github, we will double check everything is fine, and then Merge your contribution!
 
 
-#### Update 10/09/2015
-We added a Gulp task that:
-- Preprocesses CSS (compiles Less into CSS).
-- Preprocesses and minifies the Vendor's CSS into one file.
-- Minifies all .JS files into one file.
-- Watches all changes on CSS and JS files and compiles them on the go, so you dont need to compile manually as you work on the UI.
-- And runs a local instance in your localhost:8000
+---
 
-Just clone the repo and run gulp:
-
-```
-~/Opensuse-landing-page> gulp
-```
-
+# FAQ
 
 ## Why did we need a new one?
 After years working without a defined target audience and rather than focusing on all software, internet and computer users, the openSUSE Board invested time and knowledge understanding the real personas behind our beloved openSUSE. They identified two "different" users: the Tumbleweed user and users wanting a long-term distribution - the Leap user.
@@ -84,41 +106,6 @@ This is an static landing page and so, I (cynthia, who is writing this nice expl
 * WOW: A very popular script in today's websites reveals elements as they appear on the screen as use scrolls. Simple and easy to use. It gives the openSUSE landing page the last touch it needed to have a more modern look and feel. More info at: http://mynameismatthieu.com/WOW/docs.htmlope
 
 * jquery.easing.1.3: A simple Jquery library that extends the easing effect for the "animate" method which only includes **swing** and **linear**. In this case, it was used to give a better effect to the bouncing ball under the **Contribute** section which you will see if you click on any of the two options.
-
----
-
-# CONTRIBUTE
-
-## Do you want to contribute by providing translations for the new openSUSE website?
-If yes is your answer, then you will make thousands of users happy to have the openSUSE landing page in their language.
-
-The openSUSE translations are provided by https://l10n.opensuse.org/. You can log in with your openSUSE account there.
-
-For introducing a new language, you need to continue reading.
-
-#### 1. introducing new language
-
-Now its time to add the new language to the dropdown. For this follow the next steps:
-
-1. Inside the 'index.html' search with your text editor for 'dropdownMenu1', which is the list containing the options of languages available.
-2. Add a new option to the list by simply adding a like such ```<li><a href="#" class="change-language" data-language-value="es">Spanish</a></li>```. **Note** that the <code>data-language-value</code> attribute contains the value of the international code of the language you added.
-3. Now we have added the file in the dropdown, and the last step is to include the translation file. For this, you need to open the file **assets/js/opensuse-theme.js** . Here you need to search for "i18n" and add your language following the pattern there.
-
-#### 2. Last steps: build and test
-
-We use GULP to run automatic tasks to preprocess CSS (from less), compress images, and optimize and compress JS.
-The last step you need to do, is opening the terminal and going to the directory where you have the project cloned.
-Once you are there and considering you have `Gulp` and the ruby gems `nokogiri` and `gettext` installed, just run:
-<pre>
-$ po/update_po.rb
-$ gulp
-</pre>
-<small>More info about <a href="http://gulpjs.com/" target="_blank">gulp here</a></small>
-
-Gulp will give the final touch in the code so then you only need to open the project in your browser
-http://localhost:8000
-Test your language works well. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is error message in the console, if not, you have done an Excellent job!
-So, open a new Pull Request in github, we will double check everything is fine, and then Merge your contribution!
 
 ---
 
