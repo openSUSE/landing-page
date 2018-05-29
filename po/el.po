@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-07-21 11:24+0000\n"
 "Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
 "Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
@@ -130,13 +130,13 @@ msgid "hour"
 msgstr "ώρα"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "για το openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "Συναντήσεις στα συνέδρια openSUSE."
+msgid "is now available"
+msgstr "είναι διαθέσιμο τώρα"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -347,8 +347,9 @@ msgstr "https://el.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
 
-#~ msgid "is now available"
-#~ msgstr "είναι διαθέσιμο τώρα"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Συναντήσεις στα συνέδρια openSUSE."
 
 #, fuzzy
 #~ msgid "for openSUSE Conference"

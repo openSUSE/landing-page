@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,11 +99,11 @@ msgid "hour"
 msgstr ""
 
 #: index.html:139
-msgid "for Leap 42.3"
+msgid "for Leap 15.1"
 msgstr ""
 
 #: index.html:148
-msgid "openSUSE Conference 2018"
+msgid "is now available"
 msgstr ""
 
 #: index.html:159

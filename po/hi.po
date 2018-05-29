@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2018-05-07 18:02+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-page/master/"
@@ -111,12 +111,13 @@ msgid "hour"
 msgstr "घंटा"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "Leap 42.3 के लिए"
 
 #: index.html:148
-msgid "openSUSE Conference 2018"
-msgstr ""
+msgid "is now available"
+msgstr "अब उपलब्ध है"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -285,6 +286,3 @@ msgstr "https://en.opensuse.org/Imprint"
 #: index.html:454
 msgid "Back to main page"
 msgstr "मुख्य पृष्ठ पर वापस जाएँ"
-
-#~ msgid "is now available"
-#~ msgstr "अब उपलब्ध है"

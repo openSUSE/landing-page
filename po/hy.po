@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-07-26 08:07+0000\n"
 "Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
 "Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-page/"
@@ -118,13 +118,13 @@ msgid "hour"
 msgstr "ժամ"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "Leap 42.3 համար"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "Կոնֆերանսներ"
+msgid "is now available"
+msgstr "Առկա"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -331,8 +331,9 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Վերադառնալ գլխավոր էջ"
 
-#~ msgid "is now available"
-#~ msgstr "Առկա"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Կոնֆերանսներ"
 
 #, fuzzy
 #~ msgid "for openSUSE Conference"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-04-17 05:17+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
@@ -121,13 +121,13 @@ msgid "hour"
 msgstr "jam"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "untuk openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "Perbincangan Konferensi openSUSE"
+msgid "is now available"
+msgstr "tersedia sekarang"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -337,8 +337,9 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Kembali ke halaman utama"
 
-#~ msgid "is now available"
-#~ msgstr "tersedia sekarang"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Perbincangan Konferensi openSUSE"
 
 #~ msgid "for openSUSE Conference"
 #~ msgstr "untuk Konferensi openSUSE"

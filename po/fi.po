@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2018-05-22 23:02+0000\n"
 "Last-Translator: Tommi Nieminen <software@legisign.org>\n"
 "Language-Team: Finnish <https://l10n.opensuse.org/projects/landing-page/"
@@ -121,12 +121,13 @@ msgid "hour"
 msgstr "tunti"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "Leap 42.3:lle"
 
 #: index.html:148
-msgid "openSUSE Conference 2018"
-msgstr ""
+msgid "is now available"
+msgstr "on nyt saatavilla"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -326,6 +327,3 @@ msgstr "https://en.opensuse.org/Imprint"
 #: index.html:454
 msgid "Back to main page"
 msgstr "Palaa pääsivulle"
-
-#~ msgid "is now available"
-#~ msgstr "on nyt saatavilla"

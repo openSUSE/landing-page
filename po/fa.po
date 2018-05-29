@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-03-31 16:09+0000\n"
 "Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
@@ -120,13 +120,13 @@ msgid "hour"
 msgstr "ساعت"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "تا openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "صحبت های کنفرانس openSUSE"
+msgid "is now available"
+msgstr "در حال حاظر در دسترس است"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -327,8 +327,9 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "بازگشت به صفحه ی اصلی"
 
-#~ msgid "is now available"
-#~ msgstr "در حال حاظر در دسترس است"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "صحبت های کنفرانس openSUSE"
 
 #~ msgid "for openSUSE Conference"
 #~ msgstr "برای کنفرانس openSUSE"

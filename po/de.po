@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-03-10 12:18+0000\n"
 "Last-Translator: Ludwig Nussel <lnussel@suse.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/landing-page/"
@@ -127,13 +127,13 @@ msgid "hour"
 msgstr "Stunde"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "bis openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "openSUSE Konferenz Vorträge"
+msgid "is now available"
+msgstr "ist jetzt verfügbar"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -349,8 +349,9 @@ msgstr "https://de.opensuse.org/Impressum"
 msgid "Back to main page"
 msgstr "Zurück zur Hauptseite"
 
-#~ msgid "is now available"
-#~ msgstr "ist jetzt verfügbar"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "openSUSE Konferenz Vorträge"
 
 #~ msgid "for openSUSE Conference"
 #~ msgstr "bis zur openSUSE Konferenz"

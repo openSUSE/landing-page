@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-06-04 19:59+0000\n"
 "Last-Translator: Jonas Svensson <jonas@ekhorva.se>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-page/"
@@ -126,13 +126,13 @@ msgid "hour"
 msgstr "timme"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "för openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "openSUSE-konferens fördrag"
+msgid "is now available"
+msgstr "är tillgänglig nu"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -334,8 +334,9 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Tillbaka till huvudsida"
 
-#~ msgid "is now available"
-#~ msgstr "är tillgänglig nu"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "openSUSE-konferens fördrag"
 
 #~ msgid "for openSUSE Conference"
 #~ msgstr "för openSUSE konferens"

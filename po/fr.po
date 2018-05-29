@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 09:04:11 +0000\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2017-04-19 13:05+0000\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@opensuse.org>\n"
 "Language-Team: French <https://l10n.opensuse.org/projects/landing-page/"
@@ -132,13 +132,13 @@ msgid "hour"
 msgstr "heure"
 
 #: index.html:139
-msgid "for Leap 42.3"
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "pour openSUSE Leap 42.3"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Conference 2018"
-msgstr "Discussions de l'openSUSE Conference"
+msgid "is now available"
+msgstr "est disponible maintenant"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -347,8 +347,9 @@ msgstr "https://en.opensuse.org/Imprint"
 msgid "Back to main page"
 msgstr "Retour à la page principale"
 
-#~ msgid "is now available"
-#~ msgstr "est disponible maintenant"
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Discussions de l'openSUSE Conference"
 
 #~ msgid "for openSUSE Conference"
 #~ msgstr "avant la conférence openSUSE"
