@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
 "PO-Revision-Date: 2018-03-08 17:18+0000\n"
 "Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
-"Language-Team: Galician <https://l10n.opensuse.org/projects/landing-"
-"page/master/gl/>\n"
+"Language-Team: Galician <https://l10n.opensuse.org/projects/landing-page/"
+"master/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,34 +15,34 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.18\n"
 
-#: index.html:4 index.html:78
+#: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "A mellor escolla para administradores de sistemas, desenvolvedores e "
 "usuarios de escritorio."
 
-#: index.html:48
+#: index.html:49
 msgid "Home"
 msgstr "Directorio Persoal"
 
-#: index.html:51
+#: index.html:52
 msgid "Tools"
 msgstr "Ferramentas"
 
-#: index.html:54 index.html:334
+#: index.html:55 index.html:335
 msgid "News"
 msgstr "Noticias"
 
 # continue button label
-#: index.html:57
+#: index.html:58
 msgid "Contribute"
 msgstr "Contribuír"
 
-#: index.html:60
+#: index.html:61
 msgid "Conferences"
 msgstr "Conferencias"
 
-#: index.html:86
+#: index.html:87
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
@@ -50,15 +50,15 @@ msgstr ""
 "Obteña os paquetes de Linux máis novos coa nosa versión de lanzamento "
 "continuo. Rápido! Integrado! Estabilizado! Probado!"
 
-#: index.html:87 index.html:109
+#: index.html:88 index.html:110
 msgid "More information"
 msgstr "Máis información"
 
-#: index.html:89 index.html:97
+#: index.html:90 index.html:98
 msgid "Install Tumbleweed"
 msgstr "Instalar Tumbleweed"
 
-#: index.html:92
+#: index.html:93
 msgid ""
 "Any user who wishes to have the newest packages that include, but are not "
 "limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
@@ -76,11 +76,11 @@ msgstr ""
 "independente ou precisa unha plataforma estábel próxima ao máis recente en "
 "Linux, Tumbleweed é a súa mellor escolla."
 
-#: index.html:94
+#: index.html:95
 msgid "Learn more"
 msgstr "Aprenda máis"
 
-#: index.html:108
+#: index.html:109
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
@@ -88,11 +88,11 @@ msgstr ""
 "Obteña a distribución máis completa de Linux coa última versión de "
 "lanzamento regular de openSUSE!"
 
-#: index.html:111 index.html:116
+#: index.html:112 index.html:117
 msgid "Install Leap"
 msgstr "Instalar Leap"
 
-#: index.html:114
+#: index.html:115
 msgid ""
 "New and experienced Linux users get the most usable Linux distribution and "
 "stabilized operating system with openSUSE’s regular release. Receive updates "
@@ -107,45 +107,46 @@ msgstr ""
 "escollida por desenvolvedores de Linux, administradores e fornecedores de "
 "software."
 
-#: index.html:132
+#: index.html:133
 msgid "days"
 msgstr "días"
 
-#: index.html:133
+#: index.html:134
 msgid "day"
 msgstr "día"
 
-#: index.html:134
+#: index.html:135
 msgid "hours"
 msgstr "horas"
 
-#: index.html:135
+#: index.html:136
 msgid "hour"
 msgstr "hora"
 
-#: index.html:138
-msgid "for Leap 42.3"
+#: index.html:139
+#, fuzzy
+msgid "for Leap 15.1"
 msgstr "para openSUSE Leap 42.3"
 
-#: index.html:147
+#: index.html:148
 msgid "is now available"
 msgstr "dispoñíbel agora"
 
-#: index.html:158
+#: index.html:159
 msgid "openSUSE TOOLS"
 msgstr "Ferramentas openSUSE"
 
-#: index.html:159
+#: index.html:160
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 "Descubra as mellores ferramentas de código aberto desenvolvidas pola nosa "
 "comunidade"
 
-#: index.html:173 index.html:191 index.html:209 index.html:227
+#: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
 msgstr "Ir á ligazón"
 
-#: index.html:177
+#: index.html:178
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -155,7 +156,7 @@ msgstr ""
 "SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, "
 "Ubuntu e máis."
 
-#: index.html:195
+#: index.html:196
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -164,13 +165,13 @@ msgstr ""
 "pantalla e controlar o sistema anfitrión de proba do mesmo xeito que o faría "
 "un usuario."
 
-#: index.html:213
+#: index.html:214
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
 "A mellor/única ferramenta de configuración e de instalación de sistema Linux."
 
-#: index.html:231
+#: index.html:232
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
@@ -180,28 +181,28 @@ msgstr ""
 "tamén en contedores de sistema coma Docker. Kiwi é o motor que fai funcionar "
 "SUSE Studio."
 
-#: index.html:258
+#: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "CONTRIBUÍR A OPENSUSE"
 
-#: index.html:259
+#: index.html:260
 msgid "Be part of our community contributing with any of the following:"
 msgstr "Sexa parte da nosa comunidade contribuíndo cun dos modos seguintes:"
 
-#: index.html:266
+#: index.html:267
 msgid "Code"
 msgstr "Código"
 
-#: index.html:267 index.html:282
+#: index.html:268 index.html:283
 msgid "Find out more"
 msgstr "Atopar máis información"
 
 # continue button label
-#: index.html:271
+#: index.html:272
 msgid "Contribute Code"
 msgstr "Contribuír con código"
 
-#: index.html:272
+#: index.html:273
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -228,23 +229,23 @@ msgstr ""
 "lista de peticións de novos paquetes e características, cree e envíe parches "
 "ou fágase un defensor de openSUSE atendendo en eventos e sendo un embaixador."
 
-#: index.html:273
+#: index.html:274
 msgid "Find out more about how to participate."
 msgstr "Atopar máis información sobre como participar."
 
-#: index.html:273
+#: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:281
+#: index.html:282
 msgid "Hardware"
 msgstr "Hardware"
 
-#: index.html:286
+#: index.html:287
 msgid "Contribute Hardware"
 msgstr "Contribuír con hardware"
 
-#: index.html:287
+#: index.html:288
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -271,74 +272,74 @@ msgstr ""
 "código aberto! E o hardware axuda ao desenvolvemento de Linux. Para saber "
 "como pode doar hardware ao proxecto openSUSE, envíe un correo-e"
 
-#: index.html:297
+#: index.html:298
 msgid "Meet up with openSUSE at conferences."
 msgstr "Encóntrese con openSUSE en conferencias."
 
-#: index.html:298
+#: index.html:299
 msgid "View upcoming conferences"
 msgstr "Vexa as próximas conferencias"
 
-#: index.html:310
+#: index.html:311
 msgid "Get software"
 msgstr "Conseguir o software"
 
-#: index.html:315
+#: index.html:316
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:320
+#: index.html:321
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:329
+#: index.html:330
 msgid "Social Network"
 msgstr "Redes sociais"
 
-#: index.html:339
+#: index.html:340
 msgid "Forums"
 msgstr "Foros"
 
-#: index.html:348
+#: index.html:349
 msgid "Shop"
 msgstr "Tenda"
 
-#: index.html:353
+#: index.html:354
 msgid "Blogs"
 msgstr "Blogs"
 
-#: index.html:358
+#: index.html:359
 msgid "Press"
 msgstr "Prensa"
 
-#: index.html:383
+#: index.html:384
 msgid "Sponsored by:"
 msgstr "Patrocinado por:"
 
-#: index.html:389
+#: index.html:390
 msgid "Change language"
 msgstr "Cambiar idioma"
 
-#: index.html:430
+#: index.html:431
 msgid "All Rights Reserved."
 msgstr "Todos os dereitos reservados."
 
-#: index.html:430
+#: index.html:431
 msgid "Imprint."
 msgstr "Responsábel."
 
-#: index.html:430
+#: index.html:431
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:453
+#: index.html:454
 msgid "Back to main page"
 msgstr "Volver á páxina principal"
 
 #, fuzzy
-#~ msgid "for openSUSE Conference"
+#~ msgid "openSUSE Conference 2018"
 #~ msgstr "Encóntrese con openSUSE en conferencias"
 
 #, fuzzy
-#~ msgid "openSUSE Conference talks"
+#~ msgid "for openSUSE Conference"
 #~ msgstr "Encóntrese con openSUSE en conferencias"
