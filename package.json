@@ -4,7 +4,7 @@
   "description": "The landing page to get all the latest information about openSUSE Tumbleweed and Leap",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-cache": "^0.4.5",
     "gulp-concat": "^2.6.0",
     "gulp-imagemin": "^3.0.1",
