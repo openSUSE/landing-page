@@ -27,13 +27,23 @@ GULP is used to run automatic tasks to preprocess CSS (from less), compress imag
 # zypper in 'rubygem(nokogiri)' 'rubygem(gettext)' npm gettext-tools
 $ po/update_po.rb
 $ npm update
-$ npm install gulp
+$ npm install \
+ gulp \
+ gulp-concat \
+ gulp-uglify \
+ gulp-rename \
+ gulp-strip-debug \
+ gulp-less \
+ gulp-clean-css \
+ gulp-imagemin \
+ gulp-cache \
+ gulp-shell
 $ node_modules/.bin/gulp
 </pre>
 <small>More info about <a href="http://gulpjs.com/" target="_blank">gulp here</a></small>
 
-Gulp will give the final touch in the code so then you only need to open the project in your browser
-http://localhost:8000
+Gulp will give the final touch in the code so then you only need to open [the project](http://localhost:8000) in your browser
+(that requires python; if you do not have python, just open the file <U >index.html</U>).
 Test your language works well. To make sure there is no variable without translation, open up the web inspector of your browser and check if there is error message in the console, if not, you have done an Excellent job!
 So, open a new Pull Request in github, we will double check everything is fine, and then Merge your contribution!
 

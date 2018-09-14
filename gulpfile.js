@@ -38,7 +38,7 @@ gulp.task('scripts', function() {
 // Preprocess CSS
 var less = require('gulp-less');
 var path = require('path');
-var minifyCss = require('gulp-minify-css');
+var minifyCss = require('gulp-clean-css');
 
 gulp.task('less', function () {
   return gulp.src(assets + 'css/openSUSE.less')
@@ -46,7 +46,7 @@ gulp.task('less', function () {
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))
     .pipe(rename({suffix: '.min'}))
-    .pipe(minifyCss())
+    .pipe(minifyCss({inline: false}))
     .pipe(gulp.dest(destination + 'css'));
 });
 
