@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2018-09-16 11:02+0000\n"
+"PO-Revision-Date: 2018-09-16 15:42+0000\n"
 "Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
 "page/master/da/>\n"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: index.html:94
 msgid "Learn more"
-msgstr "Læs mere"
+msgstr "Lær mere"
 
 #: index.html:108
 msgid ""
