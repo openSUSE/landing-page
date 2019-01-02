@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: 2017-06-29 00:04+0000\n"
-"Last-Translator: scootergrisen\n"
-"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
-"master/da/>\n"
+"PO-Revision-Date: 2018-09-16 15:42+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-"
+"page/master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.13.1\n"
+"X-Generator: Weblate 2.18\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -24,7 +24,7 @@ msgstr ""
 
 #: index.html:49
 msgid "Home"
-msgstr "Hjemme"
+msgstr "Hjem"
 
 #: index.html:52
 msgid "Tools"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: index.html:95
 msgid "Learn more"
-msgstr "Læs mere"
+msgstr "Lær mere"
 
 #: index.html:109
 msgid ""
@@ -102,7 +102,7 @@ msgid ""
 "developers, administrators and software vendors."
 msgstr ""
 "Nye og erfarne Linux-brugere får den mest brugervenlige Linux-distribution "
-"og stabiliserede operativsystem med openSUSE almindelige udgivelse. Få "
+"og stabiliserede styresystem med openSUSE almindelige udgivelse. Få "
 "opdateringer og styrk dit OS med openSUSE's seneste fulde distribution. Vælg "
 "dit skrivebordsmiljø, konfigurér dit system og nyd den foretrukne platform "
 "for Linux-udviklere, administratorer og softwareleverandører."
@@ -159,7 +159,7 @@ msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
-"Automatiseret test af *alle* operativsystemer, som kan læse skærmen og "
+"Automatiseret test af *alle* styresystemer, som kan læse skærmen og "
 "kontrollere testmaskinen ligesom en bruger gør."
 
 #: index.html:214
@@ -300,7 +300,7 @@ msgstr "Sociale netværk"
 
 #: index.html:340
 msgid "Forums"
-msgstr "Forum"
+msgstr "Fora"
 
 #: index.html:349
 msgid "Shop"
@@ -308,7 +308,7 @@ msgstr "Butik"
 
 #: index.html:354
 msgid "Blogs"
-msgstr "Blogs"
+msgstr "Blogge"
 
 #: index.html:359
 msgid "Press"
