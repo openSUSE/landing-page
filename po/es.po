@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-26 08:33:45 +0200\n"
-"PO-Revision-Date: 2018-12-07 21:06+0000\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
 "Last-Translator: jcsl <trcs@gmx.com>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/landing-"
-"page/master/es/>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/landing-page/"
+"master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -125,9 +125,8 @@ msgid "hour"
 msgstr "hora"
 
 #: index.html:139
-#, fuzzy
 msgid "for Leap 15.1"
-msgstr "para openSUSE Leap 42.3"
+msgstr "para Leap 15.1"
 
 #: index.html:148
 msgid "is now available"
@@ -179,8 +178,8 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that powers SUSE "
 "Studio."
 msgstr ""
-"Crea imágenes de Linux para despliegue en hardware real, virtualización, y "
-"ahora también en contenedores de sistema como Docker. Kiwi es el motor que "
+"Crea imágenes de Linux para despliegue en hardware real, virtualización y, "
+"ahora también, en contenedores de sistema como Docker. Kiwi es el motor que "
 "hace funcionar a SUSE Studio."
 
 #: index.html:259
@@ -322,7 +321,7 @@ msgstr "Patrocinado por:"
 
 #: index.html:390
 msgid "Change language"
-msgstr "Cambiar idioma"
+msgstr "Cambiar el idioma"
 
 #: index.html:431
 msgid "All Rights Reserved."
