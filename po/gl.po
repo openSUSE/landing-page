@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: 2018-03-08 17:18+0000\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
 "Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
 "Language-Team: Galician <https://l10n.opensuse.org/projects/landing-page/"
 "master/gl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.18\n"
+"X-Generator: Weblate 3.3\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -124,9 +124,8 @@ msgid "hour"
 msgstr "hora"
 
 #: index.html:139
-#, fuzzy
 msgid "for Leap 15.1"
-msgstr "para openSUSE Leap 42.3"
+msgstr "para Leap 15.1"
 
 #: index.html:148
 msgid "is now available"
