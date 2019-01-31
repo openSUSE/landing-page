@@ -1,7 +1,5 @@
 $(function () {
 
-  'use strict'
-
   // one hour later due to https://github.com/openSUSE/landing-page/issues/113
   var leapReleaseDate = moment.tz("2017-07-26 13:00", "UTC");
 
