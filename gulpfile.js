@@ -86,7 +86,7 @@ var serverCommand = 'python -m SimpleHTTPServer';
 var shell = require('gulp-shell');
 
 gulp.task('runServer', shell.task(serverCommand))
-const runServer = gulp.task('runServer');
+var runServer = gulp.task('runServer');
 
 // Export tasks
 exports.scripts = scripts
