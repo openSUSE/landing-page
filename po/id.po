@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: 2017-04-17 05:17+0000\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
 "master/id/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 3.3\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -121,9 +121,8 @@ msgid "hour"
 msgstr "jam"
 
 #: index.html:139
-#, fuzzy
 msgid "for Leap 15.1"
-msgstr "untuk openSUSE Leap 42.3"
+msgstr "untuk Leap 15.1"
 
 #: index.html:148
 msgid "is now available"

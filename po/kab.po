@@ -3,33 +3,40 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Belkacem Mohammed <belkacem77@gmail.com>\n"
+"Language-Team: Kabyle <https://l10n.opensuse.org/projects/landing-page/"
+"master/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 
 #: index.html:49
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: index.html:52
+#, fuzzy
 msgid "Tools"
-msgstr ""
+msgstr "&Ifecka"
 
 #: index.html:55 index.html:335
+#, fuzzy
 msgid "News"
-msgstr ""
+msgstr "Isallen"
 
 #: index.html:58
+#, fuzzy
 msgid "Contribute"
-msgstr ""
+msgstr "Ttekki"
 
 #: index.html:61
 msgid "Conferences"
@@ -42,12 +49,14 @@ msgid ""
 msgstr ""
 
 #: index.html:88 index.html:110
+#, fuzzy
 msgid "More information"
-msgstr ""
+msgstr "Ugar n telɣut"
 
 #: index.html:90 index.html:98
+#, fuzzy
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "&Installer"
 
 #: index.html:93
 msgid ""
@@ -61,8 +70,9 @@ msgid ""
 msgstr ""
 
 #: index.html:95
+#, fuzzy
 msgid "Learn more"
-msgstr ""
+msgstr "Ẓer ugar"
 
 #: index.html:109
 msgid ""
@@ -71,8 +81,9 @@ msgid ""
 msgstr ""
 
 #: index.html:112 index.html:117
+#, fuzzy
 msgid "Install Leap"
-msgstr ""
+msgstr "&Installer"
 
 #: index.html:115
 msgid ""
@@ -84,40 +95,47 @@ msgid ""
 msgstr ""
 
 #: index.html:133
+#, fuzzy
 msgid "days"
-msgstr ""
+msgstr "ussan"
 
 #: index.html:134
+#, fuzzy
 msgid "day"
-msgstr ""
+msgstr "ass"
 
 #: index.html:135
+#, fuzzy
 msgid "hours"
-msgstr ""
+msgstr "isragen"
 
 #: index.html:136
+#, fuzzy
 msgid "hour"
-msgstr ""
+msgstr "asrag"
 
 #: index.html:139
 msgid "for Leap 15.1"
 msgstr ""
 
 #: index.html:148
+#, fuzzy
 msgid "is now available"
-msgstr ""
+msgstr "Timahilin-ik timaynutin llan akka tura."
 
 #: index.html:159
+#, fuzzy
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "openSUSE s wudem amzwer"
 
 #: index.html:160
 msgid "Discover the best open-source tools developed by our community"
 msgstr ""
 
 #: index.html:174 index.html:192 index.html:210 index.html:228
+#, fuzzy
 msgid "Go to link"
-msgstr ""
+msgstr "Aseγwen:"
 
 #: index.html:178
 msgid ""
@@ -145,24 +163,28 @@ msgid ""
 msgstr ""
 
 #: index.html:259
+#, fuzzy
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "Ttekki"
 
 #: index.html:260
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
 
 #: index.html:267
+#, fuzzy
 msgid "Code"
-msgstr ""
+msgstr "Tangalt"
 
 #: index.html:268 index.html:283
+#, fuzzy
 msgid "Find out more"
-msgstr ""
+msgstr "Issin ugar"
 
 #: index.html:272
+#, fuzzy
 msgid "Contribute Code"
-msgstr ""
+msgstr "Ttekki"
 
 #: index.html:273
 msgid ""
@@ -189,12 +211,14 @@ msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr ""
 
 #: index.html:282
+#, fuzzy
 msgid "Hardware"
-msgstr ""
+msgstr "Arrum"
 
 #: index.html:287
+#, fuzzy
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "Arrum"
 
 #: index.html:288
 msgid ""
@@ -212,65 +236,81 @@ msgid ""
 msgstr ""
 
 #: index.html:298
+#, fuzzy
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "Timlillit"
 
 #: index.html:299
+#, fuzzy
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "Ttekki deg uneḍru ara d-yilin rif n %s."
 
 #: index.html:311
+#, fuzzy
 msgid "Get software"
-msgstr ""
+msgstr "_Aseɣẓan"
 
 #: index.html:316
+#, fuzzy
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: index.html:321
+#, fuzzy
 msgid "Build Service"
 msgstr ""
+"Asersi LXDE n umeălu n openSUSE i k-yettaken lqem aneggaru, ur yettusefraken "
+"ara, n tnarit akked iseɣzanen LX."
 
 #: index.html:330
+#, fuzzy
 msgid "Social Network"
-msgstr ""
+msgstr "Timetti"
 
 #: index.html:340
+#, fuzzy
 msgid "Forums"
-msgstr ""
+msgstr "Inmagaren"
 
 #: index.html:349
+#, fuzzy
 msgid "Shop"
-msgstr ""
+msgstr "Taḥanut"
 
 #: index.html:354
+#, fuzzy
 msgid "Blogs"
-msgstr ""
+msgstr "Iblugen n iɛeggalen n tmezdagnut OpenStreetMap"
 
 #: index.html:359
+#, fuzzy
 msgid "Press"
-msgstr ""
+msgstr "Taɣamsa"
 
 #: index.html:384
 msgid "Sponsored by:"
 msgstr ""
 
 #: index.html:390
+#, fuzzy
 msgid "Change language"
-msgstr ""
+msgstr "Fren tutlayt"
 
 #: index.html:431
+#, fuzzy
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Beddel akkw izerfan n yiwen aseqdac"
 
 #: index.html:431
 msgid "Imprint."
 msgstr ""
 
 #: index.html:431
+#, fuzzy
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://fr.gravatar.com/"
 
 #: index.html:454
+#, fuzzy
 msgid "Back to main page"
-msgstr ""
+msgstr "Asebter agejdan di %s"
