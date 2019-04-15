@@ -1,0 +1,372 @@
+# Martin Schlander <mschlander@opensuse.org>, 2015.
+# scootergrisen, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-01-11 00:12+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
+"master/da/>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"Det rette valg for skabende brugere - systemadministratorer, udviklere og "
+"desktop-brugere."
+
+#: index.html:49
+msgid "Home"
+msgstr "Hjem"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Værktøjer"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Nyheder"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Bidrag"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Konferencer"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Få de nyeste Linux-pakker med vores rullende udgivelse. Hurtigt! Integreret! "
+"Relativt stabilt! Testet!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Mere information"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Installér Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Brugere, som ønsker de nyeste pakker herunder - men ikke kun - Linux-kernen, "
+"SAMBA, git, skriveborde, kontorprogrammer og mange andre pakker har brug for "
+"Tumbleweed. Tumbleweed appellerer til brugere med stor erfaring, "
+"softwareudviklere og bidragydere til openSUSE. Hvis de har brug for den "
+"seneste softwarestak og integrerede udviklingsmiljø eller behøver en stabil "
+"platform så tæt på de seneste udviklinger i Linux som muligt, så er "
+"Tumbleweed det bedste valg."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Lær mere"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Få den mest komplette Linux-distribution med openSUSE's seneste almindelige "
+"udgivelse!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Installér Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Nye og erfarne Linux-brugere får den mest brugervenlige Linux-distribution "
+"og stabiliserede styresystem med openSUSE almindelige udgivelse. Få "
+"opdateringer og styrk dit OS med openSUSE's seneste fulde distribution. Vælg "
+"dit skrivebordsmiljø, konfigurér dit system og nyd den foretrukne platform "
+"for Linux-udviklere, administratorer og softwareleverandører."
+
+#: index.html:133
+msgid "days"
+msgstr "dage"
+
+#: index.html:134
+msgid "day"
+msgstr "dag"
+
+#: index.html:135
+msgid "hours"
+msgstr "timer"
+
+#: index.html:136
+msgid "hour"
+msgstr "time"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "til Leap 15.1"
+
+#: index.html:148
+msgid "is now available"
+msgstr "er tilgængelig nu"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE-VÆRKTØJER"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr "Opdag de bedste open source-værktøjer udviklet af vores fællesskab"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Gå til link"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Vores byggeværktøj, som bygger alle vores pakker, samt pakker til SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu m."
+"fl."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Automatiseret test af *alle* styresystemer, som kan læse skærmen og "
+"kontrollere testmaskinen ligesom en bruger gør."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Det bedste/eneste omfattende værktøj til konfiguration og installation af "
+"Linux-systemer."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Opret Linux-imagefiler til udrulning på ægte hardware, virtualisering og nu "
+"endda containersystemer såsom Docker. Kiwi er den motor som driver SUSE "
+"Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "BIDRAG TIL OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Vær en del af fællesskabet ved at bidrage med noget af følgende:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Kode"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Mere information"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Bidrag med kode"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE tror på, at det bedste resultat opstår, når mennesker samarbejder "
+"og har det sjovt. openSUSE er forskelligt fra andre open-source-"
+"fællesskaber, og det er det, der gør openSUSE tiltrækkende. Vi er ikke et "
+"konventionelt fællelsskab; vores fællesskabs indsatser bestemmer projektets "
+"vej frem. Fællesskabets indsatser har skabt flere gode værktøjer til Linux "
+"og en fantastisk distribution. I openSUSE har du en stemme og kan let "
+"bidrage til projektet. Engagér dig i openSUSE-projektet, hvad enten du er en "
+"erfaren Linux-udvikler eller en almindelig bruger. Slut dig til et forum, "
+"vedligehold vores wiki og hold den a jour, find og rapportér fejl, gennemgå "
+"dokumentationen, indsend ønsker om nye pakker og funktioner, lav og indsend "
+"rettelser eller bliv er fortaler for openSUSE ved at deltage i begivenheder "
+"og blive en ambassadør."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Læs mere om at deltage."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Hardware"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Bidrag med hardware"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Donationer til støtte for openSUSE-projektet modtages med taknemmelighed. "
+"Faktisk er Open Build Service, som bruges af adskillige andre open-source-"
+"projekter blevet gjort tilgængelig for fællesskabet på grund af AMD's "
+"gavmilde donation af servere. Det er den slags donationer, som sikrer at "
+"mennesker og projekter kan trives, udvikle sig og skabe innovation og "
+"fremskridt. Projektet beder ikke om penge men om donationer af hardware for "
+"at give open-source-fællesskabet med dets omfattende ekspertise bedre "
+"muligheder for at udvikle Linux, udbyde openSUSE's værktøjer gratis til "
+"økosystemet af fri, open-source software og give noget tilbage til "
+"udviklere, systemadministratorer og de, der vedligeholder software-"
+"arkiverne. Hardware hjælper openSUSE-fællesskabet! Hardware hjælper open-"
+"source-fællesskabet! Og hardware understøtter udviklingen af Linux. Send os "
+"en e-mail for at finde ud af, hvordan du kan donere hardware til openSUSE-"
+"projektet"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Mød openSUSE til konferencer."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Vis kommende konferencer"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Hent software"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Sociale netværk"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Fora"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Butik"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogge"
+
+#: index.html:359
+msgid "Press"
+msgstr "Presse"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Sponseret af:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Skift sprog"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Alle rettigheder forbeholdt."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Imprint."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Tilbage til hovedsiden"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "openSUSE-konferencetaler"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "til openSUSE-konference"
+
+#~ msgid "What's new"
+#~ msgstr "Hvad er nyt"
+
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
+#~ msgstr ""
+#~ "Machinery understøtter opdagelse, systemvalidering og migrering af "
+#~ "tjenester."
+
+#~ msgid "Check all openSUSE tools"
+#~ msgstr "Tjek alle openSUSE-værktøjer"
+
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "Machinery er baseret på ideen om en universel systembeskrivelse. Det er "
+#~ "gennemsigtigt, kan udvides og smukt udført."
+
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "Machinery er skabt til systemadministratoren i datacentret. Læs mere om "
+#~ "filosofien bag."

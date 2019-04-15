@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: entries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2016-04-25 09:07+0000\n"
+"Last-Translator: YunSeok Choi <xein@naver.com>\n"
+"Language-Team: Korean <http://l10n.opensuse.org/projects/landing-page/master/"
+"ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.5\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "시스템 관리자, 개발자 그리고 데스크탑 사용자들의 선택."
+
+#: index.html:49
+msgid "Home"
+msgstr "홈"
+
+#: index.html:52
+msgid "Tools"
+msgstr "도구"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "뉴스"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "기여하기"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "컨퍼런스"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"빠르고! 통합적이며! 안정적이고! 실험적인! 최신의 리눅스 프로그램들과 함께 제"
+"공되는 롤링 버전입니다!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "더 보기"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Tumbleweed 설치"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Tumbleweed 에는 일부 사용자들이 필요로하는 최신 프로그램이 포함 되어 있습니"
+"다. 여기에는 제한없는 리눅스 커널부터, 삼바, Git,  데스크탑 환경, 오피스 응용"
+"프로그램 등이 있습니다. Tumbleweed 는 고급 사용자, 소프트웨어 개발자, 오픈수"
+"세 기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합적인 개발"
+"환경 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 필요하다면, "
+"Tumbleweed 는 최고의 선택이 될것입니다."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "더 보기"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"오픈수세 사용자를 위한 기본 배포버전! 세상에서 가장 완벽한 리눅스를 경험하세"
+"요!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Leap 설치"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"많은 사용자 경험을 가진 리눅스 배포판을 찾거나 안정적인 운영체체가 필요한 처"
+"음 사용자나 경험이 풍부한 리눅스 사용자들이 많이 찾는 배포판입니다. 검증된 업"
+"데이트와 오픈수세의 중요 업데이트를 받을 수 있습니다. 리눅스 개발자와 관리"
+"자, 소프트웨어 회사의 선택을 받은 최고의 리눅스를 경험해보세요."
+
+#: index.html:133
+msgid "days"
+msgstr ""
+
+#: index.html:134
+msgid "day"
+msgstr ""
+
+#: index.html:135
+msgid "hours"
+msgstr ""
+
+#: index.html:136
+msgid "hour"
+msgstr ""
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr ""
+
+#: index.html:148
+msgid "is now available"
+msgstr ""
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "오픈수세 도구"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr ""
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr ""
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+
+#  TextEntry label for phone network Areacode (german Vorwahl)
+#: index.html:267
+msgid "Code"
+msgstr "코드"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr ""
+
+# continue button label
+#: index.html:272
+#, fuzzy
+msgid "Contribute Code"
+msgstr "계속"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr ""
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr ""
+
+#: index.html:282
+msgid "Hardware"
+msgstr "하드웨어"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr ""
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr ""
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr ""
+
+#: index.html:311
+#, fuzzy
+msgid "Get software"
+msgstr "이 소프트웨어에 대하여"
+
+#: index.html:316
+msgid "Wiki"
+msgstr ""
+
+#: index.html:321
+msgid "Build Service"
+msgstr "빌드 서비스"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "소셜 네트워크"
+
+#: index.html:340
+msgid "Forums"
+msgstr ""
+
+#: index.html:349
+msgid "Shop"
+msgstr ""
+
+#: index.html:354
+msgid "Blogs"
+msgstr ""
+
+#: index.html:359
+#, fuzzy
+msgid "Press"
+msgstr "주소"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr ""
+
+#: index.html:390
+msgid "Change language"
+msgstr "언어 변경"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr ""
+
+#: index.html:431
+msgid "Imprint."
+msgstr ""
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr ""
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "메인 페이지로 돌아감"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "컨퍼런스"

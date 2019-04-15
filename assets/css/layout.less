@@ -12,16 +12,16 @@ body {
 }
 header {
   background: @header;
-  padding: 20px 0;
   display: block;
+  padding: 20px 0;
   position: fixed;
   transition: all .5s ease;
   width: 100%;
   z-index: 100;
   #open_main_menu {
-    cursor: pointer;
-    padding: 8px 4px;
     color: @button-main-menu;
+    cursor: pointer;
+    padding: 8px;
   }
   #opensuseLogo, ul li a {
     transition: all .5s ease;
@@ -29,35 +29,77 @@ header {
   ul{
     padding: 0;
     li {
-      padding: 5px 0 0 0;
       display: inline-block;
+      padding: 5px 0 0 0;
       a {
         color: @header-links-horizontal;
+        display: block;
         font-family: 'Source Sans Pro', sans-serif;
-        text-transform: uppercase;
         font-weight: 400;
         font-size: 18px;
         margin-left: 18px;
-        &:hover {
-          color: @header-links-horizontal-hover;
+        text-transform: uppercase;
+        padding-bottom: 0.3em;
+        position: relative;
+        overflow: hidden;
+        &:before {
+          content: "";
+          position: absolute;
+          z-index: -1;
+          left: 50%;
+          right: 50%;
+          bottom: 0;
+          background: @header-links-horizontal-hover;
+          opacity: 0;
+          height: 3px;
+          .prefixed(transition-property, "left, right");
+          .prefixed(transition-duration, .3s);
+          .prefixed(transition-timing-function, ease-out);
+        }
+        &:hover,
+        &:focus,
+        &:active {
           text-decoration: none;
-          border-bottom: 3px solid @header-links-horizontal-hover;
+          color: @header-links-horizontal-hover;
+          &:before {
+            left: 0;
+            right: 0;
+            opacity: 1;
+          }
         }
       }
     }
   }
 }
+.prefixed(@property, @value) {
+  -webkit-@{property}: @value;
+  -moz-@{property}: @value;
+  -ms-@{property}: @value;
+  -o-@{property}: @value;
+  @{property}: @value;
+}
 aside {
-  position: fixed;
-  top: @menu-mobile-height;
-  left: -250px;
   background: @aside;
+  left: -250px;
+  position: fixed;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  z-index: 1000
+  top: @menu-mobile-height;
+  z-index: 1000;
+  width: 250px;
+  text-transform: uppercase;
+
+  ul{
+    li{
+        a{
+            font-size: 14px;
+            font-weight: 400;
+        }
+      }
+    }
 }
 
 section{

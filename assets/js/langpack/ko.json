@@ -1,0 +1,26 @@
+{
+  "WARNING": "Please see the README.md - this is generated",
+  "token": {
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Tumbleweed 에는 일부 사용자들이 필요로하는 최신 프로그램이 포함 되어 있습니다. 여기에는 제한없는 리눅스 커널부터, 삼바, Git,  데스크탑 환경, 오피스 응용프로그램 등이 있습니다. Tumbleweed 는 고급 사용자, 소프트웨어 개발자, 오픈수세 기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합적인 개발환경 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 필요하다면, Tumbleweed 는 최고의 선택이 될것입니다.",
+    "Back to main page": "메인 페이지로 돌아감",
+    "Build Service": "빌드 서비스",
+    "Change language": "언어 변경",
+    "Code": "코드",
+    "Conferences": "컨퍼런스",
+    "Contribute": "기여하기",
+    "Get the most complete Linux distribution with openSUSE’s latest regular-release version!": "오픈수세 사용자를 위한 기본 배포버전! 세상에서 가장 완벽한 리눅스를 경험하세요!",
+    "Get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!": "빠르고! 통합적이며! 안정적이고! 실험적인! 최신의 리눅스 프로그램들과 함께 제공되는 롤링 버전입니다!",
+    "Hardware": "하드웨어",
+    "Home": "홈",
+    "Install Leap": "Leap 설치",
+    "Install Tumbleweed": "Tumbleweed 설치",
+    "Learn more": "더 보기",
+    "More information": "더 보기",
+    "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.": "많은 사용자 경험을 가진 리눅스 배포판을 찾거나 안정적인 운영체체가 필요한 처음 사용자나 경험이 풍부한 리눅스 사용자들이 많이 찾는 배포판입니다. 검증된 업데이트와 오픈수세의 중요 업데이트를 받을 수 있습니다. 리눅스 개발자와 관리자, 소프트웨어 회사의 선택을 받은 최고의 리눅스를 경험해보세요.",
+    "News": "뉴스",
+    "Social Network": "소셜 네트워크",
+    "The makers' choice for sysadmins, developers and desktop users.": "시스템 관리자, 개발자 그리고 데스크탑 사용자들의 선택.",
+    "Tools": "도구",
+    "openSUSE TOOLS": "오픈수세 도구"
+  }
+}

@@ -1,0 +1,336 @@
+# translation of opensuse-landing-page.po to Japanese
+# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: opensuse-landing-page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
+"master/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "どちらをお使いになりますか？"
+
+#: index.html:49
+msgid "Home"
+msgstr "ホーム"
+
+#: index.html:52
+msgid "Tools"
+msgstr "ツール"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "ニュース"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "貢献方法"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "カンファレンス"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"ローリングリリースモデルで最新の Linux パッケージを提供します。高速で統合性に"
+"優れ、テストにより安定性もあります。"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "詳細情報"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Tumbleweed のインストール"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Linux カーネルや Samba, git, デスクトップ, オフィスアプリケーションなど、各種"
+"の最新パッケージを利用したい方は、 Tumbleweed の利用をお勧めします。 "
+"Tumbleweed は、知識のあるユーザやソフトウエアの開発者、 openSUSE の貢献者に最"
+"適な仕組みで、最新のソフトウエアスタックや統合開発環境など、最新の Linux に最"
+"も近く、かつ安定したプラットフォームをお求めの場合、最良の選択肢となるでしょ"
+"う。"
+
+#: index.html:95
+msgid "Learn more"
+msgstr "さらに詳しく"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"openSUSE における通常リリース版は、最も円熟した Linux ディストリビューション"
+"です。"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Leap のインストール"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"新規ユーザから経験豊富なユーザまで、最も利用性が高く、かつ安定したオペレー"
+"ティングシステムをお求めの場合は、 openSUSE の通常リリース版がお勧めです。 "
+"openSUSE というメジャーなディストリビューションでは、更新の受け取りや OS の強"
+"化などを行なうこともできます。デスクトップを選択してシステムを設定すれば、 "
+"Linux の開発者から管理者、ソフトウエアの製造元まで、様々な環境に合わせたシス"
+"テムを構築することができます。"
+
+#: index.html:133
+msgid "days"
+msgstr "日"
+
+#: index.html:134
+msgid "day"
+msgstr "日"
+
+#: index.html:135
+msgid "hours"
+msgstr "時間"
+
+#: index.html:136
+msgid "hour"
+msgstr "時間"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "(Leap 15.1 公開まで)"
+
+#: index.html:148
+msgid "is now available"
+msgstr "が公開されています"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE ツール"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr "コミュニティが開発した最良のオープンソースツールの発見"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "リンクへ"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"ビルドツールでは、私どもが提供する全パッケージのほか、 SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu など"
+"のパッケージも構築することができます。"
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"*任意の* オペレーティングシステムに対する自動化されたテストです。ユーザと同様"
+"に画面上の情報を読み取り、ホストを操作することができます。"
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr "最良かつ唯一の Linux システム設定・インストールツールです。"
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"実際のハードウエアや仮想化環境のほか、 Docker などのコンテナシステムでも利用"
+"できる Linux イメージを作成します。 Kiwi は SUSE Studio で使用されているエン"
+"ジンです。"
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "openSUSE への貢献方法"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "コミュニティに参加するには、下記のいずれかの方法があります:"
+
+#: index.html:267
+msgid "Code"
+msgstr "コード"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "さらに詳しく"
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr "コードによる貢献"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE では、人々がお互いに対話し、楽しむことで最適な結果が得られることを信"
+"じています。他のオープンソースコミュニティとは異なるのは、何が openSUSE を望"
+"ましい形に仕上げるのか、という点にあります。私たちは一般的なコミュニティとは"
+"異なり、コミュニティの努力によってプロジェクトの方向性をも決定づけるようにし"
+"ています。このような仕組みにより、 Linux 向けの素晴らしいツールやディストリ"
+"ビューションを作成することができました。 openSUSE では、声を上げてプロジェク"
+"トに参加することも容易にしています。経験豊かな Linux の開発者から一般的なユー"
+"ザまで、様々な方々が openSUSE プロジェクト内で作業を進めています。フォーラム"
+"に参加したり、 Wiki を管理したり最新の情報に更新したり、バグを見つけて報告し"
+"たり、文書類をレビューしたり、パッケージや機能に対する要望を送ったり、修正を"
+"作成して送信したり、イベントに参加したりアンバサダーになって openSUSE を広め"
+"たりなど、様々な方法で参加することができます。"
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "参加方法についてさらに詳しく見る"
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr ""
+"https://ja.opensuse.org/Portal:%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%97%E3%81%8B"
+"%E3%81%9F"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "ハードウエア"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "ハードウエアによる貢献"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"openSUSE プロジェクトへの寄付は常に歓迎しています。実際に他のオープンソースプ"
+"ロジェクトでも使用されている Open Build Service では、 AMD 社からの寛大なサー"
+"バのご寄付により、プロジェクトのコミュニティの作業支援を受けています。このよ"
+"うな種類の寄付では、人々やプロジェクトを成長／発展／進展させることに寄与して"
+"います。プロジェクトでは金銭による直接的な寄付ではなく、 Linux の開発を促進"
+"し、 openSUSE のツールをフリー／オープンソースのエコシステムに提供し、開発者"
+"やシステム管理者、パッケージャに対して支援を行なうため、ハードウエアの寄付を"
+"お願いしています。つまり、ハードウエアが openSUSE コミュニティおよびオープン"
+"ソースコミュニティ、そして Linux の開発を支えているのです。 openSUSE プロジェ"
+"クトへのハードウエアの寄付について、詳しくは電子メールにてお尋ねください:"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "カンファレンスの予定を表示する"
+
+#: index.html:311
+msgid "Get software"
+msgstr "ソフトウエアの取得"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "ソーシャルネットワーク"
+
+#: index.html:340
+msgid "Forums"
+msgstr "フォーラム"
+
+#: index.html:349
+msgid "Shop"
+msgstr "ショップ"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "ブログ"
+
+#: index.html:359
+msgid "Press"
+msgstr "プレスリリース"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "スポンサー:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "言語の変更"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "All Rights Reserved."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Imprint."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "メインページに戻る"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "openSUSE カンファレンスのトーク"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "openSUSE カンファレンスについて"

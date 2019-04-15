@@ -1,0 +1,366 @@
+# Jan Papez (honyczek) <honyczek@centrum.cz>, 2015.
+# Vojtěch Zeisek <vojta@trapa.cz>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Aleš Kastner <alkas@volny.cz>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/landing-page/master/"
+"cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"Volba tvůrců pro systémové správce, vývojáře i uživatele osobních počítačů."
+
+#: index.html:49
+msgid "Home"
+msgstr "Domů"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Nástroje"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Novinky"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Přispět"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Konference"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Získejte nejnovější linuxové balíčky s naším rolujícím vydáním. Rychlé! "
+"Ucelené! Stabilizované! Otestované!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Více informací"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Nainstalovat Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Každý uživatel, který si přeje mít nejnovější balíčky zahrnující jádro "
+"Linux, SAMBU, git, pracovní plochy, kancelářské aplikace a mnoho dalších "
+"balíčků, bude chtít používat Tumbleweed. Pokročilí uživatelé, vývojáři "
+"softwaru či přispěvatelé do openSUSE, ti všichni jsou Tumbleweedem "
+"přitahováni. Pokud vyžadujete nejnovější haldu softwaru a integrované "
+"vývojové prostředí, či potřebujete stabilní platformu co nejbližší "
+"nejnovější verzi Linuxu, Tumbleweed pro vás tou správnou volbou."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Dozvědět se více"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Získejte nekompletnější distribuci Linuxu díky nejnovější verzi pravidelného "
+"vydání openSUSE!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Nainstalovat Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Noví i zkušení uživatelé získají v pravidelném vydání openSUSE "
+"nejpoužitelnější distribuci Linuxu a stabilní operační systém. Přijímejte "
+"aktualizace a utužujte váš OS v nejposlednější hlavní distribuci openSUSE. "
+"Vyberte si svou pracovní plochu, nakonfigurujte si systém a užijte si "
+"platformu vývojářů Linuxu, správců a výrobců softwaru."
+
+#: index.html:133
+msgid "days"
+msgstr "dní"
+
+#: index.html:134
+msgid "day"
+msgstr "den"
+
+#: index.html:135
+msgid "hours"
+msgstr "hodin"
+
+#: index.html:136
+msgid "hour"
+msgstr "hodina"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "pro Leap 15.1"
+
+#: index.html:148
+msgid "is now available"
+msgstr "je nyní dostupné"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE NÁSTROJE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr "Objevujte nejlepší open-source nástroje vyvíjené naší komunitou"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Přejít na odkaz"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Náš sestavovací nástroj, sestavující jak všechny naše balíčky, tak i pro "
+"SUSE Linux Enterprise, Arch, Debian, Fedoru, Scientific Linux, RHEL, CentOS, "
+"Ubuntu a další."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Automatizované testování pro *jakýkoliv* operační systém, které umí číst "
+"obrazovku a ovládat testovacího hostitele stejně tak, jak to dělá uživatel."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Nejlepší/jediný komplexní nástroj pro konfiguraci a instalaci systému Linux."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Vytvořte si obrazy Linuxu pro nasazení na skutečném hardwaru, virtualizaci a "
+"nyní dokonce na kontejnerových systémech jako je Docker. Kiwi je motor, "
+"který pohání SUSE Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "PŘISPĚJTE DO OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Staňte se součástí naší komunity díky následujícímu přispívání:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Kód"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Zjistit více"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Přispět kódem"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE věří, že nejlepší výsledky přicházejí od lidí, kteří spolupracují a "
+"užívají si zábavu. To, že se liší od jiných open-source komunit je právě pro "
+"openSUSE žádoucí. My nejsme tradiční komunita a naše komunitní snahy určují "
+"cestu tohoto projektu. Tyto snahy komunity vytvořily několik skvělých "
+"nástrojů pro Linux a velkolepou distribuci. S openSUSE máte hlas a můžete se "
+"jednoduše zapojit do projektu. Ať jste zkušený vývojář Linuxu nebo koncový "
+"uživatel, zapojte se do Projektu openSUSE. Připojte se do diskusního fóra, "
+"spravujte a udržujte naši wiki aktuální, hledejte a hlaste chyby, revidujte "
+"dokumentaci, posílejte váš seznam přání pro nové balíčky a funkce, tvořte a "
+"odesílejte opravy, nebo se staňte advokátem pro openSUSE vaší účastí na "
+"událostech a stávejte se velvyslancem."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Zjistěte více o tom, jak se zapojit."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Hardware"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Přispět hardwarem"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Příspěvky na podporu Projektu openSUSE jsou vždy vítány. Ve skutečnosti Open "
+"Build Service, které je využíváno několika dalšími open-source projekty, "
+"bylo zpřístupněno projektové komunitě díky štědrému daru serverů od AMD. "
+"Toto je takový typ příspěvku, který lidem a projektům umožňuje růst, vývoj, "
+"inovaci a postup. Tento projekt nežádá o peníze, ale o přispění hardwarem k "
+"použití open-source komunitní expertizou pro posílení vývoje Linuxu, "
+"poskytnutí nástrojů openSUSE zdarma, otevření zdrojového ekosystému a "
+"navrácení vývojářům, správcům systému a tvůrcům balíčků. Hardware komunitě "
+"openSUSE pomáhá! Hardware pomáhá komunitě open-source! A hardware také "
+"pomáhá vývoji Linuxu. Pro zjištění jak můžete přispět hardwarem Projektu "
+"openSUSE, pošlete email na"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Setkejte se s openSUSE na konferencích."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Zobrazit nadcházející konference"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Získat software"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Sociální síť"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Fóra"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Obchod"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogy"
+
+#: index.html:359
+msgid "Press"
+msgstr "Pro novináře"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Sponzoři:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Změnit jazyk"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Všechna práva vyhrazena."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Impresum."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Zpět na hlavní stránku"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Setkejte se s openSUSE na konferencích."
+
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "Setkejte se s openSUSE na konferencích."
+
+#~ msgid "What's new"
+#~ msgstr "Co je nového"
+
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
+#~ msgstr ""
+#~ "Machinery podporuje objevování konfigurace, kontrolu systému a migraci "
+#~ "služeb."
+
+#~ msgid "Check all openSUSE tools"
+#~ msgstr "Prohlédněte si všechny nástroje openSUSE"
+
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "Machinery je založeno na myšlence univerzálního popisu systému. Je "
+#~ "transparentní, rozšiřitelné a nádherně vytvořené."
+
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "Machinery je vytvořeno pro správce systémů v datacentru. Přečtěte si více "
+#~ "o jeho filozofii."

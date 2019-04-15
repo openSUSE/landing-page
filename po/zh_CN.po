@@ -1,0 +1,318 @@
+# marguerite <marguerite@opensuse.org>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Marguerite Su <i@marguerite.su>\n"
+"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/"
+"landing-page/master/zh_CN/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "系统管理员、开发者和桌面用户的匠心之选。"
+
+#: index.html:49
+msgid "Home"
+msgstr "首页"
+
+#: index.html:52
+msgid "Tools"
+msgstr "工具"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "新闻"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "贡献"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "会议"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"安装我们的滚动版本，获取最新 Linux 软件包。\n"
+"日新月异！整合如一！坚如磐石！久经检验！"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "更多信息"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "安装 Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以"
+"及许多其它软件包，都会想要使用 Tumbleweed。Tumbleweed 迎合了高级用户、软件开"
+"发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最"
+"接近最新 Linux 的稳定平台，Tumbleweed 是您的不二选择。"
+
+#: index.html:95
+msgid "Learn more"
+msgstr "了解更多"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr "安装 openSUSE 最新的常规发布版本，获取最完整的 Linux 发行版体验！"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "安装 Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"新用户和有点经验的 Linux 用户可以使用 openSUSE 的常规版本来获得最可用的 "
+"Linux 发行版和稳定的操作系统体验。使用最新的 openSUSE 主力发行版，您可以收取"
+"更新和加固您的操作系统。选择桌面环境、简单配置下系统，您就可以享有 Linux 开发"
+"者、管理员以及软件制造商所钟情的平台。"
+
+#: index.html:133
+msgid "days"
+msgstr "天"
+
+#: index.html:134
+msgid "day"
+msgstr "天"
+
+#: index.html:135
+msgid "hours"
+msgstr "小时"
+
+#: index.html:136
+msgid "hour"
+msgstr "小时"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "距离 Leap 15.1 发布"
+
+#: index.html:148
+msgid "is now available"
+msgstr "现已发布"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE 工具"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr "探索我们社区开发的、最好的开源工具"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "前往链接"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"我们的构建工具，构建了我们的全部软件包，以及 SUSE Linux Enterprise、Arch、"
+"Debian、Fedora、Scientific Linux、RHEL、CentOS、Ubuntu 甚至更多发行版的部分软"
+"件包。"
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr "自动测试任何操作系统，可以像用户那样阅读屏幕和控制测试用主机。"
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
+"Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "群策群力"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "为以下事务出力，成为我们社区的一份子："
+
+#: index.html:267
+msgid "Code"
+msgstr "代码"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "详细了解"
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr "贡献代码"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE 坚信最好的结果来自于人们的协作和兴趣。与其它开源社区的不同之处才是 "
+"openSUSE 的出彩之处。 我们不是保守的社区，社区的努力可以决定项目的走向。社区"
+"的努力已经创造了一些伟大的 Linux 工具和一个了不起的发行版。参与 openSUSE，您"
+"可以发出声音，也可以轻松地为项目出力。不管您是一个经验丰富的 Linux 开发者还是"
+"一个最终用户，参与 openSUSE 项目吧！您可以加入论坛，维护、更新我们的 wiki，寻"
+"找并报告臭虫，校对文档，请愿新软件包及功能，创建并提交补丁，参加开源活动倡导 "
+"openSUSE，或者成为一名大使。"
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "了解如何参与。"
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://zh.opensuse.org/Portal:如何参与"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "硬件"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "贡献硬件"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"对 openSUSE 项目的捐助总是受欢迎的。事实上，也被一些其它开源项目使用着的 "
+"Open Build Service，是 AMD 慷慨地捐赠了服务器，才能被社区用上的。这种捐赠使项"
+"目及其成员得以兴盛、发展、创新和演进。该项目并不要钱，而是要硬件捐赠，以运用"
+"开源社区的专业知识来进行 Linux 开发，为自由开源生态系统提供 openSUSE 的工具，"
+"并回馈给开发者、系统管理员和打包者。硬件有助 openSUSE 社区！硬件有助开源社"
+"区！并且硬件有助 Linux 开发。要了解如何捐赠硬件给 openSUSE 项目，请邮件"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "参加会议邂逅 openSUSE。"
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "查看临近的会议"
+
+#: index.html:311
+msgid "Get software"
+msgstr "撷取软件"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "维基"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "构建服务"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "社交网络"
+
+#: index.html:340
+msgid "Forums"
+msgstr "论坛"
+
+#: index.html:349
+msgid "Shop"
+msgstr "商店"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "博客"
+
+#: index.html:359
+msgid "Press"
+msgstr "媒体"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "赞助："
+
+#: index.html:390
+msgid "Change language"
+msgstr "修改语言"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "保留所有权利。"
+
+#: index.html:431
+msgid "Imprint."
+msgstr "说明。"
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "返回首页"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "openSUSE 会议讨论"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "为了 openSUSE 会议"
+
+#~ msgid "What's new"
+#~ msgstr "最新消息"

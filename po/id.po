@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
+"Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
+"master/id/>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "Pilihan bagi sysadmin, pengembang dan pengguna destop."
+
+#: index.html:49
+msgid "Home"
+msgstr "Beranda"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Alat Bantu"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Berita"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Kontribusi"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Konferensi"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Dapatkan paket-paket Linux terbaru dengan rilis bergulir kami. Cepat! "
+"Terintegrasi! Stabil! Teruji!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Informasi Lebih Banyak"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Instalasi Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Pengguna yang berkeinginan menggunakan paket-paket terbaru yang tidak hanya "
+"meliputi kernel Linux, SAMBA, git, destop, aplikasi perkantoran dan banyak "
+"lagi paket lainnya, dapat menggunakan Tumbleweed. Tumbleweed ditujukan untuk "
+"pengguna mahir, pengembang perangkat lunak, dan kontributor openSUSE. Jika "
+"anda membutuhkan sekumpulan perangkat lunak terbaru dan Lingkungan "
+"Pengembangan Terintegrasi atau sekedar sebuah platform stabil dengan versi "
+"Linux terbaru, Tumbleweed sangat tepat untuk anda."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Dapatkan distribusi Linux terlengkap dengan versi rilis-berkala openSUSE "
+"terbaru!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Instalasi Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Pengguna Linux baru maupun yang sudah berpengalaman akan menemukan "
+"distribusi Linux yang mudah digunakan dan sistem operasi yang stabil dengan "
+"rilis-berkala openSUSE. Mutakhirkan dan perketat sistem operasi anda dengan "
+"distribusi utama openSUSE terbaru. Pilih desktop anda, konfigurasi sistem "
+"anda dan nikmati platform pilihan untuk pengembang linux, administrator dan "
+"pengembang perangkat lunak."
+
+#: index.html:133
+msgid "days"
+msgstr "hari"
+
+#: index.html:134
+msgid "day"
+msgstr "hari"
+
+#: index.html:135
+msgid "hours"
+msgstr "jam"
+
+#: index.html:136
+msgid "hour"
+msgstr "jam"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "untuk Leap 15.1"
+
+#: index.html:148
+msgid "is now available"
+msgstr "tersedia sekarang"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "Alat-alat bantu openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"Jelajahi alat-alat bantu sumber terbuka terbaik yang dikembangkan oleh "
+"komunitas kami"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Pergi ke tautan"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Alat bantu pengembangan kami, membuat semua paket-paket kami termasuk untuk "
+"SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, "
+"Ubuntu, dan banyak lagi."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Pengujian otomatis untuk *sebarang* sistem operasi, yang dapat membaca layar "
+"dan mengontrol mesin uji seperti halnya dikerjakan oleh pengguna."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Konfigurasi sistem Linux dan alat bantu instalasi terbaik/satu-satunya "
+"secara menyeluruh."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Membuat image Linux untuk penerapan di perangkat keras, virtualisasi, dan "
+"sekarang juga mendukung sistem kontainer seperti Docker. Kiwi adalah mesin "
+"di belakang SUSE Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "KONTRIBUSI KE OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+"Jadilah bagian dari komunitas kami, berkontribusi dapat dilakukan dengan "
+"salah satu cara-cara berikut:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Menulis Kode"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Pelajari lebih jauh"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Menyumbangkan Kode"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE percaya bahwa hasil terbaik didapatkan dari kerjasama antar manusia "
+"dan sekaligus bergembira. Menjadi berbeda dari komunitas sumber terbuka "
+"lainnya yang membuat openSUSE dinantikan. Kami bukanlah komunitas "
+"konvensional dan usaha komunitas kami lah yang menentukan arah dari proyek. "
+"Kerja keras dari komunitas telah menghasilkan beberapa alat bantu terbaik "
+"untuk Linux dan sebuah distribusi yang keren. Dengan openSUSE, suara anda "
+"didengar dan dengan mudah dapat berkontribusi langsung. Apakah anda seorang "
+"pengembang Linux berpengalaman atau hanya sekedar pengguna, terlibatlah "
+"dalam proyek openSUSE. Bergabunglah di forum, merawat dan menjaga wiki kami "
+"tetap kekinian, temukan dan laporkan bug, mengulas dokumentasi, mengirimkan "
+"daftar harapan anda untuk paket-paket dan fitur terbaru, membuat dan "
+"mengusulkan perbaikan, atau menjadi advokat dengan menghadiri acara dan "
+"menjadi duta openSUSE."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Pelajari lebih jauh bagaimana cara berpartisipasi."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Perangkat Keras"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Menyumbang Perangkat Keras"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Donasi untuk mendukung proyek openSUSE selalu disambut baik. Faktanya, Open "
+"Build Service, yang digunakan oleh beberapa proyek sumber terbuka lain, bisa "
+"tersedia untuk komunitas proyek melalui donasi server oleh AMD. Donasi "
+"seperti ini yang memungkinkan orang dan proyek untuk berkembang, terbentuk, "
+"berinovasi dan maju. Proyek kami tidak meminta uang, tetapi sumbangan "
+"perangkat keras untuk menggunakan keahlian komunitas untuk memberdayakan "
+"pengembangan Linux, menyiapkan alat bantu openSUSE untuk ekositem sumber "
+"terbuka yang bebas dan mengembalikannya kepada pengembang, sysadmin dan "
+"pemaket. Perangkat keras membantu komunitas openSUSE! Perangkat keras "
+"membantu komunitas sumber terbuka! Dan perangkat keras membantu pengembangan "
+"Linux. Untuk mempelajari bagaimana anda dapat mendonasikan perangkat kera "
+"untuk proyek openSUSE, kirim email"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Bertemu dengan openSUSE saat konferensi."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Lihat beberapa konferensi yang akan berlangsung"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Dapatkan Perangkat Lunak"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service - Layanan Build"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Jejaring Sosial"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Forum"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Toko"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blog"
+
+#: index.html:359
+msgid "Press"
+msgstr "Media"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Disponsori oleh:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Ganti bahasa"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Seluruh Hak Cipta Dilindungi."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Jejak."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Kembali ke halaman utama"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Perbincangan Konferensi openSUSE"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "untuk Konferensi openSUSE"

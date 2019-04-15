@@ -1,0 +1,335 @@
+# hayyan <joghdeshab@live.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: opensuse-i 18n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2017-03-31 16:09+0000\n"
+"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
+"Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
+"master/fa/>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "انتخاب سازنده برای مدیران سیستم، توسعه دهندگان و کاربران دسکتاپ."
+
+#: index.html:49
+msgid "Home"
+msgstr "خانه"
+
+#: index.html:52
+msgid "Tools"
+msgstr "ابزارها"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "اخبار"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "مشارکت"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "سخنرانی ها"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"آخرین بسته های لینوکس را با توزیع غلطان ما دریافت کنید. سریع! یکپارچه! "
+"پایدار! تست شده!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "اطلاعات بیشتر"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "نصب Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"هر کاربری که علاقه به دریافت آخرین نسخه های بسته های مختلف، شامل  هسته ی "
+"لینوکس، سامبا، گیت، میزکارها، نرم افزارهای آفیس و بسیاری بسته های دیگر  "
+"دارد، به Tumbleweed علاقه مند خواهد شد.Tumbleweed کاربران قدرتمند،  توسعه "
+"دهندگان نرم افزارها و مشارکت کنندگان در openSUSE را جذب خواهد کرد. اگر شما "
+"به آخرین نسخه ی نرم افزارها و محیط توسعه ی یکپارچه و یا یک پلتفرم پایدار "
+"نزدیک به لبه ی تکنولوژی های لینوکس دارید، Tumbleweed بهترین انتخاب برای "
+"شماست."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "بیشتر بدانید"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"کاملترین نسخه ی لینوکس را با آخرین نسخه‌ openSUSE با دوره ی انتشار عادی "
+"دریافت کنید!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "نصب Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"کاربران جدید و کاربران باتجربه، قابل استفاده ترین و پایدار ترین سیستم عامل "
+"را با openSUSE نسخه ی با دوره انتشار عادی دریافت میکنند. با آخرین نسخه ی "
+"OpenSUSE بروزرسانی ها را دریافت و  سیستم عامل خود را مستحکم کنید. میزکار خود "
+"را انتخاب کنید، سیستم خود را پیکربندی نموده و از لینوکس مورد انتخاب توسعه "
+"دهندگان، مدیران و فروشندگان نرم افزاری لذت ببرید."
+
+#: index.html:133
+msgid "days"
+msgstr "روز"
+
+#: index.html:134
+msgid "day"
+msgstr "روز"
+
+#: index.html:135
+msgid "hours"
+msgstr "ساعت"
+
+#: index.html:136
+msgid "hour"
+msgstr "ساعت"
+
+#: index.html:139
+#, fuzzy
+msgid "for Leap 15.1"
+msgstr "تا openSUSE Leap 42.3"
+
+#: index.html:148
+msgid "is now available"
+msgstr "در حال حاظر در دسترس است"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "ابزارهای openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"بهترین ابزارهای متن-باز را که توسط جامعه ی کاربران ما توسعه داده شدند را "
+"بیابید"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "برو به آدرس"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"ابزار ساخت ما، تمامی بسته های ما را به خوبی بسته های SUSE Linux Enterprise، "
+"آرچ دبیان، فدورا، Scientific Linux، RHEL، سنت او اس، اوبونتو و غیره میسازد."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"آزمایش خودکار برای •هر• سیستم عامل، که میتواند مانند کاربر صفحه نمایش را "
+"خوانده و میزبان را کنترل کند."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr "بهترین/تنهاترین ابزار جامع پیکربندی و نصب سیستم لینوکس."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"ایمیج های لینوکس را برای گسترش بر روی سخت افزار واقعی، مجازی سازی، و هم "
+"اکنون حتی سیستم های محفظه ای مانند داکر بسازید. Kiwi موتور تغذیه کننده ی "
+"SUSE Studio است."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "در توسعه ی OPENSUSE مشارکت کنید"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "با مشارکت در یکی از موارد زیر قسمتی از جامعه ی ما باشید:"
+
+#: index.html:267
+msgid "Code"
+msgstr "کد"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "بیشتر بدانید"
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr "مشارکت در کد"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"در openSUSE این باور وجود دارد که بهترین نتیجه حاصل از افرادیست که به صورت "
+"گروهی  کار کرده و شاد هستند. متفاوت بودن با سایر جوامع متن-باز چیزیست که "
+"openSUSE را مطلوب میکند. ما جامعه ای سنتی نیستیم و تلاش های جامعه ی کاربران "
+"ما مسیر پروژه را تعیین میکند. تلاش های جامعه ی کاربری چندین ابزار بسیار خوب "
+"برای لینوکس و یک توزیع عالی را ساخته است. با openSUSE، شما یک رای دارید و به "
+"راحتی میتوانید در پروژه مشارکت کنید. چه شما یک توسعه دهنده ی لینوکس باشید چه "
+"کاربر نهایی که به پروژه ی openSUSE علاقه مند شده باشید. به یک انجمن عضو "
+"شوید، ویکی ما را حمایت و به روز نگه دارید، باگ ها را بیابید  و آنها را گزارش "
+"دهید، مستندات را بازبینی کنید، لیستی از بسته ها و امکانات درخواتستی خود را "
+"بفرستید، وصله های نرم افزاری را بسازید و ثبت کنید، و یا با شرکت در همایش ها، "
+"یک حامی برای openSUSE شوید و به سفیر آن تبدیل شوید."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "در ارتباط با چگونگی مشارکت بیشتر بدانید."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "سخت افزار"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "مشارکت در سخت افزار"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"حمایت های مالی به پروژه ی openSUSE همیشه مورد پذیرش واقع میگیرند. در واقع، "
+"Open Build Service، چیزی که به وسیله ی چندین پروژه ی متن باز دیگر استفاده "
+"میشود، به وسیله ی اهدای سرور توسط AMD در دسترس پروژه ی جامعه قرار گرفته است. "
+"این یک نوع حمایتیست که باعث میشود مردم و پروژه پیشرفت کنند، توسعه داده، "
+"نوآوری کنند و در جریان باشند. پروژه درخواست پول نمیکند، اما اهدای سخت افزار "
+"برای استفاده از تخصص جامعه ی متن-باز برای قدرت بخشی به توسعه ی لینوکس، باعث "
+"میشود تا ابزار های openSUSE رایگان، اکوسیستم متن باز و دارای بازدهی به توسعه "
+"دهندگان، مدیران سیستم و بسته بندی کنندگان باشد. سخت افزار به جامعه ی "
+"openSUSE کمک میکند! سخت افزار به جامعه ی متن-باز کمک میکند! و سخت افزار به "
+"توسعه ی لینوکس کمک میکند. برای اینکه بدانید چگونه به پروژه ی openSUSE سخت "
+"افزار اهدا کنید، به رایانامه ی زیر نامه بفرستید"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "با openSUSE در کنفرانس دیدار کنید."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "مشاهده ی کنفرانس های آینده"
+
+#: index.html:311
+msgid "Get software"
+msgstr "دریافت نرم افزار"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "ویکی"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "سرویس ساخت"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "شبکه اجتماعی"
+
+#: index.html:340
+msgid "Forums"
+msgstr "انجمن ها"
+
+#: index.html:349
+msgid "Shop"
+msgstr "فروشگاه"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "وبلاگها"
+
+#: index.html:359
+msgid "Press"
+msgstr "مطبوعات"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "حمایت شده توسط:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "تغییر زبان"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "تمامی حقوق محفوظ است."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "مهر زده شده است."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "بازگشت به صفحه ی اصلی"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "صحبت های کنفرانس openSUSE"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "برای کنفرانس openSUSE"

@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2017-07-26 08:07+0000\n"
+"Last-Translator: Gayane Osipyan <gayane.osipyan@suse.com>\n"
+"Language-Team: Armenian <https://l10n.opensuse.org/projects/landing-page/"
+"master/hy/>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr "Լավագույն ընտրությունը սիսադմինների, մշակողների եւ  օգտվողի կողմից:"
+
+#: index.html:49
+msgid "Home"
+msgstr "Գլխավոր"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Գործիքներ"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Նորություններ"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "Աջակցել"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Կոնֆերանսներ"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Ձեռքբերել թարմ Linux փաթեթները մեր թողարկման մեջ. Արագ! Ամբողջացված ! "
+"Կայուն! Փորձարկված!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Լրացուցիչ տեղեկություն"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Տեղադրեք Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Ցանկացած օգտվող, որը ցանկանում է ունենալ թարմ փաթեթներ, որոնք ներառում են, "
+"սակայն չեն սահմանափակվում, Linux kernel, Samba, git , desktops,  office "
+"applications  եւ շատ այլ փաթեթներով, կընTumbleweed: Tumbleweed գրավիչ է "
+"Power Users, ծրագրային մշակողների եւ openSUSE  աջակցողներ:Եթե դուք պահանջում "
+"նորագույն ծրագրային ապահովում եւ ինտեգրված մշակման միջավայր, կամ պահանջվում "
+"է կայուն հարթակ, որն ամենամոտն է bleeding edge Linux ին, Tumbleweed "
+"լավագույն ընտրությունն է ձեզ համար."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Իմանալ ավելին"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Ստանալ  ավարտված Linux բաշխումը openSUSE ի վերջին թողարկության հետ միասին."
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Տեղադրեք Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Նոր եւ փորձառու Linux- ի օգտվողները ստանում են առավել օգտագործելի Linux "
+"բաշխված եւ կայուն օպերացիոն համակարգ openSUSE հերթական թողարկման մեջ: Ստանալ "
+"թարմացումներ եւ կարծրացնում ձեր օպերացիոն openSUSE վերջին խոշոր բաշխման. "
+"Ընտրեք Ձեր աշխատասեղանին, կարգավորել ձեր համակարգը եւ վայելեք հարթակ ընտրված "
+"Linux մշակողների, վարչների, եւ ծրագրային ապահովման վաճառողներին կողմից."
+
+#: index.html:133
+msgid "days"
+msgstr "օր"
+
+#: index.html:134
+msgid "day"
+msgstr "օր"
+
+#: index.html:135
+msgid "hours"
+msgstr "ժամ"
+
+#: index.html:136
+msgid "hour"
+msgstr "ժամ"
+
+#: index.html:139
+#, fuzzy
+msgid "for Leap 15.1"
+msgstr "Leap 42.3 համար"
+
+#: index.html:148
+msgid "is now available"
+msgstr "Առկա"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE գործիքներ"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"Բացահայտեք լավագույն open-source  գործիքներ մշակված մեր համայնքի կողմից"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "հղում"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Մեր կառուցող գործիքը, կառուցում է մեր բոլոր փաթեթների, ինչպես նաեւ  SUSE "
+"Linux Enterprise, Arch, Debian, Fedora,Scientific Linux, RHEL, CentOS, "
+"Ubuntu, եւ ավելի."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Ավտոմատացված թեսթավորում  *ցանկացած*   օպերացիոն համակարգի համար, որը "
+"կարդում է էկրանից և կառավարում host ը նույնակերպ ինչպես օգտագործողը:"
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Լավագույն / միայն համապարփակ Linux համակարգերի կոնֆիգուրացիան եւ տեղադրման "
+"գործիքը:"
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Ստեղծեք Linux պատկերներ տեղադրման համար իրական սարքաշարի, վիրտուալիզացիայի "
+"եւ այժմ նույնիսկ Docker- ի պարունակ համակարգերի մասին: Kiwi շարժիչն է, որը "
+"գործարկում է SUSE Studio- ին:"
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "Նվիրաբերիր OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Մեր համայնքի մասն եղիր,օժանդակելով հաջորդներից ցանկացածը:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Կոդ"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Պարզել ավելին"
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Փոփոխել կոդ"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE հավատում է որ ամենալավ արդյունքները գալիս են երբ մարդիկ "
+"համագործակցում են և զվարճանում : Լինելով տարբեր այլ open-source ծրագրերից , "
+"դարձնում է openSUSE-ն ցանկալի: Մենք սովորական համայնքը չենք և մեր համայնքի "
+"ջանքերը որոշում են նախագծի ուղին: Համայնքի ջանքերով ստեղծվել են բազմաթիվ "
+"հիանալի ծրագրային գործիքներ LINUX-ի համար և խիստ տպավորիչ բաշխում: openSUSE "
+"ի հետ դուք ձայն և հեշտությամբ կարող եք նախագծում ներդրում կատարել: Անկախ "
+"նրանից, թե դուք փորձառու LINUX-ի մշակող եք թե վերջնական օգտագործող "
+"կներգրավվեք openSUSE նախագիծ : Միացեք ֆորումին , պահպանել եւ պահել մեր wiki-"
+"ն թարմացված, գտնել եւ զեկուցել սխալները, վերանայել փաստաթղթերը, ուղարկել ձեր "
+"ցանկությունների ցանկը նոր փաթեթների եւ հատկությունների համար, ստեղծել եւ "
+"ներկայացնել շտկումներ կամ դառնալ կողմնակից\n"
+"OpenSUSE- ի համար մասնակցելով միջոցառումների եւ դառնալով OpenSUSE- ի "
+"ներկայացուցիչ:"
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Պարզել ավելին, թե ինչպես մասնակցել:"
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Սարքաշար"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Նվիրաբերել սարքաշարով"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"OpenSUSE նախագծին աջակցությունը միշտ ողջունվում է: Փաստացի, Open Build "
+"Service-ը, որն օգտագործվում է մի քանի այլ open-source ծրագրերի կողմից, "
+"դարձել է հասանելի ծրագրի համայնքին, առատաձեռն սեռվերների նվիրատվությամբ AMD "
+"ընկերության կողմից : Դա նվիրատվությունների այն տեսակն է, որը թույլ է տալիս "
+"մարդկանց եւ նախագծին բարգավաճել , զարգանալ , նորամուծություն մտցնել և "
+"առաջադիմել: openSUSE ծրագիրը գումար չի պահանջում, այլ սարքաշարի "
+"նվիրատվություններ , որոնք կօգտագործվեն  open-source համայնքի կողմից, Linux- "
+"ի զարգացման համար, ապահովելով OpenSUSE  գործիքներով ազատ եւ բաց էկոհամակարգի "
+"համար, որը կօգտագործվի ծրագրավորողների, sսիսադմիների եւ փաթեթավորողների "
+"կողմից: Hardware- ը օգնում է openSUSE համայնքին: Hardware- ը օգնում է open-"
+"source համայնքին: Եվ Hardware- ը օգնում է Linux- ի զարգացմանը: Իմանալու "
+"համար, թե ինչպես կարող եք նվիրաբերել openSUSE  նախագծին սարքավորումներով, "
+"ուղարկեք նամակ հետեւյալ հասցեով:"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Հանդիպումներ openSUSE կոնֆերանսներին:"
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Դիտեք առաջիկա կոնֆերանսները"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Ստացեք ծրագրային ապահովում"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Սոցիալական ցանց"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Ֆորումներ"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Խանութ"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Բլոգեր"
+
+#: index.html:359
+msgid "Press"
+msgstr "Մամուլ"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Հովանավորված է:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Փոխել լեզուն"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Բոլոր իրավունքները պաշտպանված են."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Imprint."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Վերադառնալ գլխավոր էջ"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Կոնֆերանսներ"
+
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "openSUSE Leap 42.3 -ի համար"

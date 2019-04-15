@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-07 06:52+0000\n"
+"Last-Translator: Tommi Nieminen <software@legisign.org>\n"
+"Language-Team: Finnish <https://l10n.opensuse.org/projects/landing-page/"
+"master/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"Tekijöiden valinta järjestelmän ylläpitäjille, kehittäjille ja "
+"työpöytäkäyttäjille."
+
+#: index.html:49
+msgid "Home"
+msgstr "Koti"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Työkalut"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Uutiset"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "Avusta"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Konferenssit"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Saa uusimmat Linux-paketit jatkuvalla jakelullamme. Nopeaa! Yhtenäistä! "
+"Vakaata! Testattua!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Lisätietoa"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Asenna Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Käyttäjä, joka haluaa aina uusimmat paketit mm. Linux-ytimestä, Sambasta, "
+"gitistä, työpöydistä, toimistosovelluksista ja monista muista paketeista, "
+"haluaa Tumbleweedin. Tumbleweed vetoaa tehokäyttäjiin, ohjelmakehittäjiin ja "
+"openSUSEn avustajiin. Jos vaadit uusimmat ohjelmat ja kehitysympäristöt tai "
+"tarvitset eturivin Linuxia lähinnä olevan vakaan alustan, Tumbleweed on "
+"sinulle paras vaihtoehto."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Lisätietoa"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Saat täydellisimmän Linux-jakelun openSUSEn viimeisimmällä säännöllisellä "
+"kausijulkaisulla!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Asenna Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Uudet ja kokeneet Linux-käyttäjät saavat käytettävimmän Linux-jakelun ja "
+"vakaimman käyttöjärjestelmän openSUSEn säännöllisellä kausijulkaisulla. "
+"openSUSEn viimeisimmällä pääjulkaisulla saat päivitykset ja "
+"tietoturvaparannukset. Valitse työpöytäsi, määritä järjestelmäsi ja nauti "
+"Linux-kehittäjien, -ylläpitäjien ja -ohjelmajakelijoiden valitsemasta "
+"alustasta."
+
+#: index.html:133
+msgid "days"
+msgstr "päivää"
+
+#: index.html:134
+msgid "day"
+msgstr "päivä"
+
+#: index.html:135
+msgid "hours"
+msgstr "tuntia"
+
+#: index.html:136
+msgid "hour"
+msgstr "tunti"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "Leap 15.1:lle"
+
+#: index.html:148
+msgid "is now available"
+msgstr "on nyt saatavilla"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "openSUSE-työkalut"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr "Löydä yhteisömme kehittämät parhaat avoimen lähdekoodin työkalut"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Siirry linkkiin"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Koostamistyökalumme koostaa paitsi meidän myös openSUSE Linux Enterprisen, "
+"Archin, Debianin, Fedoran, Scientific Linux, RHELin, CentOSin, Ubuntun ja "
+"muiden paketit."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"*Minkä tahansa* käyttöjärjestelmän automaattinen testaus: osaa lukea näyttöä "
+"ja hallita testikonetta kuten käyttäjäkin."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Paras ja ainoa täydellinen Linux-järjestelmäasetus- ja -asennustyökalu."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Luo Linux-levykuvia käytettäväksi oikeassa tai virtuaalilaitteistossa, nyt "
+"myös Dockerissa. Kiwi on SUSE Studiota pyörittävä moottori."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "AVUSTA OPENSUSEA"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Tule osaksi yhteisöä avustamalla missä hyvänsä seuraavista:"
+
+#: index.html:267
+msgid "Code"
+msgstr "koodissa"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Lisätietoa"
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Avusta koodissa"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"openSUSE uskoo, että parhaita tuloksia saa ihmisiltä, jotka toimivat "
+"yhteistyössä ja pitävät hauskaa. openSUSEsta tekee kiinnostavan se, miten se "
+"eroaa muista avoimen lähdekoodin yhteisöistä. Emme ole tavanomainen yhteisö, "
+"vaan yhteisömme uurastus määrittää projektin suunnan. Yhteisömme tekemä työ "
+"on luonut Linuxiin monia hienoja työkaluja sekä upean Linux-jakelun. "
+"openSUSEssa sinulla on ääni ja voit helposti vaikuttaa projektiin. Oletpa "
+"kokenut Linux-kehittäjä tai loppukäyttäjä, ota osaa openSUSE-projektiin. "
+"Liity keskustelualueelle, pidä wikimme ajan tasalla, etsi ja ilmoita "
+"ohjelmavirheistä, tarkista ohjeistusta, lähetä toivomuslistasi uusista "
+"paketeista ja ominaisuuksista, tee ja lähetä paikkauksia tai rupea openSUSEn "
+"puolestapuhujaksi osallistumalla tapahtumiin ja tulemalla lähettilääksi."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Lue lisää osallistumismahdollisuuksista."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Laitteisto"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Avusta laitteistossa"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"openSUSE-projektia tukevat lahjoitukset ovat aina tervetulleita. Itse "
+"asiassa useiden avoimen lähdekoodin projektien käyttämä Open Build Service "
+"tuli projektiyhteisön käyttöön AMD:n avokätisesti lahjoittamien palvelinten "
+"myötä. Tällaiset lahjoitukset mahdollistavat ihmisten ja projektien "
+"menestyksen, kehityksen, uudistumisen ja edistymisen. Projekti ei pyydä "
+"rahaa vaan laitelahjoituksia, jotta avoimen lähdekoodin yhteisö voi tehostaa "
+"Linuxin kehitystä, antaa openSUSElle työkalut avoimeen, vapaan lähdekoodin "
+"ekosysteemiin sekä mahdollistaa palautteen kehittäjille, ylläpitäjille ja "
+"paketoijille. Laitteet auttavat openSUSE-yhteisöä! Laitteet auttavat avoimen "
+"lähdekoodin yhteisöä! Ja laitteet auttavat Linuxin kehitystä. Saadaksesi "
+"lisätietoa, miten voit lahjoittaa laitteistoa openSUSE-projektille, lähetä "
+"sähköpostia osoitteeseen"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Kohtaa openSUSE konferensseissa."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Katso tulevia konferensseja"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Nouda ohjelmia"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Koostamispalvelu"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Sosiaalinen verkko"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Keskustelualueet"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Kauppa"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogit"
+
+#: index.html:359
+msgid "Press"
+msgstr "Lehdistö"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Tukijat:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Vaihda kieltä"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Kaikki oikeudet pidätetään."
+
+#: index.html:431
+msgid "Imprint."
+msgstr ""
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Palaa pääsivulle"

@@ -1,0 +1,386 @@
+# Nick Mantas <nmantas@aol.com>, 2015.
+# Danae <danae.asderi@gmail.com>, 2015.
+# Efstathios Iosifidis <iosifidis@opensuse.org>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2017-07-21 11:24+0000\n"
+"Last-Translator: Nick Mantas <nmantas.archery@gmail.com>\n"
+"Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
+"el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"Η επιλογή των δημιουργών για διαχειριστές συστημάτων, προγραμματιστές και "
+"καθημερινούς χρήστες."
+
+#: index.html:49
+msgid "Home"
+msgstr "Αρχική"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Νέα"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Συνεισφορά"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Συνέδρια"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Αποκτήστε τα νεότερα πακέτα Linux με την έκδοση rolling. Γρήγορα! "
+"Ολοκληρωμένα! Σταθεροποιημένα! Δοκιμασμένα!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Περισσότερες πληροφορίες"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Εγκατάσταση Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Ο χρήστης που επιθυμεί να έχει τα πιο πρόσφατα πακέτα που περιλαμβάνουν "
+"(αλλά δεν περιορίζονται μονο) τον πυρήνα του Linux, SAMBA, git, εφαρμογές "
+"γραφείου, γραφικό περιβάλλον και πολλά άλλα πακέτα, θα θέλει την έκδοση "
+"Tumbleweed. Η έκδοση Tumbleweed απευθύνεται σε προχωρημένους χρήστες, "
+"προγραμματιστές και χρήστες που συνεισφέρουν στο openSUSE. Εάν χρειάζεστε "
+"τις τελευταίες εκδόσεις λογισμικού και ανεξάρτητο περιβάλλον ανάπτυξης ή "
+"χρειάζεστε μια σταθερή πλατφόρμα που βρίσκεται μέσα στις τελευταίες "
+"εξελίξεις στο χώρο του Linux, τότε το Tumblweed είναι η καλύτερη επιλογή για "
+"εσάς."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Μάθετε περισσότερα"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Αποκτήστε την πιο ολοκληρωμένη διανομή Linux με την τελευταία έκδοση του "
+"openSUSE!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Εγκατάσταση Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Καινούργιοι και έμπειροι χρήστες Linux διαλέγουν την περισσότερο "
+"χρησιμοποιούμενη διανομή Linux και ένα σταθεροποιημένο λειτουργικό σύστημα "
+"με την τακτική έκδοση του openSUSE. Κατεβάστε ενημερώσεις και ενισχύστε το "
+"λειτουργικό σας σύστημα με την τελευταία κύρια διανομή του openSUSE. "
+"Διαλέξτε την επιφάνεια εργασίας σας, ρυθμίστε το σύστημά σας και απολαύστε "
+"την πλατφόρμα που επιλέγουν προγραμματιστές Linux, διαχειριστές και "
+"προμηθευτές λογισμικού."
+
+#: index.html:133
+msgid "days"
+msgstr "ημέρες"
+
+#: index.html:134
+msgid "day"
+msgstr "ημέρα"
+
+#: index.html:135
+msgid "hours"
+msgstr "ώρες"
+
+#: index.html:136
+msgid "hour"
+msgstr "ώρα"
+
+#: index.html:139
+#, fuzzy
+msgid "for Leap 15.1"
+msgstr "για το openSUSE Leap 42.3"
+
+#: index.html:148
+msgid "is now available"
+msgstr "είναι διαθέσιμο τώρα"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "ΕΡΓΑΛΕΙΑ openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"Ανακαλύψτε τα καλύτερα εργαλεία ανοιχτού κώδικα που έχουν αναπτυχθεί από την "
+"κοινότητά μας"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Μετάβαση σε σύνδεσμο"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Με το εργαλείο κατασκευής πακέτων, μπορείτε να κατασκευάσετε όλα τα πακέτα "
+"μας, ακόμα και πακέτα για SUSE Linux Enterprise, Arch, Debian, Fedora, "
+"Scientific Linux, RHEL, CentOS, Ubuntu, και πολλά."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Αυτόματη δοκιμή για *κάθε* λειτουργικό σύστημα, με την αναγνώριση της οθόνης "
+"και έλεγχο του  συστήματος με τον ίδιο τρόπο που το κάνει ένας χρήστης."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"Το καλύτερο/μοναδικό ολοκληρωμένο εργαλείο παραμετροποίησης και εγκατάστασης "
+"σε σύστημα Linux."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Δημιουργείστε στιγμιότυπα Linux για ανάπτυξη σε πραγματικό υλικό, "
+"εικονικοποίηση και τώρα ακόμα και συστήματα 'container' όπως το Docker. Το "
+"Kiwi είναι η μηχανή που υποστηρίζει το SUSE Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "ΣΥΝΕΙΣΦΟΡΑ ΣΤΟ OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+"Γίνετε μέρος της κοινότητας συνεισφέροντας με οποιονδήποτε από τους παρακάτω "
+"τρόπους:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Κώδικας"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Μάθετε περισσότερα"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Συνεισφορά κώδικα"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"Το openSUSE πιστεύει ότι τα καλύτερα αποτελέσματα έρχονται από ανθρώπους που "
+"συνεργάζονται και περνούν καλά. Το ότι είμαστε διαφορετικοί από άλλες "
+"κοινότητες ανοιχτού κώδικα λογισμικού είναι αυτό που κάνει το openSUSE "
+"επιθυμητό. Δεν είμαστε μια συμβατική κοινότητα και η προσπάθεια της "
+"κοινότητάς μας καθορίζει την πορεία του project. Οι προσπάθειες της "
+"κοινότητας έχουν δημιουργήσει αρκετά καταπληκτικά εργαλεία για το Linux και "
+"μια φοβερή διανομή. Με το openSUSE, ο καθένας έχει φωνή και μπορείς εύκολα "
+"να συνεισφέρει στο project. Είτε είναι έμπειρος προγραμματιστής Linux είτε "
+"απλός χρήστης, μπορεί να συμμετέχει στο project του openSUSE. Λάβετε μέρος "
+"σε ένα forum, συντήρηστε και ενημέρωστε το wiki μας, βρείτε και αναφέρετε "
+"σφάλματα, επανεξετάστε την τεκμηρίωση, στείλτε τη λίστα σας για νέα πακέτα "
+"και χαρακτηριστικά, δημιουργήστε και υποβάλετε πακέτα, ή γίνετε εκπρόσωπος "
+"του openSUSE παρακολουθώντας εκδηλώσεις και γίνετε πρεσβευτής."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Περισσότερες πληροφορίες σχετικά με το πως μπορείτε να συμμετέχετε."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://el.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Υλικό"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Συνεισφορά σε υλικό"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Δωρεές για την υποστήριξη του openSUSE project είναι πάντα ευπρόσδεκτες. Το "
+"Open Build Service που χρησιμοποιείται από αρκετά projects ανοιχτού κώδικα, "
+"έγινε διαθέσιμο στην κοινότητα μέσω γενναιόδωρης δωρεάς των servers από την "
+"AMD. Είναι αυτού του είδους δωρεές που επιτρέπουν στους χρήστες και τα "
+"projects να αναπτυχθούν, να καινοτομούν και να προοδεύουν. Το project δεν "
+"ζητά χρήματα, αλλά δωρεές υλικού για να χρησιμοποιηθούν από την τεχνογνωσία "
+"της κοινότητας ανοιχτού λογισμικού για να ενδυναμώσουν την ανάπτυξη του "
+"Linux, να παρέχει τα εργαλεία του openSUSΕ στο δωρεάν, ανοιχτού κώδικα "
+"οικοσύστημα και να προσφέρει πίσω σε προγραμματιστές, διαχειριστές "
+"συστημάτων και συσκευαστές. Το υλικό βοηθά την κοινότητα του openSUSE! Το "
+"υλικό βοηθά την κοινότητα του ανοιχτού και ελεύθερου κώδικα λογισμικού! Και "
+"το υλικό βοηθά στην ανάπτυξη του Linux. Για να μάθετε πως μπορείτε να "
+"δωρίσετε υλικό στο project του openSUSE, στείλτε email"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Συναντήσεις στα συνέδρια openSUSE."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Προβολή επερχόμενων συνεδρίων"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Λήψη λογισμικού"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Κοινωνικά Δίκτυα"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Forums"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Κατάστημα"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogs"
+
+#: index.html:359
+msgid "Press"
+msgstr "Τύπος"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Χορηγοί:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Επιλογή γλώσσας"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Με επιφύλαξη κάθε νομίμου δικαιώματος."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Ανατύπωση."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://el.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Πίσω στην κύρια σελίδα"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Συναντήσεις στα συνέδρια openSUSE."
+
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "Συναντήσεις στα συνέδρια openSUSE."
+
+#~ msgid "What's new"
+#~ msgstr "Τι νέο υπάρχει"
+
+#, fuzzy
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
+#~ msgstr ""
+#~ "Το μηχάνημα υποστηρίζει εύρεση παραμετροποίησης, επικύρωση συστήματος, "
+#~ "και μεταφορά υπηρεσιών."
+
+#~ msgid "Check all openSUSE tools"
+#~ msgstr "Ελέγξτε όλα τα εργαλεία του openSUSE"
+
+#, fuzzy
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "Το μηχάνημα βασίζεται στην ιδέα την γενικής περιγραφής συστήματος. Είναι "
+#~ "διαφανές, επεκτάσιμο και όμορφα φτιαγμένο."
+
+#, fuzzy
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "Το μηχάνημα είναι φτιαγμένο για τον διαχειριστή συστήματος του κέντρου "
+#~ "δεδομένων. Διαβάστε περισσότερα για τη φιλοσοφία πίσω από αυτό."

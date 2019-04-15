@@ -1,0 +1,376 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-02-02 07:52+0000\n"
+"Last-Translator: Rodrigo Macedo <rmsolucoeseminformatic4@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/"
+"landing-page/master/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"A escolha dos criadores para administradores de sistema, desenvolvedores e "
+"usuários."
+
+#: index.html:49
+msgid "Home"
+msgstr "Início"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Notícias"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Contribuir"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Conferências"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Obtenhas os pacotes Linux mais recentes com nossa distribuição de lançamento "
+"contínuo. Rápido! Integrado! Estabilizado! Testado!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Mais informações"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Instalar o Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Qualquer usuário que deseja ter os pacotes mais recentes que incluem, mas "
+"não são limitados a, kernel Linux, SAMBA, git, áreas de trabalho, "
+"aplicativos de escritório e muitos outros pacotes, irá querer o Tumbleweed. "
+"O Tumbleweed atrai usuários avançados, desenvolvedores de software e "
+"contribuidores do openSUSE. Se você quer os softwares mais recentes e um "
+"ambiente de desenvolvimento independente ou necessita de uma plataforma "
+"estável próxima do mais recente em Linux, o Tumbleweed é a melhor escolha "
+"pra você."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Saiba mais"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Obtenha a mais completa distribuição Linux com a versão de lançamento "
+"regular mais recente do openSUSE!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Instale o Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Usuários Linux novos e experientes obtém a distribuição Linux mais usável e "
+"o sistema operacional mais estabilizado com a versão de lançamento regular "
+"do openSUSE. Receba atualizações e fortaleça seu sistema com a maior "
+"distribuição do openSUSE mais recente. Selecione sua área de trabalho, "
+"configure seu sistema e aproveite da plataforma de escolha para os "
+"desenvolvedores Linux, administradores e revendedores de software."
+
+#: index.html:133
+msgid "days"
+msgstr "dias"
+
+#: index.html:134
+msgid "day"
+msgstr "dia"
+
+#: index.html:135
+msgid "hours"
+msgstr "horas"
+
+#: index.html:136
+msgid "hour"
+msgstr "hora"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "para o Leap 15.1"
+
+#: index.html:148
+msgid "is now available"
+msgstr "já está disponível"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "Ferramentas do openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"Descubra as melhores ferramentas de código aberto desenvolvidas por nossa "
+"comunidade"
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Ir para o link"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"Nossa ferramenta de compilação, compila todos os nossos pacotes bem como os "
+"para SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, "
+"CentOS, Ubuntu e mais."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Testes automatizados para *qualquer* sistema operacional, que podem ler a "
+"tela e controlar a máquina de testes da mesma forma qu um usuário faz."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"A melhor/única ferramenta abrangente de instalação e configuração do sistema "
+"Linux."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Crie imagens Linux para implantação em hardware real, virtualizado e até "
+"mesmo contenedores de sistemas como o Docker. Kiwi é o motor que faz "
+"funcionar o SUSE Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "CONTRIBUA COM O OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr "Seja parte de nossa comunidade contribuindo com um dos modos a seguir:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Código"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Saiba mais"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Contribuir com código"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"O openSUSE acredita que os melhores resultados vêm de pessoas colaborando e "
+"se divertindo. Sendo diferente de outras comunidades de código aberto é o "
+"que faz o openSUSE desejável. Não somo uma comunidade convencional e nossos "
+"esforços comunitários determinam o caminho do projeto. Os esforços da "
+"comunidade criaram várias ferramentas ótimas para o Linux e uma incrível "
+"distribuição. Com o openSUSE, você tem voz e pode facilmente contribuir para "
+"o projeto. Quer você seja um desenvolvedor Linux experiente ou um usuário "
+"final envolvido no projeto. Entre no fórum, mantenha nossa wiki atualizada, "
+"encontre e relate erros, revise a documentação, envie sua lista de desejos "
+"de novos pacotes e recursos, crie e envie correçõe ou torne-se um defensor "
+"do openSUSE indo a eventos e tornando-se um embaixador."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Saiba mais sobre como participar."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://pt.opensuse.org/Portal:Como_Participar"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Hardware"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Contribuir com hardware"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"As doações para suportar o projeto openSUSE são sempre bem-vindas. De fato, "
+"o Open Build Service, que é usado por vários outros projetos de códido "
+"aberto, foi disponibilizado através de uma generosa doação de servidores "
+"pela AMD. É este tipo de doação que permite pessoas e projetos prosperar, "
+"desenvolver, inovar e progredir. O projeto não pede por dinheiro, mas doação "
+"de hardware para usar a experiência da comunidade de código aberto para "
+"aprimorar o desenvolvimento do Linux, fornecer as ferramentas do openSUSE "
+"para o ecossistema de código aberto livre e dar de volta aos "
+"desenvolvedores, administradores de sistema e empacotadores. Hardware ajuda "
+"a comunidade openSUSE! Hardware ajuda a comunidade de código aberto! E o "
+"hardware ajuda no desenvolvimento do Linux. Para saber mais sobre como doar "
+"hardware para o projeto openSUSE, mande um e-mail para"
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Encontre-se com o openSUSE em conferências."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Veja as próximas conferências"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Baixar software"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Build Service"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Redes sociais"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Fóruns"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Loja"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogs"
+
+#: index.html:359
+msgid "Press"
+msgstr "Imprensa"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Patrocinado por:"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Alterar idioma"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Todos os direitos reservados."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Responsável."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Voltar à página inicial"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Falas na Conferência openSUSE"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "para a Conferência openSUSE"
+
+#~ msgid "What's new"
+#~ msgstr "Novidades"
+
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
+#~ msgstr ""
+#~ "O Machinery suporta a descoberta de configuração, validação do sistema e "
+#~ "serviço de migração."
+
+#~ msgid "Check all openSUSE tools"
+#~ msgstr "Veja todas as ferramentas do openSUSE"
+
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "O Machinery é baseado na ideia de uma descrição de sistema universal. Ele "
+#~ "é transparente, extensível e trabalha maravilhosamente."
+
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "O Machinery é feito para o administrador do sistema do data center. Leia "
+#~ "mais sobre a filosofia por trás dele."

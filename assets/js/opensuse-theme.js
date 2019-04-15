@@ -1,19 +1,33 @@
 // Functions for the mobile version
-$(document).on("click", '#open_main_menu', open_mobile_menu);
-var menu_open = false
-function open_mobile_menu () {
-  if (menu_open) {
-    $('aside').css({'left': '-250px'});
-    menu_open = false;
-  } else {
-    $('aside').css({'left': '0px'});
-    menu_open = true
+$(document).on('click', '#open_main_menu', openMobileMenu);
+
+// Add swipe detection
+$(document).on('ready', detectMobileScreen);
+
+var screenWidth;
+var menuOpen = false;
+
+function detectMobileScreen() {
+  screenWidth = $(window).outerWidth();
+  if (screenWidth < 768) {
+    if (!menuOpen) {
+      $('.finger-detection-open-menu').on('swiperight', openMobileMenu);
+    }
   }
 }
 
-var scrolled;
-var mainSectionHeight;
-var headerHeight;
+function openMobileMenu () {
+  if (menuOpen) {
+    $('aside').css({'left': '-250px'});
+    menuOpen = false;
+  } else {
+    $('aside').css({'left': '0px'});
+    menuOpen = true;
+    $('aside').on('swipeleft', openMobileMenu);
+  }
+}
+
+var scrolled, mainSectionHeight, headerHeight, containerHeight;
 
 // always initiate the scroll at the top
 $(window).on('beforeunload', function() {
@@ -33,6 +47,8 @@ $(window).bind('scroll',function(e){
   getScrolledData();
 });
 
+var $mainMenu;
+
 $(function() {
   $mainMenu = $('#main-menu').html()
   $('aside').html($mainMenu)
@@ -44,6 +60,14 @@ var scrolledDown = false;
 
 function getScrolledData() {
   scrolled = $(window).scrollTop();
+
+  // Go to Top
+  if ($(window).outerHeight()/2 < scrolled) {
+    $(".go-to-top").fadeIn();
+  }
+  else {
+    $(".go-to-top").fadeOut();
+  }
 
   // detect if the user has scrolled more than the first section (height) to reduce the size of the menu
   if (scrolled > mainSectionHeight) {
@@ -58,7 +82,7 @@ function getScrolledData() {
 
 function headerChanges() {
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f',
+    background: moreInfoOpened ? '#6da741' : '#173f4f',
     top: '0px',
     height: '45px',
     padding: '8px',
@@ -77,7 +101,7 @@ function headerReset() {
   $('header').removeAttr('style')
   //but always keep the color applied from the scrolling
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
+    background: moreInfoOpened ? '#6da741' : '#173f4f'
   })
   $('#opensuseLogo').removeAttr('style')
   $('header ul li a').removeAttr('style')
@@ -111,6 +135,7 @@ $(document).ready(function() {
 // tumbleweed opensuse more information
 
 var moreInfoOpened = false;
+var $osSelected, title, text, icon;
 
 $(function() {
   $('#tumbleweed').on('click', function() {
@@ -122,24 +147,30 @@ $(function() {
 })
 
 function osMoreInformation(os) {
+
   moreInfoOpened = true
   //get the height of the main container
-  containerHeight = $('#opensuse-os').outerHeight()
+  containerHeight = $('#opensuse-os').outerHeight();
+  
 
   //find the information of the selected distribution
   $osSelected = os
-  title = $osSelected.find("h1").html()
-  text = $osSelected.find(".hidden-content").html()
-  icon = $osSelected.find(".distributions-icon").html()
+  osSelectedTitle = $osSelected.find("h1").html()
+  osSelectedText = $osSelected.find(".hidden-content").html()
+  osSelectedIcon = $osSelected.find(".distributions-icon").html()
 
+  window.location.hash = osSelectedTitle;
+  
+  //dont let users click more than once
+  $osSelected.addClass('not-clickable')
 
   // animation
   $('#opensuse-os .container-fluid').addClass('animated bounceOut')
   $('#opensuse-os').css({
-    background: '#4bb67a'
+    background: '#6da741'
   })
   $('header').css({
-    background: moreInfoOpened ? '#4bb67a' : '#173f4f'
+    background: moreInfoOpened ? '#6da741' : '#173f4f'
   })
   $('header ul li a').css({
     color: "#fff"
@@ -158,10 +189,10 @@ function osMoreInformation(os) {
     information = '<div class="text-center" id="more-information-os">'
                   + '<div class="os-icon"></div>'
                   + '<h1 class="wow fadeInUp">'
-                  + title
+                  + osSelectedTitle
                   + '</h1>'
                   + '<div class="wow fadeInUp">'
-                  + text
+                  + osSelectedText
                   + '</div>'
                   + '<br/>'
                   + '<div class="btn btn-link back-to-main-page">'
@@ -170,15 +201,29 @@ function osMoreInformation(os) {
                   + '</div>'
                   + '</div>'
     $('#opensuse-os').append(information)
-    $('.os-icon').html(icon)
+    $('.os-icon').html(osSelectedIcon)
 
     $('.back-to-main-page').on('click', function() {
-      backToMainPageOs()
+      history.pushState('', document.title, window.location.pathname);  
+      backToMainPageOs($osSelected)
     })
+
+    $('#home, #opensuseLogo').on('click', function() {
+      history.pushState('', document.title, window.location.pathname);  
+      scrolled = $(window).scrollTop();
+      if (scrolled > mainSectionHeight) {
+        setTimeout('backToMainPageOs($osSelected)', 900);
+
+      } else
+      {
+        backToMainPageOs($osSelected)
+      }
+    })
+
   }
 }
 
-function backToMainPageOs () {
+function backToMainPageOs (os) {
   moreInfoOpened = false;
   $('#more-information-os').addClass('animated bounceOut')
   $('header').removeAttr('style')
@@ -200,18 +245,49 @@ function backToMainPageOs () {
     $('#opensuse-os .container-fluid').removeClass('animated bounceOut').show().addClass('animated bounceIn')
   }
 
+  //make the area clickable again
+  $osSelected = os
+  $osSelected.removeClass('not-clickable')
+
 }
 
 //*****************init i18n
 
 var lang = new Lang('en');
 //languages setup - please list here all new language packs
+window.lang.dynamic('ar', 'assets/js/langpack/ar.json');
+window.lang.dynamic('ca', 'assets/js/langpack/ca.json');
+window.lang.dynamic('cs', 'assets/js/langpack/cs.json');
+window.lang.dynamic('da', 'assets/js/langpack/da.json');
+window.lang.dynamic('de', 'assets/js/langpack/de.json');
+window.lang.dynamic('el', 'assets/js/langpack/el.json');
 window.lang.dynamic('es', 'assets/js/langpack/es.json');
+window.lang.dynamic('fa', 'assets/js/langpack/fa.json');
+window.lang.dynamic('fi', 'assets/js/langpack/fi.json');
+window.lang.dynamic('fr', 'assets/js/langpack/fr.json');
+window.lang.dynamic('gl', 'assets/js/langpack/gl.json');
+window.lang.dynamic('hi', 'assets/js/langpack/hi.json');
+window.lang.dynamic('hy', 'assets/js/langpack/hy.json');
+window.lang.dynamic('id', 'assets/js/langpack/id.json');
+window.lang.dynamic('it', 'assets/js/langpack/it.json');
+window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
+window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
+window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
+window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
+window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
+window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
+window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
+window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
+window.lang.dynamic('sv', 'assets/js/langpack/sv.json');
+window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
+window.lang.dynamic('zh_CN', 'assets/js/langpack/zh_CN.json');
+window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
 
 //change language on click
 $(document).on("click", ".change-language", function() {
   var languageSelected = $(this).data('language-value');
   var languageString = $(this).html();
+  $('.dropup_language-menu').removeClass('open');
   $("body").fadeOut(300, function() {
     window.lang.change(languageSelected);
     $(".selected-language").html(languageString);
@@ -220,11 +296,49 @@ $(document).on("click", ".change-language", function() {
 
   return false;
 })
+
+//check if there is a langCookie in the browser
+$(document).on("ready", function(){
+
+  var languageCode;
+  var selectedLanguageName;
+
+  if (cookieLanguage === undefined) {
+    try {
+      // try to use navigator.language
+      languageCode = navigator.language.replace("-","_");
+      window.lang.change(languageCode);
+    }
+    catch(err) {
+      // navigator.language is not available
+      if (navigator.language.length > 2) {
+        try {
+          // try with a more general string (for example, if navigator.language is "es-ES" then "es" is tried)
+          languageCode = navigator.language.substring(0,2);
+          window.lang.change(languageCode);
+        }
+        catch(err) {
+          languageCode = "en";
+        }
+      }
+      else {
+        languageCode = "en";
+      }
+    }
+  }
+  else {
+    languageCode = cookieLanguage;
+  }
+
+  selectedLanguageName = $(".languages").find("[data-language-value='" + languageCode + "']").html();
+  $(".selected-language").html(selectedLanguageName);
+
+});
 //*****************
 
 
 //init particles background
-
+/* Disabled for excessive CPU consumption
 $(document).ready(function() {
   var colorParticles = 'rgba(255,255,255,0.07)'
   $('#opensuse-os').particleground({
@@ -232,6 +346,7 @@ $(document).ready(function() {
     lineColor: colorParticles
   });
 });
+*/
 
 //Contribution interpolation
 
@@ -251,12 +366,16 @@ var contributionInterpolation = function () {
 
   function bounceBall(element, times, speed) {
 
+    //dont let the user click on the ball while the description is open
+    element.addClass('not-clickable');
+
     //add the class Active to the element
     element.addClass('active');
 
     //take the initial position of the element
     var x = element.offset().left - $(window).scrollLeft();
     var y = $(window).outerHeight() - (element.offset().top - $(window).scrollTop()) - element.outerHeight();
+    var elementWidth = element.outerWidth();
 
     //make the element a position absolute element of the body removing it first from the original container
     var parent = element.parent();
@@ -267,7 +386,8 @@ var contributionInterpolation = function () {
     element.css({
       position: 'absolute',
       left: x + 'px',
-      bottom: y + 'px'
+      bottom: y + 'px',
+      width: elementWidth + 'px'
     })
 
     for(var i = 0; i < times; i++) {
@@ -287,16 +407,19 @@ var contributionInterpolation = function () {
       var $detailsContent = parent.find('.hidden-content').html();
       var $details = "<div class='contribution-extended-details animated fadeInUp'>" + $detailsContent + "</div>"
 
-      $("#contribute-details").css({background: 'rgba(54, 184, 120, 0.9)'})
+      $("#contribute-details").css({background: 'rgba(109, 167, 65, 0.9)'})
         .append($details).append($closeDetails);
 
       //close the details
       $('.close-details').on("click", function() {
+        //remove the Animated class first, to restart the effect in case the user
+        //clicks more than once on the element
+        parent.prepend(element).removeClass('animated fadeInUp');
         $('#contribute-details').fadeOut(function() {
           $(this).empty().removeAttr('style');
           element.removeAttr('style').removeClass('active');
           parent.prepend(element).addClass('animated fadeInUp');
-
+          element.removeClass('not-clickable');
         })
       });
 
@@ -304,4 +427,52 @@ var contributionInterpolation = function () {
   }
 
 }
+
+// Add "openSUSE Linux OS" to the document Title
+$(document).on("ready", function() {
+  $("title").prepend('openSUSE - Linux OS. ')
+})
+
+// check if SVG is supported by the user's browser
+$(document).on("ready", function(){
+  if (!Modernizr.svg) {
+    //replace all the svg images for png
+    $("img").each(function() {
+      var currentValue = $(this).attr("src");
+      var newValue = currentValue.replace(".svg", ".png");
+      $(this).attr("src", newValue)
+    });
+    //add a class to the background of Contribute so the background is a .jpg
+    $("#contribute-to-opensuse").addClass('no-svg')
+  }
+})
+
+// Facebook token
+window.fbAsyncInit = function() {
+  FB.init({
+    appId : '831347386978737',
+    xfbml : true,
+    version : 'v2.4'
+  });
+};
+
+(function(d, s, id){
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+
+window.onkeyup = function(e) {
+  var key = e.keyCode ? e.keyCode : e.which;
+
+  if (key == 8 || key == 27) {
+    history.pushState('', document.title, window.location.pathname);
+    backToMainPageOs($osSelected);
+  }
+}
+
 

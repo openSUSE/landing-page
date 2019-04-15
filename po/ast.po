@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2016-10-19 01:47+0000\n"
+"Last-Translator: Enol P <enolp@softastur.org>\n"
+"Language-Team: Asturian <https://l10n.opensuse.org/projects/landing-page/"
+"master/ast/>\n"
+"Language: ast\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"La escoyeta p'alministradores de sistemes, desendolcadores y usuarios "
+"d'escritoriu."
+
+#: index.html:49
+msgid "Home"
+msgstr "Aniciu"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Ferramientes"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Anuncies"
+
+#: index.html:58
+msgid "Contribute"
+msgstr "Collaborar"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Conferencies"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Consigui los paquetes más nuevos de Linux col nuesu llanzamientu continuu. "
+"¡Rápidu, integráu, estabilizáu y probáu!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Más información"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Instala Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Cualesquier usuariu que desee tener los paquetes más nuevos qu'incluyan, "
+"pero nun tean llimitaos a, el kernel Linux, SAMBA, git, escritorios, "
+"ofimática y más, quedrán Tumbleweed. Tumbleweed atrái a usuarios avanzaos, "
+"desendocadores de software y collaboradores d'openSUSE. Si riques el caberu "
+"software y entronu de desendolcu integráu o precises d'una plataforma "
+"estable colo lo cabero en Linux, Tumbleweed ye la to meyor escoyeta."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Depriendi más"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"¡Consigui la distribución Linux más completa cola versión de llanzamientu "
+"menos continuu d'OpenSUSE!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Instala Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+
+#: index.html:133
+msgid "days"
+msgstr "díes"
+
+#: index.html:134
+msgid "day"
+msgstr "día"
+
+#: index.html:135
+msgid "hours"
+msgstr "hores"
+
+#: index.html:136
+msgid "hour"
+msgstr "hora"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr ""
+
+#: index.html:148
+#, fuzzy
+msgid "is now available"
+msgstr "ta disponible agora"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "FERRAMIENTES D'openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Dir al enllaz"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "COLLABORA N'OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+
+#: index.html:267
+msgid "Code"
+msgstr ""
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr ""
+
+#: index.html:272
+msgid "Contribute Code"
+msgstr ""
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr ""
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr ""
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Hardware"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr ""
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr ""
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr ""
+
+#: index.html:311
+msgid "Get software"
+msgstr ""
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr ""
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Redes sociales"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Foros"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Tienda"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogues"
+
+#: index.html:359
+msgid "Press"
+msgstr ""
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr ""
+
+#: index.html:390
+msgid "Change language"
+msgstr ""
+
+#: index.html:431
+#, fuzzy
+msgid "All Rights Reserved."
+msgstr "Tolos drechos reservaos."
+
+#: index.html:431
+msgid "Imprint."
+msgstr ""
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr ""
+
+#: index.html:454
+msgid "Back to main page"
+msgstr ""
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "Conferencies"
+
+#, fuzzy
+#~ msgid "for openSUSE Conference"
+#~ msgstr "pa openSUSE Leap 42.3"

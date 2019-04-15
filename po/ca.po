@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"PO-Revision-Date: 2019-03-14 18:13+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-page/"
+"master/ca/>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: index.html:4 index.html:79
+msgid "The makers' choice for sysadmins, developers and desktop users."
+msgstr ""
+"La tria dels fabricants per a administradors de sistemes, desenvolupadors i "
+"usuaris d'escriptoris."
+
+#: index.html:49
+msgid "Home"
+msgstr "Inici"
+
+#: index.html:52
+msgid "Tools"
+msgstr "Eines"
+
+#: index.html:55 index.html:335
+msgid "News"
+msgstr "Notícies"
+
+# continue button label
+#: index.html:58
+msgid "Contribute"
+msgstr "Contribuïu-hi"
+
+#: index.html:61
+msgid "Conferences"
+msgstr "Conferències"
+
+#: index.html:87
+msgid ""
+"Get the newest Linux packages with our rolling release. Fast! Integrated! "
+"Stabilized! Tested!"
+msgstr ""
+"Obtingueu els paquets més nous de Linux amb la nostra edició contínua. "
+"Ràpida! Integrada! Estabilitzada! Provada!"
+
+#: index.html:88 index.html:110
+msgid "More information"
+msgstr "Més informació"
+
+#: index.html:90 index.html:98
+msgid "Install Tumbleweed"
+msgstr "Instal·leu el Tumbleweed"
+
+#: index.html:93
+msgid ""
+"Any user who wishes to have the newest packages that include, but are not "
+"limited to, the Linux kernel, SAMBA, git, desktops, office applications and "
+"many other packages, will want Tumbleweed. Tumbleweed appeals to Power "
+"Users, Software Developers and openSUSE Contributors. If you require the "
+"latest software stacks and Integrated Development Environment or need a "
+"stable platform closest to bleeding edge Linux, Tumbleweed is the best "
+"choice for you."
+msgstr ""
+"Qualsevol usuari que desitgi tenir els nous paquets que inclouen (però que "
+"no s'hi limiten) el nucli de Linux, SAMBA, git, escriptoris, aplicacions "
+"d'oficina i molts altres paquets, voldrà el Tumbleweed. El Tumbleweed atrau "
+"usuaris avançats, desenvolupadors de programari i col·laboradors d'openSUSE. "
+"Si necessiteu els últims conjunts de programari i un entorn de "
+"desenvolupament independent, o necessiteu una plataforma estable propera al "
+"més nou que hi ha de Linux, el Tumbleweed és la millor opció per a vosaltres."
+
+#: index.html:95
+msgid "Learn more"
+msgstr "Apreneu-ne més"
+
+#: index.html:109
+msgid ""
+"Get the most complete Linux distribution with openSUSE’s latest regular-"
+"release version!"
+msgstr ""
+"Obtingueu la distribució Linux més completa amb l'última versió "
+"d'alliberament regular de l'openSUSE!"
+
+#: index.html:112 index.html:117
+msgid "Install Leap"
+msgstr "Instal·leu l'openSUSE Leap"
+
+#: index.html:115
+msgid ""
+"New and experienced Linux users get the most usable Linux distribution and "
+"stabilized operating system with openSUSE’s regular release. Receive updates "
+"and harden your OS with openSUSE’s latest major distribution. Pick your "
+"desktop, configure your system and enjoy the platform of choice for Linux "
+"developers, administrators and software vendors."
+msgstr ""
+"Tant els usuaris nous com els experimentats de Linux obtenen la distribució "
+"Linux més usable i el sistema operatiu més estabilitzat amb l'alliberament "
+"regular d'openSUSE. Rebeu actualitzacions i enduriu el seu sistema operatiu "
+"amb l'última gran distribució d'openSUSE! Trieu l'escriptori, configureu el "
+"sistema i gaudiu d'una plataforma d'elecció per als desenvolupadors de "
+"Linux, els administradors i els proveïdors de programari."
+
+#: index.html:133
+msgid "days"
+msgstr "dies"
+
+#: index.html:134
+msgid "day"
+msgstr "dia"
+
+#: index.html:135
+msgid "hours"
+msgstr "hores"
+
+#: index.html:136
+msgid "hour"
+msgstr "hora"
+
+#: index.html:139
+msgid "for Leap 15.1"
+msgstr "per al Leap 15.1"
+
+#: index.html:148
+msgid "is now available"
+msgstr "ja està disponible"
+
+#: index.html:159
+msgid "openSUSE TOOLS"
+msgstr "EINES de l'openSUSE"
+
+#: index.html:160
+msgid "Discover the best open-source tools developed by our community"
+msgstr ""
+"Descobriu les millors eines de codi obert desenvolupades per la nostra "
+"comunitat."
+
+#: index.html:174 index.html:192 index.html:210 index.html:228
+msgid "Go to link"
+msgstr "Vés a l'enllaç"
+
+#: index.html:178
+msgid ""
+"Our build tool, building all of our packages as well as ones for SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
+"and more."
+msgstr ""
+"La nostra eina de construcció, que serveix per construir tots els nostres "
+"paquets, així com alguns per a SUSE Linux Enterprise, Arch, Debian, Fedora, "
+"Scientific Linux, RHEL, CentOS, Ubuntu i altres."
+
+#: index.html:196
+msgid ""
+"Automated testing for *any* operating system, that can read the screen and "
+"control the test host the same way a user does."
+msgstr ""
+"Proves automatitzades per a *qualsevol* sistema operatiu. Pot llegir la "
+"pantalla i controlar l'amfitrió de prova com ho fa un usuari."
+
+#: index.html:214
+msgid ""
+"The best/only comprehensive Linux system configuration & installation tool."
+msgstr ""
+"L'única i millor eina comprensiva de configuració i instal·lació d'un "
+"sistema Linux."
+
+#: index.html:232
+msgid ""
+"Create Linux images for deployment on real hardware, virtualisation, and now "
+"even container systems like Docker. Kiwi is the engine that powers SUSE "
+"Studio."
+msgstr ""
+"Creeu imatges de Linux per al desplegament en maquinari real, en "
+"virtualització i fins i tot ara en sistemes de contenidor com ara el Docker. "
+"El Kiwi és el motor que impulsa el SUSE Studio."
+
+#: index.html:259
+msgid "CONTRIBUTE TO OPENSUSE"
+msgstr "CONTRIBUÏU A OPENSUSE"
+
+#: index.html:260
+msgid "Be part of our community contributing with any of the following:"
+msgstr ""
+"Formeu part de la nostra comunitat contribuint-hi d'alguna d'aquestes "
+"maneres:"
+
+#: index.html:267
+msgid "Code"
+msgstr "Codi"
+
+#: index.html:268 index.html:283
+msgid "Find out more"
+msgstr "Descobriu-ne més coses"
+
+# continue button label
+#: index.html:272
+msgid "Contribute Code"
+msgstr "Contribuïu-hi amb codi"
+
+#: index.html:273
+msgid ""
+"openSUSE believes the best results come from people collaborating and having "
+"fun. Being different from other open-source communities is what makes "
+"openSUSE desirable. We are not the conventional community and our "
+"community’s efforts determines the path of the project. The efforts of the "
+"community have created several great tools for Linux and an awesome "
+"distribution. With openSUSE, you have a voice and can easily contribute to "
+"the project. Whether you are an experienced Linux developer or an end user "
+"get involved in the openSUSE project. Join a forum, maintain and keep our "
+"wiki up-to-date, find and report bugs, review the documentation, send your "
+"wish list for new packages and features, create and submit patches, or "
+"become an advocate for openSUSE by attending events and becoming an "
+"ambassador."
+msgstr ""
+"OpenSUSE creu que els millors resultats provenen de persones que col·laboren "
+"i es diverteixen. Ser diferent d'altres comunitats de codi obert és el que "
+"fa openSUSE desitjable. No som una comunitat convencional, i els esforços de "
+"la nostra comunitat determinen la ruta del projecte. Els esforços de la "
+"comunitat han creat diverses grans eines per a Linux i una distribució "
+"impressionant. Amb openSUSE, teniu veu i podeu contribuir fàcilment al "
+"projecte. Tant si sou un desenvolupador de Linux amb experiència o un usuari "
+"final involucreu-vos al projecte d'openSUSE. Uniu-vos a un fòrum, mantingueu "
+"i conserveu la nostra wiki al dia, trobeu i informeu d'errors, reviseu la "
+"documentació, envieu la vostra llista de desitjos per als nous paquets i "
+"característiques, creeu i envieu pedaços, o esdeveniu un defensor d'openSUSE "
+"assistint a esdeveniments i feu-vos-en ambaixador."
+
+#: index.html:274
+msgid "Find out more about how to participate."
+msgstr "Descobriu més coses sobre com participar-hi."
+
+#: index.html:274
+msgid "https://en.opensuse.org/Portal:How_to_participate"
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
+
+#: index.html:282
+msgid "Hardware"
+msgstr "Maquinari"
+
+#: index.html:287
+msgid "Contribute Hardware"
+msgstr "Contribuïu-hi amb maquinari"
+
+#: index.html:288
+msgid ""
+"Donations to support the openSUSE project are always welcomed. In fact, Open "
+"Build Service, which is used by several other open-source projects, was made "
+"available to the project’s community through a generous donation of servers "
+"by AMD. It is this type of donations that allows people and projects to "
+"thrive, develop, innovate and progress. The project is not asking for money, "
+"but donations of hardware to use the open-source community’s expertise to "
+"empower Linux development, provide openSUSE tools to the free, open source "
+"ecosystem and give back to developers, sysadmins and packagers. Hardware "
+"helps the openSUSE community! Hardware helps the open-source community! And "
+"Hardware helps Linux development. To learn how you can donate hardware to "
+"the openSUSE project, email"
+msgstr ""
+"Les donacions per donar suport al projecte openSUSE són sempre benvingudes. "
+"De fet, el Servei de Construcció Obert, que és utilitzat per altres diversos "
+"projectes de codi obert, es va posar a disposició de la comunitat del "
+"projecte a través d'una generosa donació de servidors d'AMD. Aquest tipus de "
+"donacions són les que permeten a les persones i als projectes prosperar, "
+"desenvolupar-se, innovar i progressar. El projecte no està demanant diners, "
+"sinó donacions de maquinari per utilitzar la mestria de la comunitat de codi "
+"obert per potenciar el desenvolupament de Linux, proporcionar eines "
+"d'openSUSE a l'ecosistema de codi obert i tornar-ho als desenvolupadors, "
+"administradors de sistemes i empaquetadors. El maquinari ajuda la comunitat "
+"d'openSUSE! El maquinari ajuda la comunitat de codi obert! I el maquinari "
+"ajuda el desenvolupament de Linux. Per saber com podeu donar maquinari al "
+"projecte openSUSE, escriviu un missatge de correu electrònic a..."
+
+#: index.html:298
+msgid "Meet up with openSUSE at conferences."
+msgstr "Reuniu-vos amb l'openSUSE a les conferències."
+
+#: index.html:299
+msgid "View upcoming conferences"
+msgstr "Vegeu les properes conferències"
+
+#: index.html:311
+msgid "Get software"
+msgstr "Obtingueu programari"
+
+#: index.html:316
+msgid "Wiki"
+msgstr "Wiki"
+
+#: index.html:321
+msgid "Build Service"
+msgstr "Servei de construcció"
+
+#: index.html:330
+msgid "Social Network"
+msgstr "Xarxa social"
+
+#: index.html:340
+msgid "Forums"
+msgstr "Fòrums"
+
+#: index.html:349
+msgid "Shop"
+msgstr "Botiga"
+
+#: index.html:354
+msgid "Blogs"
+msgstr "Blogs"
+
+#: index.html:359
+msgid "Press"
+msgstr "Premsa"
+
+#: index.html:384
+msgid "Sponsored by:"
+msgstr "Patrocinat per"
+
+#: index.html:390
+msgid "Change language"
+msgstr "Canvieu la llengua"
+
+#: index.html:431
+msgid "All Rights Reserved."
+msgstr "Tots els drets reservats."
+
+#: index.html:431
+msgid "Imprint."
+msgstr "Colofó."
+
+#: index.html:431
+msgid "https://en.opensuse.org/Imprint"
+msgstr "https://en.opensuse.org/Imprint"
+
+#: index.html:454
+msgid "Back to main page"
+msgstr "Torna a la pàgina principal"
+
+#, fuzzy
+#~ msgid "openSUSE Conference 2018"
+#~ msgstr "xerrades de la conferència d'openSUSE"
+
+#~ msgid "for openSUSE Conference"
+#~ msgstr "per a la conferència d'openSUSE"
+
+#~ msgid "What's new"
+#~ msgstr "Novetats"
+
+#~ msgid ""
+#~ "Machinery supports configuration discovery, system validation, and "
+#~ "service migration."
+#~ msgstr ""
+#~ "La maquinària dóna suport al descobriment de configuració, la validació "
+#~ "del sistema i la migració de serveis."
+
+#~ msgid "Check all openSUSE tools"
+#~ msgstr "Vegeu totes les eines de l'openSUSE."
+
+#~ msgid ""
+#~ "Machinery is based on the idea of an universal system description.It is "
+#~ "transparent,extensible, and crafted beautifully."
+#~ msgstr ""
+#~ "La maquinària es basa en la idea d'una descripció de sistema universal. "
+#~ "És transparent, extensible i elaborada meravellosament."
+
+#~ msgid ""
+#~ "Machinery is made for the system administrator of the data center. Read "
+#~ "more about the philosophy behind it."
+#~ msgstr ""
+#~ "La maquinària es fa per a l'administrador de sistemes del centre de "
+#~ "dades. Llegiu més sobre la filosofia que hi ha darrere."
