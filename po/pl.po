@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: 2017-07-23 12:38+0000\n"
+"PO-Revision-Date: 2019-05-16 13:53+0000\n"
 "Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
 "master/pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.13.1\n"
+"X-Generator: Weblate 3.3\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -129,9 +129,8 @@ msgid "hour"
 msgstr "godzina"
 
 #: index.html:139
-#, fuzzy
 msgid "for Leap 15.1"
-msgstr "dla openSUSE Leap 42.3"
+msgstr "dla openSUSE Leap 15.1"
 
 #: index.html:148
 msgid "is now available"
