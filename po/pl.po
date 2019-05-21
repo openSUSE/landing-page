@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
-"PO-Revision-Date: 2019-05-16 13:53+0000\n"
-"Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
+"PO-Revision-Date: 2019-05-21 15:55+0000\n"
+"Last-Translator: Stanisław LCP <letcp@protonmail.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
 "master/pl/>\n"
 "Language: pl\n"
@@ -326,13 +326,12 @@ msgid "Change language"
 msgstr "Zmień język"
 
 #: index.html:431
-#, fuzzy
 msgid "All Rights Reserved."
 msgstr "Wszelkie prawa zastrzeżone."
 
 #: index.html:431
 msgid "Imprint."
-msgstr ""
+msgstr "Znak prawny."
 
 #: index.html:431
 msgid "https://en.opensuse.org/Imprint"
