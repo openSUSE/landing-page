@@ -38,7 +38,7 @@ function scripts() {
 // Preprocess CSS
 var less = require('gulp-less');
 var path = require('path');
-var minifyCss = require('gulp-minify-css');
+var minifyCss = require('gulp-clean-css');
 
 function compileLess() {
   return gulp.src(assets + 'css/openSUSE.less')
