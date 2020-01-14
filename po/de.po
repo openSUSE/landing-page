@@ -88,7 +88,7 @@ msgid ""
 "release version!"
 msgstr ""
 "Holen Sie sich die umfangreichste Linux-Distribution mit der neuesten von "
-"OpenSUSE veröffentlichten regulären Version!"
+"openSUSE veröffentlichten regulären Version!"
 
 #: index.html:112 index.html:117
 msgid "Install Leap"
