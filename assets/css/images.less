@@ -11,3 +11,19 @@ img[src*="new-tools-to-try-out.png"] {
   width: 100%;
   padding: 1em;
 }
+.prominent-image {
+  max-width: 50vw;
+}
+img[src*="laptop.png"]:not(.prominent-image) {
+  height: 320px;
+}
+@media (max-width : 768px) {
+  .prominent-image, img[src*="laptop.png"] {
+    max-width: 90vw;
+    height: auto;
+  }
+}
+#opensuse-os .fa.affordance {
+  opacity: 50%;
+  font-size: 40px;
+}
