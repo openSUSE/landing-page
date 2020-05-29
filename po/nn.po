@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2019-05-16 13:53+0000\n"
 "Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
-"Language-Team: Norwegian Nynorsk <https://l10n.opensuse.org/projects/"
-"landing-page/master/nn/>\n"
+"Language-Team: Norwegian Nynorsk <https://l10n.opensuse.org/projects/landing-"
+"page/master/nn/>\n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +32,7 @@ msgstr "Heim"
 msgid "Tools"
 msgstr "Verktøy"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "Nyheiter"
 
@@ -122,12 +122,14 @@ msgid "hour"
 msgstr "time"
 
 #: index.html:139
-msgid "for Leap 15.1"
+#, fuzzy
+msgid "for Leap 15.2"
 msgstr "for Leap 15.1"
 
 #: index.html:148
-msgid "is now available"
-msgstr "er no tilgjengeleg"
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "for Leap 15.1"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -167,10 +169,11 @@ msgstr ""
 "Linux."
 
 #: index.html:232
+#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 "Lag Linux-diskbilete for bruk på fysiske eller virtualiserte maskiner, og no "
 "også på behaldarsystem som Docker. Kiwi er motoren bak SUSE Studio."
@@ -262,69 +265,87 @@ msgstr ""
 "maskinvare hjelper utviklinga av Linux. Viss du lurer på korleis du kan "
 "donera maskinvare til openSUSE-prosjektet, send ein e-post til"
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr "Møt openSUSE-brukarar på konferansar."
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr "Vis kommande konferansar"
 
-#: index.html:311
+#: index.html:316
 msgid "Get software"
 msgstr "Last ned"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "Byggjeteneste"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "Sosiale nettverk"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr "Forum"
 
-#: index.html:349
+#: index.html:350
+msgid "Mailing Lists"
+msgstr ""
+
+#: index.html:359
 msgid "Shop"
 msgstr "Butikk"
 
-#: index.html:354
+#: index.html:364
 msgid "Blogs"
 msgstr "Bloggar"
 
-#: index.html:359
+#: index.html:369
 msgid "Press"
 msgstr "Presse"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr "Vert støtta av:"
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "Byt språk"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr "Med einerett."
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr "Juridisk informasjon."
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "Tilbake til hovudsida"
+
+#~ msgid "is now available"
+#~ msgstr "er no tilgjengeleg"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

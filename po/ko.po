@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: entries\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2016-04-25 09:07+0000\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <http://l10n.opensuse.org/projects/landing-page/master/"
@@ -26,7 +26,7 @@ msgstr "홈"
 msgid "Tools"
 msgstr "도구"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "뉴스"
 
@@ -118,12 +118,13 @@ msgid "hour"
 msgstr ""
 
 #: index.html:139
-msgid "for Leap 15.1"
+msgid "for Leap 15.2"
 msgstr ""
 
 #: index.html:148
-msgid "is now available"
-msgstr ""
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "오픈수세 도구"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -158,8 +159,8 @@ msgstr ""
 #: index.html:232
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 
 #: index.html:259
@@ -232,69 +233,84 @@ msgid ""
 "the openSUSE project, email"
 msgstr ""
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr ""
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr ""
 
-#: index.html:311
+#: index.html:316
 #, fuzzy
 msgid "Get software"
 msgstr "이 소프트웨어에 대하여"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr ""
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "빌드 서비스"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "소셜 네트워크"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr ""
 
-#: index.html:349
-msgid "Shop"
-msgstr ""
-
-#: index.html:354
-msgid "Blogs"
+#: index.html:350
+msgid "Mailing Lists"
 msgstr ""
 
 #: index.html:359
+msgid "Shop"
+msgstr ""
+
+#: index.html:364
+msgid "Blogs"
+msgstr ""
+
+#: index.html:369
 #, fuzzy
 msgid "Press"
 msgstr "주소"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr ""
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "언어 변경"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr ""
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr ""
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr ""
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "메인 페이지로 돌아감"
 

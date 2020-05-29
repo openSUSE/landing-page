@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2019-05-14 23:55+0000\n"
 "Last-Translator: mohammad alhargan <malham1@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/landing-page/"
@@ -27,7 +27,7 @@ msgstr "الرئيسية"
 msgid "Tools"
 msgstr "أدوات"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "أخبار"
 
@@ -117,12 +117,14 @@ msgid "hour"
 msgstr "ساعة"
 
 #: index.html:139
-msgid "for Leap 15.1"
+#, fuzzy
+msgid "for Leap 15.2"
 msgstr "لأوبن سوزي  Leap 15.1"
 
 #: index.html:148
-msgid "is now available"
-msgstr "متاحة الآن"
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "لأوبن سوزي  Leap 15.1"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -160,10 +162,11 @@ msgid ""
 msgstr "الأداة المثلى والشاملة الوحيدة لإعداد نظام لينكس وتثبيته."
 
 #: index.html:232
+#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 "أنشئ صور لينكس للنشر على الأجهزة الحقيقية، أو الظاهرية، والآن أيضاً يمكنك "
 "النشر على نظم الاحتواء مثل Docker. كيوي هو المحرك الذي يعتمد SUSE Studio "
@@ -256,69 +259,87 @@ msgstr ""
 "في تطوير لينكس. للتعرف أكثر على طريقة التبرع بالعتاد لمشروع أوبن سوزي. "
 "راسلنا على"
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr "قابل أوبن سوزي في أحد المؤتمرات."
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr "استعرض المؤتمرات القادمة"
 
-#: index.html:311
+#: index.html:316
 msgid "Get software"
 msgstr "تنزيل برمجيات"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr "ويكي"
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "خدمة البناء"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "الشبكة الاجتماعية"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr "المنتديات"
 
-#: index.html:349
+#: index.html:350
+msgid "Mailing Lists"
+msgstr ""
+
+#: index.html:359
 msgid "Shop"
 msgstr "تسوق"
 
-#: index.html:354
+#: index.html:364
 msgid "Blogs"
 msgstr "المدونات"
 
-#: index.html:359
+#: index.html:369
 msgid "Press"
 msgstr "صحافة"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr "الداعمون:"
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "تغيير اللغة"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr "جميع الحقوق محفوظة."
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr "معلومات الناشر."
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "عودة للصفحة الرئيسية"
+
+#~ msgid "is now available"
+#~ msgstr "متاحة الآن"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

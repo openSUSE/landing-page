@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2019-02-02 07:52+0000\n"
 "Last-Translator: Marguerite Su <i@marguerite.su>\n"
-"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/"
-"landing-page/master/zh_CN/>\n"
+"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
+"page/master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr "首页"
 msgid "Tools"
 msgstr "工具"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "新闻"
 
@@ -114,12 +114,14 @@ msgid "hour"
 msgstr "小时"
 
 #: index.html:139
-msgid "for Leap 15.1"
+#, fuzzy
+msgid "for Leap 15.2"
 msgstr "距离 Leap 15.1 发布"
 
 #: index.html:148
-msgid "is now available"
-msgstr "现已发布"
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "距离 Leap 15.1 发布"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -155,10 +157,11 @@ msgid ""
 msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
 
 #: index.html:232
+#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 "为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
 "Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
@@ -243,69 +246,87 @@ msgstr ""
 "并回馈给开发者、系统管理员和打包者。硬件有助 openSUSE 社区！硬件有助开源社"
 "区！并且硬件有助 Linux 开发。要了解如何捐赠硬件给 openSUSE 项目，请邮件"
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr "参加会议邂逅 openSUSE。"
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr "查看临近的会议"
 
-#: index.html:311
+#: index.html:316
 msgid "Get software"
 msgstr "撷取软件"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr "维基"
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "构建服务"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "社交网络"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr "论坛"
 
-#: index.html:349
+#: index.html:350
+msgid "Mailing Lists"
+msgstr ""
+
+#: index.html:359
 msgid "Shop"
 msgstr "商店"
 
-#: index.html:354
+#: index.html:364
 msgid "Blogs"
 msgstr "博客"
 
-#: index.html:359
+#: index.html:369
 msgid "Press"
 msgstr "媒体"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr "赞助："
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "修改语言"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr "保留所有权利。"
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr "说明。"
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "返回首页"
+
+#~ msgid "is now available"
+#~ msgstr "现已发布"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"
