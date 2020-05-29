@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2019-05-21 15:55+0000\n"
 "Last-Translator: Stanisław LCP <letcp@protonmail.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
@@ -35,7 +35,7 @@ msgstr "Start"
 msgid "Tools"
 msgstr "Narzędzia"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "Wiadomości"
 
@@ -129,12 +129,14 @@ msgid "hour"
 msgstr "godzina"
 
 #: index.html:139
-msgid "for Leap 15.1"
+#, fuzzy
+msgid "for Leap 15.2"
 msgstr "dla openSUSE Leap 15.1"
 
 #: index.html:148
-msgid "is now available"
-msgstr "jest już dostępne"
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "dla openSUSE Leap 15.1"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -175,10 +177,11 @@ msgstr ""
 "systemu Linux."
 
 #: index.html:232
+#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 "Twórz obrazy Linux gotowe do wdrożenia na fizycznym sprzęcie, maszynach "
 "wirtualnych czy systemie kontenerów takim jak Docker. Kiwi jest siłą "
@@ -277,69 +280,87 @@ msgstr ""
 "Sprzęt pomaga rozwijać Linuksa! Aby dowiedzieć się więcej jak przekazać "
 "sprzęt projektowi openSUSE, wyślij email"
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr "Spotkaj się z openSUSE na Konferencjach."
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr "Zobacz nadchodzące Konferencje"
 
-#: index.html:311
+#: index.html:316
 msgid "Get software"
 msgstr "Pobierz oprogramowanie"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "Sieć społecznościowa"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr "Fora"
 
-#: index.html:349
+#: index.html:350
+msgid "Mailing Lists"
+msgstr ""
+
+#: index.html:359
 msgid "Shop"
 msgstr "Sklep"
 
-#: index.html:354
+#: index.html:364
 msgid "Blogs"
 msgstr "Blogi"
 
-#: index.html:359
+#: index.html:369
 msgid "Press"
 msgstr "Prasa"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr "Sponsorowane przez:"
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "Zmień język"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr "Wszelkie prawa zastrzeżone."
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr "Znak prawny."
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "Wróć do głównej strony"
+
+#~ msgid "is now available"
+#~ msgstr "jest już dostępne"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-29 13:21:24 +0200\n"
+"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2019-02-02 07:52+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/landing-page/"
@@ -31,7 +31,7 @@ msgstr "Domov"
 msgid "Tools"
 msgstr "Nástroje"
 
-#: index.html:55 index.html:335
+#: index.html:55 index.html:340
 msgid "News"
 msgstr "Správy"
 
@@ -127,12 +127,14 @@ msgid "hour"
 msgstr "hodina"
 
 #: index.html:139
-msgid "for Leap 15.1"
+#, fuzzy
+msgid "for Leap 15.2"
 msgstr "pre Leap 15.1"
 
 #: index.html:148
-msgid "is now available"
-msgstr "je dostupné teraz"
+#, fuzzy
+msgid "openSUSE Leap 15.2"
+msgstr "pre Leap 15.1"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -173,10 +175,11 @@ msgstr ""
 "nástroj."
 
 #: index.html:232
+#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
-"even container systems like Docker. Kiwi is the engine that powers SUSE "
-"Studio."
+"even container systems like Docker. Kiwi is the engine that builds the "
+"openSUSE release images."
 msgstr ""
 "Vytváranie linuxových obrazov pre nasadenie na reálnom hardvéri, "
 "virtualizáciu a teraz dokonca kontajnerové systémy ako je Docker. Kiwi je "
@@ -274,69 +277,87 @@ msgstr ""
 "hardvér pomáha vývoju Linuxu. Ak sa chcete dozvedieť, ako môžete darovať "
 "hardvér openSUSE projektu, e-mailujte"
 
-#: index.html:298
+#: index.html:294 index.html:296
+msgid "openSUSE Design System"
+msgstr ""
+
+#: index.html:295
+msgid ""
+"We've created a Design System to help you contribute consistent web tools "
+"and features using the openSUSE colors, writing guides, and more. Check it "
+"out:"
+msgstr ""
+
+#: index.html:303
 msgid "Meet up with openSUSE at conferences."
 msgstr "Zoznámiť sa s openSUSE na konferenciách."
 
-#: index.html:299
+#: index.html:304
 msgid "View upcoming conferences"
 msgstr "Zobraziť nadchádzajúce konferencie"
 
-#: index.html:311
+#: index.html:316
 msgid "Get software"
 msgstr "Získať softvér"
 
-#: index.html:316
+#: index.html:321
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:321
+#: index.html:326
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:330
+#: index.html:335
 msgid "Social Network"
 msgstr "Sociálna sieť"
 
-#: index.html:340
+#: index.html:345
 msgid "Forums"
 msgstr "Fóra"
 
-#: index.html:349
+#: index.html:350
+msgid "Mailing Lists"
+msgstr ""
+
+#: index.html:359
 msgid "Shop"
 msgstr "Obchod"
 
-#: index.html:354
+#: index.html:364
 msgid "Blogs"
 msgstr "Blogy"
 
-#: index.html:359
+#: index.html:369
 msgid "Press"
 msgstr "Tlač"
 
-#: index.html:384
+#: index.html:391
 msgid "Sponsored by:"
 msgstr "Sponzorované:"
 
-#: index.html:390
+#: index.html:397
 msgid "Change language"
 msgstr "Zmeniť jazyk"
 
-#: index.html:431
+#: index.html:441
 msgid "All Rights Reserved."
 msgstr "Všetky práva vyhradené."
 
-#: index.html:431
+#: index.html:441
 msgid "Imprint."
 msgstr "Impressum."
 
-#: index.html:431
+#: index.html:441
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:454
+#: index.html:464
 msgid "Back to main page"
 msgstr "Späť na hlavnú stranu"
+
+#~ msgid "is now available"
+#~ msgstr "je dostupné teraz"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"
