@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"Last-Translator: Aleš Kastner <alkas@volny.cz>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/landing-page/master/"
 "cs/>\n"
 "Language: cs\n"
@@ -167,15 +167,14 @@ msgstr ""
 "Nejlepší/jediný komplexní nástroj pro konfiguraci a instalaci systému Linux."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"Vytvořte si obrazy Linuxu pro nasazení na skutečném hardwaru, virtualizaci a "
-"nyní dokonce na kontejnerových systémech jako je Docker. Kiwi je motor, "
-"který pohání SUSE Studio."
+"Vytvořte si obrazy (funkční kopie) Linuxu pro nasazení na skutečném "
+"hardwaru, virtualizaci a nyní dokonce na kontejnerových systémech jako je "
+"Docker. Kiwi je motor, který buduje obrazy verzí openSUSE."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -269,7 +268,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Návrhový systém openSUSE"
 
 #: index.html:295
 msgid ""
@@ -277,6 +276,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Vytvořili jsme návrhový systém, který vám pomůže a) přispívat ke "
+"konzistentním webovým nástrojům a funkcím pomocí barev openSUSE, b) v psaní "
+"průvodců a v dalších činnostech. Vyzkoušejte:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -308,7 +310,7 @@ msgstr "Fóra"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Seznamy adresátů"
 
 #: index.html:359
 msgid "Shop"
