@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/landing-page/"
 "master/ca/>\n"
 "Language: ca\n"
@@ -170,7 +170,6 @@ msgstr ""
 "sistema Linux."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
@@ -178,7 +177,8 @@ msgid ""
 msgstr ""
 "Creeu imatges de Linux per al desplegament en maquinari real, en "
 "virtualització i fins i tot ara en sistemes de contenidor com ara el Docker. "
-"El Kiwi és el motor que impulsa el SUSE Studio."
+"El Kiwi és el motor que construeix les imatges de les publicacions "
+"l'openSUSE."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -277,7 +277,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Sistema de disseny de l'openSUSE"
 
 #: index.html:295
 msgid ""
@@ -285,6 +285,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Hem creat un sistema de disseny per ajudar-vos a proporcionar eines web i "
+"característiques consistents usant els colors, la guia d'escriptura i més "
+"coses de l'openSUSE. Vegeu-ho:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -316,7 +319,7 @@ msgstr "Fòrums"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Llistes de correu"
 
 #: index.html:359
 msgid "Shop"
