@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
 "PO-Revision-Date: 2020-07-06 01:31+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
 "master/ja/>\n"
 "Language: ja\n"
@@ -164,15 +164,13 @@ msgid ""
 msgstr "最良かつ唯一の Linux システム設定・インストールツールです。"
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"実際のハードウエアや仮想化環境のほか、 Docker などのコンテナシステムでも利用"
-"できる Linux イメージを作成します。 Kiwi は SUSE Studio で使用されているエン"
-"ジンです。"
+"実際のハードウエアや仮想化環境のほか、 Docker などのコンテナシステムでも利用できる Linux イメージを作成します。 Kiwi は "
+"openSUSE のリリース版を構築する際にも使用されているエンジンです。"
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -267,7 +265,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE デザインシステム"
 
 #: index.html:295
 msgid ""
@@ -275,6 +273,8 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"一貫した Web ツールを作成したり、 openSUSE "
+"のイメージ色を取り入れたり、ガイドを作成したりすることのできるデザインシステムを提供しています。詳しくは下記をご覧ください:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -306,7 +306,7 @@ msgstr "フォーラム"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "メーリングリスト"
 
 #: index.html:359
 msgid "Shop"
