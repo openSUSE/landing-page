@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-09 22:02+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-07-14 12:36+0000\n"
+"Last-Translator: Efstathios Iosifidis <eiosifidis@gmail.com>\n"
 "Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
 "el/>\n"
 "Language: el\n"
@@ -131,11 +131,11 @@ msgstr "ώρα"
 
 #: index.html:139
 msgid "for Leap 15.2"
-msgstr "για το openSUSE Leap 15.2"
+msgstr "για την Leap 15.2"
 
 #: index.html:148
 msgid "openSUSE Leap 15.2"
-msgstr "για το openSUSE Leap 15.2"
+msgstr "openSUSE Leap 15.2"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -177,15 +177,15 @@ msgstr ""
 "σε σύστημα Linux."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
 "Δημιουργείστε στιγμιότυπα Linux για ανάπτυξη σε πραγματικό υλικό, "
-"εικονικοποίηση και τώρα ακόμα και συστήματα 'container' όπως το Docker. Το "
-"Kiwi είναι η μηχανή που υποστηρίζει το SUSE Studio."
+"εικονικοποίηση και τώρα ακόμα και συστήματα 'περιεκτών' όπως το Docker. Το "
+"Kiwi είναι η μηχανή που κατασκευάζει τα στιγμιότυπα των εκδόσεων του "
+"openSUSE."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -285,7 +285,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Σύστημα σχεδίασης openSUSE"
 
 #: index.html:295
 msgid ""
@@ -293,6 +293,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Έχουμε δημιουργήσει ένα σύστημα σχεδίασης για να σας βοηθήσουμε να "
+"συνεισφέρετε σε σταθερά εργαλεία ιστού και λειτουργίες χρησιμοποιώντας τα "
+"χρώματα του openSUSE, τους οδηγούς γραφής και άλλα. Δείτε εδώ:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -324,7 +327,7 @@ msgstr "Forums"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Λίστες ταχυδρομείου"
 
 #: index.html:359
 msgid "Shop"
