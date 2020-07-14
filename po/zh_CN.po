@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-07-26 08:51+0000\n"
+"Last-Translator: bido moocho <ahui.bido@outlook.com>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/"
 "landing-page/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr "系统管理员、开发者和桌面用户的匠心之选。"
+msgstr "桌面用户、开发者以及系统管理员的匠之所选。"
 
 #: index.html:49
 msgid "Home"
@@ -43,9 +43,7 @@ msgstr "会议"
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
-msgstr ""
-"安装我们的滚动版本，获取最新 Linux 软件包。\n"
-"日新月异！整合如一！坚如磐石！久经检验！"
+msgstr "通过滚动发行版获取最新的Linux包。快！全！稳！"
 
 #: index.html:88 index.html:110
 msgid "More information"
@@ -155,14 +153,11 @@ msgid ""
 msgstr "最好的、唯一的综合性 Linux 系统配置和安装工具。"
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
-msgstr ""
-"为在真实硬件、虚拟化环境、现在甚至可以是像 Docker 这样的容器系统上部署创建 "
-"Linux 映像。Kiwi 是驱动 SUSE Studio 的引擎。"
+msgstr "它为在实际硬件、虚拟环境甚至于像Docker这样的容器系统上的部署创造Linux映像。Kiwi就是是创建openSUSE发行映像的引擎。"
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -246,14 +241,14 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE 设计系统"
 
 #: index.html:295
 msgid ""
 "We've created a Design System to help you contribute consistent web tools "
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
-msgstr ""
+msgstr "我们创建了一个设计体系，包含openSUSE Colors、文档指引等等，助你开发风格一致的网页工具。请看："
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -285,7 +280,7 @@ msgstr "论坛"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "邮件列表"
 
 #: index.html:359
 msgid "Shop"
