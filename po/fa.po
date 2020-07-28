@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-07-28 12:34+0000\n"
+"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
 "master/fa/>\n"
 "Language: fa\n"
@@ -164,15 +164,14 @@ msgid ""
 msgstr "بهترین/تنهاترین ابزار جامع پیکربندی و نصب سیستم لینوکس."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"ایمیج های لینوکس را برای گسترش بر روی سخت افزار واقعی، مجازی سازی، و هم "
-"اکنون حتی سیستم های محفظه ای مانند داکر بسازید. Kiwi موتور تغذیه کننده ی "
-"SUSE Studio است."
+"ایمیج‌های لینوکس را برای گسترش بر روی سخت‌افزار واقعی، مجازی سازی، و هم "
+"اکنون حتی سیستم‌های محفظه ای مانند داکر بسازید. Kiwi موتوری است که ایمیج‌های "
+"انتشار SUSE Studio را میسازد."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -265,7 +264,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "سیستم طراحی openSUSE"
 
 #: index.html:295
 msgid ""
@@ -273,6 +272,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"ما یک سیستم طراحی را ساخته‌ایم که در مشارکت ابزار وب استوار و امکانات با "
+"استفاده از رنگ‌های openSUSE، راهنماهای نوشتن، و دیگر کمک میکند. آن را بررسی "
+"کنید:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -304,7 +306,7 @@ msgstr "انجمن ها"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "لیست‌های ایمیل‌ها"
 
 #: index.html:359
 msgid "Shop"
