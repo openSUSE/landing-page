@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-08-24 00:40+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/landing-page/"
 "master/id/>\n"
 "Language: id\n"
@@ -168,7 +168,6 @@ msgstr ""
 "secara menyeluruh."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
@@ -176,7 +175,7 @@ msgid ""
 msgstr ""
 "Membuat image Linux untuk penerapan di perangkat keras, virtualisasi, dan "
 "sekarang juga mendukung sistem kontainer seperti Docker. Kiwi adalah mesin "
-"di belakang SUSE Studio."
+"yang membangun image rilis openSUSE."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -275,7 +274,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Sistem Desain openSUSE"
 
 #: index.html:295
 msgid ""
@@ -283,6 +282,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Kami menciptakan Sistem Desain untuk membantu Anda berkontribusi pada "
+"perkakas dan fitur Web secara konsisten menggunakan palet warna openSUSE, "
+"panduan penulisan dan lainnya. Periksa ini:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -314,7 +316,7 @@ msgstr "Forum"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Milis"
 
 #: index.html:359
 msgid "Shop"
