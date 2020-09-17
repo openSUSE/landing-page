@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: entries\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2016-04-25 09:07+0000\n"
-"Last-Translator: YunSeok Choi <xein@naver.com>\n"
-"Language-Team: Korean <http://l10n.opensuse.org/projects/landing-page/master/"
-"ko/>\n"
+"PO-Revision-Date: 2020-09-17 13:48+0000\n"
+"Last-Translator: AlexKoala <alexkoala@alexkoala.com>\n"
+"Language-Team: Korean <https://l10n.opensuse.org/projects/landing-page/"
+"master/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.5\n"
+"X-Generator: Weblate 3.6.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -28,7 +28,7 @@ msgstr "도구"
 
 #: index.html:55 index.html:340
 msgid "News"
-msgstr "뉴스"
+msgstr "소식"
 
 # continue button label
 #: index.html:58
@@ -43,13 +43,11 @@ msgstr "컨퍼런스"
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
-msgstr ""
-"빠르고! 통합적이며! 안정적이고! 실험적인! 최신의 리눅스 프로그램들과 함께 제"
-"공되는 롤링 버전입니다!"
+msgstr "최신 Linux 패키지들을 우리의 롤링 버전과 함께 다운로드하세요. 빠르고! 통합적이며! 안정적이고! 검증되었습니다!"
 
 #: index.html:88 index.html:110
 msgid "More information"
-msgstr "더 보기"
+msgstr "자세히 보기"
 
 #: index.html:90 index.html:98
 msgid "Install Tumbleweed"
@@ -74,7 +72,7 @@ msgstr ""
 
 #: index.html:95
 msgid "Learn more"
-msgstr "더 보기"
+msgstr "자세히 보기"
 
 #: index.html:109
 msgid ""
@@ -103,40 +101,39 @@ msgstr ""
 
 #: index.html:133
 msgid "days"
-msgstr ""
+msgstr "일"
 
 #: index.html:134
 msgid "day"
-msgstr ""
+msgstr "일"
 
 #: index.html:135
 msgid "hours"
-msgstr ""
+msgstr "시"
 
 #: index.html:136
 msgid "hour"
-msgstr ""
+msgstr "시"
 
 #: index.html:139
 msgid "for Leap 15.2"
-msgstr ""
+msgstr "Leap 15.2 출시까지"
 
 #: index.html:148
-#, fuzzy
 msgid "openSUSE Leap 15.2"
-msgstr "오픈수세 도구"
+msgstr "openSUSE Leap 15.2"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
-msgstr "오픈수세 도구"
+msgstr "openSUSE 도구"
 
 #: index.html:160
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
+msgstr "우리 커뮤니티가 개발하는 최고의 오픈 소스 도구들을 탐색해 보세요"
 
 #: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
-msgstr ""
+msgstr "링크로 이동"
 
 #: index.html:178
 msgid ""
@@ -144,17 +141,19 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
+"우리의 빌드 도구는 SUSE Linux Enterprise, Arch, Debian, Fedora, Scientific Linux, "
+"RHEL, CentOS, Ubuntu 등에 대한 패키지 뿐만 아니라 모든 패키지를 빌드합니다."
 
 #: index.html:196
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
-msgstr ""
+msgstr "'모든' 운영 체제에 대한 자동화된 테스트로, 사용자가 수행하는 것과 동일하게 화면을 읽고 테스트 호스트를 제어할 수 있습니다."
 
 #: index.html:214
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr ""
+msgstr "최고이자 유일한 종합 Linux 시스템 설정 & 설치 도구입니다."
 
 #: index.html:232
 msgid ""
@@ -162,14 +161,16 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
+"실제 하드웨어, 가상화, 그리고 Docker 같은 컨테이너 시스템에서도 Linux 이미지를 만드세요. Kiwi는 openSUSE 출시 "
+"이미지를 빌드하는 엔진입니다."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "OPENSUSE에 기여하기"
 
 #: index.html:260
 msgid "Be part of our community contributing with any of the following:"
-msgstr ""
+msgstr "다음에 기여해서 커뮤니티에 참여하세요:"
 
 #  TextEntry label for phone network Areacode (german Vorwahl)
 #: index.html:267
@@ -178,13 +179,12 @@ msgstr "코드"
 
 #: index.html:268 index.html:283
 msgid "Find out more"
-msgstr ""
+msgstr "자세히 알아보기"
 
 # continue button label
 #: index.html:272
-#, fuzzy
 msgid "Contribute Code"
-msgstr "계속"
+msgstr "코드 기여"
 
 #: index.html:273
 msgid ""
@@ -201,14 +201,20 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"openSUSE는 사람들이 협력하고 재미를 느낄 때 최고의 결과가 나온다고 믿습니다. 다른 오픈 소스 커뮤니티와 다른 것이 "
+"openSUSE를 바람직하게 만들어줍니다. 우리는 통상적인 커뮤니티가 아니며 커뮤니티의 노력이 프로젝트의 방향을 결정합니다. 커뮤니티의 "
+"노력으로 Linux와 멋진 배포판들을 위한 여러 훌륭한 도구들이 만들어졌습니다. openSUSE에서는 목소리를 내고 프로젝트에 쉽게 "
+"기여할 수 있습니다. 숙련된 Linux 개발자이든 최종 사용자든 openSUSE 프로젝트에 참여할 수 있습니다. 포럼에 참여하거나, "
+"위키를 관리하며 최신 상태로 유지하거나, 버그를 찾아 보고하거나, 문서를 검토하거나, 새 패키지 및 기능에 대한 위시 리스트를 보내거나, "
+"패치를 만들고 제출하거나, openSUSE 이벤트에 참여해 앰배서더가 됨으로서 애드보킷이 되세요."
 
 #: index.html:274
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "참여하는 방법에 대해서 더 자세히 알아보세요."
 
 #: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:282
 msgid "Hardware"
@@ -216,7 +222,7 @@ msgstr "하드웨어"
 
 #: index.html:287
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "하드웨어에 기여하기"
 
 #: index.html:288
 msgid ""
@@ -232,10 +238,17 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"openSUSE 프로젝트를 지원하기 위한 기부는 항상 환영합니다. 사실, 다른 여러 오픈 소스 프로젝트에서 사용되는 Open Build "
+"Service는 AMD의 관대한 서버 기부를 통해 프로젝트 커뮤니티에 제공되었습니다. 이러한 형태의 기부는 사람들과 프로젝트들이 "
+"성장하고, 발전하고, 혁신하고 발전할 수 있도록 해줍니다. 이 프로젝트는 돈을 요구하는 것이 아니지만 하드웨어 기부는 오픈 소스 "
+"커뮤니티의 전문 지식을 활용하여 Linux 개발을 강화하고, 무료 오픈 소스 생테계에 openSUSE 도구를 제공하고 개발자, 시스템 "
+"관리자 및 패키지 개발자들에게 돌려줄 수 있도록 합니다. 하드웨어는 openSUSE 커뮤니티를 돕습니다! 하드웨어는 오픈 소스 커뮤니티를 "
+"돕습니다! 그리고 하드웨어는 Linux 개발을 돕습니다. openSUSE 프로젝트에 하드웨어를 기부하는 방법을 알아 보려면 다음으로 "
+"이메일을 보내주세요."
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE 디자인 시스템"
 
 #: index.html:295
 msgid ""
@@ -243,23 +256,24 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"우리는 OpenSUSE 색상, 작성 가이드 등을 사용하여 일관된 웹 도구 및 기능을 제공 할 수 있도록 디자인 시스템을 만들었습니다. "
+"확인해 보세요:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "컨퍼런스에서 openSUSE를 만나보세요."
 
 #: index.html:304
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "다가오는 컨퍼런스 보기"
 
 #: index.html:316
-#, fuzzy
 msgid "Get software"
-msgstr "이 소프트웨어에 대하여"
+msgstr "소프트웨어 다운로드"
 
 #: index.html:321
 msgid "Wiki"
-msgstr ""
+msgstr "위키"
 
 #: index.html:326
 msgid "Build Service"
@@ -271,28 +285,27 @@ msgstr "소셜 네트워크"
 
 #: index.html:345
 msgid "Forums"
-msgstr ""
+msgstr "포럼"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "메일링 리스트"
 
 #: index.html:359
 msgid "Shop"
-msgstr ""
+msgstr "상점"
 
 #: index.html:364
 msgid "Blogs"
-msgstr ""
+msgstr "블로그"
 
 #: index.html:369
-#, fuzzy
 msgid "Press"
-msgstr "주소"
+msgstr "보도 문의"
 
 #: index.html:391
 msgid "Sponsored by:"
-msgstr ""
+msgstr "스폰서:"
 
 #: index.html:397
 msgid "Change language"
@@ -300,19 +313,19 @@ msgstr "언어 변경"
 
 #: index.html:441
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "모든 권리 보유."
 
 #: index.html:441
 msgid "Imprint."
-msgstr ""
+msgstr "날인."
 
 #: index.html:441
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:464
 msgid "Back to main page"
-msgstr "메인 페이지로 돌아감"
+msgstr "메인 페이지로 돌아가기"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"
