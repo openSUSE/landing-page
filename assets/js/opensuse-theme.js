@@ -272,6 +272,7 @@ window.lang.dynamic('hy', 'assets/js/langpack/hy.json');
 window.lang.dynamic('id', 'assets/js/langpack/id.json');
 window.lang.dynamic('it', 'assets/js/langpack/it.json');
 window.lang.dynamic('ja', 'assets/js/langpack/ja.json');
+window.lang.dynamic('ko', 'assets/js/langpack/ko.json');
 window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
