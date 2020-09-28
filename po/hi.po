@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-09-28 18:48+0000\n"
+"Last-Translator: Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-page/master/"
 "hi/>\n"
 "Language: hi\n"
@@ -263,7 +263,7 @@ msgstr "चर्चा मंच"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "ईमेल सूची"
 
 #: index.html:359
 msgid "Shop"
