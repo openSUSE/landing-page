@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-09-30 12:48+0000\n"
+"Last-Translator: Antoine Belvire <antoine.belvire@opensuse.org>\n"
 "Language-Team: French <https://l10n.opensuse.org/projects/landing-page/"
 "master/fr/>\n"
 "Language: fr\n"
@@ -179,15 +179,14 @@ msgstr ""
 "système Linux."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"Créez des images de systèmes Linux pour du déploiement sur du matériel réel, "
-"de la virtualisation ou des systèmes de conteneurs comme Docker. Kiwi est "
-"notamment utilisé dans SUSE Studio."
+"Créez des images Linux pour un déploiement sur des machines physiques, "
+"virtuelles et même sur des systèmes de conteneurs comme Docker. Kiwi est le "
+"moteur qui construit les images openSUSE officielles."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -283,7 +282,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE Design System"
 
 #: index.html:295
 msgid ""
@@ -291,6 +290,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Nous avons créé un système de design afin de vous aider à contribuer à des "
+"outils et à des fonctionnalités web consistantes avec les couleurs "
+"d'openSUSE, les guides d'écriture et plus encore. Consultez-le :"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -323,7 +325,7 @@ msgstr "Forums"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Listes de diffusion"
 
 #: index.html:359
 msgid "Shop"
