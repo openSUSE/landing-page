@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-09-28 18:48+0000\n"
+"PO-Revision-Date: 2020-10-19 15:49+0000\n"
 "Last-Translator: Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/landing-page/master/"
 "hi/>\n"
@@ -16,7 +16,9 @@ msgstr ""
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr "सिस्टम प्रबंधकों, डेवलपर व डेस्कटॉप उपयोक्ताओं के लिए निर्माता की पहली पसंद।"
+msgstr ""
+"सिस्टम प्रशासक, सॉफ्टवेयर विकासकर्ता व डेस्कटॉप उपयोक्ता हेतु निर्माता की "
+"पहली पसंद।"
 
 #: index.html:49
 msgid "Home"
@@ -28,7 +30,7 @@ msgstr "साधन"
 
 #: index.html:55 index.html:340
 msgid "News"
-msgstr "संदेश"
+msgstr "समाचार"
 
 #: index.html:58
 msgid "Contribute"
@@ -43,16 +45,16 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"इस हमेशा अपडेट रहने वाले रिलीज़ संस्करण के साथ पाएँ लिनक्स के नवीनतम पैकेज। तेज़! समन्वित! "
-"स्थिर! परीक्षित!"
+"निरंतर अपडेट युक्त संस्करण द्वारा नवीनतम लिनक्स पैकेज प्राप्त करें। तीव्र! "
+"समन्वित! स्थिर! परीक्षित!"
 
 #: index.html:88 index.html:110
 msgid "More information"
-msgstr "अधिक जानकारी"
+msgstr "अधिक सूचना"
 
 #: index.html:90 index.html:98
 msgid "Install Tumbleweed"
-msgstr "Tumbleweed इंस्टॉल करें"
+msgstr "टम्बलवीड इंस्टॉल करें"
 
 #: index.html:93
 msgid ""
