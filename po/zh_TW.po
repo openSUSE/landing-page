@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2020-10-28 13:49+0000\n"
+"Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/"
 "landing-page/master/zh_TW/>\n"
 "Language: zh_TW\n"
@@ -162,14 +162,12 @@ msgid ""
 msgstr "最好且唯一的 Linux 綜合系統設定及安裝工具。"
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象"
-"檔。Kiwi 是驅動 SUSE Studio 的引擎。"
+"用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象檔。Kiwi 是建構 openSUSE 發行映像檔的引擎。"
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -255,14 +253,14 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE 設計系統"
 
 #: index.html:295
 msgid ""
 "We've created a Design System to help you contribute consistent web tools "
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
-msgstr ""
+msgstr "我們建立了一個設計系統來幫助您使用 openSUSE 色彩、寫作指南等等，來貢獻風格一致的網頁工具與功能。請見："
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -294,7 +292,7 @@ msgstr "論壇"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "郵件列表"
 
 #: index.html:359
 msgid "Shop"
