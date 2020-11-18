@@ -445,26 +445,21 @@
       <p class="text-center">© 2015-2019 SUSE LLC. <span lang="en">All Rights Reserved.</span> <a lang="en" href="https://en.opensuse.org/Imprint">Imprint.</a></p>
     </div>
   </footer>
-  <!-- Piwik -->
-  <script type="text/javascript">
-    // require user consent before processing data
-_paq.push(['requireConsent']);
-_paq.push(['trackPageview']);
-var _paq = window._paq || [];
-/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-_paq.push(["setCookieDomain", "*.www.opensuse.org"]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="https://beans.opensuse.org/piwik/";
-_paq.push(['setTrackerUrl', u+'matomo.php']);
-_paq.push(['setSiteId', '10']);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-})();
-  </script>
-  <noscript><p><img src="//beans.opensuse.org/piwik/piwik.php?idsite=10" style="border:0;" alt="" /></p></noscript>
-  <!-- End Piwik Code -->
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://beans.opensuse.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '10']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
   <div class="hidden-content">
      <!-- FIXME: text is in ./assets/js/opensuse-theme.js -->
     <span lang="en">Back to main page</span>
