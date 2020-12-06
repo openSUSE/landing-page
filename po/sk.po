@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2020-12-06 00:30:17 +0000\n"
 "PO-Revision-Date: 2020-07-14 12:37+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/landing-page/"
@@ -31,7 +31,7 @@ msgstr "Domov"
 msgid "Tools"
 msgstr "Nástroje"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Správy"
 
@@ -131,8 +131,9 @@ msgid "for Leap 15.2"
 msgstr "pre Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "pre Leap 15.2"
+#, fuzzy
+msgid "Is Now Available"
+msgstr "je dostupné teraz"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -274,7 +275,7 @@ msgstr ""
 "hardvér pomáha vývoju Linuxu. Ak sa chcete dozvedieť, ako môžete darovať "
 "hardvér openSUSE projektu, e-mailujte"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "Návrhový systém openSUSE"
 
@@ -288,76 +289,76 @@ msgstr ""
 "webovým nástrojom a funkciám pomocou farieb openSUSE, písaním sprievodcov a "
 "ďalším. Overte si to:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Zoznámiť sa s openSUSE na konferenciách."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Zobraziť nadchádzajúce konferencie"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Získať softvér"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Sociálna sieť"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Fóra"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "Mailové konferencie"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Obchod"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Blogy"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Tlač"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Sponzorované:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Zmeniť jazyk"
 
-#: index.html:441
+#: index.html:446
 msgid "All Rights Reserved."
 msgstr "Všetky práva vyhradené."
 
-#: index.html:441
+#: index.html:446
 msgid "Imprint."
 msgstr "Impressum."
 
-#: index.html:441
+#: index.html:446
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:466
 msgid "Back to main page"
 msgstr "Späť na hlavnú stranu"
 
-#~ msgid "is now available"
-#~ msgstr "je dostupné teraz"
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "pre Leap 15.2"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

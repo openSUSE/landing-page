@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LCN (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2020-12-06 00:30:17 +0000\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
 "Language-Team: Lithuanian <https://l10n.opensuse.org/projects/landing-page/"
@@ -19,8 +19,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
-"n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
 "X-Generator: Weblate 3.6.1\n"
 
 #: index.html:4 index.html:79
@@ -37,7 +37,7 @@ msgstr "Pradžia"
 msgid "Tools"
 msgstr "Įrankiai"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Naujienos"
 
@@ -137,8 +137,9 @@ msgid "for Leap 15.2"
 msgstr "iki openSUSE Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "iki openSUSE Leap 15.2"
+#, fuzzy
+msgid "Is Now Available"
+msgstr "jau galite atsisiųsti"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -282,7 +283,7 @@ msgstr ""
 "padovanoti aparatinės įrangos openSUSE projektui, parašykite elektroninį "
 "laišką"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr ""
 
@@ -293,76 +294,76 @@ msgid ""
 "out:"
 msgstr ""
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Susitikime openSUSE konferencijose."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Artimiausios konferencijos"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Parsisiųsti programinę įrangą"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Vikis"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Kūrimo paslauga"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Socialinis tinklas"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Diskusijos"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr ""
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Parduotuvė"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Tinklaraščiai"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Spaudai"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Rėmėjai:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Pakeisti kalbą"
 
-#: index.html:441
+#: index.html:446
 msgid "All Rights Reserved."
 msgstr "Visos teisės saugomos."
 
-#: index.html:441
+#: index.html:446
 msgid "Imprint."
 msgstr "Impressum."
 
-#: index.html:441
+#: index.html:446
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:466
 msgid "Back to main page"
 msgstr "Grįžti į pradinį puslapį"
 
-#~ msgid "is now available"
-#~ msgstr "jau galite atsisiųsti"
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "iki openSUSE Leap 15.2"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

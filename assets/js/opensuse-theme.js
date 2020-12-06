@@ -277,6 +277,7 @@ window.lang.dynamic('lt', 'assets/js/langpack/lt.json');
 window.lang.dynamic('nl', 'assets/js/langpack/nl.json');
 window.lang.dynamic('nn', 'assets/js/langpack/nn.json');
 window.lang.dynamic('pl', 'assets/js/langpack/pl.json');
+window.lang.dynamic('pt_PT', 'assets/js/langpack/pt_PT.json');
 window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
 window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
 window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
