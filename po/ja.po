@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2020-12-06 00:30:17 +0000\n"
 "PO-Revision-Date: 2020-07-06 01:31+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
@@ -28,7 +28,7 @@ msgstr "ホーム"
 msgid "Tools"
 msgstr "ツール"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "ニュース"
 
@@ -125,8 +125,9 @@ msgid "for Leap 15.2"
 msgstr "(Leap 15.2 公開まで)"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "(Leap 15.2 公開まで)"
+#, fuzzy
+msgid "Is Now Available"
+msgstr "が公開されています"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -169,8 +170,9 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"実際のハードウエアや仮想化環境のほか、 Docker などのコンテナシステムでも利用できる Linux イメージを作成します。 Kiwi は "
-"openSUSE のリリース版を構築する際にも使用されているエンジンです。"
+"実際のハードウエアや仮想化環境のほか、 Docker などのコンテナシステムでも利用"
+"できる Linux イメージを作成します。 Kiwi は openSUSE のリリース版を構築する際"
+"にも使用されているエンジンです。"
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -263,7 +265,7 @@ msgstr ""
 "ソースコミュニティ、そして Linux の開発を支えているのです。 openSUSE プロジェ"
 "クトへのハードウエアの寄付について、詳しくは電子メールにてお尋ねください:"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "openSUSE デザインシステム"
 
@@ -273,79 +275,80 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
-"一貫した Web ツールを作成したり、 openSUSE "
-"のイメージ色を取り入れたり、ガイドを作成したりすることのできるデザインシステムを提供しています。詳しくは下記をご覧ください:"
+"一貫した Web ツールを作成したり、 openSUSE のイメージ色を取り入れたり、ガイド"
+"を作成したりすることのできるデザインシステムを提供しています。詳しくは下記を"
+"ご覧ください:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "カンファレンスで openSUSE の開発者やユーザと会う"
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "カンファレンスの予定を表示する"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "ソフトウエアの取得"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "ソーシャルネットワーク"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "フォーラム"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "メーリングリスト"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "ショップ"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "ブログ"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "プレスリリース"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "スポンサー:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "言語の変更"
 
-#: index.html:441
+#: index.html:446
 msgid "All Rights Reserved."
 msgstr "All Rights Reserved."
 
-#: index.html:441
+#: index.html:446
 msgid "Imprint."
 msgstr "Imprint."
 
-#: index.html:441
+#: index.html:446
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:466
 msgid "Back to main page"
 msgstr "メインページに戻る"
 
-#~ msgid "is now available"
-#~ msgstr "が公開されています"
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "(Leap 15.2 公開まで)"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

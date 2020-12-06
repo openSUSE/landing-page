@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2020-12-06 00:30:17 +0000\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Leonardo Teodoro <leonardosilvateodoro@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/"
@@ -34,7 +34,7 @@ msgstr "Início"
 msgid "Tools"
 msgstr "Ferramentas"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Notícias"
 
@@ -134,8 +134,9 @@ msgid "for Leap 15.2"
 msgstr "para o Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "para o Leap 15.2"
+#, fuzzy
+msgid "Is Now Available"
+msgstr "já está disponível"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -277,7 +278,7 @@ msgstr ""
 "hardware ajuda no desenvolvimento do Linux. Para saber mais sobre como doar "
 "hardware para o projeto openSUSE, mande um e-mail para"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "Sistema de Design openSUSE"
 
@@ -291,76 +292,76 @@ msgstr ""
 "recursos consistentes da Web usando as cores do openSUSE, guias de escrita e "
 "muito mais. Confira:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Encontre-se com o openSUSE em conferências."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Veja as próximas conferências"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Baixar software"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Redes sociais"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Fóruns"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "Listas de discussão"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Loja"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Blogs"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Imprensa"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Patrocinado por:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Alterar idioma"
 
-#: index.html:441
+#: index.html:446
 msgid "All Rights Reserved."
 msgstr "Todos os direitos reservados."
 
-#: index.html:441
+#: index.html:446
 msgid "Imprint."
 msgstr "Responsável."
 
-#: index.html:441
+#: index.html:446
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:466
 msgid "Back to main page"
 msgstr "Voltar à página inicial"
 
-#~ msgid "is now available"
-#~ msgstr "já está disponível"
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "para o Leap 15.2"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"

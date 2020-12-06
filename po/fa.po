@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2020-12-06 00:30:17 +0000\n"
 "PO-Revision-Date: 2020-07-28 12:34+0000\n"
 "Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
@@ -27,7 +27,7 @@ msgstr "خانه"
 msgid "Tools"
 msgstr "ابزارها"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "اخبار"
 
@@ -124,8 +124,9 @@ msgid "for Leap 15.2"
 msgstr "برای Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "برای Leap 15.2"
+#, fuzzy
+msgid "Is Now Available"
+msgstr "در حال حاظر در دسترس است"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -169,9 +170,9 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"ایمیج‌های لینوکس را برای گسترش بر روی سخت‌افزار واقعی، مجازی سازی، و هم "
-"اکنون حتی سیستم‌های محفظه ای مانند داکر بسازید. Kiwi موتوری است که ایمیج‌های "
-"انتشار SUSE Studio را میسازد."
+"ایمیج‌های لینوکس را برای گسترش بر روی سخت‌افزار واقعی، مجازی سازی، و هم اکنون "
+"حتی سیستم‌های محفظه ای مانند داکر بسازید. Kiwi موتوری است که ایمیج‌های انتشار "
+"SUSE Studio را میسازد."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -262,7 +263,7 @@ msgstr ""
 "توسعه ی لینوکس کمک میکند. برای اینکه بدانید چگونه به پروژه ی openSUSE سخت "
 "افزار اهدا کنید، به رایانامه ی زیر نامه بفرستید"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "سیستم طراحی openSUSE"
 
@@ -276,76 +277,76 @@ msgstr ""
 "استفاده از رنگ‌های openSUSE، راهنماهای نوشتن، و دیگر کمک میکند. آن را بررسی "
 "کنید:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "با openSUSE در کنفرانس دیدار کنید."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "مشاهده ی کنفرانس های آینده"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "دریافت نرم افزار"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "ویکی"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "سرویس ساخت"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "شبکه اجتماعی"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "انجمن ها"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "لیست‌های ایمیل‌ها"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "فروشگاه"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "وبلاگها"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "مطبوعات"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "حمایت شده توسط:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "تغییر زبان"
 
-#: index.html:441
+#: index.html:446
 msgid "All Rights Reserved."
 msgstr "تمامی حقوق محفوظ است."
 
-#: index.html:441
+#: index.html:446
 msgid "Imprint."
 msgstr "مهر زده شده است."
 
-#: index.html:441
+#: index.html:446
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:466
 msgid "Back to main page"
 msgstr "بازگشت به صفحه ی اصلی"
 
-#~ msgid "is now available"
-#~ msgstr "در حال حاظر در دسترس است"
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "برای Leap 15.2"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"
