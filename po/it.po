@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-08-24 16:13+0000\n"
+"PO-Revision-Date: 2020-12-25 17:26+0000\n"
 "Last-Translator: Paolo Za <zapaolo@email.it>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/landing-page/"
 "master/it/>\n"
@@ -316,7 +316,7 @@ msgstr "Forum"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Mailing List"
 
 #: index.html:359
 msgid "Shop"
