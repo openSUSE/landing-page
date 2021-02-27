@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:36+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2021-03-07 09:16+0000\n"
+"Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
 "Language-Team: Galician <https://l10n.opensuse.org/projects/landing-page/"
 "master/gl/>\n"
 "Language: gl\n"
@@ -19,11 +19,11 @@ msgstr ""
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
 "A mellor escolla para administradores de sistemas, desenvolvedores e "
-"usuarios de escritorio."
+"usuarios de ordenadores de escritorio."
 
 #: index.html:49
 msgid "Home"
-msgstr "Directorio Persoal"
+msgstr "Inicio"
 
 #: index.html:52
 msgid "Tools"
@@ -171,15 +171,14 @@ msgstr ""
 "A mellor/única ferramenta de configuración e de instalación de sistema Linux."
 
 #: index.html:232
-#, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"Crear imaxes Linux para utilizar en hardware real, virtualizado e agora "
-"tamén en contedores de sistema coma Docker. Kiwi é o motor que fai funcionar "
-"SUSE Studio."
+"Cree imaxes de Linux para utilizar en hardware real, virtualización e agora "
+"tamén en sistemas de contedores coma Docker. Kiwi é o motor que crea as "
+"imaxes de lanzamento de openSUSE."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -274,7 +273,7 @@ msgstr ""
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Sistema de deseño de openSUSE"
 
 #: index.html:295
 msgid ""
@@ -282,6 +281,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Creamos un Sistema de deseño para axudarlle a contribuír con ferramentas e "
+"recursos web consistentes grazas ao uso das cores, as guías de escrita e "
+"moito máis. Bótelle unha ollada:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -313,7 +315,7 @@ msgstr "Foros"
 
 #: index.html:350
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Listas de correo"
 
 #: index.html:359
 msgid "Shop"
