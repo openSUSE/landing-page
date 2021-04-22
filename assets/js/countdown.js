@@ -1,7 +1,7 @@
 $(function () {
 
   // one hour later due to https://github.com/openSUSE/landing-page/issues/113
-  var leapReleaseDate = moment.tz("2020-07-02 13:00", "UTC");
+  var leapReleaseDate = moment.tz("2021-06-02 13:00", "UTC");
 
   $('.opensuse-countdown__number').countdown(leapReleaseDate.toDate(), function(event) {
 
