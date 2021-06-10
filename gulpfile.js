@@ -60,6 +60,11 @@ function vendorCSS() {
     .pipe(gulp.dest(destination + 'css'))
 };
 
+function moveFonts() {
+  return gulp.src(assets + 'fonts/*')
+    .pipe(gulp.dest(destination + 'fonts'))
+};
+
 // Images optimization
 var imagemin = require('gulp-imagemin');
 var cache = require('gulp-cache');
@@ -79,6 +84,8 @@ function watchFiles() {
   gulp.watch(assets + 'css/*.less', compileLess);
   // Watch image files
   gulp.watch(assets + 'images/**/*', imagesCompression);
+  
+  gulp.watch(assets + 'fonts/*', moveFonts);
 };
 
 // Run python server on localhost:8000
@@ -92,7 +99,8 @@ var runServer = gulp.task('runServer');
 exports.scripts = scripts
 exports.compileLess = compileLess
 exports.imagesCompression = imagesCompression
+exports.moveFonts = moveFonts
 exports.watchFiles = watchFiles
 exports.runServer = runServer
 exports.vendorCSS = gulp.series(compileLess)
-exports.default = gulp.parallel(scripts, compileLess, vendorCSS, imagesCompression, watchFiles, runServer)
+exports.default = gulp.parallel(scripts, compileLess, moveFonts, vendorCSS, imagesCompression, watchFiles, runServer)
