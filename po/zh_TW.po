@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
 "PO-Revision-Date: 2020-10-28 13:49+0000\n"
 "Last-Translator: Ramax Lo <ramaxlo@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/"
-"landing-page/master/zh_TW/>\n"
+"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/landing-"
+"page/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +32,7 @@ msgstr "首頁"
 msgid "Tools"
 msgstr "工具"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "新聞"
 
@@ -119,12 +119,13 @@ msgid "hour"
 msgstr "小時"
 
 #: index.html:139
-msgid "for Leap 15.2"
+#, fuzzy
+msgid "update to Leap 15.3"
 msgstr "距離 Leap 15.2 發布"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "距離 Leap 15.2 發布"
+msgid "IS NOW AVAILABLE"
+msgstr ""
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -167,7 +168,8 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象檔。Kiwi 是建構 openSUSE 發行映像檔的引擎。"
+"用來產生供真實硬體、虛擬機器，甚至是容器系統 (如 Docker) 使用的 Linux 映象"
+"檔。Kiwi 是建構 openSUSE 發行映像檔的引擎。"
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -251,7 +253,7 @@ msgstr ""
 "社群、可以幫助開源社群，更可以幫助 Linux 開發。想了解您可以如何捐贈硬體給 "
 "openSUSE 專案，請寄信到"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "openSUSE 設計系統"
 
@@ -260,75 +262,80 @@ msgid ""
 "We've created a Design System to help you contribute consistent web tools "
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
-msgstr "我們建立了一個設計系統來幫助您使用 openSUSE 色彩、寫作指南等等，來貢獻風格一致的網頁工具與功能。請見："
+msgstr ""
+"我們建立了一個設計系統來幫助您使用 openSUSE 色彩、寫作指南等等，來貢獻風格一"
+"致的網頁工具與功能。請見："
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "在研討會上與 openSUSE 相見歡。"
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "查看即將舉行的研討會"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "取得軟體"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "維基"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "社群網路"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "論壇"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "郵件列表"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "商店"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "部落格"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "媒體"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "贊助："
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "變更語系"
 
-#: index.html:441
+#: index.html:445
 msgid "All Rights Reserved."
 msgstr "保留所有權利。"
 
-#: index.html:441
+#: index.html:445
 msgid "Imprint."
 msgstr "版本說明。"
 
-#: index.html:441
+#: index.html:445
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:465
 msgid "Back to main page"
 msgstr "回到主頁面"
+
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "距離 Leap 15.2 發布"
 
 #~ msgid "is now available"
 #~ msgstr "is now available"
