@@ -85,7 +85,7 @@ msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
-"Získejte nekompletnější distribuci Linuxu díky nejnovější verzi pravidelného "
+"Získejte nejkompletnější distribuci Linuxu díky nejnovější verzi pravidelného "
 "vydání openSUSE!"
 
 #: index.html:112 index.html:117
