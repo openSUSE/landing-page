@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2020-07-14 12:37+0000\n"
+"PO-Revision-Date: 2021-07-12 18:11+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/landing-page/"
 "master/sk/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.6.2\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -127,13 +127,12 @@ msgid "hour"
 msgstr "hodina"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "pre Leap 15.2"
+msgstr "aktualizácia na Leap 15.3"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "JE TERAZ K DISPOZÍCII"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
