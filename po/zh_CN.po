@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2020-07-26 08:51+0000\n"
-"Last-Translator: bido moocho <ahui.bido@outlook.com>\n"
-"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/landing-"
-"page/master/zh_CN/>\n"
+"PO-Revision-Date: 2021-07-18 18:10+0000\n"
+"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/"
+"landing-page/master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.7.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -63,10 +63,9 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以"
-"及许多其它软件包，都会想要使用 Tumbleweed。Tumbleweed 迎合了高级用户、软件开"
-"发者和  openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最"
-"接近最新 Linux 的稳定平台，Tumbleweed 是您的不二选择。"
+"任何期颐最新软件包的用户，包括但不限于内核、SAMBA、git、桌面环境、办公应用以及许多其它软件包，都会想要使用 Tumbleweed。"
+"Tumbleweed 迎合了高级用户、软件开发者和 openSUSE 贡献者。若您需要最新软件堆栈和整合的开发环境，或者需要一个最接近最新 Linux "
+"的稳定平台，Tumbleweed 是您的不二选择。"
 
 #: index.html:95
 msgid "Learn more"
@@ -112,13 +111,12 @@ msgid "hour"
 msgstr "小时"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "距离 Leap 15.2 发布"
+msgstr "更新到 Leap 15.3"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "现已发布"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
