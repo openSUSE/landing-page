@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: entries\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2020-09-17 13:48+0000\n"
+"PO-Revision-Date: 2021-10-28 13:12+0000\n"
 "Last-Translator: AlexKoala <alexkoala@alexkoala.com>\n"
 "Language-Team: Korean <https://l10n.opensuse.org/projects/landing-page/"
 "master/ko/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -65,12 +65,10 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Tumbleweed 에는 일부 사용자들이 필요로하는 최신 프로그램이 포함 되어 있습니"
-"다. 여기에는 제한없는 리눅스 커널부터, 삼바, Git,  데스크탑 환경, 오피스 응용"
-"프로그램 등이 있습니다. Tumbleweed 는 고급 사용자, 소프트웨어 개발자, 오픈수"
-"세 기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합적인 개발"
-"환경 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 필요하다면, "
-"Tumbleweed 는 최고의 선택이 될것입니다."
+"Tumbleweed에는 사용자들이 필요로 하는 최신 프로그램이 포함되어 있습니다. 여기에는 제한없는 Linux 커널부터 SAMBA, "
+"Git, 데스크탑 환경, 오피스 응용프로그램 등이 있습니다. Tumbleweed는 고급 사용자, 소프트웨어 개발자, openSUSE "
+"기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합 개발 환경 (IDE) 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 "
+"플랫폼이 필요하다면, Tumbleweed는 최고의 선택이 될 것입니다."
 
 #: index.html:95
 msgid "Learn more"
@@ -118,13 +116,12 @@ msgid "hour"
 msgstr "시"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "Leap 15.2 출시까지"
+msgstr "Leap 15.3으로 업데이트"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "지금 사용 가능"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
