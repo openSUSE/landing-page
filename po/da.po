@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/landing-page/"
@@ -30,7 +30,7 @@ msgstr "Hjem"
 msgid "Tools"
 msgstr "Værktøjer"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Nyheder"
 
@@ -124,12 +124,13 @@ msgid "hour"
 msgstr "time"
 
 #: index.html:139
-msgid "for Leap 15.2"
+#, fuzzy
+msgid "update to Leap 15.3"
 msgstr "til Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "til Leap 15.2"
+msgid "IS NOW AVAILABLE"
+msgstr ""
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -273,7 +274,7 @@ msgstr ""
 "en e-mail for at finde ud af, hvordan du kan donere hardware til openSUSE-"
 "projektet"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr ""
 
@@ -284,74 +285,77 @@ msgid ""
 "out:"
 msgstr ""
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Mød openSUSE til konferencer."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Vis kommende konferencer"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Hent software"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
 #
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Sociale netværk"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Fora"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr ""
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Butik"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Blogge"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Presse"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Sponseret af:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Skift sprog"
 
-#: index.html:441
+#: index.html:445
 msgid "All Rights Reserved."
 msgstr "Alle rettigheder forbeholdt."
 
-#: index.html:441
+#: index.html:445
 msgid "Imprint."
 msgstr "Imprint."
 
-#: index.html:441
+#: index.html:445
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:465
 msgid "Back to main page"
 msgstr "Tilbage til hovedsiden"
+
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "til Leap 15.2"
 
 #~ msgid "is now available"
 #~ msgstr "er tilgængelig nu"

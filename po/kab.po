@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
 "Language-Team: Kabyle <https://l10n.opensuse.org/projects/landing-page/"
@@ -28,7 +28,7 @@ msgstr "Accueil"
 msgid "Tools"
 msgstr "&Ifecka"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 #, fuzzy
 msgid "News"
 msgstr "Isallen"
@@ -115,13 +115,13 @@ msgid "hour"
 msgstr "asrag"
 
 #: index.html:139
-msgid "for Leap 15.2"
+#, fuzzy
+msgid "update to Leap 15.3"
 msgstr "Leap 15.2"
 
 #: index.html:148
-#, fuzzy
-msgid "openSUSE Leap 15.2"
-msgstr "openSUSE s wudem amzwer"
+msgid "IS NOW AVAILABLE"
+msgstr ""
 
 #: index.html:159
 #, fuzzy
@@ -235,7 +235,7 @@ msgid ""
 "the openSUSE project, email"
 msgstr ""
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr ""
 
@@ -246,89 +246,93 @@ msgid ""
 "out:"
 msgstr ""
 
-#: index.html:303
+#: index.html:308
 #, fuzzy
 msgid "Meet up with openSUSE at conferences."
 msgstr "Timlillit"
 
-#: index.html:304
+#: index.html:309
 #, fuzzy
 msgid "View upcoming conferences"
 msgstr "Ttekki deg uneḍru ara d-yilin rif n %s."
 
-#: index.html:316
+#: index.html:321
 #, fuzzy
 msgid "Get software"
 msgstr "_Aseɣẓan"
 
-#: index.html:321
+#: index.html:326
 #, fuzzy
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 #, fuzzy
 msgid "Build Service"
 msgstr ""
 "Asersi LXDE n umeălu n openSUSE i k-yettaken lqem aneggaru, ur yettusefraken "
 "ara, n tnarit akked iseɣzanen LX."
 
-#: index.html:335
+#: index.html:340
 #, fuzzy
 msgid "Social Network"
 msgstr "Timetti"
 
-#: index.html:345
+#: index.html:350
 #, fuzzy
 msgid "Forums"
 msgstr "Inmagaren"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr ""
 
-#: index.html:359
+#: index.html:364
 #, fuzzy
 msgid "Shop"
 msgstr "Taḥanut"
 
-#: index.html:364
+#: index.html:369
 #, fuzzy
 msgid "Blogs"
 msgstr "Iblugen n iɛeggalen n tmezdagnut OpenStreetMap"
 
-#: index.html:369
+#: index.html:374
 #, fuzzy
 msgid "Press"
 msgstr "Taɣamsa"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr ""
 
-#: index.html:397
+#: index.html:402
 #, fuzzy
 msgid "Change language"
 msgstr "Fren tutlayt"
 
-#: index.html:441
+#: index.html:445
 #, fuzzy
 msgid "All Rights Reserved."
 msgstr "Beddel akkw izerfan n yiwen aseqdac"
 
-#: index.html:441
+#: index.html:445
 msgid "Imprint."
 msgstr ""
 
-#: index.html:441
+#: index.html:445
 #, fuzzy
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://fr.gravatar.com/"
 
-#: index.html:464
+#: index.html:465
 #, fuzzy
 msgid "Back to main page"
 msgstr "Asebter agejdan di %s"
+
+#, fuzzy
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "openSUSE s wudem amzwer"
 
 #, fuzzy
 #~ msgid "is now available"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Efstathios Iosifidis <eiosifidis@gmail.com>\n"
 "Language-Team: Greek <https://l10n.opensuse.org/projects/landing-page/master/"
@@ -32,7 +32,7 @@ msgstr "Αρχική"
 msgid "Tools"
 msgstr "Εργαλεία"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Νέα"
 
@@ -130,12 +130,13 @@ msgid "hour"
 msgstr "ώρα"
 
 #: index.html:139
-msgid "for Leap 15.2"
+#, fuzzy
+msgid "update to Leap 15.3"
 msgstr "για την Leap 15.2"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "openSUSE Leap 15.2"
+msgid "IS NOW AVAILABLE"
+msgstr ""
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -283,7 +284,7 @@ msgstr ""
 "το υλικό βοηθά στην ανάπτυξη του Linux. Για να μάθετε πως μπορείτε να "
 "δωρίσετε υλικό στο project του openSUSE, στείλτε email"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "Σύστημα σχεδίασης openSUSE"
 
@@ -297,73 +298,76 @@ msgstr ""
 "συνεισφέρετε σε σταθερά εργαλεία ιστού και λειτουργίες χρησιμοποιώντας τα "
 "χρώματα του openSUSE, τους οδηγούς γραφής και άλλα. Δείτε εδώ:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Συναντήσεις στα συνέδρια openSUSE."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Προβολή επερχόμενων συνεδρίων"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Λήψη λογισμικού"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Build Service"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Κοινωνικά Δίκτυα"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Forums"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "Λίστες ταχυδρομείου"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Κατάστημα"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Blogs"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Τύπος"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Χορηγοί:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Επιλογή γλώσσας"
 
-#: index.html:441
+#: index.html:445
 msgid "All Rights Reserved."
 msgstr "Με επιφύλαξη κάθε νομίμου δικαιώματος."
 
-#: index.html:441
+#: index.html:445
 msgid "Imprint."
 msgstr "Ανατύπωση."
 
-#: index.html:441
+#: index.html:445
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://el.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:465
 msgid "Back to main page"
 msgstr "Πίσω στην κύρια σελίδα"
+
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "openSUSE Leap 15.2"
 
 #~ msgid "is now available"
 #~ msgstr "είναι διαθέσιμο τώρα"

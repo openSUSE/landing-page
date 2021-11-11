@@ -3,7 +3,7 @@
   "token": {
     "All Rights Reserved.": "Alla rättigheter reserverade.",
     "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Användare som vill använda senaste versioner av bl.a. Linuxkärnan, SAMBA, git, skrivbordsmiljöer, officepaket mm. skall överväga Tumbleweed. Tumbleweed är det rätta valet för erfarna användare, programutvecklare och openSUSE utvecklare. Om du behöver den senaste mjukvarustacken eller vill köra Linux så nära bleeding edge som möjligt, är Tumbleweed det bästa valet för dig.",
-    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Automatiserad test av *alla* operativsystem som kant läsa av skärmen och kontrollera testobjektet på samma sätt som en användare gör.",
+    "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "Automatiserad test av *alla* operativsystem som kan läsa av skärmen och kontrollera testobjektet på samma sätt som en användare gör.",
     "Back to main page": "Tillbaka till huvudsida",
     "Be part of our community contributing with any of the following:": "Bli en del av vår community genom att bidra med något av följande:",
     "Blogs": "Bloggar",
@@ -29,6 +29,7 @@
     "Install Leap": "Installera Leap",
     "Install Tumbleweed": "Installera Tumbleweed",
     "Learn more": "Lär dig mer",
+    "Mailing Lists": "e-postlista",
     "Meet up with openSUSE at conferences.": "Träffas på openSUSE konferenser.",
     "More information": "Mer information",
     "New and experienced Linux users get the most usable Linux distribution and stabilized operating system with openSUSE’s regular release. Receive updates and harden your OS with openSUSE’s latest major distribution. Pick your desktop, configure your system and enjoy the platform of choice for Linux developers, administrators and software vendors.": "Nya och erfarna Linuxanvändare får den mest användbara Linuxdistributionen och det stabilaste operativsystemet med openSUSE:s standardutgåva. Få uppdateringar och härda ditt OS med openSUSE:s senaste utgåva. Välj skrivbordsmiljö, konfigurera ditt system och ha kul med plattformen som är valet för Linuxutvecklare, administratörer och programleverantörer.",

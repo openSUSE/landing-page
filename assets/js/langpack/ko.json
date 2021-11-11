@@ -2,7 +2,7 @@
   "WARNING": "Please see the README.md - this is generated",
   "token": {
     "All Rights Reserved.": "모든 권리 보유.",
-    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Tumbleweed 에는 일부 사용자들이 필요로하는 최신 프로그램이 포함 되어 있습니다. 여기에는 제한없는 리눅스 커널부터, 삼바, Git,  데스크탑 환경, 오피스 응용프로그램 등이 있습니다. Tumbleweed 는 고급 사용자, 소프트웨어 개발자, 오픈수세 기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합적인 개발환경 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 필요하다면, Tumbleweed 는 최고의 선택이 될것입니다.",
+    "Any user who wishes to have the newest packages that include, but are not limited to, the Linux kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. Tumbleweed appeals to Power Users, Software Developers and openSUSE Contributors. If you require the latest software stacks and Integrated Development Environment or need a stable platform closest to bleeding edge Linux, Tumbleweed is the best choice for you.": "Tumbleweed에는 사용자들이 필요로 하는 최신 프로그램이 포함되어 있습니다. 여기에는 제한없는 Linux 커널부터 SAMBA, Git, 데스크탑 환경, 오피스 응용프로그램 등이 있습니다. Tumbleweed는 고급 사용자, 소프트웨어 개발자, openSUSE 기여자를 위해 만들어집니다. 최신의 소프트웨어가 필요하거나, 통합 개발 환경 (IDE) 또는 안정적이면서도 가장 개발환경에 가까운 리눅스 플랫폼이 필요하다면, Tumbleweed는 최고의 선택이 될 것입니다.",
     "Automated testing for *any* operating system, that can read the screen and control the test host the same way a user does.": "'모든' 운영 체제에 대한 자동화된 테스트로, 사용자가 수행하는 것과 동일하게 화면을 읽고 테스트 호스트를 제어할 수 있습니다.",
     "Back to main page": "메인 페이지로 돌아가기",
     "Be part of our community contributing with any of the following:": "다음에 기여해서 커뮤니티에 참여하세요:",
@@ -27,6 +27,7 @@
     "Go to link": "링크로 이동",
     "Hardware": "하드웨어",
     "Home": "홈",
+    "IS NOW AVAILABLE": "지금 사용 가능",
     "Imprint.": "날인.",
     "Install Leap": "Leap 설치",
     "Install Tumbleweed": "Tumbleweed 설치",
@@ -53,6 +54,7 @@
     "hours": "시",
     "openSUSE Design System": "openSUSE 디자인 시스템",
     "openSUSE TOOLS": "openSUSE 도구",
-    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE는 사람들이 협력하고 재미를 느낄 때 최고의 결과가 나온다고 믿습니다. 다른 오픈 소스 커뮤니티와 다른 것이 openSUSE를 바람직하게 만들어줍니다. 우리는 통상적인 커뮤니티가 아니며 커뮤니티의 노력이 프로젝트의 방향을 결정합니다. 커뮤니티의 노력으로 Linux와 멋진 배포판들을 위한 여러 훌륭한 도구들이 만들어졌습니다. openSUSE에서는 목소리를 내고 프로젝트에 쉽게 기여할 수 있습니다. 숙련된 Linux 개발자이든 최종 사용자든 openSUSE 프로젝트에 참여할 수 있습니다. 포럼에 참여하거나, 위키를 관리하며 최신 상태로 유지하거나, 버그를 찾아 보고하거나, 문서를 검토하거나, 새 패키지 및 기능에 대한 위시 리스트를 보내거나, 패치를 만들고 제출하거나, openSUSE 이벤트에 참여해 앰배서더가 됨으로서 애드보킷이 되세요."
+    "openSUSE believes the best results come from people collaborating and having fun. Being different from other open-source communities is what makes openSUSE desirable. We are not the conventional community and our community’s efforts determines the path of the project. The efforts of the community have created several great tools for Linux and an awesome distribution. With openSUSE, you have a voice and can easily contribute to the project. Whether you are an experienced Linux developer or an end user get involved in the openSUSE project. Join a forum, maintain and keep our wiki up-to-date, find and report bugs, review the documentation, send your wish list for new packages and features, create and submit patches, or become an advocate for openSUSE by attending events and becoming an ambassador.": "openSUSE는 사람들이 협력하고 재미를 느낄 때 최고의 결과가 나온다고 믿습니다. 다른 오픈 소스 커뮤니티와 다른 것이 openSUSE를 바람직하게 만들어줍니다. 우리는 통상적인 커뮤니티가 아니며 커뮤니티의 노력이 프로젝트의 방향을 결정합니다. 커뮤니티의 노력으로 Linux와 멋진 배포판들을 위한 여러 훌륭한 도구들이 만들어졌습니다. openSUSE에서는 목소리를 내고 프로젝트에 쉽게 기여할 수 있습니다. 숙련된 Linux 개발자이든 최종 사용자든 openSUSE 프로젝트에 참여할 수 있습니다. 포럼에 참여하거나, 위키를 관리하며 최신 상태로 유지하거나, 버그를 찾아 보고하거나, 문서를 검토하거나, 새 패키지 및 기능에 대한 위시 리스트를 보내거나, 패치를 만들고 제출하거나, openSUSE 이벤트에 참여해 앰배서더가 됨으로서 애드보킷이 되세요.",
+    "update to Leap 15.3": "Leap 15.3으로 업데이트"
   }
 }

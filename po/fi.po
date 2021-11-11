@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
+"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Tommi Nieminen <software@legisign.org>\n"
 "Language-Team: Finnish <https://l10n.opensuse.org/projects/landing-page/"
@@ -28,7 +28,7 @@ msgstr "Koti"
 msgid "Tools"
 msgstr "Työkalut"
 
-#: index.html:55 index.html:340
+#: index.html:55 index.html:345
 msgid "News"
 msgstr "Uutiset"
 
@@ -121,12 +121,13 @@ msgid "hour"
 msgstr "tunti"
 
 #: index.html:139
-msgid "for Leap 15.2"
+#, fuzzy
+msgid "update to Leap 15.3"
 msgstr "Leap 15.1:lle"
 
 #: index.html:148
-msgid "openSUSE Leap 15.2"
-msgstr "Leap 15.2:lle"
+msgid "IS NOW AVAILABLE"
+msgstr ""
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -264,7 +265,7 @@ msgstr ""
 "lisätietoa, miten voit lahjoittaa laitteistoa openSUSE-projektille, lähetä "
 "sähköpostia osoitteeseen"
 
-#: index.html:294 index.html:296
+#: index.html:294 index.html:297
 msgid "openSUSE Design System"
 msgstr "openSUSEn suunnittelujärjestelmä"
 
@@ -278,73 +279,76 @@ msgstr ""
 "luotu auttamaan sinua; ne käyttävät openSUSEn värejä, kirjoitusoppaita jne. "
 "Katso lisää:"
 
-#: index.html:303
+#: index.html:308
 msgid "Meet up with openSUSE at conferences."
 msgstr "Kohtaa openSUSE konferensseissa."
 
-#: index.html:304
+#: index.html:309
 msgid "View upcoming conferences"
 msgstr "Katso tulevia konferensseja"
 
-#: index.html:316
+#: index.html:321
 msgid "Get software"
 msgstr "Nouda ohjelmia"
 
-#: index.html:321
+#: index.html:326
 msgid "Wiki"
 msgstr "Wiki"
 
-#: index.html:326
+#: index.html:331
 msgid "Build Service"
 msgstr "Koostamispalvelu"
 
-#: index.html:335
+#: index.html:340
 msgid "Social Network"
 msgstr "Sosiaalinen verkko"
 
-#: index.html:345
+#: index.html:350
 msgid "Forums"
 msgstr "Keskustelualueet"
 
-#: index.html:350
+#: index.html:355
 msgid "Mailing Lists"
 msgstr "Postituslistat"
 
-#: index.html:359
+#: index.html:364
 msgid "Shop"
 msgstr "Kauppa"
 
-#: index.html:364
+#: index.html:369
 msgid "Blogs"
 msgstr "Blogit"
 
-#: index.html:369
+#: index.html:374
 msgid "Press"
 msgstr "Lehdistö"
 
-#: index.html:391
+#: index.html:396
 msgid "Sponsored by:"
 msgstr "Tukijat:"
 
-#: index.html:397
+#: index.html:402
 msgid "Change language"
 msgstr "Vaihda kieltä"
 
-#: index.html:441
+#: index.html:445
 msgid "All Rights Reserved."
 msgstr "Kaikki oikeudet pidätetään."
 
-#: index.html:441
+#: index.html:445
 msgid "Imprint."
 msgstr "Nimiölehden kääntöpuoli."
 
-#: index.html:441
+#: index.html:445
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:464
+#: index.html:465
 msgid "Back to main page"
 msgstr "Palaa pääsivulle"
+
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "Leap 15.2:lle"
 
 #~ msgid "is now available"
 #~ msgstr "on nyt saatavilla"
