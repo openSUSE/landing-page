@@ -78,7 +78,7 @@ The new color pallete is publicly available at: http://opensuse.github.io/brandi
 At this point we need to say Thank you! to the Board and Douglas DeMaio for helping to provide the text and direction of the website.
 **How we organized the Information and why**
 
-- Tumbleweed vs Leap: The way we see it, Tumbleweed and Leap (regular release) users have the same passion but sightly different approaches with openSUSE. The first one (Tumbleweed) goes for an up-to-date tested, reliable and stable system with new rolling versions of updated applications and software he/she is developing; while the second one (Leap) goes for a long-term type release that provides unmatched longevity and stability.
+- Tumbleweed vs Leap: The way we see it, Tumbleweed and Leap (regular release) users have the same passion but sightly different approaches with openSUSE. The first one (Tumbleweed) goes for an up-to-date tested, reliable and stable system with new rolling versions of updated applications and software they are developing; while the second one (Leap) goes for a long-term type release that provides unmatched longevity and stability.
   This made us understand that new users needed to understand these differences in the main section of the landing page, so they can understand the differences between the two. For our regular visitors, the next sections is more relevant.
 
 ![Home](https://raw.githubusercontent.com/openSUSE/landing-page/screenshots-for-readme/01.png 'Home')
