@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: opensuse-landing-page\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2020-07-06 01:31+0000\n"
+"PO-Revision-Date: 2021-11-13 09:12+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/landing-page/"
 "master/ja/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -121,13 +121,12 @@ msgid "hour"
 msgstr "時間"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "(Leap 15.2 公開まで)"
+msgstr "Leap 15.3 への更新"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "が提供されています"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
