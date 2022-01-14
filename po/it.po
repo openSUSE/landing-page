@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2022-01-02 16:12+0000\n"
+"PO-Revision-Date: 2022-01-14 11:12+0000\n"
 "Last-Translator: Paolo Za <zapaolo@email.it>\n"
 "Language-Team: Italian <https://l10n.opensuse.org/projects/landing-page/"
 "master/it/>\n"
@@ -277,7 +277,7 @@ msgstr ""
 
 #: index.html:294 index.html:297
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "Sistema di progettazione di openSUSE"
 
 #: index.html:295
 msgid ""
@@ -285,6 +285,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"Abbiamo creato un sistema di progettazione per aiutarti a contribuire in "
+"modo coerente agli strumenti web e alle funzionalità, usando i colori, le "
+"guide per la scrittura di OpenSUSUSE e altro ancora. Controlla:"
 
 #: index.html:308
 msgid "Meet up with openSUSE at conferences."
