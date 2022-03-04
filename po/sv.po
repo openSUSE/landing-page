@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2021-11-09 12:13+0000\n"
-"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
+"PO-Revision-Date: 2022-03-04 22:12+0000\n"
+"Last-Translator: Fredrik Persson <fpersson.se@gmail.com>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/landing-page/"
 "master/sv/>\n"
 "Language: sv\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8.1\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -126,13 +126,12 @@ msgid "hour"
 msgstr "timme"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "för Leap 15.2"
+msgstr "uppdatera till Leap 15.3"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "ÄR NU TILLGÄNGLIG"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -273,7 +272,7 @@ msgstr ""
 
 #: index.html:294 index.html:297
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE Design System"
 
 #: index.html:295
 msgid ""
@@ -312,7 +311,7 @@ msgstr "Forum"
 
 #: index.html:355
 msgid "Mailing Lists"
-msgstr "e-postlista"
+msgstr "Mailinglistor"
 
 #: index.html:364
 msgid "Shop"
