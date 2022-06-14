@@ -1,0 +1,21 @@
+---
+name: build the landing page
+
+on:
+  push:
+    branches:
+      - "master"
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    name: Node unit tests
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install
+      - run: npx gulp scripts compileLess imagesCompression moveFonts vendorCSS
