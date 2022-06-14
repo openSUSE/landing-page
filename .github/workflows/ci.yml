@@ -18,4 +18,4 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: npx gulp scripts compileLess imagesCompression moveFonts vendorCSS
+      - run: npx gulp scripts compileLess imagesCompression moveFonts vendorCSS moveWebFonts

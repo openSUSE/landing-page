@@ -4,6 +4,7 @@ var gulp = require('gulp');
 // Define main directories
 var assets = 'assets/';
 var destination = 'build/';
+var nodeModules = 'node_modules/';
 
 // Concatenate & Minify JS
 var concat = require('gulp-concat');
@@ -53,7 +54,7 @@ function compileLess() {
 function vendorCSS() {
   return gulp.src([assets + 'css/vendor/animate/animate.css',
       assets + 'css/vendor/owl-carousel/owl.carousel.css',
-      assets + 'css/vendor/fontawesome/font-awesome.css'])
+      nodeModules + '@fortawesome/fontawesome-free/css/all.css'])
     .pipe(concat('vendor.css'))
     .pipe(rename({suffix: '.min'}))
     .pipe(minifyCss())
@@ -64,6 +65,11 @@ function moveFonts() {
   return gulp.src(assets + 'fonts/*')
     .pipe(gulp.dest(destination + 'fonts'))
 };
+
+function moveWebFonts() {
+  return gulp.src(nodeModules + '@fortawesome/fontawesome-free/webfonts/*')
+    .pipe(gulp.dest(destination + 'webfonts'))
+}
 
 // Images optimization
 var imagemin = require('gulp-imagemin');
@@ -100,6 +106,7 @@ exports.scripts = scripts
 exports.compileLess = compileLess
 exports.imagesCompression = imagesCompression
 exports.moveFonts = moveFonts
+exports.moveWebFonts = moveWebFonts
 exports.watchFiles = watchFiles
 exports.runServer = runServer
 exports.vendorCSS = gulp.series(compileLess)
