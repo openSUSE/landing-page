@@ -84,7 +84,7 @@ function watchFiles() {
   gulp.watch(assets + 'css/*.less', compileLess);
   // Watch image files
   gulp.watch(assets + 'images/**/*', imagesCompression);
-  
+
   gulp.watch(assets + 'fonts/*', moveFonts);
 };
 
