@@ -89,7 +89,7 @@ function watchFiles() {
 };
 
 // Run python server on localhost:8000
-var serverCommand = 'python -m SimpleHTTPServer';
+var serverCommand = 'python3 -m http.server 8000';
 var shell = require('gulp-shell');
 
 gulp.task('runServer', shell.task(serverCommand))
