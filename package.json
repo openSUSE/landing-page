@@ -10,7 +10,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^5.0.3",
     "gulp-less": "^4.0.1",
-    "gulp-rename": "^1.4.0",
+    "gulp-rename": "^2.0.0",
     "gulp-shell": "^0.8.0",
     "gulp-strip-debug": "^3.0.0",
     "gulp-uglify": "^3.0.2",
