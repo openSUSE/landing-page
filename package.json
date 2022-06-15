@@ -9,10 +9,10 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^5.0.3",
-    "gulp-less": "^4.0.1",
+    "gulp-less": "^5.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-shell": "^0.8.0",
-    "gulp-strip-debug": "^3.0.0",
+    "gulp-strip-debug": "^4.0.0",
     "gulp-uglify": "^3.0.2",
     "lodash.template": "^4.5.0",
     "path": "^0.12.7"
