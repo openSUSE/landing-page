@@ -18,7 +18,7 @@
   <meta name="theme-color" content="#73BA25">
 
   <!--bootstrap + opensuse theme -->
-  <link href="build/css/openSUSE.min.css" type="text/css" rel="stylesheet" />
+  <link href="build/css/openSUSE.mini.css" type="text/css" rel="stylesheet" />
   <!--external libraries CSS -->
   <link href="build/css/vendor.min.css"   type="text/css" rel="stylesheet" />
   <!--custom + external libraries JS -->
@@ -127,7 +127,20 @@
        translations don't get lost -->
   <section id="opensuse-countdown">
     <div class="opensuse-countdown">
-      <div class="opensuse-countdown__time-left hidden">
+
+        <div class="opensuse-microos__headbox" >
+            <a href="https://get.opensuse.org/microos/" class="opensuse-microos__headbox_con" target="_blank">
+                <div class="opensuse-microos__headbox_con">
+                    <span class="opensuse-countdown__version-name">MicroOS</span>
+                    <img src="build/images/countdown-microos.png" width="160" height="100" alt="openSUSE - MicroOS Logo">
+                </div>
+                <div class="opensuse-microos__headbox_text">
+                    <span lang="en">Micro Service OS</span>
+                </div>
+            </a>
+        </div>
+
+      <div class="opensuse-countdown__time-left hidden"><hr>
         <div class="opensuse-countdown__time-left__text">
           <span class="opensuse-countdown__number"></span>
           <span class="opensuse-countdown__days opensuse-countdown__days__plural" lang="en">days</span>
@@ -135,23 +148,8 @@
           <span class="opensuse-countdown__hours opensuse-countdown__hours__plural" lang="en">hours</span>
           <span class="opensuse-countdown__hours opensuse-countdown__hours__singular" lang="en">hour</span>
         </div>
-        <div class="opensuse-countdown__call-to-action">
-          <span lang="en">Micro Service OS</span>
-        </div>
       </div>
-      <div class="opensuse-countdown__released hidden">
-        <a href="https://get.opensuse.org/microos/" target="_blank">
-          <div class="opensuse-countdown__time-left__text">
-            <span class="opensuse-countdown__version-name">MicroOS</span>
-          </div>
-          <div class="opensuse-countdown__call-to-action">
-            <span lang="en">Micro Service OS</span>
-          </div>
-        </a>
-      </div>
-      <div class="opensuse-countdown__microos">
-        <img src="build/images/countdown-microos.png" alt="openSUSE - MicroOS" />
-      </div>
+
     </div>
   </section>
   <section id="opensuse-tools">
