@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2020-07-28 12:34+0000\n"
-"Last-Translator: hayyan rostami <hayyan71@yahoo.com>\n"
+"PO-Revision-Date: 2022-10-28 22:13+0000\n"
+"Last-Translator: Mohammad Rezaei Seresht <securesage@aol.com>\n"
 "Language-Team: Persian <https://l10n.opensuse.org/projects/landing-page/"
 "master/fa/>\n"
 "Language: fa\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -37,7 +37,7 @@ msgstr "مشارکت"
 
 #: index.html:61
 msgid "Conferences"
-msgstr "سخنرانی ها"
+msgstr "همایش‌ها"
 
 #: index.html:87
 msgid ""
@@ -65,13 +65,12 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"هر کاربری که علاقه به دریافت آخرین نسخه های بسته های مختلف، شامل  هسته ی "
-"لینوکس، سامبا، گیت، میزکارها، نرم افزارهای آفیس و بسیاری بسته های دیگر  "
-"دارد، به Tumbleweed علاقه مند خواهد شد.Tumbleweed کاربران قدرتمند،  توسعه "
-"دهندگان نرم افزارها و مشارکت کنندگان در openSUSE را جذب خواهد کرد. اگر شما "
-"به آخرین نسخه ی نرم افزارها و محیط توسعه ی یکپارچه و یا یک پلتفرم پایدار "
-"نزدیک به لبه ی تکنولوژی های لینوکس دارید، Tumbleweed بهترین انتخاب برای "
-"شماست."
+"هر کاربری که علاقه به دریافت آخرین نسخه های بسته های مختلف، شامل هسته ی "
+"لینوکس، سامبا، گیت، میزکارها، نرم افزارهای آفیس و بسیاری بسته های دیگر دارد، "
+"به Tumbleweed علاقه مند خواهد شد.Tumbleweed کاربران قدرتمند، توسعه دهندگان "
+"نرم افزارها و مشارکت کنندگان در openSUSE را جذب خواهد کرد. اگر شما به آخرین "
+"نسخه ی نرم افزارها و محیط توسعه ی یکپارچه و یا یک پلتفرم پایدار نزدیک به لبه "
+"ی تکنولوژی های لینوکس دارید، Tumbleweed بهترین انتخاب برای شماست."
 
 #: index.html:95
 msgid "Learn more"
@@ -99,7 +98,7 @@ msgid ""
 msgstr ""
 "کاربران جدید و کاربران باتجربه، قابل استفاده ترین و پایدار ترین سیستم عامل "
 "را با openSUSE نسخه ی با دوره انتشار عادی دریافت میکنند. با آخرین نسخه ی "
-"OpenSUSE بروزرسانی ها را دریافت و  سیستم عامل خود را مستحکم کنید. میزکار خود "
+"OpenSUSE بروزرسانی ها را دریافت و سیستم عامل خود را مستحکم کنید. میزکار خود "
 "را انتخاب کنید، سیستم خود را پیکربندی نموده و از لینوکس مورد انتخاب توسعه "
 "دهندگان، مدیران و فروشندگان نرم افزاری لذت ببرید."
 
@@ -120,13 +119,12 @@ msgid "hour"
 msgstr "ساعت"
 
 #: index.html:139
-#, fuzzy
 msgid "update to Leap 15.3"
-msgstr "برای Leap 15.2"
+msgstr "به‌روزرسانی به Leap 15.3"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
-msgstr ""
+msgstr "در حال حاضر در دسترس است"
 
 #: index.html:159
 msgid "openSUSE TOOLS"
@@ -134,13 +132,11 @@ msgstr "ابزارهای openSUSE"
 
 #: index.html:160
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
-"بهترین ابزارهای متن-باز را که توسط جامعه ی کاربران ما توسعه داده شدند را "
-"بیابید"
+msgstr "هترین ابزارهای منبع باز توسعه یافته توسط انجمن ما را کشف کنید"
 
 #: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
-msgstr "برو به آدرس"
+msgstr "برو به لینک"
 
 #: index.html:178
 msgid ""
@@ -149,7 +145,7 @@ msgid ""
 "and more."
 msgstr ""
 "ابزار ساخت ما، تمامی بسته های ما را به خوبی بسته های SUSE Linux Enterprise، "
-"آرچ دبیان، فدورا، Scientific Linux، RHEL، سنت او اس، اوبونتو و غیره میسازد."
+"آرچ، دبیان، فدورا، Scientific Linux، RHEL، CentOS، اوبونتو و غیره میسازد."
 
 #: index.html:196
 msgid ""
@@ -210,16 +206,16 @@ msgid ""
 "ambassador."
 msgstr ""
 "در openSUSE این باور وجود دارد که بهترین نتیجه حاصل از افرادیست که به صورت "
-"گروهی  کار کرده و شاد هستند. متفاوت بودن با سایر جوامع متن-باز چیزیست که "
+"گروهی کار کرده و شاد هستند. متفاوت بودن با سایر جوامع متن-باز چیزیست که "
 "openSUSE را مطلوب میکند. ما جامعه ای سنتی نیستیم و تلاش های جامعه ی کاربران "
 "ما مسیر پروژه را تعیین میکند. تلاش های جامعه ی کاربری چندین ابزار بسیار خوب "
 "برای لینوکس و یک توزیع عالی را ساخته است. با openSUSE، شما یک رای دارید و به "
 "راحتی میتوانید در پروژه مشارکت کنید. چه شما یک توسعه دهنده ی لینوکس باشید چه "
-"کاربر نهایی که به پروژه ی openSUSE علاقه مند شده باشید. به یک انجمن عضو "
-"شوید، ویکی ما را حمایت و به روز نگه دارید، باگ ها را بیابید  و آنها را گزارش "
-"دهید، مستندات را بازبینی کنید، لیستی از بسته ها و امکانات درخواتستی خود را "
-"بفرستید، وصله های نرم افزاری را بسازید و ثبت کنید، و یا با شرکت در همایش ها، "
-"یک حامی برای openSUSE شوید و به سفیر آن تبدیل شوید."
+"کاربر نهایی که به پروژه ی openSUSE علاقه مند شده باشید. به یک انجمن عضو شوید،"
+" ویکی ما را حمایت و به روز نگه دارید، باگ ها را بیابید و آنها را گزارش دهید، "
+"مستندات را بازبینی کنید، لیستی از بسته ها و امکانات درخواتستی خود را بفرستید،"
+" وصله های نرم افزاری را بسازید و ثبت کنید، و یا با شرکت در همایش ها، یک حامی "
+"برای openSUSE شوید و به سفیر آن تبدیل شوید."
 
 #: index.html:274
 msgid "Find out more about how to participate."
