@@ -55,6 +55,10 @@ So, open a new Pull Request in github, we will double check everything is fine, 
 
 # FAQ
 
+## Do not use fonts.googleapis.com
+
+These were removed from the page and will not be used due to concerns related to the fonts sending IP info back to Google's hosted server. Other providers of fonts that send IP information back to the host server will not be merged.
+
 ## Why did we need a new one?
 
 After years working without a defined target audience and rather than focusing on all software, internet and computer users, the openSUSE Board invested time and knowledge understanding the real personas behind our beloved openSUSE. They identified two "different" users: the Tumbleweed user and users wanting a long-term distribution - the Leap user.
