@@ -57,7 +57,7 @@ So, open a new Pull Request in github, we will double check everything is fine, 
 
 ## Do not use fonts.googleapis.com
 
-These were removed from the page and will not be used due to concerns related to the fonts sending IP info back to Google's hosted server. Other providers of fonts that send IP information back to the host server will not be merged.
+These were removed from the page and will not be used due to concerns related to the fonts sending IP info back to Google's hosted server. Don't import any external CDN for API or fonts, JS-Frameworks to avoid legal problems.
 
 ## Why did we need a new one?
 
