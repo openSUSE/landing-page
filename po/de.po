@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2022-12-19 21:13+0000\n"
-"Last-Translator: Christian Imhorst <datenteiler@opensuse.org>\n"
+"PO-Revision-Date: 2022-12-23 10:13+0000\n"
+"Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/landing-page/"
 "master/de/>\n"
 "Language: de\n"
@@ -127,7 +127,7 @@ msgstr "Stunde"
 
 #: index.html:139
 msgid "update to Leap 15.3"
-msgstr "aktualisieren auf Leap 15.2"
+msgstr "aktualisieren auf Leap 15.4"
 
 #: index.html:148
 msgid "IS NOW AVAILABLE"
