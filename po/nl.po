@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2021-07-12 11:10+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"PO-Revision-Date: 2023-03-08 19:14+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/landing-page/master/"
 "nl/>\n"
 "Language: nl\n"
@@ -18,20 +18,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
-"De beste keuze voor systeembeheerders, ontwikkelaars en bureaubladgebruikers."
+"De beste keuze voor systeembeheerders, ontwikkelaars en alledaagse "
+"gebruikers."
 
 #: index.html:49
 msgid "Home"
-msgstr "Hoofdpagina"
+msgstr "Voorpagina"
 
 #: index.html:52
 msgid "Tools"
-msgstr "Gereedschappen"
+msgstr "Hulpmiddelen"
 
 #: index.html:55 index.html:345
 msgid "News"
@@ -51,7 +52,7 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
-"Haal de nieuwste Linux-pakketten op met onze rollende uitgave. Snel! "
+"Beschik over de nieuwste Linux-pakketten met onze doorlopende uitgave. Snel! "
 "Geïntegreerd! Stabiel! Getest!"
 
 #: index.html:88 index.html:110
@@ -72,25 +73,25 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
-"Elke gebruiker die de nieuwste pakketten wil hebben met onder andere de "
-"Linux-kernel, SAMBA, git, bureaubladen, kantoortoepassingen en vele andere "
-"pakketten, zal Tumbleweed willen. Tumbleweed heeft aantrekkingskracht voor "
-"ervaren gebruikers, softwareontwikkelaars en zij die bijdragen aan openSUSE. "
-"Als u de nieuwste softwarestacks en een onafhankelijke ontwikkelomgeving "
-"wilt of een stabiel platform het dichtst bij het allernieuwste in Linux, dan "
-"is Tumbleweed de beste keuze voor u."
+"Een ieder die de nieuwste pakketten wil hebben met onder andere de Linux-"
+"kernel, SAMBA, git, werkomgevingen, kantoorprogramma's en vele andere "
+"pakketten, wil Tumbleweed. Tumbleweed is geschikt voor ervaren gebruikers, "
+"software-ontwikkelaars en zij die bijdragen aan openSUSE. Als u de nieuwste "
+"softwarebundels en een onafhankelijke ontwikkelomgeving wilt of een stabiel "
+"platform dat het dichtst bij het allernieuwste op Linuxgebied komt, dan is "
+"Tumbleweed de beste keuze voor u."
 
 #: index.html:95
 msgid "Learn more"
-msgstr "Lees meer"
+msgstr "Meer informatie"
 
 #: index.html:109
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
-"Haal de meest complete Linux-distributie met de laatste versie van de "
-"reguliere uitgave van openSUSE!"
+"Beschik over de meest volledige Linuxdistributie met de nieuwste versie van "
+"de reguliere uitgave van openSUSE!"
 
 #: index.html:112 index.html:117
 msgid "Install Leap"
@@ -104,12 +105,11 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
-"Nieuwe en ervaren Linux-gebruikers halen de meest bruikbare Linux-"
-"distributie en een stabiel besturingssysteem op met de reguliere uitgave van "
-"openSUSE. Ontvang updates en maak uw OS veiliger met de laatste nieuwe "
-"hoofddistributie van openSUSE. Kies uw bureaublad, configureer uw systeem en "
-"geniet van het platform van uw keuze voor Linux-ontwikkelaars, -beheerders "
-"en -softwareverkopers."
+"Nieuwe en ervaren Linuxgebruikers beschikken met Leap over de bruikbaarste "
+"en stabielste Linuxdistributie. Ontvang updates en maak uw besturingssysteem "
+"veiliger met de nieuwste hoofddistributie van openSUSE. Kies uw "
+"werkomgeving, zet uw systeem naar eigen hand en geniet van het platform van "
+"uw keuze voor Linuxontwikkelaars, -beheerders en -softwareverkopers."
 
 #: index.html:133
 msgid "days"
@@ -145,7 +145,7 @@ msgstr "Ontdek de beste openbronhulpmiddelen, ontwikkeld door onze gemeenschap"
 
 #: index.html:174 index.html:192 index.html:210 index.html:228
 msgid "Go to link"
-msgstr "Ga naar koppeling"
+msgstr "Ga naar link"
 
 #: index.html:178
 msgid ""
@@ -153,9 +153,9 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
-"Ons bouwhulpmiddel bouwt al onze pakketten, zowel die voor SUSE Linux "
-"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS als Ubuntu "
-"en meer."
+"Ons bouwhulpmiddel bouwt al onze pakketten, maar ook die voor SUSE Linux "
+"Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu en "
+"andere distributies."
 
 #: index.html:196
 msgid ""
@@ -170,8 +170,8 @@ msgstr ""
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr ""
-"Het beste/enige veelomvattende hulpmiddel voor configuratie & installatie "
-"van een Linux-systeem."
+"Het beste/enige allesomvattende hulpmiddel voor het installeren en instellen "
+"van een Linuxsysteem."
 
 #: index.html:232
 msgid ""
@@ -179,9 +179,9 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
-"Maak Linux-images voor gebruik op echte hardware, virtualisatie en nu zelfs "
-"containersystemen zoals Docker. Kiwi is de motor die de images van de "
-"openSUSE uitgaven bouwt."
+"Maak Linux-schijfkopieën voor gebruik op echte hardware, virtualisatie en "
+"zelfs containersystemen als Docker. Kiwi is de motor die de openSUSE-"
+"schijfkopieën bouwt."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -190,7 +190,7 @@ msgstr "BIJDRAGEN AAN OPENSUSE"
 #: index.html:260
 msgid "Be part of our community contributing with any of the following:"
 msgstr ""
-"Word deel van onze gemeenschap door bij te dragen met iets van het volgende:"
+"Word lid van onze gemeenschap door bij te dragen met iets van het volgende:"
 
 #: index.html:267
 msgid "Code"
@@ -279,7 +279,7 @@ msgstr ""
 
 #: index.html:294 index.html:297
 msgid "openSUSE Design System"
-msgstr "openSUSE ontwerpsysteem"
+msgstr "openSUSE-ontwerpsysteem"
 
 #: index.html:295
 msgid ""
@@ -293,11 +293,11 @@ msgstr ""
 
 #: index.html:308
 msgid "Meet up with openSUSE at conferences."
-msgstr "Ontmoet openSUSE op conferenties."
+msgstr "Ontmoet openSUSE-ontwikkelaars op conferenties."
 
 #: index.html:309
 msgid "View upcoming conferences"
-msgstr "Bekijk komende conferenties"
+msgstr "Bekijk aankomende conferenties"
 
 #: index.html:321
 msgid "Get software"
@@ -317,7 +317,7 @@ msgstr "Sociaal netwerk"
 
 #: index.html:350
 msgid "Forums"
-msgstr "Forums"
+msgstr "Fora"
 
 #: index.html:355
 msgid "Mailing Lists"
@@ -349,7 +349,7 @@ msgstr "Alle rechten voorbehouden."
 
 #: index.html:445
 msgid "Imprint."
-msgstr "Indruk."
+msgstr "Colofon."
 
 #: index.html:445
 msgid "https://en.opensuse.org/Imprint"
@@ -357,7 +357,7 @@ msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:465
 msgid "Back to main page"
-msgstr "Terug naar de hoofdpagina"
+msgstr "Terug naar voorpagina"
 
 #~ msgid "openSUSE Leap 15.2"
 #~ msgstr "voor Leap 15.2"
