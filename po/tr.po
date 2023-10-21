@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-23 14:24:47 +0200\n"
-"PO-Revision-Date: 2022-04-06 17:12+0000\n"
-"Last-Translator: Murat Servan Kahraman <muratservan@outlook.com>\n"
+"PO-Revision-Date: 2023-10-21 07:15+0000\n"
+"Last-Translator: yakup <mtopac2018@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/landing-page/"
 "master/tr/>\n"
 "Language: tr\n"
@@ -17,6 +17,8 @@ msgstr ""
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
 msgstr ""
+"Yapımcıların sistem yöneticileri, geliştiriciler ve masaüstü kullanıcıları "
+"için tercihi."
 
 #: index.html:49
 msgid "Home"
@@ -43,6 +45,8 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Sürekli sürümümüzle en yeni Linux paketlerini edinin. Hızlı! Bütünleşmiş! "
+"Stabilize! Test edilmiş!"
 
 #: index.html:88 index.html:110
 msgid "More information"
@@ -62,6 +66,13 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Linux çekirdeği, SAMBA, git, masaüstü bilgisayarlar, ofis uygulamaları ve "
+"diğer birçok paketi içeren ancak bunlarla sınırlı olmayan en yeni paketlere "
+"sahip olmak isteyen her kullanıcı, Tumbleweed'i isteyecektir. Tumbleweed "
+"Uzman Kullanıcılara, Yazılım Geliştiricilere ve openSUSE Katkıda Bulunanlara "
+"hitap ediyor. En yeni yazılım yığınlarına ve Entegre Geliştirme Ortamına "
+"ihtiyacınız varsa veya son teknoloji Linux'a en yakın istikrarlı bir "
+"platforma ihtiyacınız varsa, Tumbleweed sizin için en iyi seçimdir."
 
 #: index.html:95
 msgid "Learn more"
@@ -72,6 +83,8 @@ msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
 msgstr ""
+"OpenSUSE'nin en son düzenli-sürüm sürümüyle en eksiksiz Linux dağıtımını "
+"edinin!"
 
 #: index.html:112 index.html:117
 msgid "Install Leap"
@@ -85,22 +98,28 @@ msgid ""
 "desktop, configure your system and enjoy the platform of choice for Linux "
 "developers, administrators and software vendors."
 msgstr ""
+"Yeni ve deneyimli Linux kullanıcıları, openSUSE'nin düzenli sürümüyle en "
+"kullanışlı Linux dağıtımına ve stabil işletim sistemine sahip oluyor. "
+"OpenSUSE'nin en yeni ana dağıtımıyla güncellemeleri alın ve işletim "
+"sisteminizi güçlendirin. Masaüstünüzü seçin, sisteminizi yapılandırın ve "
+"Linux geliştiricileri, yöneticileri ve yazılım satıcılarının tercih ettiği "
+"platformun keyfini çıkarın."
 
 #: index.html:133
 msgid "days"
-msgstr ""
+msgstr "gün"
 
 #: index.html:134
 msgid "day"
-msgstr ""
+msgstr "gün"
 
 #: index.html:135
 msgid "hours"
-msgstr ""
+msgstr "saat"
 
 #: index.html:136
 msgid "hour"
-msgstr ""
+msgstr "saat"
 
 #: index.html:139
 msgid "for Leap 15.2"
@@ -129,17 +148,22 @@ msgid ""
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
 "and more."
 msgstr ""
+"Tüm paketlerimizin yanı sıra SUSE Linux Enterprise, Arch, Debian, Fedora, "
+"Scientific Linux, RHEL, CentOS, Ubuntu ve daha fazlası için paketlerimizi "
+"oluşturan derleme aracımız."
 
 #: index.html:196
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
+"Bir kullanıcının yaptığı gibi ekranı okuyabilen ve test ana bilgisayarını "
+"kontrol edebilen *herhangi bir* işletim sistemi için otomatik test."
 
 #: index.html:214
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr ""
+msgstr "En iyi/tek kapsamlı Linux sistem konfigürasyonu ve kurulum aracı."
 
 #: index.html:232
 msgid ""
@@ -147,6 +171,9 @@ msgid ""
 "even container systems like Docker. Kiwi is the engine that builds the "
 "openSUSE release images."
 msgstr ""
+"Gerçek donanım, sanallaştırma ve hatta artık Docker gibi kapsayıcı sistemler "
+"üzerinde dağıtım için Linux görüntüleri oluşturun. Kiwi, openSUSE sürüm "
+"görüntülerini oluşturan motordur."
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
@@ -166,7 +193,7 @@ msgstr "Daha fazlasını öğrenin"
 
 #: index.html:272
 msgid "Contribute Code"
-msgstr ""
+msgstr "Kodlanmasına Katkıda Bulunun"
 
 #: index.html:273
 msgid ""
@@ -183,14 +210,26 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"openSUSE, en iyi sonuçların insanların işbirliği yapmasından ve "
+"eğlenmesinden geldiğine inanıyor. OpenSUSE'yi cazip kılan şey, diğer açık "
+"kaynak topluluklarından farklı olmasıdır. Biz geleneksel bir topluluk "
+"değiliz ve topluluğumuzun çabaları projenin yolunu belirliyor. Topluluğun "
+"çabaları Linux için birçok harika araç ve harika bir dağıtım yarattı. "
+"openSUSE ile söz sahibi olursunuz ve projeye kolayca katkıda "
+"bulunabilirsiniz. İster deneyimli bir Linux geliştiricisi olun, ister son "
+"kullanıcı olun, openSUSE projesine dahil olun. Bir foruma katılın, wiki'mizi "
+"güncel tutun ve koruyun, hataları bulun ve bildirin, belgeleri inceleyin, "
+"yeni paketler ve özellikler için istek listenizi gönderin, yamalar oluşturup "
+"gönderin veya etkinliklere katılarak ve OpenSUSE'nin savunucusu ve elçisi "
+"olun."
 
 #: index.html:274
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "Nasıl katılacağınız hakkında daha fazla bilgi edinin."
 
 #: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:282
 msgid "Hardware"
@@ -198,7 +237,7 @@ msgstr "Donanım"
 
 #: index.html:287
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "Donanıma Katkıda Bulunun"
 
 #: index.html:288
 msgid ""
@@ -214,10 +253,22 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"openSUSE projesini desteklemek için yapılan bağışlar her zaman memnuniyetle "
+"karşılanır. Aslında, diğer birçok açık kaynaklı proje tarafından da "
+"kullanılan Open Build Service, AMD'nin cömert sunucu bağışı yoluyla proje "
+"topluluğunun kullanımına sunuldu. İnsanların ve projelerin büyümesine, "
+"gelişmesine, yenilik yapmasına ve ilerlemesine olanak tanıyan şey bu tür "
+"bağışlardır. Proje para istemiyor; açık kaynak topluluğunun uzmanlığını "
+"kullanarak Linux geliştirmeyi güçlendirmek, ücretsiz, açık kaynak "
+"ekosistemine openSUSE araçları sağlamak ve geliştiricilere, sistem "
+"yöneticilerine ve paketleyicilere geri vermek için donanım bağışı istiyor. "
+"Donanım, openSUSE topluluğuna yardımcı olur! Donanım açık kaynak topluluğuna "
+"yardımcı olur! Ve Donanım Linux'un geliştirilmesine yardımcı olur. OpenSUSE "
+"projesine nasıl donanım bağışlayabileceğinizi öğrenmek için e-posta gönderin"
 
 #: index.html:294 index.html:296
 msgid "openSUSE Design System"
-msgstr ""
+msgstr "openSUSE Tasarım Sistemi"
 
 #: index.html:295
 msgid ""
@@ -225,6 +276,9 @@ msgid ""
 "and features using the openSUSE colors, writing guides, and more. Check it "
 "out:"
 msgstr ""
+"OpenSUSE renklerini, yazma kılavuzlarını ve daha fazlasını kullanarak "
+"tutarlı web araçlarına ve özelliklerine katkıda bulunmanıza yardımcı olmak "
+"için bir Tasarım Sistemi oluşturduk. Buna bir bak:"
 
 #: index.html:303
 msgid "Meet up with openSUSE at conferences."
@@ -244,7 +298,7 @@ msgstr "Viki"
 
 #: index.html:326
 msgid "Build Service"
-msgstr ""
+msgstr "Hizmet Oluşturma"
 
 #: index.html:335
 msgid "Social Network"
@@ -284,7 +338,7 @@ msgstr "Her Hakkı Saklıdır."
 
 #: index.html:441
 msgid "Imprint."
-msgstr ""
+msgstr "Baskı."
 
 #: index.html:441
 msgid "https://en.opensuse.org/Imprint"
