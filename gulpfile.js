@@ -8,7 +8,8 @@ var nodeModules = 'node_modules/';
 
 // Concatenate & Minify JS
 var concat = require('gulp-concat');
-var uglify = require('gulp-uglify');
+//var uglify = require('gulp-uglify');
+var uglify = require('gulp-uglify-es').default;
 var rename = require('gulp-rename');
 var stripDebug = require('gulp-strip-debug');
 
@@ -100,6 +101,7 @@ var shell = require('gulp-shell');
 
 gulp.task('runServer', shell.task(serverCommand))
 var runServer = gulp.task('runServer');
+
 
 // Export tasks
 exports.scripts = scripts
