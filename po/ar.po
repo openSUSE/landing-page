@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
+"POT-Creation-Date: 2024-06-11 15:40:59 +0200\n"
 "PO-Revision-Date: 2020-07-14 12:36+0000\n"
 "Last-Translator: Douglas DeMaio <ddemaio@novell.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/landing-page/"
@@ -27,7 +27,7 @@ msgstr "الرئيسية"
 msgid "Tools"
 msgstr "أدوات"
 
-#: index.html:55 index.html:345
+#: index.html:55 index.html:343
 msgid "News"
 msgstr "أخبار"
 
@@ -100,44 +100,40 @@ msgstr ""
 "المكتب، اضبط إعدادات نظامك واستمتع باستخدام المنصة التي يختارها مطورو لينكس، "
 "ومديرو النظم، ومصنعو البرمجيات."
 
-#: index.html:133
+#: index.html:138
+#, fuzzy
+msgid "available in"
+msgstr "متاحة الآن"
+
+#: index.html:146
 msgid "days"
 msgstr "أيام"
 
-#: index.html:134
+#: index.html:147
 msgid "day"
 msgstr "يوم"
 
-#: index.html:135
+#: index.html:148
 msgid "hours"
 msgstr "ساعات"
 
-#: index.html:136
+#: index.html:149
 msgid "hour"
 msgstr "ساعة"
 
-#: index.html:139
-#, fuzzy
-msgid "update to Leap 15.3"
-msgstr "لأوبن سوزي  Leap 15.2"
-
-#: index.html:148
-msgid "IS NOW AVAILABLE"
-msgstr ""
-
-#: index.html:159
+#: index.html:157
 msgid "openSUSE TOOLS"
 msgstr "أدوات أوبن سوزي"
 
-#: index.html:160
+#: index.html:158
 msgid "Discover the best open-source tools developed by our community"
 msgstr "اكتشف أفضل الأدوات مفتوحة المصدر التي يطورها مجتمعنا"
 
-#: index.html:174 index.html:192 index.html:210 index.html:228
+#: index.html:172 index.html:190 index.html:208 index.html:226
 msgid "Go to link"
 msgstr "اذهب إلى الرابط"
 
-#: index.html:178
+#: index.html:176
 msgid ""
 "Our build tool, building all of our packages as well as ones for SUSE Linux "
 "Enterprise, Arch, Debian, Fedora, Scientific Linux, RHEL, CentOS, Ubuntu, "
@@ -147,7 +143,7 @@ msgstr ""
 "Enterprise، وArch، وDebian، وFedora، وScientific Linux، وRHEL، وCentOS، "
 "وUbuntu وغيرها."
 
-#: index.html:196
+#: index.html:194
 msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
@@ -155,12 +151,12 @@ msgstr ""
 "اختبارات مؤتمتة *لأي* نظام تشغيل، يمكنها قراءة الشاشة والتحكم بمضيف الاختبار "
 "كما لو كان يتحكم به المستخدمون."
 
-#: index.html:214
+#: index.html:212
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
 msgstr "الأداة المثلى والشاملة الوحيدة لإعداد نظام لينكس وتثبيته."
 
-#: index.html:232
+#: index.html:230
 #, fuzzy
 msgid ""
 "Create Linux images for deployment on real hardware, virtualisation, and now "
@@ -171,27 +167,27 @@ msgstr ""
 "النشر على نظم الاحتواء مثل Docker. كيوي هو المحرك الذي يعتمد SUSE Studio "
 "عليه."
 
-#: index.html:259
+#: index.html:257
 msgid "CONTRIBUTE TO OPENSUSE"
 msgstr "ساهم في أوبن سوزي"
 
-#: index.html:260
+#: index.html:258
 msgid "Be part of our community contributing with any of the following:"
 msgstr "كن جزءاً من مجتمعنا وساهم في أي من المجالات التالية:"
 
-#: index.html:267
+#: index.html:265
 msgid "Code"
 msgstr "كود"
 
-#: index.html:268 index.html:283
+#: index.html:266 index.html:281
 msgid "Find out more"
 msgstr "تعرف على المزيد"
 
-#: index.html:272
+#: index.html:270
 msgid "Contribute Code"
 msgstr "ساهم بالكود"
 
-#: index.html:273
+#: index.html:271
 msgid ""
 "openSUSE believes the best results come from people collaborating and having "
 "fun. Being different from other open-source communities is what makes "
@@ -217,23 +213,23 @@ msgstr ""
 "ترقيعاتك، أو ساهم في الترويج لمشروع أوبن سوزي عبر حضور المناسبات والعمل "
 "كسفير."
 
-#: index.html:274
+#: index.html:272
 msgid "Find out more about how to participate."
 msgstr "تعرف أكثر على طرق المساهمة."
 
-#: index.html:274
+#: index.html:272
 msgid "https://en.opensuse.org/Portal:How_to_participate"
 msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
-#: index.html:282
+#: index.html:280
 msgid "Hardware"
 msgstr "عتاد"
 
-#: index.html:287
+#: index.html:285
 msgid "Contribute Hardware"
 msgstr "ساهم بالعتاد"
 
-#: index.html:288
+#: index.html:286
 msgid ""
 "Donations to support the openSUSE project are always welcomed. In fact, Open "
 "Build Service, which is used by several other open-source projects, was made "
@@ -258,90 +254,95 @@ msgstr ""
 "في تطوير لينكس. للتعرف أكثر على طريقة التبرع بالعتاد لمشروع أوبن سوزي. "
 "راسلنا على"
 
-#: index.html:294 index.html:297
-msgid "openSUSE Design System"
+#: index.html:292 index.html:295
+msgid "openSUSE Communication Channels"
 msgstr ""
 
-#: index.html:295
-msgid ""
-"We've created a Design System to help you contribute consistent web tools "
-"and features using the openSUSE colors, writing guides, and more. Check it "
-"out:"
+#: index.html:293
+msgid "Get in touch with the community:"
 msgstr ""
 
-#: index.html:308
+#: index.html:306
 msgid "Meet up with openSUSE at conferences."
 msgstr "قابل أوبن سوزي في أحد المؤتمرات."
 
-#: index.html:309
+#: index.html:307
 msgid "View upcoming conferences"
 msgstr "استعرض المؤتمرات القادمة"
 
-#: index.html:321
+#: index.html:319
 msgid "Get software"
 msgstr "تنزيل برمجيات"
 
-#: index.html:326
+#: index.html:324
 msgid "Wiki"
 msgstr "ويكي"
 
-#: index.html:331
+#: index.html:329
+msgid "Documentation"
+msgstr ""
+
+#: index.html:334
 msgid "Build Service"
 msgstr "خدمة البناء"
 
-#: index.html:340
-msgid "Social Network"
-msgstr "الشبكة الاجتماعية"
-
-#: index.html:350
+#: index.html:348
 msgid "Forums"
 msgstr "المنتديات"
 
-#: index.html:355
+#: index.html:353
 msgid "Mailing Lists"
 msgstr ""
 
-#: index.html:364
+#: index.html:362
 msgid "Shop"
 msgstr "تسوق"
 
-#: index.html:369
+#: index.html:367
 msgid "Blogs"
 msgstr "المدونات"
 
-#: index.html:374
+#: index.html:372
 msgid "Press"
 msgstr "صحافة"
 
-#: index.html:396
+#: index.html:376
+msgid "Logo/Trademark"
+msgstr ""
+
+#: index.html:404
 msgid "Sponsored by:"
 msgstr "الداعمون:"
 
-#: index.html:402
+#: index.html:410
 msgid "Change language"
 msgstr "تغيير اللغة"
 
-#: index.html:445
+#: index.html:456
 msgid "All Rights Reserved."
 msgstr "جميع الحقوق محفوظة."
 
-#: index.html:445
+#: index.html:456
 msgid "Imprint."
 msgstr "معلومات الناشر."
 
-#: index.html:445
+#: index.html:456
 msgid "https://en.opensuse.org/Imprint"
 msgstr "https://en.opensuse.org/Imprint"
 
-#: index.html:465
+#: index.html:476
 msgid "Back to main page"
 msgstr "عودة للصفحة الرئيسية"
 
-#~ msgid "openSUSE Leap 15.2"
+#, fuzzy
+#~ msgid "update to Leap 15.3"
 #~ msgstr "لأوبن سوزي  Leap 15.2"
 
-#~ msgid "is now available"
-#~ msgstr "متاحة الآن"
+#~ msgid "Social Network"
+#~ msgstr "الشبكة الاجتماعية"
+
+#~ msgid "openSUSE Leap 15.2"
+#~ msgstr "لأوبن سوزي  Leap 15.2"
 
 #, fuzzy
 #~ msgid "openSUSE Conference 2018"
