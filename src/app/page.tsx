@@ -36,8 +36,8 @@ export default function Home() {
       </div>
       <div className="container">
         <div className={styles.propositions}>
-          <Proposition imgName="drive" altText="Installer" title="Installable without a manual">
-            Our wiki and forums are there when you need them.
+          <Proposition imgName="book" altText="Manual" title="Reading the manual is optional">
+            Our guided installer will kickstart your system for you.
           </Proposition>
           <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
             Easy access to multimedia codecs and NVIDIA drivers.
