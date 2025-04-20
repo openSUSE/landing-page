@@ -1,0 +1,41 @@
+@use '@/app/colors';
+@use '@/app/breakpoints' as *;
+@use 'sass:color';
+
+.footerHolder {
+    background: color.adjust(colors.$background, $lightness: -3%);
+    padding: 1rem 0;
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+
+        .links {
+            list-style-type: none;
+            column-gap: 2rem;
+            font-size: 0.9rem;
+            color: color.adjust(colors.$foreground, $lightness: -5%);
+
+            @include mediumAndUp {
+                column-count: 2;
+            }
+
+            @include largeAndUp {
+                column-count: 3;
+            }
+
+            li {
+                margin: 0.25rem 0;
+
+                a {
+
+                    &:hover {
+                        color: colors.$foreground;
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+}
