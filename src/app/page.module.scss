@@ -1,4 +1,5 @@
 @use '@/app/breakpoints' as *;
+@use '@/app/colors';
 @use 'sass:color';
 
 $foreground: #ccedea;
@@ -38,7 +39,7 @@ $foreground: #ccedea;
   }
 
   .logo {
-    background: var(--additional1-tint4);
+    background: colors.$additional1-tint4;
     box-shadow: 1px 2px 5px #00000055;
     padding: 0.5rem;
     border-radius: 100%;
@@ -96,12 +97,16 @@ $foreground: #ccedea;
 
 
     .image {
-      background: var(--foreground);
+      background: color.adjust(colors.$background, $lightness: 3%);
       padding: 0.5rem;
       border-radius: 10px;
       display: flex;
       align-items: center;
       justify-content: center;
+
+      img {
+        filter: invert(98%) sepia(65%) saturate(267%) hue-rotate(93deg) brightness(97%) contrast(91%);
+      }
     }
   }
 }

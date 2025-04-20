@@ -1,10 +1,5 @@
 @use '@/app/breakpoints';
-
-:root {
-  --background: #0C322C;
-  --foreground: #ccedea;
-  --additional1-tint4: #bfe8e1;
-}
+@use '@/app/colors';
 
 html {
   color-scheme: dark;
@@ -17,8 +12,8 @@ body {
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
+  color: colors.$foreground;
+  background: colors.$background;
   font-family: var(--font-poppins);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
