@@ -52,7 +52,7 @@ export default function Home() {
             Corporate grants and volunteer work sustain our operations.
           </Proposition>
           <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in your favorite flavor">
-            Rolling release? Point release? Immutable distro? It's all here.
+            Rolling release? Immutable distro? We've got you covered.
           </Proposition>
         </div>
       </div>
