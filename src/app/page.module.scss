@@ -19,7 +19,8 @@ $foreground: #ccedea;
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 2rem;
+  justify-content: space-between;
+  gap: 4rem;
   height: 500px;
 
   h1 {
@@ -45,6 +46,16 @@ $foreground: #ccedea;
     align-items: center;
     justify-content: center;
     position: relative;
+  }
+
+  .screenshot {
+    max-width: 400px;
+
+    img {
+      width: 600px;
+      overflow-x: visible;
+      box-shadow: 0px 0px 5px 5px #00000033;
+    }
   }
 }
 

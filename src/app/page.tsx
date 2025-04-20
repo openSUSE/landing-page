@@ -28,8 +28,8 @@ export default function Home() {
               </div>
               <h1>Free your desktop</h1>
             </div>
-            <div style={{ background: "white" }}>
-              Test
+            <div className={styles.screenshot}>
+              <img src="/img/screenshots/kde.png" alt="Screenshot" />
             </div>
           </div>
         </div>
