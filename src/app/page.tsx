@@ -1,95 +1,51 @@
 import Image from "next/image";
+import React, { ReactNode } from 'react';
 import styles from "./page.module.scss";
+
+function Proposition({ imgName, altText, title, children }: {
+  imgName: string, altText: string, title: string, children: ReactNode
+}) {
+  return <div className={styles.proposition}>
+    <div className={styles.image}>
+      <Image src={`/img/monochrome/${imgName}.svg`} width={48} height={48} alt={altText} />
+    </div>
+    <div className={styles.text}>
+      <h3>{title}</h3>
+      <div className={styles.description}>{children}</div>
+    </div>
+  </div>;
+}
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing <code>src/app/page.tsx</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
-
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
+    <div className="page">
+      <div className="container">
+        <div className={styles.intro}>
+          <h1>Freedom for your desktop</h1>
+          <div style={{ background: "white" }}>
+            Test
+          </div>
         </div>
-      </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </div>
+      <div className="container">
+        <div className={styles.propositions}>
+          <Proposition imgName="drive" altText="Installer" title="Installable without a manual">
+            Our wiki and forums are there when you need them.
+          </Proposition>
+          <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
+            Easy access to multimedia codecs and NVIDIA drivers.
+          </Proposition>
+          <Proposition imgName="relieved" altText="Relaxed person" title="Free, with no strings attached">
+            Relax. There are no upsells, ads or mandatory accounts.
+          </Proposition>
+          <Proposition imgName="controlPanel" altText="Hammer and wrench" title="GUI- and TUI-based configuration tools">
+            Our sysadmin suite YaST also works on the command line.
+          </Proposition>
+          <Proposition imgName="company" altText="Office building" title="Backed by tech companies">
+            Industry funding sustains our development.
+          </Proposition>
+        </div>
+      </div>
+    </div >
   );
 }
