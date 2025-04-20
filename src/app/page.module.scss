@@ -110,3 +110,54 @@ $foreground: #ccedea;
     }
   }
 }
+
+.builtins {
+  background: color.adjust(colors.$background, $lightness: 5%);
+  border-radius: 10px;
+  padding: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  @include xlAndUp {
+    padding: 2rem;
+    gap: 3rem;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .builtinsPrimary {
+    @include xlAndUp {
+      flex: 1 1 4rem;
+    }
+
+    h3 {
+      font-size: 2.5rem;
+      line-height: 100%;
+    }
+  }
+
+  .builtinsSecondary {
+    font-size: 1.2rem;
+    column-gap: 2rem;
+    padding-inline-start: 20px;
+
+    @include xlAndUp {
+      flex: 3 3 12rem;
+    }
+
+    @include xxlAndUp {
+      column-count: 2;
+    }
+
+    li {
+      break-inside: avoid;
+
+      &:nth-child(2n) {
+        opacity: 0.8;
+      }
+    }
+
+  }
+}

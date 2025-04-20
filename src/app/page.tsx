@@ -55,6 +55,19 @@ export default function Home() {
             Rolling release? Immutable distro? We've got you covered.
           </Proposition>
         </div>
+        <div className={styles.builtins}>
+          <div className={styles.builtinsPrimary}>
+            <h3>Supported by the installer</h3>
+          </div>
+          <ul className={styles.builtinsSecondary}>
+            <li>KDE, GNOME and XFCE</li>
+            <li>Desktop and server configurations</li>
+            <li>Disk encryption with LUKS2</li>
+            <li>Btrfs with snapshots</li>
+            <li>LVM partitioning</li>
+            <li>Secure Boot</li>
+          </ul>
+        </div>
       </div>
     </div >
   );
