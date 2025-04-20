@@ -99,7 +99,7 @@ $foreground: #ccedea;
     .image {
       background: color.adjust(colors.$background, $lightness: 3%);
       padding: 0.5rem;
-      box-shadow: inset -3px 3px 20px -10px #ffffff55;
+      box-shadow: inset -10px 10px 20px -20px #ffffff55;
       border-radius: 10px;
       display: flex;
       align-items: center;
