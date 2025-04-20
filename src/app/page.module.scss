@@ -18,6 +18,10 @@
   column-gap: 6rem;
   row-gap: 2rem;
 
+  @include largeAndUp {
+    row-gap: 4rem;
+  }
+
   .proposition {
     flex: 1 1 0;
     min-width: 12rem;
