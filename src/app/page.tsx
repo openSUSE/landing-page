@@ -29,7 +29,7 @@ export default function Home() {
               <h1>Free your desktop</h1>
             </div>
             <div className={styles.screenshot}>
-              <img src="/img/screenshots/kde-light.png" alt="Screenshot" />
+              <Image width={600} height={375} src="/img/screenshots/kde-light.png" alt="Screenshot" unoptimized />
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function Home() {
             Corporate grants and volunteer work sustain our operations.
           </Proposition>
           <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in several different flavors">
-            Rolling release? Immutable distro? We've got you covered.
+            Rolling release? Immutable distro? We&apos;ve got you covered.
           </Proposition>
         </div>
         <div className={styles.builtins}>
