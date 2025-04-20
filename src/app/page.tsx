@@ -28,9 +28,6 @@ export default function Home() {
               </div>
               <h1>Free your desktop</h1>
             </div>
-            <div className={styles.screenshot}>
-              <Image width={600} height={375} src="/img/screenshots/kde-light.png" alt="Screenshot" unoptimized />
-            </div>
           </div>
         </div>
       </div>
