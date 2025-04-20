@@ -15,7 +15,7 @@ $foreground: #ccedea;
 }
 
 .intro {
-  padding: 2rem 0;
+  padding: 1rem 0;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -71,6 +71,7 @@ $foreground: #ccedea;
   flex-wrap: wrap;
   column-gap: 6rem;
   row-gap: 2rem;
+  padding: 3rem 0;
 
   @include largeAndUp {
     row-gap: 4rem;
