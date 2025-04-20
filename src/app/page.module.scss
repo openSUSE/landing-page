@@ -7,7 +7,7 @@ $foreground: #ccedea;
   --_gradient-blend-mode: normal;
   --_gradient-blur: 20px;
 
-  background: radial-gradient(at 64% 27%, #0C7A6E 0px, transparent 50%), radial-gradient(at 71% 60%, #126C8C 0px, transparent 50%), radial-gradient(at 11% 41%, #28B557 0px, transparent 50%) #0C322C;
+  background: radial-gradient(at 64% 27%, #0C7A6E 0px, transparent 50%), radial-gradient(at 71% 60%, #264C5C 0px, transparent 40%), radial-gradient(at 11% 41%, #45875B 0px, transparent 50%) #0C322C;
   ;
   mix-blend-mode: var(--_gradient-blend-mode);
   backdrop-filter: blur(var(--_gradient-blur)) contrast(100%) brightness(100%);
@@ -23,13 +23,9 @@ $foreground: #ccedea;
   height: 500px;
 
   h1 {
+    text-shadow: 1px 2px 5px #00000055;
     font-size: 3.25rem;
-    color: transparent;
-    background: linear-gradient(to top, color.change($foreground, $saturation: 30%, $lightness: 40%), $foreground 50%);
-    background-clip: text;
     line-height: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
   }
 
   .introPrimary {
@@ -42,28 +38,13 @@ $foreground: #ccedea;
 
   .logo {
     background: var(--additional1-tint4);
+    box-shadow: 1px 2px 5px #00000055;
     padding: 0.5rem;
     border-radius: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-
-    &:after {
-      // background: linear-gradient(to top, #00000033, #ffffff33);
-      background: linear-gradient(to top,
-          color.change($foreground, $saturation: 30%, $lightness: 40%, $alpha: 0.7) 0%,
-          color.change($foreground, $lightness: 30%, $alpha: 0.1) 30%,
-          color.change($foreground, $lightness: 80%, $alpha: 0.1) 80%,
-          color.change($foreground, $alpha: 0.8) 100%);
-      border-radius: 100%;
-      content: '';
-      position: absolute;
-      top: 0%;
-      left: 0%;
-      width: 100%;
-      height: 100%;
-    }
   }
 }
 
