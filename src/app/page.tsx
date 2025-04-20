@@ -19,11 +19,18 @@ function Proposition({ imgName, altText, title, children }: {
 export default function Home() {
   return (
     <div className="page">
-      <div className="container">
-        <div className={styles.intro}>
-          <h1>Freedom for your desktop</h1>
-          <div style={{ background: "white" }}>
-            Test
+      <div className={styles.introHolder}>
+        <div className="container">
+          <div className={styles.intro}>
+            <div className={styles.introPrimary}>
+              <div className={styles.logo}>
+                <Image width={64} height={64} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
+              </div>
+              <h1>Free your desktop</h1>
+            </div>
+            <div style={{ background: "white" }}>
+              Test
+            </div>
           </div>
         </div>
       </div>
