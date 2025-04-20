@@ -1,3 +1,5 @@
+@use '@/app/breakpoints' as *;
+
 .intro {
   margin: 2rem 0;
   display: flex;
@@ -19,13 +21,16 @@
   .proposition {
     flex: 1 1 0;
     min-width: 12rem;
-    max-width: 16rem;
     display: flex;
     flex-direction: column;
     gap: 1rem;
     align-items: flex-start;
     justify-content: flex-start;
     line-height: 1.25rem;
+
+    @include largeAndUp {
+      width: 16rem;
+    }
 
     .text {
       display: flex;
