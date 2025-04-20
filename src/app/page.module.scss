@@ -158,7 +158,7 @@ $foreground: #ccedea;
       break-inside: avoid;
 
       &:nth-child(2n) {
-        opacity: 0.8;
+        color: color.adjust(colors.$foreground, $lightness: -7%, $alpha: -0.1);
       }
     }
   }
