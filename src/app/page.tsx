@@ -36,8 +36,8 @@ export default function Home() {
       </div>
       <div className="container">
         <div className={styles.propositions}>
-          <Proposition imgName="book" altText="Manual" title="Reading the manual is completely optional">
-            Our guided installer will kickstart your system for you.
+          <Proposition imgName="drive" altText="Disk" title="Lean back while the installer does the work">
+            Deep dives into wiki articles and forums are optional.
           </Proposition>
           <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
             Easy access to multimedia codecs and NVIDIA drivers.
@@ -51,7 +51,7 @@ export default function Home() {
           <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
             Corporate grants and volunteer work sustain our operations.
           </Proposition>
-          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available for download in many flavors">
+          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in several different flavors">
             Rolling release? Immutable distro? We've got you covered.
           </Proposition>
         </div>
@@ -62,9 +62,9 @@ export default function Home() {
           <ul className={styles.builtinsSecondary}>
             <li>KDE, GNOME and XFCE</li>
             <li>Desktop and server configurations</li>
-            <li>Disk encryption with LUKS2</li>
+            <li>Full disk encryption</li>
             <li>Btrfs with snapshots</li>
-            <li>LVM partitioning</li>
+            <li>LVM partitions</li>
             <li>Secure Boot</li>
           </ul>
         </div>
