@@ -36,13 +36,13 @@ export default function Home() {
       </div>
       <div className="container">
         <div className={styles.propositions}>
-          <Proposition imgName="book" altText="Manual" title="Reading the manual is optional">
+          <Proposition imgName="book" altText="Manual" title="Reading the manual is completely optional">
             Our guided installer will kickstart your system for you.
           </Proposition>
           <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
             Easy access to multimedia codecs and NVIDIA drivers.
           </Proposition>
-          <Proposition imgName="relieved" altText="Relaxed person" title="Free, with no strings attached">
+          <Proposition imgName="relieved" altText="Relaxed person" title="Free to use, with no strings attached">
             Relax. There are no upsells, ads or mandatory accounts.
           </Proposition>
           <Proposition imgName="controlPanel" altText="Hammer and wrench" title="GUI- and TUI-based configuration tools">
@@ -51,7 +51,7 @@ export default function Home() {
           <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
             Corporate grants and volunteer work sustain our operations.
           </Proposition>
-          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in your favorite flavor">
+          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available for download in many flavors">
             Rolling release? Immutable distro? We've got you covered.
           </Proposition>
         </div>
