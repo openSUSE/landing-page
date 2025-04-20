@@ -48,8 +48,11 @@ export default function Home() {
           <Proposition imgName="controlPanel" altText="Hammer and wrench" title="GUI- and TUI-based configuration tools">
             Our sysadmin suite YaST also works on the command line.
           </Proposition>
-          <Proposition imgName="company" altText="Office building" title="Backed by tech companies">
-            Industry funding sustains our development.
+          <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
+            Corporate grants and volunteer work sustain our operations.
+          </Proposition>
+          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in your favorite flavor">
+            Rolling release? Point release? Immutable distro? It's all here.
           </Proposition>
         </div>
       </div>
