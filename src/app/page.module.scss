@@ -27,6 +27,7 @@ $foreground: #ccedea;
     color: transparent;
     background: linear-gradient(to top, color.change($foreground, $saturation: 30%, $lightness: 40%), $foreground 50%);
     background-clip: text;
+    line-height: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
   }
@@ -36,6 +37,7 @@ $foreground: #ccedea;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+    gap: 1rem;
   }
 
   .logo {
