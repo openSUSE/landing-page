@@ -17,11 +17,11 @@
             font-size: 0.9rem;
             color: color.adjust(colors.$foreground, $lightness: -5%);
 
-            @include mediumAndUp {
+            @include xsAndUp {
                 column-count: 2;
             }
 
-            @include largeAndUp {
+            @include smallAndUp {
                 column-count: 3;
             }
 

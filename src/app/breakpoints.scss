@@ -1,22 +1,22 @@
-@mixin mediumAndUp {
+@mixin xsAndUp {
     @media screen and (min-width: 400px) {
         @content
     }
 }
 
-@mixin largeAndUp {
+@mixin smallAndUp {
     @media screen and (min-width: 500px) {
         @content
     }
 }
 
-@mixin xlAndUp {
+@mixin mediumAndUp {
     @media screen and (min-width: 700px) {
         @content
     }
 }
 
-@mixin xxlAndUp {
+@mixin largeAndUp {
     @media screen and (min-width: 800px) {
         @content
     }
