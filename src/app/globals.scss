@@ -17,6 +17,10 @@ body {
   font-family: var(--font-poppins);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  &.modalOpen {
+    position: fixed;
+  }
 }
 
 * {

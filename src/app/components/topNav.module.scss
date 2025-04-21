@@ -23,16 +23,63 @@
         gap: 1.75rem;
     }
 
-    .logo {
-        display: flex;
-        align-items: center;
-        filter: invert(86%) sepia(28%) saturate(185%) hue-rotate(124deg) brightness(85%) contrast(92%);
-    }
 
     .textLink {
         font-weight: 700;
 
         &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.imageLinks {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+
+    >* {
+        display: flex;
+        align-items: center;
+        filter: invert(86%) sepia(28%) saturate(185%) hue-rotate(124deg) brightness(85%) contrast(92%);
+    }
+}
+
+.menuToggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.menuOverlay {
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.1s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background: colors.$background;
+    padding: 0.6rem 2rem;
+    z-index: 10001;
+
+    &.menuOverlayOpen {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .textLinks {
+        display: flex;
+        flex-direction: column;
+        font-size: 1.25rem;
+        gap: 0.5rem;
+        font-weight: bold;
+
+        .textLink:hover {
             text-decoration: underline;
         }
     }

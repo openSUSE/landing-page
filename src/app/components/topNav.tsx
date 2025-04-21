@@ -4,6 +4,26 @@ import { useEffect, useState } from 'react';
 import styles from './topNav.module.scss';
 import Image from 'next/image';
 
+function ImageLinks({ menuOpen, setMenuOpen }: { menuOpen: boolean, setMenuOpen: (value: boolean) => void }) {
+    return <div className={styles.imageLinks}>
+        <button className={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
+            <Image width={20} height={20} src="/img/monochrome/menu.svg" alt="Open menu" />
+        </button>
+        <a className={styles.logo} href="/">
+            <Image width={32} height={32} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
+        </a>
+    </div>;
+}
+
+function MenuOverlay({ menuOpen, setMenuOpen }: { menuOpen: boolean, setMenuOpen: (value: boolean) => void }) {
+    return <div className={`${styles.menuOverlay} ${menuOpen ? styles.menuOverlayOpen : ''}`}>
+        <ImageLinks menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+        <div className={styles.textLinks}>
+            <TextLinks />
+        </div>
+    </div>
+}
+
 function TextLinks() {
     return <>
         <a className={styles.textLink} href="https://get.opensuse.org/">Download</a>
@@ -14,25 +34,36 @@ function TextLinks() {
 }
 
 export default function TopNav() {
-    const [hasScrolled, setHasScrolled] = useState(false);
-
     function handleScroll() {
         setHasScrolled(typeof window !== "undefined" && window?.pageYOffset !== 0);
     }
 
+    const [hasScrolled, setHasScrolled] = useState(false);
+    const [menuOpen, setMenuOpen] = useState(false);
+
     useEffect(() => {
         window.addEventListener('scroll', handleScroll);
+        handleScroll();
         return () => window.removeEventListener('scroll', handleScroll);
     });
 
-    return <div className={`${styles.topNav} ${hasScrolled ? styles.hasScrolled : ""}`}>
-        <div className="container">
-            <div className={styles.topNavInner}>
-                <a className={styles.logo} href="/">
-                    <Image width={32} height={32} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
-                </a>
-                <TextLinks />
+    useEffect(() => {
+        if (menuOpen) {
+            document.body.classList.add('modalOpen');
+        } else {
+            document.body.classList.remove('modalOpen');
+        }
+    }, [menuOpen]);
+
+    return <>
+        <MenuOverlay menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+        <div className={`${styles.topNav} ${hasScrolled ? styles.hasScrolled : ""}`}>
+            <div className="container">
+                <div className={styles.topNavInner}>
+                    <ImageLinks menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+                    <TextLinks />
+                </div>
             </div>
         </div>
-    </div>;
+    </>;
 }
