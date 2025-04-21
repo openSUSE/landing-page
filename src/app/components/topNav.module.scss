@@ -5,7 +5,7 @@
     background: colors.$background;
     position: fixed;
     width: 100%;
-    padding: 0.5rem 0rem;
+    padding: 0.6rem 0rem;
     z-index: 10000;
     border-bottom: solid 1px color.adjust(colors.$background, $lightness: 3%);
 
@@ -17,6 +17,8 @@
     }
 
     .logo {
+        display: flex;
+        align-items: center;
         filter: invert(86%) sepia(28%) saturate(185%) hue-rotate(124deg) brightness(85%) contrast(92%);
     }
 
