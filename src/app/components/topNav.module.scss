@@ -1,0 +1,31 @@
+@use '@/app/colors';
+@use 'sass:color';
+
+.topNav {
+    background: colors.$background;
+    position: fixed;
+    width: 100%;
+    padding: 0.5rem 0rem;
+    z-index: 10000;
+    border-bottom: solid 1px color.adjust(colors.$background, $lightness: 3%);
+
+    .topNavInner {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        gap: 1.75rem;
+    }
+
+    .logo {
+        filter: invert(86%) sepia(28%) saturate(185%) hue-rotate(124deg) brightness(85%) contrast(92%);
+    }
+
+    .textLink {
+        font-weight: 700;
+        opacity: 0.8;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

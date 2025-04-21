@@ -1,6 +1,7 @@
 import Image from "next/image";
 import React, { ReactNode } from 'react';
 import styles from "./page.module.scss";
+import TopNav from "./components/topNav";
 
 function Proposition({ imgName, altText, title, children }: {
   imgName: string, altText: string, title: string, children: ReactNode
@@ -19,13 +20,11 @@ function Proposition({ imgName, altText, title, children }: {
 export default function Home() {
   return (
     <div className="page">
+      <TopNav />
       <div className={styles.introHolder}>
         <div className="container">
           <div className={styles.intro}>
             <div className={styles.introPrimary}>
-              <div className={styles.logo}>
-                <Image width={64} height={64} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
-              </div>
               <h1>Free your desktop</h1>
             </div>
             <div className={styles.screenshot}>

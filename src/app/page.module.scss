@@ -22,12 +22,16 @@ $foreground: #ccedea;
   align-items: center;
   justify-content: space-between;
   gap: 4rem;
-  height: 500px;
+  height: 600px;
 
   h1 {
     text-shadow: 1px 2px 5px #00000055;
     font-size: 3.25rem;
     line-height: 100%;
+
+    @include xsAndUp {
+      font-size: 5rem;
+    }
   }
 
   .introPrimary {
@@ -54,6 +58,7 @@ $foreground: #ccedea;
 
   .screenshot {
     perspective: 300px;
+    transform: scale(0.9);
 
     img {
       transform: rotateY(-5deg);
