@@ -1,8 +1,22 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import styles from './topNav.module.scss';
 import Image from 'next/image';
 
 export default function TopNav() {
-    return <div className={styles.topNav}>
+    const [hasScrolled, setHasScrolled] = useState(false);
+
+    function handleScroll() {
+        setHasScrolled(typeof window !== "undefined" && window?.pageYOffset !== 0);
+    }
+
+    useEffect(() => {
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    });
+
+    return <div className={`${styles.topNav} ${hasScrolled ? styles.hasScrolled : ""}`}>
         <div className="container">
             <div className={styles.topNavInner}>
                 <a className={styles.logo} href="/">
