@@ -35,8 +35,8 @@ export default function Home() {
       </div>
       <div className="container">
         <div className={styles.propositions}>
-          <Proposition imgName="drive" altText="Disk" title="Lean back while the installer does the work">
-            Deep dives into wiki articles and forums are optional.
+          <Proposition imgName="drive" altText="Disk" title="Lean back while our installer does the work">
+            Deep dives into wikis and forums are completely optional.
           </Proposition>
           <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
             Easy access to multimedia codecs and NVIDIA drivers.
@@ -45,7 +45,7 @@ export default function Home() {
             Relax. There are no upsells, ads or mandatory accounts.
           </Proposition>
           <Proposition imgName="controlPanel" altText="Hammer and wrench" title="GUI- and TUI-based configuration tools">
-            Our sysadmin suite YaST also works on the command line.
+            Our sysadmin suite YaST also works on the terminal.
           </Proposition>
           <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
             Corporate grants and volunteer work sustain our operations.
@@ -56,14 +56,14 @@ export default function Home() {
         </div>
         <div className={styles.builtins}>
           <div className={styles.builtinsPrimary}>
-            <h3>Supported by the installer</h3>
+            <h3>Installer options</h3>
           </div>
           <ul className={styles.builtinsSecondary}>
             <li>KDE, GNOME and XFCE</li>
             <li>Desktop and server configurations</li>
             <li>Full disk encryption</li>
             <li>Btrfs with snapshots</li>
-            <li>LVM partitions</li>
+            <li>LVM partitioning</li>
             <li>Secure Boot</li>
           </ul>
         </div>
