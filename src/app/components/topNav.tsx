@@ -3,15 +3,16 @@
 import { useEffect, useState } from 'react';
 import styles from './topNav.module.scss';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function ImageLinks({ menuOpen, setMenuOpen }: { menuOpen: boolean, setMenuOpen: (value: boolean) => void }) {
     return <div className={styles.imageLinks}>
         <button className={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
             <Image width={20} height={20} src="/img/monochrome/menu.svg" alt="Open menu" />
         </button>
-        <a className={styles.logo} href="/">
+        <Link className={styles.logo} href="/">
             <Image width={32} height={32} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
-        </a>
+        </Link>
     </div>;
 }
 
