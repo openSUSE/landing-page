@@ -36,6 +36,10 @@ $foreground: #ccedea;
     align-items: flex-start;
     justify-content: flex-start;
     gap: 1rem;
+
+    @include xxsAndUp {
+      min-width: 300px;
+    }
   }
 
   .logo {
@@ -49,9 +53,10 @@ $foreground: #ccedea;
   }
 
   .screenshot {
-    max-width: 400px;
+    perspective: 300px;
 
     img {
+      transform: rotateY(-5deg);
       width: 600px;
       box-shadow: 0px 0px 55px -10px #00000066;
     }
