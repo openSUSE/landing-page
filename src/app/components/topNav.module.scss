@@ -1,4 +1,5 @@
 @use '@/app/colors';
+@use '@/app/breakpoints' as *;
 @use 'sass:color';
 
 .topNav {
@@ -26,11 +27,18 @@
 
     .textLink {
         font-weight: 700;
+        display: none;
+
+        @include mediumAndUp {
+            display: flex;
+        }
 
         &:hover {
             text-decoration: underline;
         }
     }
+
+
 }
 
 .imageLinks {
@@ -49,6 +57,10 @@
     background: none;
     border: none;
     cursor: pointer;
+
+    @include mediumAndUp {
+        display: none;
+    }
 }
 
 .menuOverlay {
