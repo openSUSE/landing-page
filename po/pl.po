@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2022-04-27 16:13+0000\n"
-"Last-Translator: Bartłomiej Konecki <bartekkonecki97@gmail.com>\n"
+"PO-Revision-Date: 2025-04-23 00:59+0000\n"
+"Last-Translator: Szymon Scholz <raspherdev@pm.me>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/landing-page/"
 "master/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 5.11\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -164,7 +164,7 @@ msgid ""
 "Automated testing for *any* operating system, that can read the screen and "
 "control the test host the same way a user does."
 msgstr ""
-"Zautomatyzowane testy *dowolnego* systemu operacyjnego, które potrafią "
+"Zautomatyzowane testy dla *dowolnego* systemu operacyjnego, które potrafią "
 "analizować ekran i kontrolować system w taki sam sposób jak użytkownik."
 
 #: index.html:214
@@ -186,7 +186,7 @@ msgstr ""
 
 #: index.html:259
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr "Wspieraj openSUSE"
+msgstr "WSPÓŁTWÓRZ OPENSUSE"
 
 #: index.html:260
 msgid "Be part of our community contributing with any of the following:"
@@ -224,7 +224,7 @@ msgid ""
 msgstr ""
 "openSUSE wierzy, że najlepsze wyniki można uzyskać, gdy ludzie współpracują "
 "i dobrze się przy tym bawią. Jest pożądanym aby społeczność openSUSE była "
-"inna inna niż pozostałe społeczności open-source. Nie jesteśmy zwykłą "
+"inna niż pozostałe społeczności open-source. Nie jesteśmy zwykłą "
 "społecznością i starania społeczności wyznaczają drogę rozwoju projektu. "
 "Starania społeczności przyczyniły się do powstania wielu świetnych narzędzi "
 "dla Linuksa oraz niesamowitą dystrybucję. Wraz z openSUSE, masz prawo głosu "
@@ -237,7 +237,7 @@ msgstr ""
 
 #: index.html:274
 msgid "Find out more about how to participate."
-msgstr "Dowiedz się więcej jak uczestniczyć."
+msgstr "Dowiedz się jak uczestniczyć."
 
 #: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
@@ -309,7 +309,7 @@ msgstr "Wiki"
 
 #: index.html:331
 msgid "Build Service"
-msgstr "Build Service"
+msgstr "Usługa Budowania"
 
 #: index.html:340
 msgid "Social Network"
@@ -321,7 +321,7 @@ msgstr "Fora"
 
 #: index.html:355
 msgid "Mailing Lists"
-msgstr "Listy dystrybucyjne"
+msgstr "Listy Mailingowe"
 
 #: index.html:364
 msgid "Shop"
