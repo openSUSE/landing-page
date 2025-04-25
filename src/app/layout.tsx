@@ -6,13 +6,7 @@ import styles from './layout.module.scss';
 const poppins = Poppins({
   variable: "--font-poppins",
   subsets: ["latin"],
-  weight: "400",
-});
-
-const poppinsBold = Poppins({
-  variable: "--font-poppins",
-  subsets: ["latin"],
-  weight: "700",
+  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
@@ -27,7 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${poppins.variable} ${poppinsBold.variable}`}>
+      <body className={`${poppins.variable}`}>
         {children}
         <div className={styles.footerHolder}>
           <div className="container">
