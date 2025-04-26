@@ -48,7 +48,7 @@ export default function RootLayout({
               <div className={styles.bottomBar}>
                 <div className={styles.legalDisclaimer}>
                   <img className={styles.wordmark} alt="openSUSE wordmark" src="/img/monochrome/wordmark.svg" />
-                  &copy; 2015-2025 SUSE LLC. All Rights Reserved.
+                  &copy; 2015-{new Date().getFullYear()} SUSE LLC. All Rights Reserved.
                   <a href="https://en.opensuse.org/Imprint">Imprint</a>
                 </div>
                 <div className={styles.socials}>
