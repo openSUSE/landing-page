@@ -3,6 +3,7 @@ import { Poppins } from "next/font/google";
 import "./globals.scss";
 import styles from './layout.module.scss';
 import { ReactNode } from "react";
+import Image from 'next/image';
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
 
 function SocialAccount({ name, href }: { name: string, href: string }): ReactNode {
   return <a href={href} target="_blank">
-    <img src={`/img/monochrome/${name.toLowerCase()}.svg`} alt={`${name} logo`} />
+    <Image src={`/img/monochrome/${name.toLowerCase()}.svg`} alt={`${name} logo`} width={36} height={36} />
   </a>
 }
 

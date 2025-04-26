@@ -62,10 +62,6 @@
             .socials {
                 display: flex;
                 gap: 0.5rem;
-
-                img {
-                    width: 2.25rem;
-                }
             }
 
             @include mediumAndUp {
