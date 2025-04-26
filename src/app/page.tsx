@@ -45,6 +45,7 @@ export default function Home() {
           <div className={styles.intro}>
             <div className={styles.introPrimary}>
               <h1>Free your desktop</h1>
+              <div>openSUSE is a free open-source OS for desktops, servers and containers.</div>
             </div>
             <div className={styles.screenshot}>
               <Image width={600} height={375} src="/img/screenshots/kde-light.png" alt="openSUSE KDE desktop" unoptimized />
