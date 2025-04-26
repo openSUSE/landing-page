@@ -26,9 +26,12 @@ function Flavor({ name, identifier, description }: {
     className={styles.flavor}
     href={`https://get.opensuse.org/${identifier.toLowerCase()}/`}
   >
-    <div className={styles.name}>{name}</div>
-    <div className={styles.description}>
-      {description}
+    <img src={`/img/monochrome/${identifier}.svg`} alt={`${name} logo`} />
+    <div>
+      <div className={styles.name}>{name}</div>
+      <div className={styles.description}>
+        {description}
+      </div>
     </div>
   </ a>;
 }
@@ -92,8 +95,8 @@ export default function Home() {
               <div className={styles.flavorHolder}>
                 <Flavor name="Tumbleweed" identifier="tumbleweed" description="Always on the cutting edge" />
                 <Flavor name="Leap" identifier="leap" description="Stability above all else" />
-                <Flavor name="MicroOS" identifier="microOs" description="Immutable OS for container deployments" />
-                <Flavor name="Leap Micro" identifier="leapMicro" description="Container OS, solid as a rock" />
+                <Flavor name="MicroOS" identifier="microOs" description="Immutable rolling-release container OS" />
+                <Flavor name="Leap Micro" identifier="leapMicro" description="Stability-focused immutable container OS" />
               </div>
               <div className={styles.experimental}>
                 Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?

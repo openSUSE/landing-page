@@ -206,17 +206,6 @@ $foreground: #ccedea;
   justify-content: stretch;
   gap: 1rem;
 
-  .logo {
-    padding: 2rem;
-    background: radial-gradient(circle, colors.$background, color.change(colors.$background, $alpha: 0));
-    border-radius: 100%;
-
-    img {
-      filter: invert(1);
-      max-width: 3rem;
-    }
-  }
-
   .content {
     background: color.change(colors.$background, $alpha: 0.8);
     border-radius: 10px;
@@ -230,10 +219,19 @@ $foreground: #ccedea;
       .flavor {
         padding: 2rem;
         flex: 1 1 25rem;
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        align-items: center;
 
         &:hover {
           text-decoration: none;
           background: color.change(colors.$foreground, $alpha: 0.05);
+        }
+
+        img {
+          max-width: 4rem;
+          filter: invert(91%) sepia(17%) saturate(305%) hue-rotate(117deg) brightness(96%) contrast(92%);
         }
 
         .name {
