@@ -188,7 +188,7 @@ $foreground: #ccedea;
     background: linear-gradient(135deg, #0000 18.75%, $patternColor 0 31.25%, #0000 0),
       repeating-linear-gradient(45deg, $patternColor -6.25% 6.25%, rgba(255, 255, 255, 0) 0 18.75%);
     background-size: 70px 70px;
-    $fadeLength: 80px;
+    $fadeLength: 120px;
     mask-image: linear-gradient(to bottom, transparent 0%, white $fadeLength, white calc(100% - $fadeLength), transparent 100%);
   }
 
