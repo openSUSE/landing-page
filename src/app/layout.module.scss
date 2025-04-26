@@ -29,10 +29,8 @@
                 margin: 0.25rem 0;
 
                 a {
-
                     &:hover {
                         color: colors.$foreground;
-                        text-decoration: underline;
                     }
                 }
             }

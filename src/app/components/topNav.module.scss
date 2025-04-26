@@ -32,10 +32,6 @@
         @include mediumAndUp {
             display: flex;
         }
-
-        &:hover {
-            text-decoration: underline;
-        }
     }
 
 
@@ -90,9 +86,5 @@
         font-size: 1.25rem;
         gap: 0.5rem;
         font-weight: bold;
-
-        .textLink:hover {
-            text-decoration: underline;
-        }
     }
 }

@@ -17,6 +17,22 @@ function Proposition({ imgName, altText, title, children }: {
   </div>;
 }
 
+function Flavor({ name, identifier, description }: {
+  name: string,
+  identifier: string,
+  description: string
+}) {
+  return <a
+    className={styles.flavor}
+    href={`https://get.opensuse.org/${identifier.toLowerCase()}/`}
+  >
+    <div className={styles.name}>{name}</div>
+    <div className={styles.description}>
+      {description}
+    </div>
+  </ a>;
+}
+
 export default function Home() {
   return (
     <div className="page">
@@ -66,6 +82,24 @@ export default function Home() {
             <li>LVM partitioning</li>
             <li>Secure Boot</li>
           </ul>
+        </div>
+      </div>
+      <div className={styles.flavorsBg}>
+        <div className="container">
+          <h3>Meet the flavors</h3>
+          <div className={styles.flavors}>
+            <div className={styles.content}>
+              <div className={styles.flavorHolder}>
+                <Flavor name="Tumbleweed" identifier="tumbleweed" description="Always on the cutting edge" />
+                <Flavor name="Leap" identifier="leap" description="Stability above all else" />
+                <Flavor name="MicroOS" identifier="microOs" description="Immutable OS for container deployments" />
+                <Flavor name="Leap Micro" identifier="leapMicro" description="Container OS, solid as a rock" />
+              </div>
+              <div className={styles.experimental}>
+                Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div >

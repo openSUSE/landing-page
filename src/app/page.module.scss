@@ -173,3 +173,84 @@ $foreground: #ccedea;
     }
   }
 }
+
+.flavorsBg {
+  position: relative;
+  padding-bottom: 4rem;
+
+  &::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+
+    $patternColor: #0a3d32;
+    background: linear-gradient(135deg, #0000 18.75%, $patternColor 0 31.25%, #0000 0),
+      repeating-linear-gradient(45deg, $patternColor -6.25% 6.25%, rgba(255, 255, 255, 0) 0 18.75%);
+    background-size: 70px 70px;
+    $fadeLength: 80px;
+    mask-image: linear-gradient(to bottom, transparent 0%, white $fadeLength, white calc(100% - $fadeLength), transparent 100%);
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    padding: 3rem 2rem 1rem 2rem;
+    color: colors.$additional1-tint4;
+  }
+}
+
+.flavors {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: stretch;
+  gap: 1rem;
+
+  .logo {
+    padding: 2rem;
+    background: radial-gradient(circle, colors.$background, color.change(colors.$background, $alpha: 0));
+    border-radius: 100%;
+
+    img {
+      filter: invert(1);
+      max-width: 3rem;
+    }
+  }
+
+  .content {
+    background: color.change(colors.$background, $alpha: 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 0 colors.$background;
+
+    .flavorHolder {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .flavor {
+        padding: 2rem;
+        flex: 1 1 25rem;
+
+        &:hover {
+          text-decoration: none;
+          background: color.change(colors.$foreground, $alpha: 0.05);
+        }
+
+        .name {
+          font-size: 2.25rem;
+          font-weight: bold;
+          line-height: 120%;
+        }
+      }
+    }
+
+    .experimental {
+      padding: 2rem;
+
+      a {
+        font-weight: 700;
+      }
+    }
+  }
+}
