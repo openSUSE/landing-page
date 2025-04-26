@@ -235,9 +235,29 @@ $foreground: #ccedea;
         }
 
         .name {
-          font-size: 2.25rem;
+          font-size: 1.1rem;
           font-weight: bold;
           line-height: 120%;
+        }
+
+        .description {
+          font-size: 0.85rem;
+        }
+
+        @include xsAndUp {
+          .name {
+            font-size: 1.5rem;
+          }
+
+          .description {
+            font-size: unset;
+          }
+        }
+
+        @include mediumAndUp {
+          .name {
+            font-size: 2.25rem;
+          }
         }
       }
     }
