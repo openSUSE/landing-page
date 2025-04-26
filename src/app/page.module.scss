@@ -209,7 +209,7 @@ $foreground: #ccedea;
   .content {
     background: color.change(colors.$background, $alpha: 0.8);
     border-radius: 10px;
-    box-shadow: 0 0 5px 0 colors.$background;
+    backdrop-filter: blur(2px);
 
     .flavorHolder {
       display: flex;
