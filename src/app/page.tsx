@@ -96,7 +96,7 @@ export default function Home() {
                 <Flavor name="Tumbleweed" identifier="tumbleweed" description="Always on the cutting edge" />
                 <Flavor name="Leap" identifier="leap" description="Stability above all else" />
                 <Flavor name="MicroOS" identifier="microOs" description="Immutable rolling-release container OS" />
-                <Flavor name="Leap Micro" identifier="leapMicro" description="Stability-focused immutable container OS" />
+                <Flavor name="Leap Micro" identifier="leapMicro" description="Rock solid immutable container OS" />
               </div>
               <div className={styles.experimental}>
                 Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?
