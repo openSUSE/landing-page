@@ -4,18 +4,17 @@
 
 .footerHolder {
     background: color.adjust(colors.$background, $lightness: -3%);
-    padding: 1rem 0;
+    padding: 2rem 0;
 
     footer {
         display: flex;
         flex-direction: column;
         gap: 1rem;
+        color: color.adjust(colors.$foreground, $lightness: -5%);
 
         .links {
             list-style-type: none;
             column-gap: 2rem;
-            font-size: 0.9rem;
-            color: color.adjust(colors.$foreground, $lightness: -5%);
 
             @include xsAndUp {
                 column-count: 2;
@@ -32,6 +31,48 @@
                     &:hover {
                         color: colors.$foreground;
                     }
+                }
+            }
+        }
+
+        .bottomBar {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            gap: 1rem;
+
+            img {
+                filter: invert(91%) sepia(17%) saturate(305%) hue-rotate(117deg) brightness(96%) contrast(92%);
+            }
+
+            .legalDisclaimer {
+                display: flex;
+                flex-direction: row;
+                gap: 1rem;
+                align-items: center;
+            }
+
+            .wordmark {
+                display: none;
+                max-width: 6rem;
+            }
+
+            .socials {
+                display: flex;
+                gap: 0.5rem;
+
+                img {
+                    width: 2.25rem;
+                }
+            }
+
+            @include mediumAndUp {
+                flex-direction: row;
+
+                .wordmark {
+                    display: unset;
                 }
             }
         }
