@@ -13,7 +13,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "openSUSE ­— Open source OS for desktops, servers and containers",
-  description: "openSUSE is an opensource operating system based on Linux.",
+  description: "openSUSE is an open source operating system based on Linux.",
   icons: [
     {
       url: '/img/favicon.ico',
