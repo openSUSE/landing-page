@@ -24,3 +24,9 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+## Additional notes
+
+### Do not use fonts.googleapis.com
+
+These were removed from the page and will not be used due to concerns related to the fonts sending IP info back to Google's hosted server. Don't import any external CDN for API or fonts, JS-Frameworks to avoid legal problems.
