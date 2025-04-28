@@ -58,11 +58,11 @@ export default function Home() {
           <Proposition imgName="drive" altText="Disk" title="Lean back while our installer does the work">
             Deep dives into wikis and forums are completely optional.
           </Proposition>
-          <Proposition imgName="gpu" altText="GPU" title="Open by nature, proprietary when needed">
-            Easy access to multimedia codecs and NVIDIA drivers.
+          <Proposition imgName="gpu" altText="GPU" title="Opt-in access to proprietary packages">
+            Restricted codecs and drivers are available when needed.
           </Proposition>
           <Proposition imgName="relieved" altText="Relaxed person" title="Free to use, with no strings attached">
-            Relax. There are no upsells, ads or mandatory accounts.
+            Yours to keep with no upsells, ads or mandatory accounts.
           </Proposition>
           <Proposition imgName="community" altText="Community" title="Regular community events around the world">
             Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
