@@ -58,20 +58,20 @@ export default function Home() {
           <Proposition imgName="drive" altText="Disk" title="Lean back while our installer does the work">
             Deep dives into wikis and forums are completely optional.
           </Proposition>
-          <Proposition imgName="gpu" altText="GPU" title="Opt-in access to proprietary packages">
-            Restricted codecs and drivers are available when needed.
-          </Proposition>
           <Proposition imgName="relieved" altText="Relaxed person" title="Free to use, with no strings attached">
             Yours to keep with no upsells, ads or mandatory accounts.
+          </Proposition>
+          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in several different flavors">
+            Rolling release? Immutable distro? We&apos;ve got you covered.
+          </Proposition>
+          <Proposition imgName="gpu" altText="GPU" title="Opt-in access to proprietary packages">
+            Restricted codecs and drivers are available when needed.
           </Proposition>
           <Proposition imgName="community" altText="Community" title="Regular international community events">
             Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
           </Proposition>
           <Proposition imgName="company" altText="Office building" title="Industry-backed and community-supported">
             We're here to stay, thanks to our sponsors and community.
-          </Proposition>
-          <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in several different flavors">
-            Rolling release? Immutable distro? We&apos;ve got you covered.
           </Proposition>
         </div>
         <div className={styles.builtins}>
