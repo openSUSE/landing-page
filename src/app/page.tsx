@@ -67,8 +67,8 @@ export default function Home() {
           <Proposition imgName="community" altText="Community" title="Regular community events around the world">
             Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
           </Proposition>
-          <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
-            Corporate grants and volunteer work sustain our operations.
+          <Proposition imgName="company" altText="Office building" title="Industry-backed and community-supported">
+            We're here to stay, thanks to our sponsors and community.
           </Proposition>
           <Proposition imgName="iceCreamCone" altText="Ice cream cone" title="Available in several different flavors">
             Rolling release? Immutable distro? We&apos;ve got you covered.
