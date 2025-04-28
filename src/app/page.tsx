@@ -64,7 +64,7 @@ export default function Home() {
           <Proposition imgName="relieved" altText="Relaxed person" title="Free to use, with no strings attached">
             Yours to keep with no upsells, ads or mandatory accounts.
           </Proposition>
-          <Proposition imgName="community" altText="Community" title="Regular community events around the world">
+          <Proposition imgName="community" altText="Community" title="Regular international community events">
             Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
           </Proposition>
           <Proposition imgName="company" altText="Office building" title="Industry-backed and community-supported">
