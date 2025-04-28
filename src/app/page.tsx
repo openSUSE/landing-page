@@ -71,7 +71,7 @@ export default function Home() {
             Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
           </Proposition>
           <Proposition imgName="company" altText="Office building" title="Industry-backed and community-supported">
-            We're here to stay, thanks to our sponsors and community.
+            We&apos;re here to stay, thanks to our sponsors and community.
           </Proposition>
         </div>
         <div className={styles.builtins}>
