@@ -64,8 +64,8 @@ export default function Home() {
           <Proposition imgName="relieved" altText="Relaxed person" title="Free to use, with no strings attached">
             Relax. There are no upsells, ads or mandatory accounts.
           </Proposition>
-          <Proposition imgName="controlPanel" altText="Hammer and wrench" title="GUI- and TUI-based configuration tools">
-            Our sysadmin suite YaST also works on the terminal.
+          <Proposition imgName="community" altText="Community" title="Regular community events around the world">
+            Share the joy of openSUSE with fellow users at <a href="https://events.opensuse.org/">our meetups</a>.
           </Proposition>
           <Proposition imgName="company" altText="Office building" title="Backed by industry, supported by volunteers">
             Corporate grants and volunteer work sustain our operations.
