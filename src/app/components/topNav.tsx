@@ -11,7 +11,7 @@ function ImageLinks({ menuOpen, setMenuOpen }: { menuOpen: boolean, setMenuOpen:
             <Image width={20} height={20} src="/img/monochrome/menu.svg" alt="Open menu" />
         </button>
         <Link className={styles.logo} href="/">
-            <Image width={32} height={32} src="/img/monochrome/logo.svg" alt="openSUSE logo" />
+            <Image width={60} height={60} src="/img/monochrome/logo-with-wordmark.svg" alt="openSUSE logo" />
         </Link>
     </div>;
 }
