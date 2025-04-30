@@ -30,10 +30,10 @@ $foreground: #ccedea;
   h1 {
     text-shadow: 1px 2px 5px #00000055;
     font-size: 3.25rem;
-    line-height: 100%;
+    line-height: 90%;
 
     @include xsAndUp {
-      font-size: 5rem;
+      font-size: 5.5rem;
     }
   }
 
@@ -46,6 +46,11 @@ $foreground: #ccedea;
 
     @include xxsAndUp {
       min-width: 300px;
+    }
+    
+    .introPrimaryDescription {
+      font-size: 1.2rem;
+      line-height: 120%;
     }
   }
 
@@ -100,6 +105,10 @@ $foreground: #ccedea;
       display: flex;
       flex-direction: column;
       gap: 0.5rem;
+
+      h3 {
+        font-size: 1.35rem;
+      }
 
       .description {
         line-height: 1.25rem;
