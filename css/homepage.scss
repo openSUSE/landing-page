@@ -1,5 +1,8 @@
-@use '@/app/breakpoints' as *;
-@use '@/app/colors';
+---
+---
+@use 'globals';
+@use 'breakpoints' as *;
+@use 'colors';
 @use 'sass:color';
 
 $foreground: #ccedea;

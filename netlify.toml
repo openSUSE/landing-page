@@ -1,3 +1,0 @@
-[context.production]
-publish = "out/"
-command = "npm install && npm run build"

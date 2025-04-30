@@ -1,0 +1,10 @@
+sass:
+  style: compressed
+exclude: 
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
