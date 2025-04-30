@@ -65,12 +65,20 @@ $foreground: #ccedea;
   }
 
   .screenshot {
-    perspective: 300px;
-    transform: scale(0.9);
+    position: relative;
+    
+    &::before {
+      content: '';
+      width: 600px;
+      height: 375px;
+      position: absolute;
+      clip-path: polygon(15% 100%, 100% 100%, 85% 0%, 0% 0%);
+      background: #CCEDEA;
+    }
 
     img {
-      transform: rotateY(-5deg);
       width: 600px;
+      clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
     }
   }
 }
