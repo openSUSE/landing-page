@@ -265,11 +265,12 @@ $foreground: #ccedea;
 
         .description {
           font-size: 0.85rem;
+          line-height: 100%;
         }
 
         @include xsAndUp {
           .name {
-            font-size: 1.5rem;
+            font-size: 1.6rem;
           }
 
           .description {
