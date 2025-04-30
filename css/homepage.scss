@@ -200,12 +200,19 @@ $foreground: #ccedea;
     position: absolute;
     z-index: -1;
 
+    // clip-path: polygon(90% 0%, 10% 0%, 20% 50%, 10% 100%, 90% 100%, 80% 50%);
     $patternColor: #0a3d32;
     background: linear-gradient(135deg, #0000 18.75%, $patternColor 0 31.25%, #0000 0),
       repeating-linear-gradient(45deg, $patternColor -6.25% 6.25%, rgba(255, 255, 255, 0) 0 18.75%);
     background-size: 70px 70px;
-    $fadeLength: 120px;
-    mask-image: linear-gradient(to bottom, transparent 0%, white $fadeLength, white calc(100% - $fadeLength), transparent 100%);
+    $fadeHLength: 40%;
+    $fadeVLength: 120px;
+    mask-image: linear-gradient(to bottom, transparent 0%, white $fadeVLength, white calc(100% - $fadeVLength), transparent 100%);
+    mask-composite: intersect;
+    
+    @include xxlAndUp {
+      mask-image: linear-gradient(to left, transparent 0%, white $fadeHLength, white calc(100% - $fadeHLength), transparent 100%), linear-gradient(to bottom, transparent 0%, white $fadeVLength, white calc(100% - $fadeVLength), transparent 100%);
+    }
   }
 
   h3 {
