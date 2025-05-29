@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-11 16:37:29 +0200\n"
-"PO-Revision-Date: 2025-05-29 11:59+0000\n"
-"Last-Translator: Athmane MOKRAOUI <butterflyoffire+opensuse@protonmail.com>\n"
+"PO-Revision-Date: 2025-05-29 17:32+0000\n"
+"Last-Translator: Moonshadow <zirisut@protonmail.com>\n"
 "Language-Team: Kabyle <https://l10n.opensuse.org/projects/landing-page/"
 "master/kab/>\n"
 "Language: kab\n"
@@ -43,6 +43,8 @@ msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"Awi ikemmusen n Linux imaynuten maḍi s lqem-nneɣ adruram. D arurad! D usliɣ! "
+"D urkid! Yettwasekyed!"
 
 #: index.html:88 index.html:110
 msgid "More information"
@@ -62,6 +64,12 @@ msgid ""
 "stable platform closest to bleeding edge Linux, Tumbleweed is the best "
 "choice for you."
 msgstr ""
+"Yal aseqdac i yessarmen ad yesɛu ikemmusen imaynuten akk, ideg yedda Ukernel "
+"Linux, SAMBA, git, tinariyin, isnasen n tnarit d waṭas n yikemmusen niḍen, "
+"ad yebɣu Tumbleweed. Tumbleweed yerza kan iseqdacen ifazen, Ineflayen n "
+"Software akked yiwiziwen n openSUSE. Ma yella tesriḍ aseɣẓan aneggaru "
+"twennaḍin n usnefli tusliɣin neɣ tesriḍ tiɣerɣert turkidt i iqerben ɣer "
+"lebni n Linux edge, Thumbleweed ulac am netta."
 
 #: index.html:95
 msgid "Learn more"
@@ -71,7 +79,7 @@ msgstr "Issin ugar"
 msgid ""
 "Get the most complete Linux distribution with openSUSE’s latest regular-"
 "release version!"
-msgstr ""
+msgstr "Awi azuzer n Linux ummid akk s lqem n openSUSE s umucceḍ yezgan!"
 
 #: index.html:112 index.html:117
 msgid "Install Leap"
@@ -193,7 +201,7 @@ msgstr "Af-d ugar ɣef wamek ara tettekkiḍ."
 
 #: index.html:274
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:Amek_ara_tettekkiḍ"
 
 #: index.html:282
 msgid "Hardware"
@@ -260,7 +268,7 @@ msgstr "Inmagaren"
 
 #: index.html:355
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Tibdarin deg yimaylen"
 
 #: index.html:364
 msgid "Shop"
@@ -276,7 +284,7 @@ msgstr "Taɣamsa"
 
 #: index.html:396
 msgid "Sponsored by:"
-msgstr ""
+msgstr "Yella s lmendad n:"
 
 #: index.html:402
 msgid "Change language"
@@ -288,7 +296,7 @@ msgstr "Izerfan akk ttwaḥerrzen."
 
 #: index.html:445
 msgid "Imprint."
-msgstr ""
+msgstr "Siggez."
 
 #: index.html:445
 msgid "https://en.opensuse.org/Imprint"
