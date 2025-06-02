@@ -3,51 +3,57 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-11 15:40:59 +0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-02 14:59+0000\n"
+"Last-Translator: a Rubes <aRubes@pm.me>\n"
+"Language-Team: Hebrew <https://l10n.opensuse.org/projects/landing-page/"
+"master/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
-msgstr ""
+msgstr "בחירת המייקריות למנהלי מערכת, מפתחות, ומשתמשים."
 
 #: index.html:49
 msgid "Home"
-msgstr ""
+msgstr "בית"
 
 #: index.html:52
 msgid "Tools"
-msgstr ""
+msgstr "כלים"
 
 #: index.html:55 index.html:343
 msgid "News"
-msgstr ""
+msgstr "חדשות"
 
 #: index.html:58
 msgid "Contribute"
-msgstr ""
+msgstr "תרמו"
 
 #: index.html:61
 msgid "Conferences"
-msgstr ""
+msgstr "כנסים"
 
 #: index.html:87
 msgid ""
 "Get the newest Linux packages with our rolling release. Fast! Integrated! "
 "Stabilized! Tested!"
 msgstr ""
+"קבלו את חבילות הלינוקס החדשות ביותר עם הגרסה המתגלגלת שלנו. מהירה! "
+"אינטגרטיבית! מיוצבת! בדוקה!"
 
 #: index.html:88 index.html:110
 msgid "More information"
-msgstr ""
+msgstr "מידע נוסף"
 
 #: index.html:90 index.html:98
 msgid "Install Tumbleweed"
-msgstr ""
+msgstr "התקינו את Tumbleweed"
 
 #: index.html:93
 msgid ""
@@ -62,7 +68,7 @@ msgstr ""
 
 #: index.html:95
 msgid "Learn more"
-msgstr ""
+msgstr "למדו עוד"
 
 #: index.html:109
 msgid ""
@@ -72,7 +78,7 @@ msgstr ""
 
 #: index.html:112 index.html:117
 msgid "Install Leap"
-msgstr ""
+msgstr "התקינו את Leap"
 
 #: index.html:115
 msgid ""
@@ -85,35 +91,35 @@ msgstr ""
 
 #: index.html:138
 msgid "available in"
-msgstr ""
+msgstr "זמין ב"
 
 #: index.html:146
 msgid "days"
-msgstr ""
+msgstr "ימים"
 
 #: index.html:147
 msgid "day"
-msgstr ""
+msgstr "יום"
 
 #: index.html:148
 msgid "hours"
-msgstr ""
+msgstr "שעות"
 
 #: index.html:149
 msgid "hour"
-msgstr ""
+msgstr "שעה"
 
 #: index.html:157
 msgid "openSUSE TOOLS"
-msgstr ""
+msgstr "כלי OpenSUSE"
 
 #: index.html:158
 msgid "Discover the best open-source tools developed by our community"
-msgstr ""
+msgstr "גלו את הכלים בקוד פתוח הטובים ביותר המפותחים בקהילה שלנו"
 
 #: index.html:172 index.html:190 index.html:208 index.html:226
 msgid "Go to link"
-msgstr ""
+msgstr "עברו לקישור"
 
 #: index.html:176
 msgid ""
@@ -131,7 +137,7 @@ msgstr ""
 #: index.html:212
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr ""
+msgstr "כלי ההתקנה והקינפוג הטוב ביותר / היחיד למערכת לינוקס"
 
 #: index.html:230
 msgid ""
@@ -142,23 +148,23 @@ msgstr ""
 
 #: index.html:257
 msgid "CONTRIBUTE TO OPENSUSE"
-msgstr ""
+msgstr "תרמו לפרויקט OpenSUSE"
 
 #: index.html:258
 msgid "Be part of our community contributing with any of the following:"
-msgstr ""
+msgstr "היו חלק מקהילת התורמות באחת מן הדרכים הבאות:"
 
 #: index.html:265
 msgid "Code"
-msgstr ""
+msgstr "קוד"
 
 #: index.html:266 index.html:281
 msgid "Find out more"
-msgstr ""
+msgstr "גלו עוד"
 
 #: index.html:270
 msgid "Contribute Code"
-msgstr ""
+msgstr "תרמו קוד"
 
 #: index.html:271
 msgid ""
@@ -178,7 +184,7 @@ msgstr ""
 
 #: index.html:272
 msgid "Find out more about how to participate."
-msgstr ""
+msgstr "גלו עוד על איך להשתתף."
 
 #: index.html:272
 msgid "https://en.opensuse.org/Portal:How_to_participate"
@@ -186,11 +192,11 @@ msgstr ""
 
 #: index.html:280
 msgid "Hardware"
-msgstr ""
+msgstr "חומרה"
 
 #: index.html:285
 msgid "Contribute Hardware"
-msgstr ""
+msgstr "תרמו חומרה"
 
 #: index.html:286
 msgid ""
@@ -209,71 +215,71 @@ msgstr ""
 
 #: index.html:292 index.html:295
 msgid "openSUSE Communication Channels"
-msgstr ""
+msgstr "ערוצי התקשרות עם OpenSUSE"
 
 #: index.html:293
 msgid "Get in touch with the community:"
-msgstr ""
+msgstr "צרו קשר עם הקהילה:"
 
 #: index.html:306
 msgid "Meet up with openSUSE at conferences."
-msgstr ""
+msgstr "פגשו את OpenSUSE בכנסים."
 
 #: index.html:307
 msgid "View upcoming conferences"
-msgstr ""
+msgstr "צפו בכנסים עתידיים"
 
 #: index.html:319
 msgid "Get software"
-msgstr ""
+msgstr "הורידו תוכנה"
 
 #: index.html:324
 msgid "Wiki"
-msgstr ""
+msgstr "ויקי"
 
 #: index.html:329
 msgid "Documentation"
-msgstr ""
+msgstr "דוקומנטציה"
 
 #: index.html:334
 msgid "Build Service"
-msgstr ""
+msgstr "שירות בנייה"
 
 #: index.html:348
 msgid "Forums"
-msgstr ""
+msgstr "פורומים"
 
 #: index.html:353
 msgid "Mailing Lists"
-msgstr ""
+msgstr "רשימות תפוצה"
 
 #: index.html:362
 msgid "Shop"
-msgstr ""
+msgstr "חנות"
 
 #: index.html:367
 msgid "Blogs"
-msgstr ""
+msgstr "בלוגים"
 
 #: index.html:372
 msgid "Press"
-msgstr ""
+msgstr "תקשורת"
 
 #: index.html:376
 msgid "Logo/Trademark"
-msgstr ""
+msgstr "לוגו/סימן מסחרי"
 
 #: index.html:404
 msgid "Sponsored by:"
-msgstr ""
+msgstr "מסובסד ע\"י:"
 
 #: index.html:410
 msgid "Change language"
-msgstr ""
+msgstr "שנו שפה"
 
 #: index.html:456
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "כל הזכויות שמורות."
 
 #: index.html:456
 msgid "Imprint."
@@ -285,4 +291,4 @@ msgstr ""
 
 #: index.html:476
 msgid "Back to main page"
-msgstr ""
+msgstr "בחזרה לעמוד הראשי"
