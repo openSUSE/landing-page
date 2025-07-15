@@ -151,7 +151,7 @@ function osMoreInformation(os) {
   moreInfoOpened = true
   //get the height of the main container
   containerHeight = $('#opensuse-os').outerHeight();
-  
+
 
   //find the information of the selected distribution
   $osSelected = os
@@ -160,7 +160,7 @@ function osMoreInformation(os) {
   osSelectedIcon = $osSelected.find(".distributions-icon").html()
 
   window.location.hash = osSelectedTitle;
-  
+
   //dont let users click more than once
   $osSelected.addClass('not-clickable')
 
@@ -204,12 +204,12 @@ function osMoreInformation(os) {
     $('.os-icon').html(osSelectedIcon)
 
     $('.back-to-main-page').on('click', function() {
-      history.pushState('', document.title, window.location.pathname);  
+      history.pushState('', document.title, window.location.pathname);
       backToMainPageOs($osSelected)
     })
 
     $('#home, #opensuseLogo').on('click', function() {
-      history.pushState('', document.title, window.location.pathname);  
+      history.pushState('', document.title, window.location.pathname);
       scrolled = $(window).scrollTop();
       if (scrolled > mainSectionHeight) {
         setTimeout('backToMainPageOs($osSelected)', 900);
@@ -282,6 +282,7 @@ window.lang.dynamic('pt_BR', 'assets/js/langpack/pt_BR.json');
 window.lang.dynamic('ru', 'assets/js/langpack/ru.json');
 window.lang.dynamic('sk', 'assets/js/langpack/sk.json');
 window.lang.dynamic('sv', 'assets/js/langpack/sv.json');
+window.lang.dynamic('tr', 'assets/js/langpack/tr.json');
 window.lang.dynamic('uk', 'assets/js/langpack/uk.json');
 window.lang.dynamic('zh_CN', 'assets/js/langpack/zh_CN.json');
 window.lang.dynamic('zh_TW', 'assets/js/langpack/zh_TW.json');
