@@ -102,7 +102,7 @@ Dir.mktmpdir do |localedir|
     language = %r(po/([^.]+).po).match(po)[1]
     target_file = "assets/js/langpack/#{language}.json"
     system("msgmerge -q -U #{po} #{pot_file}")
-    if File.exists?(target_file) && File.stat(po).mtime < File.stat(target_file).mtime
+    if File.exist?(target_file) && File.stat(po).mtime < File.stat(target_file).mtime
       next
     end
     domain = "#{language}_landing"
