@@ -74,11 +74,10 @@ function moveWebFonts() {
 
 // Images optimization
 var imagemin = require('gulp-imagemin');
-var cache = require('gulp-cache');
+// var cache = require('gulp-cache');
 
 function imagesCompression() {
   return gulp.src(assets + 'images/**/*')
-    .pipe(cache(imagemin({ optimizationLevel: 7, progressive: true, interlaced: true })))
     .pipe(gulp.dest(destination + 'images'));
 };
 
