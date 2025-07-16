@@ -71,7 +71,8 @@ function moveWebFonts() {
   return gulp.src(nodeModules + '@fortawesome/fontawesome-free/webfonts/*')
     .pipe(gulp.dest(destination + 'webfonts'))
 }
-
+const imageminGifsicle = require('imagemin-gifsicle');
+}
 // Images optimization
 const imagemin = async () => (await import('gulp-imagemin')).default;
 // var cache = require('gulp-cache');
@@ -79,7 +80,9 @@ const imagemin = async () => (await import('gulp-imagemin')).default;
 async function imagesCompression() {
   const imageminModule = await imagemin();
   return gulp.src(assets + 'images/**/*')
-    .pipe(imageminModule())
+    .pipe(imageminModule([
+      imageminGifsicle({ optimizationLevel: 2 })
+    ]))
     .pipe(gulp.dest(destination + 'images'));
 };
 
