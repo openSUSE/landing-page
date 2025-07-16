@@ -71,8 +71,7 @@ function moveWebFonts() {
   return gulp.src(nodeModules + '@fortawesome/fontawesome-free/webfonts/*')
     .pipe(gulp.dest(destination + 'webfonts'))
 }
-const imageminGifsicle = require('imagemin-gifsicle');
-}
+
 // Images optimization
 const imagemin = async () => (await import('gulp-imagemin')).default;
 // var cache = require('gulp-cache');
@@ -115,5 +114,5 @@ exports.moveFonts = moveFonts
 exports.moveWebFonts = moveWebFonts
 exports.watchFiles = watchFiles
 exports.runServer = runServer
-exports.vendorCSS = gulp.series(compileLess)
+exports.vendorCSS = vendorCSS
 exports.default = gulp.parallel(scripts, compileLess, moveFonts, vendorCSS, imagesCompression, watchFiles, runServer)
