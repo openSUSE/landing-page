@@ -73,11 +73,13 @@ function moveWebFonts() {
 }
 
 // Images optimization
-var imagemin = require('gulp-imagemin');
+const imagemin = async () => (await import('gulp-imagemin')).default;
 // var cache = require('gulp-cache');
 
-function imagesCompression() {
+async function imagesCompression() {
+  const imageminModule = await imagemin();
   return gulp.src(assets + 'images/**/*')
+    .pipe(imageminModule())
     .pipe(gulp.dest(destination + 'images'));
 };
 
