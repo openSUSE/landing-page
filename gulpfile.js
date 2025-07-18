@@ -11,9 +11,13 @@ var concat = require('gulp-concat');
 //var uglify = require('gulp-uglify');
 var uglify = require('gulp-uglify-es').default;
 var rename = require('gulp-rename');
-var stripDebug = require('gulp-strip-debug');
+let stripDebug;
+(async () => {
+  stripDebug = (await import('gulp-strip-debug')).default;
+})();
 
-function scripts() {
+async function scripts() {
+  const stripDebug = (await import('gulp-strip-debug')).default;
   return gulp.src([assets + 'js/vendor/jquery.min.js',
                    assets + 'js/vendor/bootstrap.min.js',
                    assets + 'js/vendor/jquery.easing.1.3.js',
