@@ -83,14 +83,13 @@ function imagesCompression() {
       optimizationLevel: 7,
       progressive: true,
       interlaced: true
-    }).on('error', function (err) {
+    })))
+    .on('error', function (err) {
       console.error('Image compression error:', err.message);
       this.emit('end'); // Prevent task crash
-    })))
+    })
     .pipe(gulp.dest(destination + 'images'));
 }
-
-gulp.task('imagesCompression', imagesCompression);
 
 // Watch for changes in our custom assets
 function watchFiles() {
