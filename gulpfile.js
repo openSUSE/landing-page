@@ -91,16 +91,16 @@ async function loadImagemin() {
 async function imagesCompression() {
   const imagemin = await loadImagemin();
   return gulp.src(assets + 'images/**/*')
-    .pipe(cache(imagemin({
-      optimizationLevel: 7,
-      progressive: true,
-      interlaced: true
-    })))
-    .on('error', function (err) {
-      console.error('Image compression error:', err.message);
-      this.emit('end'); // Prevent task crash
-    })
-    .pipe(gulp.dest(destination + 'images'));
+  .pipe(imagemin({
+    optimizationLevel: 7,
+    progressive: true,
+    interlaced: true
+  }))
+  .on('error', function (err) {
+    console.error('Image compression error:', err.message);
+    this.emit('end'); // Prevent task crash
+  })
+  .pipe(gulp.dest(destination + 'images'));
 }
 
 // Watch for changes in our custom assets
