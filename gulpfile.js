@@ -73,14 +73,24 @@ function moveWebFonts() {
 }
 
 // Images optimization
+var gulp = require('gulp');
 var imagemin = require('gulp-imagemin');
 var cache = require('gulp-cache');
 
 function imagesCompression() {
   return gulp.src(assets + 'images/**/*')
-    .pipe(cache(imagemin({ optimizationLevel: 7, progressive: true, interlaced: true })))
+    .pipe(cache(imagemin({
+      optimizationLevel: 7,
+      progressive: true,
+      interlaced: true
+    }).on('error', function (err) {
+      console.error('Image compression error:', err.message);
+      this.emit('end'); // Prevent task crash
+    })))
     .pipe(gulp.dest(destination + 'images'));
-};
+}
+
+gulp.task('imagesCompression', imagesCompression);
 
 // Watch for changes in our custom assets
 function watchFiles() {
