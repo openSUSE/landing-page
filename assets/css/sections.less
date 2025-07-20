@@ -100,10 +100,13 @@
       }
     }
   }
-  [src*="laptop.png"] {
-    height: auto;
-    margin-top: auto;
-  }
+[src*="laptop.png"],
+[src*="laptop.svg"] {
+  height: auto !important;
+  max-width: 100% !important;
+  width: 100%;
+  display: block;
+}
   .tools-laptop {
     padding-right: 0;
   }
