@@ -1,2 +1,7 @@
-po/*.po*
-node_modules/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_data/snapshots.csv
+_data/sizes.yml
+vendor/
