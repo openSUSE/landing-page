@@ -99,13 +99,23 @@ layout: default
               description=locale.homepage_flavors_tumbleweed_description
             %}
             {% include flavor.html
+              name="Slowroll"
+              identifier="slowroll"
+              description=locale.homepage_flavors_slowroll_description
+              customLink="https://en.opensuse.org/Portal:Slowroll"
+            %}
+            {% include flavor.html
               name="MicroOS"
               identifier="microOs"
               description=locale.homepage_flavors_microos_description
             %}
-          </div>
-          <div class="experimental">
-            {{ locale.homepage_flavors_experimental_distributions }}
+            {% include flavor.html
+              name="Aeon"
+              identifier="aeon"
+              description=locale.homepage_flavors_aeon_description
+              customLink="https://aeondesktop.github.io/"
+              external=true
+            %}
           </div>
         </div>
       </div>

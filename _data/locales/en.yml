@@ -31,9 +31,11 @@ homepage_options_lvm: LVM partitioning
 homepage_options_secure_boot: Secure Boot
 homepage_flavors_title: Meet the flavors
 homepage_flavors_tumbleweed_description: Always on the cutting edge
+homepage_flavors_slowroll_description: Slower paced rolling release
 homepage_flavors_leap_description: Stable, not shiny
 homepage_flavors_microos_description: Immutable rolling-release server OS
 homepage_flavors_leap_micro_description: Rock solid immutable server OS
+homepage_flavors_aeon_description: Immutable desktop distro
 homepage_flavors_experimental_distributions: Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?
 footer_news: News
 footer_docs: Documentation
