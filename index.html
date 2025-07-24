@@ -79,30 +79,39 @@ layout: default
   </div>
   <div class="flavorsBg">
     <div class="container">
-      <h3>{{ locale.homepage_flavors_title }}</h3>
+      <h3>{{ locale.homepage_flavors_most_popular }}</h3>
       <div class="flavors">
         <div class="content">
           <div class="flavorHolder">
+
             {% include flavor.html
               name="Leap"
               identifier="leap"
               description=locale.homepage_flavors_leap_description
             %}
             {% include flavor.html
-              name="Leap Micro"
-              identifier="leapMicro"
-              description=locale.homepage_flavors_leap_micro_description
-            %}
-            {% include flavor.html
               name="Tumbleweed"
               identifier="tumbleweed"
               description=locale.homepage_flavors_tumbleweed_description
+            %}
+          </div>
+        </div>
+      </div>
+      <h3>{{ locale.homepage_flavors_specialized }}</h3>
+      <div class="flavors">
+        <div class="content">
+          <div class="flavorHolder">
+            {% include flavor.html
+              name="Leap Micro"
+              identifier="leapMicro"
+              description=locale.homepage_flavors_leap_micro_description
             %}
             {% include flavor.html
               name="Slowroll"
               identifier="slowroll"
               description=locale.homepage_flavors_slowroll_description
               customLink="https://en.opensuse.org/Portal:Slowroll"
+              experimental=true
             %}
             {% include flavor.html
               name="MicroOS"
@@ -115,6 +124,15 @@ layout: default
               description=locale.homepage_flavors_aeon_description
               customLink="https://aeondesktop.github.io/"
               external=true
+              experimental=true
+            %}
+            {% include flavor.html
+              name="Kalpa"
+              identifier="kalpa"
+              description=locale.homepage_flavors_kalpa_description
+              customLink="https://kalpadesktop.org/"
+              external=true
+              experimental=true
             %}
           </div>
         </div>

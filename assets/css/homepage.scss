@@ -13,7 +13,7 @@
   mix-blend-mode: var(--_gradient-blend-mode);
   backdrop-filter: blur(var(--_gradient-blur)) contrast(100%) brightness(100%);
   -webkit-backdrop-filter: blur(var(--_gradient-blur)) contrast(100%) brightness(100%);
-  
+
   @include colors.dark {
     background: radial-gradient(at 64% 27%, #0C7A6E 0px, transparent 50%), radial-gradient(at 71% 60%, #264C5C 0px, transparent 40%), radial-gradient(at 11% 41%, #45875B 0px, transparent 50%) #0C322C;
   }
@@ -77,7 +77,7 @@
       clip-path: polygon(15% 100%, 100% 100%, 85% 0%, 0% 0%);
       $baseColor: #9eddd8;
       background: linear-gradient(to bottom, $baseColor 5%, color.adjust($baseColor, $lightness: -10%) 50%, $baseColor 95%);
-      
+
       @include colors.dark {
         $baseColor: #ccedea;
         background: linear-gradient(to bottom, $baseColor 5%, color.adjust($baseColor, $lightness: -15%) 50%, $baseColor 95%);
@@ -149,11 +149,11 @@
       img {
         filter: colors.$topnav-foreground-filter-light;
       }
-      
+
       @include colors.dark {
         background: color.adjust(colors.$background-dark, $lightness: 3%);
         box-shadow: inset -10px 10px 20px -20px #ffffff55;
-        
+
         img {
           filter: invert(98%) sepia(65%) saturate(267%) hue-rotate(93deg) brightness(97%) contrast(91%);
         }
@@ -179,7 +179,7 @@
     flex-direction: row;
     align-items: center;
   }
-  
+
   @include colors.dark {
     background: color.adjust(colors.$background-dark, $lightness: 5%);
     box-shadow: inset 10px -10px 40px -10px #00000055;
@@ -215,7 +215,7 @@
       &:nth-child(2n) {
         color: colors.$foreground1-light;
         opacity: 0.8;
-        
+
         @include colors.dark {
           color: colors.$foreground1-dark;
         }
@@ -247,7 +247,7 @@
     @include xxlAndUp {
       mask-image: linear-gradient(to left, transparent 0%, white $fadeHLength, white calc(100% - $fadeHLength), transparent 100%), linear-gradient(to bottom, transparent 0%, white $fadeVLength, white calc(100% - $fadeVLength), transparent 100%);
     }
-    
+
     @include colors.dark {
       $patternColor: #0a3d32;
       background: linear-gradient(135deg, #0000 18.75%, $patternColor 0 31.25%, #0000 0),
@@ -275,7 +275,7 @@
     border-radius: $corner-radius;
     border: solid 1px color.change(colors.$background-dark, $alpha: 0.05);
     backdrop-filter: blur(2px);
-    
+
     @include colors.dark {
       border: solid 1px color.change(colors.$background-light, $alpha: 0.05);
       background: color.change(colors.$background-dark, $alpha: 0.8);
@@ -311,10 +311,17 @@
         img {
           max-width: 4rem;
           filter: colors.$topnav-foreground-filter-light;
-          
+
           @include colors.dark {
             filter: colors.$topnav-foreground-filter-dark;
           }
+        }
+
+        .flavor__topLine {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 1rem;
         }
 
         .name {
@@ -326,6 +333,16 @@
         .description {
           font-size: 0.85rem;
           line-height: 100%;
+        }
+
+        .experimentalTag {
+          color: colors.$foreground1-light;
+          background: colors.$background-light;
+          font-size: 0.8rem;
+          text-transform: uppercase;
+          padding: 0.25rem 0.4rem;
+          border-radius: 10px;
+          font-weight: bold;
         }
 
         @include xsAndUp {

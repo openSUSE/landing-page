@@ -30,13 +30,17 @@ homepage_options_btrfs_snapshots: Btrfs with snapshots
 homepage_options_lvm: LVM partitioning
 homepage_options_secure_boot: Secure Boot
 homepage_flavors_title: Meet the flavors
-homepage_flavors_tumbleweed_description: Always on the cutting edge
+homepage_flavors_tumbleweed_description: Rolling release distro
 homepage_flavors_slowroll_description: Slower paced rolling release
-homepage_flavors_leap_description: Stable, not shiny
-homepage_flavors_microos_description: Immutable rolling-release server OS
-homepage_flavors_leap_micro_description: Rock solid immutable server OS
-homepage_flavors_aeon_description: Immutable desktop distro
+homepage_flavors_leap_description: Stable release distro
+homepage_flavors_microos_description: Immutable rolling release distro (server-only)
+homepage_flavors_leap_micro_description: Immutable stable release distro (server-only)
+homepage_flavors_aeon_description: Immutable rolling release (GNOME desktop)
+homepage_flavors_kalpa_description: Immutable rolling release (KDE desktop)
 homepage_flavors_experimental_distributions: Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?
+homepage_flavors_experimental_tag: Experimental
+homepage_flavors_most_popular: Most popular
+homepage_flavors_specialized: Specialized flavors
 footer_news: News
 footer_docs: Documentation
 footer_wiki: Wiki
