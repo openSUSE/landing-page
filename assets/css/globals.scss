@@ -162,12 +162,8 @@ a {
     background: colors.$background-light;
     color: colors.$foreground1-light;
     border: solid 3px color.change(colors.$foreground1-light, $alpha: 0.15);
-    padding: 0.5rem;
+    padding: 1.25rem;
     border-radius: 10px;
-
-    @include mediumAndUp {
-        padding: 1.25rem;
-    }
 
     @include colors.dark {
         background: colors.$background-dark;
