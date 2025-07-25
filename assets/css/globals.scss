@@ -138,6 +138,80 @@ a {
     }
 }
 
+@mixin linklikeButton {
+    background: transparent;
+    border: none;
+    outline: none;
+    filter: colors.$topnav-foreground-filter-light;
+    cursor: pointer;
+
+    @include colors.dark {
+        filter: colors.$topnav-foreground-filter-dark;
+    }
+}
+
+.languageSwitchButton {
+    @include linklikeButton;
+}
+
+.languageSwitcherDialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: colors.$background-light;
+    color: colors.$foreground1-light;
+    border: solid 3px color.change(colors.$foreground1-light, $alpha: 0.15);
+    padding: 0.5rem;
+    border-radius: 10px;
+
+    @include mediumAndUp {
+        padding: 1.25rem;
+    }
+
+    @include colors.dark {
+        background: colors.$background-dark;
+        color: colors.$foreground1-dark;
+        border-color: color.change(colors.$foreground1-dark, $alpha: 0.25);
+    }
+
+    &::backdrop {
+        background: color.change(black, $alpha: 0.75);
+    }
+
+    .languageSwitcherDialog__top {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 2rem;
+        padding-bottom: 1rem;
+        font-size: 1.25rem;
+
+        button {
+            font-size: 1.25rem;
+            @include linklikeButton;
+        }
+    }
+
+    .languageList {
+        font-size: 1.25rem;
+        min-width: 14rem;
+        line-height: 2.25rem;
+
+        @include xsAndUp {
+            column-count: 2;
+        }
+
+        @include smallAndUp {
+            column-count: 3;
+        }
+
+        a {
+            display: block;
+        }
+    }
+}
+
 .menuToggle {
     background: none;
     border: none;

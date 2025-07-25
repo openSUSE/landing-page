@@ -40,6 +40,10 @@
                 {% include topNavTextLinks.html %}
             </div>
             <div>
+                {% include languageSwitcher.html %}
+                <button class="languageSwitchButton" title="Change language" onclick="document.querySelector('.languageSwitcherDialog').showModal()">
+                    <img src="/assets/img/monochrome/language.svg" alt="Language" />
+                </button>
             </div>
         </div>
     </div>

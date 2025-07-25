@@ -1,0 +1,11 @@
+<dialog class="languageSwitcherDialog">
+    <div class="languageSwitcherDialog__top">
+        <h3>Change language</h3>
+        <button onclick="document.querySelector('.languageSwitcherDialog').close()">X</button>
+    </div>
+    <div class="languageList">
+        {% for locale in site.localization.locales_set %}
+            <a href="/{% if locale[0] != "en" %}{{ locale[0] }}/{% endif %}">{{ locale[1].name }}</a>
+        {% endfor %}
+    </div>
+</dialog>
