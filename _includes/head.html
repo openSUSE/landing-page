@@ -61,7 +61,7 @@
     <meta property="og:title" content="{{ page.title | default: locale.site_title | default: site.title | escape }}">
     <meta property="og:description"
       content="{{ locale[page.description_translation_key] | default: locale.site_description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-    <meta property=" og:url" content="{{ page.path | replace:'index.html','' | absolute_url }}">
+    <meta property="og:url" content="{{ page.path | replace:'index.html','' | absolute_url }}">
     {% if page.layout == 'post' %}
     <meta property="og:type" content="article">
     <meta property="og:article:author" content="{{ page.author | escape }}">
@@ -73,7 +73,7 @@
     {% elsif page.image %}
     <meta property="og:image" content="{{ page.image | absolute_url }}">
     {% else %}
-    <meta property="og:image" content="https://static.opensuse.org/favicon-192.png">
+    <meta property="og:image" content="{{ "/assets/img/favicon-for-light-192.png" | absolute_url }}">
     {% endif %}
   
     <!-- twitter meta -->
@@ -91,7 +91,7 @@
     {% elsif page.icon %}
     <meta name="twitter:image" content="{{ page.icon | absolute_url }}">
     {% else %}
-    <meta name="twitter:image" content="https://static.opensuse.org/favicon-192.png">
+    <meta name="twitter:image" content="{{ "/assets/img/favicon-for-light-192.png" | absolute_url }}">
     {% endif %}
   
     {% if site.piwik_site_id %}
