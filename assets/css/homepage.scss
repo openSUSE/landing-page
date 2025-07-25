@@ -56,7 +56,7 @@
       min-width: 300px;
     }
 
-    @include xsAndUp {
+    @include smallAndUp {
       min-width: 400px;
     }
 
