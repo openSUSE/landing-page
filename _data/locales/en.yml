@@ -54,3 +54,5 @@ footer_trademark: Trademark
 site_title: openSUSE - Free open source OS for desktops, servers and containers
 site_description: openSUSE is a free operating system available in several flavors.
 site_copyright: © 2025 openSUSE contributors
+site_change_language: Change language
+site_change_language_alt: Language
