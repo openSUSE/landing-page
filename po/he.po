@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-11 15:40:59 +0200\n"
-"PO-Revision-Date: 2025-06-14 22:59+0000\n"
+"PO-Revision-Date: 2025-08-05 19:59+0000\n"
 "Last-Translator: a Rubes <aRubes@pm.me>\n"
 "Language-Team: Hebrew <https://l10n.opensuse.org/projects/landing-page/"
 "master/he/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: index.html:4 index.html:79
 msgid "The makers' choice for sysadmins, developers and desktop users."
@@ -155,7 +155,7 @@ msgstr ""
 #: index.html:212
 msgid ""
 "The best/only comprehensive Linux system configuration & installation tool."
-msgstr "כלי ההתקנה והקינפוג הטוב ביותר / היחיד למערכת לינוקס"
+msgstr "כלי ההתקנה והקינפוג המלא הטוב ביותר / היחיד למערכת לינוקס."
 
 #: index.html:230
 msgid ""
@@ -202,6 +202,14 @@ msgid ""
 "become an advocate for openSUSE by attending events and becoming an "
 "ambassador."
 msgstr ""
+"ב openSUSE מאמינות שהתוצאות הטובות ביותר מגיעות מאנשים שמכייפים ומשתפים "
+"פעולה. היותנו שונים מקהילות קוד פתוח אחרות עושה אותנו לקהילה שכדאי להיות חלק "
+"ממנה. אנחנו לא קונבנציונליים מהבחינה שמאמצי הקהילה מכוונים את הפרויקט. "
+"מאמצים אלו הולידו כמה כלים נהדרים ללינוקס והפצה מעולה. ב openSUSE שומעים את "
+"קולכם ואתן יכולות לתרום בקלות לפרויקט. בין אם אתם מפתחי לינוקס ובין אם אתן "
+"משתמשות קצה, תוכלו להשתלב בפרויקט. הצטרפו לפורום, תחזקו את הוויקי, מצאו "
+"ודווחו על באגים, סקרו את התיעוד, שלחו בקשות לחבילות חדשות ולתכונות חדשות, "
+"צרו והגישו פאטצ'ים, או הפכו לשגרירי openSUSE והצטרפו לאירועים."
 
 #: index.html:272
 msgid "Find out more about how to participate."
@@ -209,7 +217,7 @@ msgstr "גלו עוד על איך להשתתף."
 
 #: index.html:272
 msgid "https://en.opensuse.org/Portal:How_to_participate"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:How_to_participate"
 
 #: index.html:280
 msgid "Hardware"
@@ -233,6 +241,14 @@ msgid ""
 "Hardware helps Linux development. To learn how you can donate hardware to "
 "the openSUSE project, email"
 msgstr ""
+"תרומות לתמיכה בפרויקט openSUSE תמיד יתקבלו בברכה. למעשה, Open Build Service, "
+"המשמש פרויקטים רבים אחרים בקוד פתוח, הועמד לרשות קהילת הפרויקט באמצעות תרומה "
+"נדיבה של שרתים מ-AMD. תרומות מסוג זה הן שמאפשרות לאנשים ולפרויקטים לשגשג, "
+"להתפתח, לחדש ולהתקדם. הפרויקט אינו מבקש כסף, אלא תרומות של חומרה כדי להשתמש "
+"במומחיות קהילת הקוד הפתוח להעצמת פיתוח לינוקס, לספק כלי openSUSE למערכת "
+"האקולוגית של תוכנה בקוד פתוח וחופשי, ולהחזיר למפתחים, למנהלי מערכת ולמתחזקי "
+"חבילות. חומרה עוזרת לקהילת openSUSE  וחומרה עוזרת לפיתוח לינוקס. כדי ללמוד "
+"כיצד לתרום חומרה לפרויקט openSUSE, שלחו דוא\"ל ל-"
 
 #: index.html:292 index.html:295
 msgid "openSUSE Communication Channels"
@@ -304,11 +320,11 @@ msgstr "כל הזכויות שמורות."
 
 #: index.html:456
 msgid "Imprint."
-msgstr ""
+msgstr "חותם."
 
 #: index.html:456
 msgid "https://en.opensuse.org/Imprint"
-msgstr ""
+msgstr "https://en.opensuse.org/Imprint"
 
 #: index.html:476
 msgid "Back to main page"
