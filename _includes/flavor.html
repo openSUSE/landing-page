@@ -1,0 +1,12 @@
+<a class="flavor" href="{% if include.customLink %}{{ include.customLink }}{% else %}https://get.opensuse.org/{{ include.identifier || downcase }}/{% endif %}"{% if include.external %} target="_blank"{% endif %}>
+    <img src="/assets/img/monochrome/{{ include.identifier }}.svg" alt="{{ include.name }} logo">
+    <div>
+        <div class="flavor__topLine">
+            <div class="name">{{ include.name }}</div>
+            {% if include.experimental %}<span class="experimentalTag">{{ locale.homepage_flavors_experimental_tag }}</span>{% endif %}
+        </div>
+        <div class="description">
+            {{ include.description }}
+        </div>
+    </div>
+</a>

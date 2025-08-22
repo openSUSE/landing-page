@@ -1,0 +1,50 @@
+<dialog class="menuOverlay">
+    <div class="highlightBar">
+        {% include highlightBar.html %}
+    </div>
+    {% include topNavImageLinks.html %}
+    <div class="textLinks">
+        {% include topNavTextLinks.html %}
+    </div>
+</dialog>
+<script>
+    const menuDialog = document.querySelector(".menuOverlay");
+    function toggleMenu() {
+        if (menuDialog.open) {
+            menuDialog.close();
+        } else {
+            menuDialog.showModal();
+        }
+    }
+
+    menuDialog.addEventListener('click', function(event) {
+      const rect = menuDialog.getBoundingClientRect();
+      const isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
+        rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
+      if (!isInDialog) {
+        menuDialog.close();
+      }
+    });
+</script>
+<nav class="topNav">
+    <div class="highlightBar">
+        <div class="container">
+            {% include highlightBar.html %}
+        </div>
+    </div>
+    <div class="container">
+        <div class="topNavInner">
+            <div>
+                {% include topNavImageLinks.html %}
+                <div class="textLinkSeparator" role="none">&nbsp;</div>
+                {% include topNavTextLinks.html %}
+            </div>
+            <div>
+                {% include languageSwitcher.html %}
+                <button class="languageSwitchButton" title="{{ locale.site_change_language }}" onclick="document.querySelector('.languageSwitcherDialog').showModal()">
+                    <img src="/assets/img/monochrome/language.svg" alt="{{ locale.site_change_language_alt }}" />
+                </button>
+            </div>
+        </div>
+    </div>
+</nav>
