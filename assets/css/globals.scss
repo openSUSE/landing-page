@@ -220,9 +220,6 @@ a {
 
 .menuOverlay {
     position: fixed;
-    opacity: 0;
-    visibility: hidden;
-    display: flex;
     flex-direction: column;
     top: 0;
     left: 0;
@@ -231,11 +228,6 @@ a {
     z-index: 10001;
     border: none;
     color: inherit;
-
-    &:open {
-        opacity: 1;
-        visibility: visible;
-    }
 
     &::backdrop {
         background: rgba(0, 0, 0, 0.4);
