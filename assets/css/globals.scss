@@ -226,7 +226,7 @@ a {
     flex-direction: column;
     top: 0;
     left: 0;
-    min-height: 100vh;
+    min-width: 100vw;
     background: colors.$background-light;
     z-index: 10001;
     border: none;
@@ -250,7 +250,7 @@ a {
     }
 
     .textLinks {
-        margin-top: 1rem;
+        margin: 1rem 0;
         display: flex;
         flex-direction: column;
         font-size: 2.25rem;
