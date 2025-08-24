@@ -34,7 +34,6 @@ homepage_flavors_slowroll_description: Slower paced rolling release
 homepage_flavors_leap_description: Stable release distro
 homepage_flavors_microos_description: Immutable rolling release distro (server-only)
 homepage_flavors_leap_micro_description: Immutable stable release distro (server-only)
-homepage_flavors_aeon_description: Immutable rolling release (GNOME desktop)
 homepage_flavors_kalpa_description: Immutable rolling release (KDE desktop)
 homepage_flavors_experimental_distributions: Looking for our <a href="https://en.opensuse.org/Portal:Distribution">experimental distributions</a>?
 homepage_flavors_experimental_tag: Experimental
