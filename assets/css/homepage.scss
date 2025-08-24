@@ -309,11 +309,16 @@
         }
 
         img {
-          max-width: 4rem;
-          filter: colors.$topnav-foreground-filter-light;
+          display: none;
 
-          @include colors.dark {
-            filter: colors.$topnav-foreground-filter-dark;
+          @include xsAndUp {
+            display: unset;
+            max-width: 4rem;
+            filter: colors.$topnav-foreground-filter-light;
+
+            @include colors.dark {
+              filter: colors.$topnav-foreground-filter-dark;
+            }
           }
         }
 
