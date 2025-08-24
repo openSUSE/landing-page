@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.locale.id }}">
 
 {% include head.html %}
 
@@ -34,7 +34,7 @@
                         <a href="https://www.opensuse.org">
                             <img class="wordmark" alt="openSUSE wordmark" src="/assets/img/monochrome/wordmark.svg">
                         </a>
-                        &copy; 2015-{{ site.time | date:"%Y" }} {{ locale.footer_opensuse_contributors }}
+                        <div>&copy; 2015-{{ site.time | date:"%Y" }} {{ locale.footer_opensuse_contributors }}</div>
                         <a href="https://en.opensuse.org/Imprint">{{ locale.footer_imprint }}</a>
                         <a href="https://en.opensuse.org/Terms_of_site#Privacy_policy">{{ locale.footer_privacy_policy }}</a>
                     </div>

@@ -220,22 +220,14 @@ a {
 
 .menuOverlay {
     position: fixed;
-    opacity: 0;
-    visibility: hidden;
-    display: flex;
     flex-direction: column;
     top: 0;
     left: 0;
-    min-height: 100vh;
+    min-width: 100vw;
     background: colors.$background-light;
     z-index: 10001;
     border: none;
     color: inherit;
-
-    &:open {
-        opacity: 1;
-        visibility: visible;
-    }
 
     &::backdrop {
         background: rgba(0, 0, 0, 0.4);
@@ -250,7 +242,7 @@ a {
     }
 
     .textLinks {
-        margin-top: 1rem;
+        margin: 1rem 0;
         display: flex;
         flex-direction: column;
         font-size: 2.25rem;
@@ -361,13 +353,19 @@ a {
 
             .legalDisclaimer {
                 display: flex;
-                flex-direction: row;
-                gap: 1rem;
+                flex-direction: column;
                 align-items: center;
+                text-align: center;
 
                 a {
                     display: flex;
                     align-items: center;
+                }
+
+                @include smallAndUp {
+                  flex-direction: row;
+                  gap: 1rem;
+                  text-align: unset;
                 }
             }
 
