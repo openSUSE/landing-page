@@ -361,13 +361,19 @@ a {
 
             .legalDisclaimer {
                 display: flex;
-                flex-direction: row;
-                gap: 1rem;
+                flex-direction: column;
                 align-items: center;
+                text-align: center;
 
                 a {
                     display: flex;
                     align-items: center;
+                }
+
+                @include smallAndUp {
+                  flex-direction: row;
+                  gap: 1rem;
+                  text-align: unset;
                 }
             }
 
