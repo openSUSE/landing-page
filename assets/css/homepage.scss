@@ -258,7 +258,7 @@
 
   h3 {
     font-size: 1.5rem;
-    padding: 3rem 2rem 1rem 2rem;
+    padding: 3rem 2rem 1rem 0;
     color: colors.$foreground2-light;
 
     @include colors.dark {
