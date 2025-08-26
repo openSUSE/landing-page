@@ -61,3 +61,5 @@ site_description: 'openSUSE vyvíjí svobodný Linux, který je zdarma k dispozi
   variantách.'
 site_change_language: 'Změnit jazyk'
 site_change_language_alt: 'Jazyk'
+homepage_flavors_fineprint: Hledáte immutable rolling distribuci s GNOME? Zkuste
+  <a href="https://aeondesktop.github.io/" target="_blank"> projekt Aeon</a>.
