@@ -40,6 +40,9 @@ homepage_flavors_experimental_tag: Experimental
 homepage_flavors_most_popular: Most popular flavors
 homepage_flavors_specialized: Specialized flavors
 homepage_flavors_fineprint: Looking for an immutable rolling release GNOME desktop? Check out <a href="https://aeondesktop.github.io/" target="_blank">the Aeon project</a>.
+topnav_news: News
+topnav_desktop_os: Desktop OS
+topnav_server_os: Server OS
 footer_opensuse_contributors: openSUSE Contributors
 footer_imprint: Imprint
 footer_privacy_policy: Privacy policy

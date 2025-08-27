@@ -9,30 +9,24 @@ weblate_url: https://l10n.opensuse.org/
 piwik_site_id: 64
 
 navbar_links:
-  -
-    link: https://news.opensuse.org/
-    text: News
-  -
-    link: https://get.opensuse.org/desktop/
-    text: Desktop OS
-  -
-    link: https://get.opensuse.org/server/
-    text: Server OS
+  - link: https://news.opensuse.org/
+    translation_key: topnav_news
+  - link: https://get.opensuse.org/desktop/
+    translation_key: topnav_desktop_os
+  - link: https://get.opensuse.org/server/
+    translation_key: topnav_server_os
 
 # Only edit below if you know what you are doing!
 defaults:
-  -
-    scope:
+  - scope:
       path: "*.html"
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: "*.md"
     values:
       layout: "markdown"
-  -
-    scope:
+  - scope:
       path: "*.markdown"
     values:
       layout: "markdown"
@@ -46,8 +40,8 @@ theme: jekyll-theme-opensuse
 markdown: kramdown
 
 localization:
-  mode       : auto
-  locale     : en
+  mode: auto
+  locale: en
   locales_set:
     ar:
       name: العربية
