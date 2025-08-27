@@ -12,7 +12,7 @@
                     {% for category in universe %}
                         {% if category.id != "social_media" %}
                             <div class="linkSet">
-                                <h4 class="linkSetHeading">{{ category.id |  replace: "_", " " | captialize }}</h4>
+                                <h4 class="linkSetHeading">{{ category.title | captialize }}</h4>
                                 <ul>
                                     {% for link in category.links %}
                                         {% if link.title %}
