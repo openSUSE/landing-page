@@ -61,3 +61,6 @@ site_change_language_alt: 'Taal'
 homepage_flavors_fineprint: Op zoek naar een onveranderlijke rollende uitgave 
   van het GNOME bureaublad? Bekijk <a href="https://aeondesktop.github.io/" 
   target="_blank">het Aeon-project</a>.
+topnav_desktop_os: Desktop-besturingssysteem
+topnav_news: Nieuws
+topnav_server_os: Server-besturingssysteem
