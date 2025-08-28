@@ -1,7 +1,7 @@
-homepage_page_end_of_10_cta: '¡Haga que su vieja PC con Windows 10 vuelva a ser rápida
-  y segura de nuevo!'
-homepage_page_description: 'openSUSE hace sistemas operativos de código abierto de
-  Linux, disponible de forma gratuita en varios sabores.'
+homepage_page_end_of_10_cta: '¡Haz que tu antiguo PC con Windows 10 vuelva a ser rápido
+  y seguro de nuevo!'
+homepage_page_description: 'openSUSE desarrolla sistemas operativos de código abierto
+  de Linux, disponible de forma gratuita en varios sabores.'
 homepage_intro_title: 'Abraza al camaleón'
 homepage_intro_subtitle: 'openSUSE hace sistemas operativos Linux de código abierto
   para equipos de escritorio, servidores y contenedores.'
@@ -63,3 +63,9 @@ site_description: 'openSUSE hace que los sistemas operativos Linux de código ab
   estén disponibles de forma libre en varios sabores.'
 site_change_language: 'Cambiar el idioma'
 site_change_language_alt: 'Idioma'
+homepage_flavors_fineprint: ¿Buscas un escritorio GNOME inmutable de lanzamiento
+  continuo? Echa un vistazo al <a href="https://aeondesktop.github.io/" 
+  target="_blank">proyecto Aeon</a>.
+topnav_news: Noticias
+topnav_desktop_os: SO de escritorio
+topnav_server_os: SO de servidor
