@@ -66,3 +66,6 @@ site_description: 'O openSUSE desenvolve sistemas operacionais Linux de código 
   disponíveis gratuitamente em várias edições.'
 site_change_language: 'Alterar idioma'
 site_change_language_alt: 'Idioma'
+topnav_desktop_os: Desktop
+topnav_news: Notícias
+topnav_server_os: Servidor
