@@ -67,3 +67,6 @@ site_description: 'openSUSE stellt quelloffene Linux-Betriebssysteme her, die in
   Varianten kostenlos erhältlich sind.'
 site_change_language: 'Sprache ändern'
 site_change_language_alt: 'Sprache'
+topnav_desktop_os: Desktop-Betriebssystem
+topnav_news: Neuigkeiten
+topnav_server_os: Server-Betriebssystem
