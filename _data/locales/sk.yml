@@ -1,25 +1,35 @@
-homepage_page_end_of_10_cta: ''
-homepage_page_description: ''
-homepage_intro_title: ''
-homepage_intro_subtitle: ''
-homepage_screenshot_alttext: ''
-homepage_proposition_installer_title: ''
-homepage_proposition_installer_subtitle: ''
-homepage_proposition_installer_alttext: ''
-homepage_proposition_no_strings_title: ''
-homepage_proposition_no_strings_subtitle: ''
-homepage_proposition_no_strings_alttext: ''
-homepage_proposition_flavors_title: ''
-homepage_proposition_flavors_subtitle: ''
-homepage_proposition_flavors_alttext: ''
-homepage_proposition_restricted_packages_title: ''
-homepage_proposition_restricted_packages_subtitle: ''
-homepage_proposition_restricted_packages_alttext: ''
-homepage_proposition_community_events_title: ''
-homepage_proposition_community_events_subtitle: ''
-homepage_proposition_community_events_alttext: ''
-homepage_proposition_industry_backed_title: ''
-homepage_proposition_industry_backed_subtitle: ''
+homepage_page_end_of_10_cta: 'Urobte svoj starý PC s Windows 10 opäť rýchlym a bezpečným!'
+homepage_page_description: 'openSUSE vytvára operačné systémy Linux s open source,
+  ktoré sú k dispozícii zadarmo v niekoľkých variantoch.'
+homepage_intro_title: 'Začnite veriť chameleónovi'
+homepage_intro_subtitle: 'openSUSE vytvára operačné systémy Linux s open source pre
+  desktopy, servery a kontajnery.'
+homepage_screenshot_alttext: 'openSUSE desktop'
+homepage_proposition_installer_title: 'Pohodlne sa usaďte, zatiaľ čo náš inštalátor
+  vykonáva prácu.'
+homepage_proposition_installer_subtitle: 'Podrobné skúmanie wiki stránok a fór je
+  úplne dobrovoľné.'
+homepage_proposition_installer_alttext: 'Inštalátor'
+homepage_proposition_no_strings_title: 'Bezplatné používanie bez akýchkoľvek podmienok'
+homepage_proposition_no_strings_subtitle: 'Je váš, bez dodatočných nákupov, reklám
+  alebo povinných účtov.'
+homepage_proposition_no_strings_alttext: 'Uvoľnená osoba'
+homepage_proposition_flavors_title: 'K dispozícii v niekoľkých rôznych variantoch'
+homepage_proposition_flavors_subtitle: 'Rolujúce vydanie? Nemenná distribúcia? Máme
+  pre vás riešenie.'
+homepage_proposition_flavors_alttext: 'Zmrzlinový kornútok'
+homepage_proposition_restricted_packages_title: 'Prístup k proprietárnym balíkom na
+  základe súhlasu'
+homepage_proposition_restricted_packages_subtitle: 'V prípade potreby sú k dispozícii
+  kodeky a ovládače s uzavretým kódom.'
+homepage_proposition_restricted_packages_alttext: 'Čipová súprava'
+homepage_proposition_community_events_title: 'Pravidelné podujatia medzinárodnej komunity'
+homepage_proposition_community_events_subtitle: 'Podeľte sa o radosť z openSUSE s
+  ostatnými používateľmi na <a href="https://events.opensuse.org/">našich stretnutiach</a>.'
+homepage_proposition_community_events_alttext: 'Komunita'
+homepage_proposition_industry_backed_title: 'Podporované priemyslom a komunitou'
+homepage_proposition_industry_backed_subtitle: 'Zostávame tu vďaka <a href="https://en.opensuse.org/Sponsors">našim
+  sponzorom</a> a komunite.'
 homepage_proposition_industry_backed_alttext: ''
 homepage_options_title: ''
 homepage_options_desktop_environments: ''
