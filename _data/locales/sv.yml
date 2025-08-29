@@ -1,0 +1,49 @@
+homepage_page_end_of_10_cta: Gör din gamla Windows 10 dator snabb och säker igen!
+homepage_page_description: openSUSE skapar Linux operativsystem med öppen källkod, gratis tillgängliga i flera varianter.
+homepage_intro_title: Omfamna kameleonten
+homepage_intro_subtitle: openSUSE skapar Linux operativsystem med öppen källkod för stationära datorer, servrar och behållare.
+homepage_screenshot_alttext: openSUSE skrivbord
+homepage_proposition_installer_title: Luta dig tillbaka medan vårat installationsprogram gör jobbet
+homepage_proposition_installer_subtitle: Djupdykning av wiki och forum är helt valfritt.
+homepage_proposition_installer_alttext: Installationsprogram
+homepage_proposition_no_strings_title: Fritt att använda, utan några förpliktelser
+homepage_proposition_no_strings_subtitle: Din att behålla utan merförsäljning, annonser eller obligatoriska konton.
+homepage_proposition_no_strings_alttext: Avslappnad person
+homepage_proposition_flavors_title: Tillgängligt i flera olika smaker
+homepage_proposition_flavors_subtitle: Rullande release? Oföränderlig distribution? Vi har det du behöver.
+homepage_proposition_flavors_alttext: Glassstrut
+homepage_proposition_restricted_packages_title: Frivillig åtkomst till proprietära paket
+homepage_proposition_restricted_packages_subtitle: Begränsade codecs och drivrutiner är tillgängliga vid behov.ed.
+homepage_proposition_restricted_packages_alttext: Chipset
+homepage_proposition_community_events_title: Regelbundna internationella gemenskapsevenemang
+homepage_proposition_community_events_subtitle: Dela glädjen av openSUSE med andra användare på <a href="https://events.opensuse.org/">våra konferanser</a>.
+homepage_proposition_community_events_alttext: Gemenskap
+homepage_proposition_industry_backed_title: Branschstödd och gemenskapsstödd
+homepage_proposition_industry_backed_subtitle: Vi är här för att stanna, tack vare <a href="https://en.opensuse.org/Sponsors">våra sponsorer</a> och vår gemenskap.
+homepage_proposition_industry_backed_alttext: Kontorsbyggnad
+homepage_options_title: Installationsalternativ
+homepage_options_desktop_environments: KDE, GNOME och XFCE
+homepage_options_desktop_and_server: Skrivbords och serverkonfigurationer
+homepage_options_full_disk_encryption: Full diskkryptering
+homepage_options_btrfs_snapshots: Btrfs med ögonblicksavbilder
+homepage_options_lvm: LVM partitionering
+homepage_options_secure_boot: Säker uppstart
+homepage_flavors_title: Möt smakerna
+homepage_flavors_tumbleweed_description: Rullande release-distribution
+homepage_flavors_slowroll_description: Långsammare rullande release
+homepage_flavors_leap_description: Stabil release distribution
+homepage_flavors_microos_description: Oföränderlig rullande releasedistribution (endast server)
+homepage_flavors_leap_micro_description: Oföränderlig stabil releasedistribution (endast för server)
+homepage_flavors_kalpa_description: Oföränderlig rullande release (KDE skrivbord)
+homepage_flavors_experimental_distributions: Letar du efter våra <a href="https://en.opensuse.org/Portal:Distribution">experimentella distributioner</a>?
+homepage_flavors_experimental_tag: Experimentell
+homepage_flavors_most_popular: Mest populära smaker
+homepage_flavors_specialized: Specialiserade smaker
+homepage_flavors_fineprint: Letar du efter en oföränderlig rullande utgåva med GNOME skrivbordet? Kolla in <a href="https://aeondesktop.github.io/" target="_blank">Aeon projektet</a>.
+footer_opensuse_contributors: openSUSE bidragsgivare
+footer_imprint: Inpränta
+footer_privacy_policy: Integritetspolicy
+site_title: openSUSE - Fritt Linux operativsystem för stationära datorer, servrar och behållare
+site_description: openSUSE bygger Linux operativsystem med öppen källkod som är tillgängligt gratis flera olika smaker.
+site_change_language: Byt språk
+site_change_language_alt: Språk
