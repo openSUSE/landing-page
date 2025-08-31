@@ -43,7 +43,7 @@ homepage_flavors_slowroll_description: 'Vertraagde rolling release'
 homepage_flavors_leap_description: 'Stable release distro'
 homepage_flavors_microos_description: 'Immutable rolling release distro (enkel servers)'
 homepage_flavors_leap_micro_description: 'Immutable stable release distro (enkel servers)'
-homepage_flavors_kalpa_description: 'Immutable rolling release (KDE desktop)'
+homepage_flavors_kalpa_description: 'Immutable rolling release (KDE-bureaublad)'
 homepage_flavors_experimental_distributions: 'Op zoek naar onze <a href="https://en.opensuse.org/Portal:Distribution">experimentele
   distributies</a>?'
 homepage_flavors_experimental_tag: 'Experimenteel'
@@ -58,8 +58,8 @@ site_description: 'openSUSE maakt open source Linux-besturingssystemen. Gratis b
   in verschillende smaken.'
 site_change_language: 'Taal wijzigen'
 site_change_language_alt: 'Taal'
-homepage_flavors_fineprint: Op zoek naar een onveranderlijke rollende uitgave 
-  van het GNOME bureaublad? Bekijk <a href="https://aeondesktop.github.io/" 
+homepage_flavors_fineprint: Op zoek naar een immutable rolling release distro 
+  met GNOME-bureaublad? Bekijk <a href="https://aeondesktop.github.io/" 
   target="_blank">het Aeon-project</a>.
 topnav_desktop_os: Desktop-besturingssysteem
 topnav_news: Nieuws
