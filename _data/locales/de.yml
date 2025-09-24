@@ -33,7 +33,7 @@ homepage_proposition_industry_backed_title: 'Von der Industrie unterstützt und 
 homepage_proposition_industry_backed_subtitle: 'Dank <a href="https://de.opensuse.org/Sponsoren">unserer
   Sponsoren</a> und unserer Gemeinschaft sind wir hier, um zu bleiben.'
 homepage_proposition_industry_backed_alttext: 'Bürogebäude'
-homepage_options_title: 'Installationsprogrammoptionen'
+homepage_options_title: 'Installations­optionen'
 homepage_options_desktop_environments: 'KDE, GNOME und XFCE'
 homepage_options_desktop_and_server: 'Desktop- und Serverkonfigurationen'
 homepage_options_full_disk_encryption: 'Vollständige Festplattenverschlüsselung'
@@ -53,7 +53,7 @@ homepage_flavors_kalpa_description: 'Unveränderliche fortlaufende Veröffentlic
 homepage_flavors_experimental_distributions: 'Auf der Suche nach unseren <a href="https://de.opensuse.org/Portal:Distribution">experimentellen
   Distributionen</a>?'
 homepage_flavors_experimental_tag: 'Experimentell'
-homepage_flavors_most_popular: 'Beliebteste Variante'
+homepage_flavors_most_popular: 'Beliebteste Varianten'
 homepage_flavors_specialized: 'Spezialisierte Varianten'
 homepage_flavors_fineprint: 'Auf der Suche nach einem unveränderlichen GNOME-Desktop
   mit fortlaufender Veröffentlichung? Schauen Sie sich <a href="https://aeondesktop.github.io/"
