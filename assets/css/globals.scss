@@ -154,6 +154,48 @@ a {
     @include linklikeButton;
 }
 
+// Desktop navigation language switcher
+.languageSwitcherContainer {
+    .languageSelect {
+        display: none; // Hide select in desktop navigation
+    }
+}
+
+// Mobile language select in menu
+.mobileLanguageSwitcher {
+    margin-top: 1rem;
+    padding: 1rem 0;
+    border-top: 1px solid color.adjust(colors.$background-light, $lightness: -10%);
+
+    @include colors.dark {
+        border-top-color: color.adjust(colors.$background-dark, $lightness: 10%);
+    }
+
+    .languageSwitchButton {
+        display: none; // Hide button in mobile menu
+    }
+
+    .languageSelect {
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 1.1rem;
+        background: transparent;
+        color: inherit;
+        border: 1px solid color.adjust(colors.$background-light, $lightness: -20%);
+        border-radius: 4px;
+
+        @include colors.dark {
+            border-color: color.adjust(colors.$background-dark, $lightness: 20%);
+            background: color.adjust(colors.$background-dark, $lightness: 5%);
+        }
+
+        &:focus {
+            outline: 2px solid colors.$accent;
+            outline-offset: 2px;
+        }
+    }
+}
+
 .languageSwitcherDialog {
     position: fixed;
     top: 50%;

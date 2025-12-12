@@ -1,0 +1,16 @@
+<!-- Language switcher - context determines which elements are shown -->
+<!-- Desktop: Modal trigger button -->
+<button class="languageSwitchButton" title="{{ locale.site_change_language }}" onclick="document.querySelector('.languageSwitcherDialog').showModal()">
+    <img src="/assets/img/monochrome/language.svg" alt="{{ locale.site_change_language_alt }}" />
+</button>
+
+<!-- Mobile: Select dropdown -->
+<select class="languageSelect" onchange="if(this.value !== '#') window.location.href = this.value">
+    <option value="#">{{ locale.site_change_language }}</option>
+    {% for locale_item in site.localization.locales_set %}
+    <option value="/{% if locale_item[0] != 'en' %}{{ locale_item[0] }}/{% endif %}">{{ locale_item[1].name }}</option>
+    {% endfor %}
+</select>
+
+<!-- Include the modal dialog for desktop -->
+{% include languageSwitcher.html %}
