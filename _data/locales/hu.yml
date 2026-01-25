@@ -44,8 +44,8 @@ homepage_flavors_slowroll_description: 'Lassabb ütemű gördülő kiadás'
 homepage_flavors_leap_description: 'Stabil kiadású disztribúció'
 homepage_flavors_microos_description: 'Rendszerszinten írásvédett, gördülő kiadású
   rendszer (kizárólag szerver)'
-homepage_flavors_leap_micro_description: 'Rendszerszinten védett, stabil kiadású disztribúció
-  (kizárólag szerver)'
+homepage_flavors_leap_micro_description: 'Rendszerszinten írásvédett, stabil kiadású
+  disztribúció (kizárólag szerver)'
 homepage_flavors_kalpa_description: 'Rendszerszinten írásvédett, gördülő kiadású rendszer
   (KDE asztali környezet)'
 homepage_flavors_experimental_distributions: 'A <a href="https://en.opensuse.org/Portal:Distribution">kísérleti
