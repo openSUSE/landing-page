@@ -15,8 +15,8 @@ homepage_proposition_no_strings_subtitle: 'A tiéd marad. Nincsenek plusz költs
   reklámok vagy kötelező fiókok.'
 homepage_proposition_no_strings_alttext: 'Nyugodt ember'
 homepage_proposition_flavors_title: 'Számos különböző változatban elérhető'
-homepage_proposition_flavors_subtitle: 'Gördülő kiadású? Írásvédett? Nálunk mindent
-  megtalálsz.'
+homepage_proposition_flavors_subtitle: 'Rolling release? Immutable distro? Nálunk
+  mindent megtalálsz.'
 homepage_proposition_flavors_alttext: 'Fagylalttölcsér'
 homepage_proposition_restricted_packages_title: 'Választható hozzáférés a zárt forráskódú
   csomagokhoz'
@@ -39,21 +39,20 @@ homepage_options_btrfs_snapshots: 'Btrfs pillanatképekkel'
 homepage_options_lvm: 'LVM particionálás'
 homepage_options_secure_boot: 'Secure Boot'
 homepage_flavors_title: 'Ismerd meg a kínálatot'
-homepage_flavors_tumbleweed_description: 'Gördülő kiadású disztribúció'
-homepage_flavors_slowroll_description: 'Lassabb ütemű gördülő kiadás'
+homepage_flavors_tumbleweed_description: 'Rolling release distro'
+homepage_flavors_slowroll_description: 'Lassabb ütemű rolling release'
 homepage_flavors_leap_description: 'Stabil kiadású disztribúció'
-homepage_flavors_microos_description: 'Rendszerszinten írásvédett, gördülő kiadású
-  rendszer (kizárólag szerver)'
-homepage_flavors_leap_micro_description: 'Rendszerszinten írásvédett, stabil kiadású
-  disztribúció (kizárólag szerver)'
-homepage_flavors_kalpa_description: 'Rendszerszinten írásvédett, gördülő kiadású rendszer
-  (KDE asztali környezet)'
+homepage_flavors_microos_description: 'Immutable rolling release distro (kizárólag
+  szerver)'
+homepage_flavors_leap_micro_description: 'Immutable stable release distro (kizárólag
+  szerver)'
+homepage_flavors_kalpa_description: 'Immutable rolling release (KDE asztal)'
 homepage_flavors_experimental_distributions: 'A <a href="https://en.opensuse.org/Portal:Distribution">kísérleti
   disztribúcióinkat</a> keresed?'
 homepage_flavors_experimental_tag: 'Kísérleti'
 homepage_flavors_most_popular: 'Legnépszerűbb változatok'
 homepage_flavors_specialized: 'Különleges kiadások'
-homepage_flavors_fineprint: 'Írásvédett, gördülő kiadású GNOME asztali környezetet
+homepage_flavors_fineprint: 'Immutable, rolling release GNOME asztali környezetet
   keresel? Nézd meg az <a href="https://aeondesktop.github.io/" target="_blank">Aeon
   projektet</a>.'
 topnav_news: 'Hírek'
