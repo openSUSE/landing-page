@@ -45,6 +45,8 @@ localization:
   locales_set:
     ar:
       name: العربية
+    be:
+      name: Беларуская
     bg:
       name: Български
     ca:
